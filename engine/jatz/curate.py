@@ -22,11 +22,16 @@ from . import clap_score, discogs, preview, state
 TRACKS_SAMPLED = 3
 MIN_SCORED_TRACKS = 2      # below this the record is penalised as thin evidence
 
-# Audio cosine thresholds. digmore uses 0.78 for a single track; an album mean
-# sits lower because tracklists are uneven (interludes, ballads, drum features),
-# so the album gate is deliberately looser.
-VINTAGE_MIN_SCORE = 0.74
-MODERN_MIN_SCORE = 0.72
+# Audio cosine thresholds, calibrated against the first real run with working
+# preview scoring (2026-08-27): genuine 2-3-track-mean cosines against 30s
+# iTunes/Deezer previews landed mostly in 0.35-0.66, not the 0.72-0.78 digmore
+# sees scoring a single hand-picked full track. 0.74/0.72 let essentially
+# nothing real through and every pick fell back to the (weaker) text-only
+# guess -- exactly backwards, since real audio evidence should always be
+# trusted over a guess when it's available. Revisit after more real runs
+# accumulate; this is a taste parameter, not a constant to get "correct" once.
+VINTAGE_MIN_SCORE = 0.50
+MODERN_MIN_SCORE = 0.50
 
 
 @dataclass
@@ -141,7 +146,11 @@ def _score_release(rel: dict, detail: dict, profile) -> dict:
     txt = clap_score.text_affinity(detail["styles"], rel.get("title", ""),
                                    detail["album_artist"])
     return {
-        "score": 0.68 + 0.10 * txt,   # capped below a real audio match
+        # Capped at 0.55 (below the ~0.55-0.66 range genuine good audio
+        # matches land in — see VINTAGE_MIN_SCORE above) so a text-only guess
+        # can pass the same bar on real confidence, but never outranks actual
+        # audio evidence in the sort that follows.
+        "score": 0.40 + 0.15 * txt,
         "confidence": "text_only",
         "scored_tracks": 0,
         "evidence": evidence,

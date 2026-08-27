@@ -86,7 +86,11 @@ dependencies {
     implementation("androidx.media3:media3-session:1.4.1")
     implementation("androidx.media3:media3-common:1.4.1")
 
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.1")
+    // 1.6.3, not a newer 1.7.x: kotlinx.serialization core runtime 1.7.x
+    // requires Kotlin 2.0+, and this project is pinned to Kotlin 1.9.24
+    // (the old composeOptions.kotlinCompilerExtensionVersion mechanism,
+    // simpler than migrating to the Kotlin 2.0 Compose compiler plugin).
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
 
     implementation("io.coil-kt:coil-compose:2.6.0")
