@@ -44,7 +44,7 @@ fun MiniPlayer(state: PlayerUiState, controller: PlayerController, onOpen: () ->
             // More room below than above: it sits directly on top of the
             // bottom nav bar, and the earlier symmetric 6dp read as no gap
             // at all against that adjacent surface.
-            .padding(horizontal = 12.dp, top = 6.dp, bottom = 12.dp)
+            .padding(start = 12.dp, end = 12.dp, top = 6.dp, bottom = 12.dp)
             .neumorphic(cornerRadius = 16.dp, elevation = 5.dp)
             .clip(RoundedCornerShape(16.dp))
             .background(glossyBrush(JatzSurface))
