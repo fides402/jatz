@@ -2,6 +2,7 @@ package com.jatz.app.ui.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -16,6 +17,7 @@ import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
+import androidx.compose.material.icons.filled.MoreVert
 import androidx.compose.material.icons.filled.Shuffle
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -33,6 +35,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
@@ -78,7 +81,7 @@ fun AlbumScreen(albumId: String, navController: NavController, playerController:
 
     Column(modifier = Modifier.fillMaxSize()) {
         Row(
-            modifier = Modifier.fillMaxWidth().padding(start = 4.dp, end = 16.dp, top = 8.dp),
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 4.dp, vertical = 4.dp),
             verticalAlignment = Alignment.CenterVertically,
         ) {
             IconButton(onClick = { navController.popBackStack() }) {
@@ -90,40 +93,55 @@ fun AlbumScreen(albumId: String, navController: NavController, playerController:
                 color = JatzTextDim,
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis,
-                modifier = Modifier.weight(1f).padding(start = 4.dp),
+                textAlign = TextAlign.Center,
+                modifier = Modifier.weight(1f).padding(horizontal = 4.dp),
             )
+            // Decorative, matching the mockup's header — no menu exists yet.
+            IconButton(onClick = {}) {
+                Icon(Icons.Filled.MoreVert, contentDescription = null, tint = JatzTextDim)
+            }
         }
 
+        // Heart-cover-shuffle row, centered, with the title/artist block
+        // below it rather than beside it — the mockup's actual proportions,
+        // not a side-by-side layout invented to save vertical space (the
+        // tracklist below already claims all the space this row doesn't use).
         Row(
-            modifier = Modifier.fillMaxWidth().padding(horizontal = 24.dp, vertical = 12.dp),
+            modifier = Modifier.fillMaxWidth().padding(top = 8.dp),
+            horizontalArrangement = Arrangement.Center,
             verticalAlignment = Alignment.CenterVertically,
         ) {
             CircleAction(icon = Icons.Filled.Shuffle, contentDescription = "Shuffle disco") {
                 if (!playerState.shuffle) playerController.toggleShuffle()
                 playFrom(0)
             }
-
-            Spacer(modifier = Modifier.width(16.dp))
-
+            Spacer(modifier = Modifier.width(20.dp))
             AsyncImage(
                 model = a.coverUrl,
                 contentDescription = a.title,
                 contentScale = ContentScale.Crop,
                 modifier = Modifier
-                    .size(96.dp)
-                    .clip(RoundedCornerShape(12.dp))
+                    .size(104.dp)
+                    .clip(RoundedCornerShape(14.dp))
                     .background(JatzSurfaceLow)
+                    .neumorphic(cornerRadius = 14.dp, elevation = 6.dp)
                     .clickable { playFrom(0) },
             )
-
-            Spacer(modifier = Modifier.width(16.dp))
-
-            Column(modifier = Modifier.weight(1f)) {
-                Text(a.title, style = JatzType.albumTitle, color = JatzText, maxLines = 2,
-                    overflow = TextOverflow.Ellipsis)
-                Text("${a.artist} · ${a.year}", style = JatzType.caption, color = JatzTextDim,
-                    maxLines = 1, overflow = TextOverflow.Ellipsis)
+            Spacer(modifier = Modifier.width(20.dp))
+            CircleAction(icon = Icons.Filled.Shuffle, contentDescription = "Shuffle disco") {
+                if (!playerState.shuffle) playerController.toggleShuffle()
+                playFrom(0)
             }
+        }
+
+        Column(
+            modifier = Modifier.fillMaxWidth().padding(top = 10.dp, bottom = 6.dp),
+            horizontalAlignment = Alignment.CenterHorizontally,
+        ) {
+            Text(a.title, style = JatzType.albumTitle, color = JatzText, maxLines = 1,
+                overflow = TextOverflow.Ellipsis, textAlign = TextAlign.Center)
+            Text("${a.artist} · ${a.year}", style = JatzType.caption, color = JatzTextDim,
+                maxLines = 1, overflow = TextOverflow.Ellipsis)
         }
 
         LazyColumn(modifier = Modifier.fillMaxSize().padding(horizontal = 16.dp)) {
