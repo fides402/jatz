@@ -18,6 +18,7 @@ import java.util.concurrent.TimeUnit
 import java.util.concurrent.atomic.AtomicBoolean
 
 private const val TAG = "JATZ-YT"
+private const val WATCH_URL_PREFIX = "https://www.youtube.com/watch?v="
 
 data class ResolvedStream(
     val watchUrl: String,
@@ -86,45 +87,42 @@ object YoutubeResolver {
     ): ResolveOutcome = withContext(Dispatchers.IO) {
         ensureInit()
 
-        val watchUrl: String = if (preferredWatchUrl != null) {
-            preferredWatchUrl
-        } else {
-            val searchResult = runCatching { search(artist, title) }
-            val error = searchResult.exceptionOrNull()
-            if (error != null) {
-                Log.w(TAG, "search failed for \"$artist - $title\"", error)
-                return@withContext ResolveOutcome.Failed(
-                    "ricerca YouTube fallita (${error.javaClass.simpleName}: ${error.message})",
-                )
-            }
-            searchResult.getOrNull() ?: return@withContext ResolveOutcome.Failed(
+        val watchUrls: List<String> = preferredWatchUrl?.let { listOf(it) }
+            ?: findWatchUrls(artist, title)
+        if (watchUrls.isEmpty()) {
+            return@withContext ResolveOutcome.Failed(
                 "nessun risultato di ricerca per “$artist - $title”",
             )
         }
 
-        val infoResult = runCatching { StreamInfo.getInfo(service, watchUrl) }
-        val info = infoResult.getOrElse { error ->
-            Log.w(TAG, "StreamInfo.getInfo failed for $watchUrl", error)
-            return@withContext ResolveOutcome.Failed(
-                "risoluzione video fallita (${error.javaClass.simpleName}: ${error.message})",
+        // Try more than one match: an individual video can be age-gated,
+        // region-blocked, or DASH-only, none of which means the track is
+        // unavailable — the next result usually plays fine.
+        var lastReason = "nessun video utilizzabile"
+        for (watchUrl in watchUrls.take(3)) {
+            val info = runCatching { StreamInfo.getInfo(service, watchUrl) }.getOrElse { error ->
+                Log.w(TAG, "StreamInfo.getInfo failed for $watchUrl", error)
+                lastReason = "risoluzione video fallita (${error.javaClass.simpleName}: ${error.message})"
+                null
+            } ?: continue
+
+            val audio = pickAudioStream(info.audioStreams)
+            if (audio == null) {
+                val methods = info.audioStreams.map { it.deliveryMethod }.distinct()
+                Log.w(TAG, "no progressive-HTTP audio stream for $watchUrl " +
+                    "(${info.audioStreams.size} streams, delivery methods: $methods)")
+                lastReason = if (info.audioStreams.isEmpty()) "il video non ha alcuno stream audio"
+                    else "nessuno stream riproducibile tra ${info.audioStreams.size} " +
+                        "(formati: ${methods.joinToString()})"
+                continue
+            }
+
+            return@withContext ResolveOutcome.Success(
+                ResolvedStream(watchUrl = watchUrl, streamUrl = audio.content, title = info.name ?: title),
             )
         }
 
-        val audio = pickAudioStream(info.audioStreams)
-        if (audio == null) {
-            val methods = info.audioStreams.map { it.deliveryMethod }.distinct()
-            Log.w(TAG, "no progressive-HTTP audio stream for $watchUrl " +
-                "(${info.audioStreams.size} streams, delivery methods: $methods)")
-            return@withContext ResolveOutcome.Failed(
-                if (info.audioStreams.isEmpty()) "il video non ha alcuno stream audio"
-                else "nessuno stream riproducibile tra ${info.audioStreams.size} " +
-                    "(formati: ${methods.joinToString()})",
-            )
-        }
-
-        ResolveOutcome.Success(
-            ResolvedStream(watchUrl = watchUrl, streamUrl = audio.content, title = info.name ?: title),
-        )
+        ResolveOutcome.Failed(lastReason)
     }
 
     private fun pickAudioStream(streams: List<AudioStream>): AudioStream? =
@@ -135,9 +133,45 @@ object YoutubeResolver {
             .filter { it.deliveryMethod == DeliveryMethod.PROGRESSIVE_HTTP }
             .maxByOrNull { it.averageBitrate }
 
-    private fun search(artist: String, title: String): String? {
+    /**
+     * Two independent strategies, tried in order — deliberately not one.
+     *
+     * NewPipeExtractor's search parser NPE'd on every single track on device,
+     * so relying on it alone (even with a locale fix) is not something to bet
+     * playback on. If it throws, [YoutubeSearchFallback] does the search
+     * without it and cannot fail the same way.
+     */
+    private fun findWatchUrls(artist: String, title: String): List<String> {
         val query = "$artist $title".trim()
-        val extractor = service.getSearchExtractor(query)
+        val target = normalize(query)
+
+        runCatching { searchViaNewPipe(query, target) }
+            .onFailure { Log.w(TAG, "NewPipe search failed for \"$query\", using fallback", it) }
+            .getOrNull()
+            ?.takeIf { it.isNotEmpty() }
+            ?.let { return it }
+
+        val candidates = YoutubeSearchFallback.search(httpClient, query)
+        if (candidates.isEmpty()) {
+            Log.w(TAG, "fallback search also found nothing for \"$query\"")
+            return emptyList()
+        }
+        // Untitled candidates come from the crude id-only scan, where page
+        // order is the only ranking signal available — keep that order rather
+        // than scoring them all identically at zero.
+        val ranked = if (candidates.all { it.title.isBlank() }) {
+            candidates
+        } else {
+            candidates.sortedByDescending { scoreTitle(it.title, target) }
+        }
+        return ranked.map { WATCH_URL_PREFIX + it.videoId }
+    }
+
+    private fun searchViaNewPipe(query: String, target: String): List<String> {
+        // Explicitly restrict to videos: the unfiltered "all" search mixes in
+        // channel/playlist/"did you mean" blocks, which is the response shape
+        // NewPipeExtractor's parser handles worst.
+        val extractor = service.getSearchExtractor(query, listOf("videos"), "")
         // SearchExtractor (unlike single-item extractors) has no separate
         // fetchPage() step: getInitialPage() itself performs the network call.
         val page = extractor.initialPage
@@ -147,13 +181,15 @@ object YoutubeResolver {
             .filter { it.streamType == StreamType.VIDEO_STREAM }
             .take(10)
         if (candidates.isEmpty()) {
-            Log.w(TAG, "search returned ${page.items.size} items, 0 usable video streams for \"$query\"")
-            return null
+            Log.w(TAG, "NewPipe search returned ${page.items.size} items, 0 usable videos for \"$query\"")
+            return emptyList()
         }
 
-        val target = normalize("$artist $title")
-        val best = candidates.maxByOrNull { scoreCandidate(it, target) } ?: return null
-        return best.url
+        return candidates
+            .sortedByDescending {
+                scoreTitle(it.name ?: "", target) - if (it.isShortFormContent) 0.5 else 0.0
+            }
+            .mapNotNull { it.url }
     }
 
     // Cheap lexical scoring, in the same spirit as digmore's yt_hunter: reward
@@ -164,8 +200,8 @@ object YoutubeResolver {
         "slowed", "remix", "tutorial", "lyric video", "lyrics video",
     )
 
-    private fun scoreCandidate(item: StreamInfoItem, target: String): Double {
-        val name = normalize(item.name ?: "")
+    private fun scoreTitle(rawName: String, target: String): Double {
+        val name = normalize(rawName)
         val targetTokens = target.split(" ").filter { it.length > 2 }.toSet()
         val nameTokens = name.split(" ").toSet()
         val overlap = if (targetTokens.isEmpty()) 0.0
@@ -175,8 +211,6 @@ object YoutubeResolver {
         for (bad in penaltyWords) {
             if (bad in name && bad !in target) score -= 0.35
         }
-        // A short teaser/short-form upload is almost never the full track.
-        if (item.isShortFormContent) score -= 0.5
         return score
     }
 
