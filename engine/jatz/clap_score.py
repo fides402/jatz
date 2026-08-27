@@ -190,8 +190,10 @@ def cosine(a: np.ndarray, b: np.ndarray) -> float:
 def vibe_pct(sim: float) -> int:
     """Map a CLAP cosine onto a readable 0-100, the way digmore displays it.
 
-    Real audio cosines against a profile mean live in roughly 0.55-0.95, so a
-    raw percentage would read as "62%" for an excellent match. This stretches
-    that band across the full scale.
+    Calibrated against the first real curation run with working audio scoring
+    (2026-08-27): genuine 2-3-track-mean cosines against 30s previews spanned
+    roughly 0.30 (poor match) to 0.75 (the night's best pick, Diana Krall at
+    0.739). Stretched across that band so the best record of a drop reads as
+    "great," not a deflating 57%. Revisit once more real runs accumulate.
     """
-    return int(round(max(0.0, min(1.0, (sim - 0.50) / 0.42)) * 100))
+    return int(round(max(0.0, min(1.0, (sim - 0.35) / 0.40)) * 100))
