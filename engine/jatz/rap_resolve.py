@@ -12,6 +12,7 @@ import difflib
 import re
 import time
 import unicodedata
+from datetime import date
 
 import requests
 
@@ -83,9 +84,33 @@ def resolve(artist: str, title: str, kind: str, timeout: float = 12.0) -> dict |
             best, best_score, entity = fallback_best, fallback_score, "song"
 
     if best is None or best_score < 0.45:
+        # No confident iTunes match -- often the release is real but too new
+        # or too underground/self-distributed to be catalogued there yet.
+        # Dropping it here would silently defeat the "famous to underground"
+        # requirement this section exists for, so keep it with the raw
+        # editorial metadata and no cover art rather than discarding it.
         found = "no candidates at all" if best is None else f"best candidate scored {best_score:.2f}"
-        print(f"[rap-resolve] no confident match for \"{artist} - {title}\" ({found})", flush=True)
-        return None
+        print(f"[rap-resolve] no confident iTunes match for \"{artist} - {title}\" "
+              f"({found}) -- keeping as unresolved (no cover art)", flush=True)
+        return {
+            "id": f"rap-unresolved-{abs(hash(artist + title))}",
+            "discogsId": 0,
+            "title": title,
+            "artist": artist,
+            "year": date.today().year,
+            "label": "",
+            "country": "",
+            "styles": [kind],
+            "coverUrl": "",
+            "ratingAvg": 0.0,
+            "ratingCount": 0,
+            "score": 0.0,
+            "vibe": 0,
+            "confidence": "editorial-unresolved",
+            "scoredTracks": 0,
+            "notes": "",
+            "tracks": [{"position": "1", "title": title, "artist": artist, "duration": ""}],
+        }
 
     cover = (best.get("artworkUrl100") or "").replace("100x100bb", "600x600bb")
     release_year = 0

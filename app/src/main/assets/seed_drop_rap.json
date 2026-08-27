@@ -1,8 +1,95 @@
 {
  "date": "2026-W35",
- "generatedAt": "2026-08-27T12:44:09Z",
+ "generatedAt": "2026-08-27T13:22:08Z",
  "profile": "rap",
  "albums": [
+  {
+   "id": "rap-unresolved-1724374093126811730",
+   "discogsId": 0,
+   "title": "Miope",
+   "artist": "Martin Basile",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Miope",
+     "artist": "Martin Basile",
+     "duration": ""
+    }
+   ],
+   "era": "IT"
+  },
+  {
+   "id": "rap-unresolved-3740294369446812536",
+   "discogsId": 0,
+   "title": "Hipnosis",
+   "artist": "Vinayaka",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "ep"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Hipnosis",
+     "artist": "Vinayaka",
+     "duration": ""
+    }
+   ],
+   "era": "IT"
+  },
+  {
+   "id": "rap-unresolved-1382574790182827081",
+   "discogsId": 0,
+   "title": "The Price Of Clarity",
+   "artist": "Ransom",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "The Price Of Clarity",
+     "artist": "Ransom",
+     "duration": ""
+    }
+   ],
+   "era": "IT"
+  },
   {
    "id": "rap-6788694570",
    "discogsId": 0,
@@ -34,7 +121,7 @@
   }
  ],
  "counts": {
-  "vintage": 1,
+  "vintage": 4,
   "modern": 0
  }
 }

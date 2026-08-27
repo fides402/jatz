@@ -2,9 +2,16 @@ name: Weekly rap section
 
 on:
   schedule:
-    # Fridays, 06:00 UTC -- "new music Friday" is the industry-wide release
-    # day, so this runs a few hours after most of the week's drops exist.
-    - cron: "0 6 * * 5"
+    # Saturdays, 12:00 UTC. "New Music Friday" releases go live at midnight
+    # LOCAL per market, not a synced UTC instant, and the two editorial
+    # sources this reads (RapManiacZ IT, POW Mag US) write up that day's
+    # drops over the course of Friday -- sometimes into Friday evening or
+    # later. Friday 06:00 UTC (02:00 US Eastern, 08:00 Italy) ran before
+    # either had published anything about that day's own releases, so every
+    # week was structurally a cycle late. Saturday noon UTC is Friday
+    # afternoon/evening across the US and Saturday midday in Italy --
+    # comfortably after both sites have covered that week's Friday.
+    - cron: "0 12 * * 6"
   workflow_dispatch:
     inputs:
       force:
