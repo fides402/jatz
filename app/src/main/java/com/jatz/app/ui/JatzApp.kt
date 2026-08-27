@@ -52,7 +52,7 @@ fun JatzApp(playerController: PlayerController) {
             ) {
                 composable("today") { TodayScreen(navController) }
                 composable("library") { LibraryScreen(navController) }
-                composable("loved") { LovedScreen(playerController) }
+                composable("loved") { LovedScreen(playerController, navController) }
                 composable(
                     route = "album/{albumId}",
                     arguments = listOf(navArgument("albumId") { type = NavType.StringType }),

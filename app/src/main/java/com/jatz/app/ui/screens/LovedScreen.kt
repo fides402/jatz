@@ -42,7 +42,7 @@ import com.jatz.app.ui.theme.JatzType
 
 /** LOVED TRACKS — the app's equivalent of Spotify's "Brani che mi piacciono". */
 @Composable
-fun LovedScreen(playerController: PlayerController) {
+fun LovedScreen(playerController: PlayerController, navController: androidx.navigation.NavController) {
     val context = LocalContext.current
     var loved by remember { mutableStateOf<List<Pair<AlbumDto, TrackDto>>>(emptyList()) }
 
@@ -75,6 +75,7 @@ fun LovedScreen(playerController: PlayerController) {
                         val startIndex = album.tracks.indexOfFirst { it.position == track.position }
                             .coerceAtLeast(0)
                         playerController.playAlbum(album, startIndex)
+                        navController.navigate("player")
                     },
                 )
             }

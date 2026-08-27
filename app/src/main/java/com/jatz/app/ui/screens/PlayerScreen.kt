@@ -10,6 +10,8 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
@@ -50,7 +52,6 @@ import com.jatz.app.ui.theme.JatzText
 import com.jatz.app.ui.theme.JatzTextDim
 import com.jatz.app.ui.theme.JatzType
 import com.jatz.app.ui.theme.neumorphic
-import com.jatz.app.ui.theme.neumorphicInset
 
 @Composable
 fun PlayerScreen(navController: NavController, playerController: PlayerController) {
@@ -60,13 +61,11 @@ fun PlayerScreen(navController: NavController, playerController: PlayerControlle
     val album = state.album
     val track = state.currentTrack
 
-    Column(
-        modifier = Modifier
-            .fillMaxSize()
-            .padding(24.dp),
-        horizontalAlignment = Alignment.CenterHorizontally,
-    ) {
-        Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Start) {
+    Column(modifier = Modifier.fillMaxSize()) {
+        Row(
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 4.dp),
+            horizontalArrangement = Arrangement.Start,
+        ) {
             IconButton(onClick = { navController.popBackStack() }) {
                 Icon(Icons.Filled.ExpandMore, contentDescription = "Chiudi", tint = JatzText)
             }
@@ -79,6 +78,17 @@ fun PlayerScreen(navController: NavController, playerController: PlayerControlle
             return@Column
         }
 
+        // Scrollable: cover + text + slider + the 220dp transport disc can
+        // together exceed a smaller phone's usable height once the bottom
+        // nav/mini-player has already taken its share, so nothing here
+        // relies on everything fitting one unscrolled screen.
+        Column(
+            modifier = Modifier
+                .fillMaxSize()
+                .verticalScroll(rememberScrollState())
+                .padding(horizontal = 24.dp, vertical = 8.dp),
+            horizontalAlignment = Alignment.CenterHorizontally,
+        ) {
         Text(
             text = album.title.uppercase(),
             style = JatzType.screenTitle,
@@ -145,9 +155,12 @@ fun PlayerScreen(navController: NavController, playerController: PlayerControlle
             Text(text = it, style = JatzType.caption, color = JatzAccent, modifier = Modifier.padding(top = 12.dp))
         }
 
+        // Small satellite icons above the transport disc, mirroring the
+        // mockup's single shuffle icon centered above the click-wheel-style
+        // control cluster (repeat mirrors it on the other side).
         Row(
-            modifier = Modifier.fillMaxWidth().padding(top = 28.dp),
-            horizontalArrangement = Arrangement.SpaceEvenly,
+            modifier = Modifier.fillMaxWidth().padding(top = 20.dp, bottom = 4.dp),
+            horizontalArrangement = Arrangement.SpaceBetween,
             verticalAlignment = Alignment.CenterVertically,
         ) {
             IconButton(onClick = { playerController.toggleShuffle() }) {
@@ -157,29 +170,6 @@ fun PlayerScreen(navController: NavController, playerController: PlayerControlle
                     tint = if (state.shuffle) JatzAccent else JatzTextDim,
                 )
             }
-            IconButton(onClick = { playerController.previous() }, modifier = Modifier.size(44.dp)) {
-                Icon(Icons.Filled.SkipPrevious, contentDescription = "Precedente", tint = JatzText,
-                    modifier = Modifier.size(36.dp))
-            }
-            IconButton(
-                onClick = { playerController.togglePlayPause() },
-                modifier = Modifier
-                    .size(72.dp)
-                    .neumorphic(cornerRadius = 36.dp, elevation = 7.dp)
-                    .clip(CircleShape)
-                    .background(JatzAccent),
-            ) {
-                Icon(
-                    imageVector = if (state.isPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
-                    contentDescription = "Play/Pausa",
-                    tint = JatzSurface,
-                    modifier = Modifier.size(36.dp),
-                )
-            }
-            IconButton(onClick = { playerController.next() }, modifier = Modifier.size(44.dp)) {
-                Icon(Icons.Filled.SkipNext, contentDescription = "Successivo", tint = JatzText,
-                    modifier = Modifier.size(36.dp))
-            }
             IconButton(onClick = { playerController.cycleRepeat() }) {
                 Icon(
                     imageVector = if (state.repeat == RepeatCycle.TRACK) Icons.Filled.RepeatOne else Icons.Filled.Repeat,
@@ -187,6 +177,49 @@ fun PlayerScreen(navController: NavController, playerController: PlayerControlle
                     tint = if (state.repeat != RepeatCycle.OFF) JatzAccent else JatzTextDim,
                 )
             }
+        }
+
+        // One big embossed disc holding prev/play-pause/next together, like
+        // the mockup's click-wheel-style transport cluster, instead of five
+        // separate buttons spread across a plain row.
+        Box(
+            modifier = Modifier
+                .padding(top = 12.dp)
+                .size(220.dp)
+                .neumorphic(cornerRadius = 110.dp, elevation = 10.dp)
+                .clip(CircleShape)
+                .background(JatzSurface),
+            contentAlignment = Alignment.Center,
+        ) {
+            Row(
+                horizontalArrangement = Arrangement.spacedBy(4.dp),
+                verticalAlignment = Alignment.CenterVertically,
+            ) {
+                IconButton(onClick = { playerController.previous() }, modifier = Modifier.size(56.dp)) {
+                    Icon(Icons.Filled.SkipPrevious, contentDescription = "Precedente", tint = JatzText,
+                        modifier = Modifier.size(34.dp))
+                }
+                IconButton(
+                    onClick = { playerController.togglePlayPause() },
+                    modifier = Modifier
+                        .size(76.dp)
+                        .neumorphic(cornerRadius = 38.dp, elevation = 6.dp)
+                        .clip(CircleShape)
+                        .background(JatzAccent),
+                ) {
+                    Icon(
+                        imageVector = if (state.isPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
+                        contentDescription = "Play/Pausa",
+                        tint = JatzSurface,
+                        modifier = Modifier.size(36.dp),
+                    )
+                }
+                IconButton(onClick = { playerController.next() }, modifier = Modifier.size(56.dp)) {
+                    Icon(Icons.Filled.SkipNext, contentDescription = "Successivo", tint = JatzText,
+                        modifier = Modifier.size(34.dp))
+                }
+            }
+        }
         }
     }
 }

@@ -3,15 +3,15 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <!-- A single vinyl-note glyph, kept inside the adaptive-icon safe zone
-         (the outer ~18dp on each side gets masked/cropped by launchers). -->
+    <!-- A single bold "J" stroke, cream on dark -- one simple glyph, no
+         repeating pattern (the earlier concentric-rings vinyl read as an
+         optical/hypnotic spiral, not a record). Drawn as one open path with
+         a thick round-capped stroke rather than a filled shape, so the curve
+         stays smooth with no bezier-math risk. -->
     <path
-        android:fillColor="#E8C97A"
-        android:pathData="M54,26 m-28,0 a28,28 0 1,0 56,0 a28,28 0 1,0 -56,0" />
-    <path
-        android:fillColor="#2A2A2A"
-        android:pathData="M54,26 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
-    <path
-        android:fillColor="#E8C97A"
-        android:pathData="M62,20 L62,64 C62,70 57,75 50,75 C44,75 39,70 39,64 C39,58 44,53 50,53 C52.5,53 54.8,53.8 56.7,55.2 L56.7,26 Z" />
+        android:strokeColor="#EDE3D0"
+        android:strokeWidth="15"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M62,29 L62,66 Q62,79 47,79" />
 </vector>

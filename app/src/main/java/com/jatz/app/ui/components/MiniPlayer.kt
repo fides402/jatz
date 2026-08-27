@@ -11,6 +11,7 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Pause
 import androidx.compose.material.icons.filled.PlayArrow
+import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.Text
@@ -24,6 +25,7 @@ import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
 import com.jatz.app.playback.PlayerController
 import com.jatz.app.playback.PlayerUiState
+import com.jatz.app.ui.theme.JatzAccent
 import com.jatz.app.ui.theme.JatzSurface
 import com.jatz.app.ui.theme.JatzText
 import com.jatz.app.ui.theme.JatzTextDim
@@ -66,20 +68,32 @@ fun MiniPlayer(state: PlayerUiState, controller: PlayerController, onOpen: () ->
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis,
             )
+            // The loading label and error are surfaced here, not just on the
+            // full Player screen: tapping play never used to navigate there,
+            // so a stuck resolution or a failure looked like "nothing
+            // happens" with zero visible feedback anywhere in the app.
             Text(
-                text = track?.artist?.ifBlank { album.artist } ?: album.artist,
+                text = state.error ?: state.loadingLabel ?: (track?.artist?.ifBlank { album.artist } ?: album.artist),
                 style = JatzType.caption,
-                color = JatzTextDim,
+                color = if (state.error != null) JatzAccent else JatzTextDim,
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis,
             )
         }
-        IconButton(onClick = { controller.togglePlayPause() }) {
-            Icon(
-                imageVector = if (state.isPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
-                contentDescription = "Play/Pause",
-                tint = JatzText,
+        if (state.isLoading) {
+            CircularProgressIndicator(
+                modifier = Modifier.size(22.dp).padding(end = 8.dp),
+                color = JatzAccent,
+                strokeWidth = 2.dp,
             )
+        } else {
+            IconButton(onClick = { controller.togglePlayPause() }) {
+                Icon(
+                    imageVector = if (state.isPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
+                    contentDescription = "Play/Pause",
+                    tint = JatzText,
+                )
+            }
         }
     }
 }
