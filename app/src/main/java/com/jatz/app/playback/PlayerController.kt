@@ -46,16 +46,17 @@ data class PlayerUiState(
 
 /**
  * The single owner of playback state for the whole app: connects to
- * [PlaybackService] via a [MediaController], resolves each track's YouTube
- * stream up front for the whole album (see PIANO.md — eager resolution keeps
- * the mid-playback state machine simple), and mirrors [Player] callbacks into
- * a [StateFlow] the Compose UI collects.
+ * [PlaybackService] via a [MediaController], resolves an album's tracks on
+ * YouTube one at a time — starting playback as soon as the first is ready
+ * rather than waiting on the whole album (see [playAlbum]) — and mirrors
+ * [Player] callbacks into a [StateFlow] the Compose UI collects.
  */
 class PlayerController(private val appContext: Context) {
 
     private val scope = CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)
     private var controller: MediaController? = null
     private var progressJob: Job? = null
+    private var playbackJob: Job? = null
 
     private val _state = MutableStateFlow(PlayerUiState())
     val state: StateFlow<PlayerUiState> = _state
@@ -102,22 +103,44 @@ class PlayerController(private val appContext: Context) {
         }, ContextCompat.getMainExecutor(appContext))
     }
 
-    /** Resolves every track of [album] on YouTube, then starts playback at [startIndex]. */
+    /**
+     * Resolves [album]'s tracks on YouTube and plays them, starting from
+     * [startIndex]. Resolving one track at a time takes a few seconds each;
+     * an 8-12 track album resolved fully before anything played made the
+     * player look stuck for a long stretch. So this now resolves just the
+     * requested track first and starts playback immediately, then keeps
+     * resolving the rest (in playback order, wrapping back to the start of
+     * the album) and appends each one to the live queue as it's ready —
+     * audio starts in one track's worth of time, not the whole album's.
+     */
     fun playAlbum(album: AlbumDto, startIndex: Int = 0) {
-        scope.launch {
+        playbackJob?.cancel()   // a second tap while the first is still resolving must not race it
+        playbackJob = scope.launch {
             _state.update {
                 PlayerUiState(album = album, isLoading = true, loadingLabel = "Preparo il disco…")
             }
             YoutubeResolver.ensureInit()
 
-            data class Resolved(val track: TrackDto, val item: MediaItem)
-            val resolved = mutableListOf<Resolved>()
-            // Kept so a total failure shows WHY, not just "found nothing" --
-            // see ResolveOutcome's doc for why this replaced a silent null.
+            val c = controller
+            if (c == null) {
+                _state.update { it.copy(isLoading = false, error = "Player non ancora connesso, riprova.") }
+                return@launch
+            }
+
+            val safeStart = startIndex.coerceIn(0, album.tracks.lastIndex)
+            // Playback order: the requested track first, then the rest of the
+            // album in its own order, wrapping around — so "play track 5"
+            // queues 5,6,7...,1,2,3,4, matching what a listener expects next.
+            val playOrder = (safeStart until album.tracks.size) + (0 until safeStart)
+
+            var startedPlayback = false
             var lastFailureReason: String? = null
 
-            for (track in album.tracks) {
-                _state.update { it.copy(loadingLabel = "Cerco “${track.title}”…") }
+            for (origIndex in playOrder) {
+                val track = album.tracks[origIndex]
+                if (!startedPlayback) {
+                    _state.update { it.copy(loadingLabel = "Cerco “${track.title}”…") }
+                }
                 val cached = withContext(Dispatchers.IO) {
                     LibraryStore.cachedStreamRef(appContext, album.id, track.position)
                 }
@@ -149,38 +172,29 @@ class PlayerController(private val appContext: Context) {
                             .build(),
                     )
                     .build()
-                resolved += Resolved(track, item)
+
+                if (!startedPlayback) {
+                    c.setMediaItems(listOf(item), 0, 0L)
+                    c.prepare()
+                    c.play()
+                    startedPlayback = true
+                    _state.update {
+                        it.copy(queue = listOf(track), currentIndex = 0, isLoading = false,
+                            loadingLabel = null, error = null)
+                    }
+                } else {
+                    c.addMediaItem(item)
+                    _state.update { it.copy(queue = it.queue + track) }
+                }
             }
 
-            if (resolved.isEmpty()) {
+            if (!startedPlayback) {
                 _state.update {
                     it.copy(
                         isLoading = false,
                         error = "Nessuna traccia riproducibile. " + (lastFailureReason ?: "Motivo sconosciuto."),
                     )
                 }
-                return@launch
-            }
-
-            val c = controller
-            if (c == null) {
-                _state.update { it.copy(isLoading = false, error = "Player non ancora connesso, riprova.") }
-                return@launch
-            }
-
-            val safeStart = startIndex.coerceIn(0, resolved.lastIndex)
-            c.setMediaItems(resolved.map { it.item }, safeStart, 0L)
-            c.prepare()
-            c.play()
-
-            _state.update {
-                it.copy(
-                    queue = resolved.map { r -> r.track },
-                    currentIndex = safeStart,
-                    isLoading = false,
-                    loadingLabel = null,
-                    error = null,
-                )
             }
         }
     }
@@ -243,6 +257,7 @@ class PlayerController(private val appContext: Context) {
     }
 
     fun release() {
+        playbackJob?.cancel()
         progressJob?.cancel()
         controller?.release()
         controller = null
