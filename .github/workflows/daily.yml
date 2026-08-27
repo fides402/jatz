@@ -31,10 +31,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # A PAT, not GITHUB_TOKEN: commits made with the default token do NOT
-          # count as repo activity, and GitHub disables schedules on repos with
-          # no activity for 60 days. Using a PAT keeps the schedule alive.
-          token: ${{ secrets.JATZ_PAT }}
+          # Prefers a JATZ_PAT secret if one is ever added, but works out of
+          # the box with the default GITHUB_TOKEN. Known caveat: GitHub
+          # disables a schedule after 60 days with no repo activity, and
+          # commits made with GITHUB_TOKEN do NOT count as activity -- a
+          # fine-grained PAT (contents+workflow, this repo only) fixes that,
+          # but isn't required to get the daily job running today.
+          token: ${{ secrets.JATZ_PAT || secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-python@v5
         with:
