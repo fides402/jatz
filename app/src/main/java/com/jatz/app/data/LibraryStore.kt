@@ -112,6 +112,41 @@ object LibraryStore {
         }
     }
 
+    /** Unlike jazz drops (finalised once and never touched again), the
+     * current week's rap file keeps growing server-side: the daily
+     * mainstream check (HotNewHipHop) and the weekly underground check
+     * (RapManiacZ/POW Mag) both merge new releases into the SAME week's
+     * drops_rap/<week>.json across several runs. [saveRapDrop]'s "skip if
+     * the file already exists" would silently drop every album added
+     * after the first save of a given week, so the latest week is instead
+     * always re-merged by album id. Returns how many albums were newly
+     * added (0 if nothing changed). */
+    suspend fun mergeRapDrop(ctx: Context, remote: DropDto): Int = withContext(Dispatchers.IO) {
+        mutex.withLock {
+            val f = File(rapDropsDir(ctx), "${remote.date}.json")
+            val existing = if (f.exists()) {
+                runCatching { json.decodeFromString<DropDto>(f.readText()) }.getOrNull()
+            } else null
+
+            if (existing == null) {
+                f.writeText(json.encodeToString(remote))
+                return@withLock remote.albums.size
+            }
+
+            val existingIds = existing.albums.map { it.id }.toSet()
+            val newAlbums = remote.albums.filter { it.id !in existingIds }
+            if (newAlbums.isEmpty()) return@withLock 0
+
+            val merged = existing.copy(
+                generatedAt = remote.generatedAt,
+                albums = existing.albums + newAlbums,
+                counts = remote.counts,
+            )
+            f.writeText(json.encodeToString(merged))
+            newAlbums.size
+        }
+    }
+
     suspend fun hasRapDrop(ctx: Context, week: String): Boolean = withContext(Dispatchers.IO) {
         File(rapDropsDir(ctx), "$week.json").exists()
     }

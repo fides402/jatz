@@ -43,17 +43,28 @@ class DailyFetchWorker(context: Context, params: WorkerParameters) : CoroutineWo
                 }
             }
 
-            // The rap section only actually publishes weekly, but checking
-            // its index daily (same as the jazz one) costs one extra small
-            // request and means it shows up the same morning it's published
-            // instead of waiting for a dedicated schedule.
+            // Checking the rap index daily (same as the jazz one) costs one
+            // extra small request and means new releases show up the same
+            // morning they're published instead of waiting for a dedicated
+            // schedule. Unlike jazz drops, the CURRENT week's rap file keeps
+            // growing server-side across several runs (daily mainstream
+            // check + weekly underground check both merge into the same
+            // week -- see LibraryStore.mergeRapDrop), so the latest week is
+            // always re-fetched and merged rather than skipped once saved;
+            // older weeks are done growing once the week has rolled over,
+            // so those stay skip-if-already-saved.
             val rapIndex = RemoteDropApi.fetchRapIndex()
             if (rapIndex != null) {
                 for (week in rapIndex.weeks) {
-                    if (LibraryStore.hasRapDrop(applicationContext, week)) continue
+                    val isLatest = week == rapIndex.latest
+                    if (!isLatest && LibraryStore.hasRapDrop(applicationContext, week)) continue
                     val drop = RemoteDropApi.fetchRapDrop(week) ?: continue
-                    if (LibraryStore.saveRapDrop(applicationContext, drop)) {
-                        addedRap += drop.albums.size
+                    addedRap += if (isLatest) {
+                        LibraryStore.mergeRapDrop(applicationContext, drop)
+                    } else if (LibraryStore.saveRapDrop(applicationContext, drop)) {
+                        drop.albums.size
+                    } else {
+                        0
                     }
                 }
             }

@@ -44,7 +44,13 @@ def _normalize(s: str) -> str:
     return _WS.sub(" ", s).strip()
 
 
-def _score(cand_artist: str, cand_title: str, artist: str, title: str) -> float:
+def _score(cand_artist: str, cand_title: str, artist: str, title: str) -> tuple[float, float]:
+    """Returns (combined, title_score). Both matter separately: a same-
+    artist candidate with an unrelated title can clear a combined-only
+    threshold on artist match alone (confirmed live -- "Cartunez" by Ken
+    Carson matched a completely different Ken Carson album, "XTENDED",
+    at combined score 0.64, purely because artist_score=1.0 carried it),
+    so callers must gate on title_score too, not just the blend."""
     ta = _normalize(title)
     ca = _normalize(cand_title)
     title_score = difflib.SequenceMatcher(None, ta, ca).ratio() if ta and ca else 0.0
@@ -53,7 +59,13 @@ def _score(cand_artist: str, cand_title: str, artist: str, title: str) -> float:
     act = set(_normalize(cand_artist).split())
     artist_score = (len(at & act) / min(len(at), act and len(act) or 1)) if at and act else 0.0
 
-    return 0.6 * title_score + 0.4 * artist_score
+    return 0.6 * title_score + 0.4 * artist_score, title_score
+
+
+# A same-artist, wrong-title candidate can otherwise clear the combined
+# threshold on artist match alone -- require the title to genuinely
+# resemble the announced one too.
+_MIN_TITLE_SCORE = 0.55
 
 
 def _stub_tracks(title: str, artist: str) -> list[dict]:
@@ -102,7 +114,9 @@ def _itunes_search(artist: str, title: str, entity: str, timeout: float) -> tupl
     best, best_score = None, 0.0
     for it in results:
         cand_title = it.get("collectionName") if entity == "album" else it.get("trackName")
-        s = _score(it.get("artistName", ""), cand_title or "", artist, title)
+        s, ts = _score(it.get("artistName", ""), cand_title or "", artist, title)
+        if ts < _MIN_TITLE_SCORE:
+            continue
         if s > best_score:
             best, best_score = it, s
     return best, best_score
@@ -240,7 +254,9 @@ def _resolve_deezer(artist: str, title: str, kind: str, timeout: float) -> dict 
     for kind_, it in candidates:
         cand_artist = it.get("artist", {}).get("name", "")
         cand_title = it.get("title") or ""
-        s = _score(cand_artist, cand_title, artist, title)
+        s, ts = _score(cand_artist, cand_title, artist, title)
+        if ts < _MIN_TITLE_SCORE:
+            continue
         if s > best_score:
             best, best_score, best_kind = it, s, kind_
 

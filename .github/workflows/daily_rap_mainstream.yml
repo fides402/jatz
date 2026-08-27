@@ -1,0 +1,54 @@
+name: Daily rap mainstream check
+
+# Separate cadence from weekly_rap.yml's underground sources (RapManiacZ,
+# POW Mag): HotNewHipHop's feed only exposes ~a day of posts at its
+# publishing rate, so a weekly check would miss almost everything --
+# see engine/jatz/rap_mainstream.py's module docstring. This merges into
+# the same drops_rap/<week>.json the weekly job writes.
+
+on:
+  schedule:
+    # 14:00 UTC daily -- mid-morning US Eastern, well after that day's
+    # releases and the outlet's write-ups about them typically post.
+    - cron: "0 14 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  mainstream:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.JATZ_PAT || secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        working-directory: engine
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run daily mainstream check
+        working-directory: engine
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python run_daily_rap_mainstream.py
+
+      - name: Commit drop + state
+        run: |
+          git config user.name "jatz-bot"
+          git config user.email "francescocapuani92@gmail.com"
+          git add drops_rap/ engine/state/seen_rap_releases.json
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            git commit -m "Daily rap mainstream check $(date -u +%Y-%m-%d)"
+            git push
+          fi
