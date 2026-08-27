@@ -29,6 +29,7 @@ class DailyFetchWorker(context: Context, params: WorkerParameters) : CoroutineWo
     override suspend fun doWork(): Result {
         var addedVintage = 0
         var addedModern = 0
+        var addedRap = 0
         try {
             val index = RemoteDropApi.fetchIndex()
             if (index != null) {
@@ -41,6 +42,21 @@ class DailyFetchWorker(context: Context, params: WorkerParameters) : CoroutineWo
                     }
                 }
             }
+
+            // The rap section only actually publishes weekly, but checking
+            // its index daily (same as the jazz one) costs one extra small
+            // request and means it shows up the same morning it's published
+            // instead of waiting for a dedicated schedule.
+            val rapIndex = RemoteDropApi.fetchRapIndex()
+            if (rapIndex != null) {
+                for (week in rapIndex.weeks) {
+                    if (LibraryStore.hasRapDrop(applicationContext, week)) continue
+                    val drop = RemoteDropApi.fetchRapDrop(week) ?: continue
+                    if (LibraryStore.saveRapDrop(applicationContext, drop)) {
+                        addedRap += drop.albums.size
+                    }
+                }
+            }
         } catch (_: Exception) {
             // Network hiccup or the nightly job hasn't published yet — retried
             // tomorrow regardless, the app keeps showing the last good drop.
@@ -50,6 +66,9 @@ class DailyFetchWorker(context: Context, params: WorkerParameters) : CoroutineWo
 
         if (addedVintage + addedModern > 0) {
             notifyNewDrop(applicationContext, addedVintage, addedModern)
+        }
+        if (addedRap > 0) {
+            notifyNewRap(applicationContext, addedRap)
         }
         return Result.success()
     }

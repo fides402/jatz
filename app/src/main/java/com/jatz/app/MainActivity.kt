@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
 
         lifecycleScope.launch {
             LibraryStore.ensureSeeded(applicationContext)
+            LibraryStore.ensureSeededRap(applicationContext)
         }
 
         val app = application as com.jatz.app.JatzApp

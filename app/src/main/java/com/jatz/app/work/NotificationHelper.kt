@@ -43,3 +43,22 @@ fun notifyNewDrop(context: Context, vintage: Int, modern: Int) {
         NotificationManagerCompat.from(context).notify(1001, notification)
     }
 }
+
+/** Called from [DailyFetchWorker] once a new weekly rap round-up lands. */
+fun notifyNewRap(context: Context, count: Int) {
+    val intent = android.content.Intent(context, MainActivity::class.java)
+    val pending = android.app.PendingIntent.getActivity(
+        context, 1, intent,
+        android.app.PendingIntent.FLAG_IMMUTABLE or android.app.PendingIntent.FLAG_UPDATE_CURRENT,
+    )
+    val notification = NotificationCompat.Builder(context, CHANNEL_DAILY)
+        .setSmallIcon(R.drawable.ic_notification)
+        .setContentTitle("Nuove uscite rap della settimana")
+        .setContentText("$count uscite tra Italia e USA ti aspettano in Libreria")
+        .setAutoCancel(true)
+        .setContentIntent(pending)
+        .build()
+    runCatching {
+        NotificationManagerCompat.from(context).notify(1002, notification)
+    }
+}

@@ -54,29 +54,36 @@ import kotlinx.coroutines.launch
  * with a search box (the library is a scroll-forever list within a few
  * weeks) and a one-tap export (this is the only copy anywhere — no server,
  * no account — so a way off the phone matters).
+ *
+ * The weekly rap round-up (Italy + US, see engine/run_weekly_rap.py) lives
+ * here too, in its own section above the jazz history — a different content
+ * stream on a different cadence, not part of the daily ration, but still
+ * somewhere in "the library" rather than a whole separate app area.
  */
 @Composable
 fun LibraryScreen(navController: NavController) {
     val context = LocalContext.current
     val scope = rememberCoroutineScope()
     var drops by remember { mutableStateOf<List<DropDto>>(emptyList()) }
+    var rapDrops by remember { mutableStateOf<List<DropDto>>(emptyList()) }
     var query by remember { mutableStateOf("") }
 
     LaunchedEffect(Unit) {
         drops = LibraryStore.allDrops(context)
+        rapDrops = LibraryStore.allRapDrops(context)
     }
 
-    if (drops.isEmpty()) {
+    if (drops.isEmpty() && rapDrops.isEmpty()) {
         Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
             Text("La libreria si riempie giorno dopo giorno.", color = JatzTextDim)
         }
         return
     }
 
-    val filtered: List<AlbumDto> = remember(query, drops) {
+    val filtered: List<AlbumDto> = remember(query, drops, rapDrops) {
         val q = query.trim().lowercase()
         if (q.isEmpty()) emptyList()
-        else drops.flatMap { it.albums }
+        else (drops.flatMap { it.albums } + rapDrops.flatMap { it.albums })
             .filter { it.title.lowercase().contains(q) || it.artist.lowercase().contains(q) }
     }
 
@@ -157,6 +164,42 @@ fun LibraryScreen(navController: NavController) {
                 modifier = Modifier.fillMaxSize(),
                 contentPadding = PaddingValues(12.dp),
             ) {
+                if (rapDrops.isNotEmpty()) {
+                    item(span = { GridItemSpan(maxLineSpan) }) {
+                        Text(
+                            text = "NUOVE USCITE · RAP IT/USA",
+                            style = JatzType.caption,
+                            color = JatzTextDim,
+                            modifier = Modifier.padding(top = 4.dp, bottom = 8.dp),
+                        )
+                    }
+                    rapDrops.forEachIndexed { i, drop ->
+                        if (i > 0) {
+                            item(span = { GridItemSpan(maxLineSpan) }) {
+                                Text(
+                                    text = drop.date,
+                                    style = JatzType.caption,
+                                    color = JatzText,
+                                    modifier = Modifier.padding(top = 10.dp, bottom = 6.dp),
+                                )
+                            }
+                        }
+                        items(drop.albums, key = { it.id }) { album ->
+                            AlbumCard(
+                                album = album,
+                                modifier = Modifier.padding(6.dp),
+                                onClick = { navController.navigate("album/${album.id}") },
+                            )
+                        }
+                    }
+                    item(span = { GridItemSpan(maxLineSpan) }) {
+                        HorizontalDivider(
+                            color = JatzDivider,
+                            modifier = Modifier.padding(top = 12.dp, bottom = 4.dp),
+                        )
+                    }
+                }
+
                 drops.forEachIndexed { i, drop ->
                     item(span = { GridItemSpan(maxLineSpan) }) {
                         Column {

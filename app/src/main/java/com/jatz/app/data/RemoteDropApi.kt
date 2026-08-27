@@ -2,6 +2,7 @@ package com.jatz.app.data
 
 import com.jatz.app.data.model.DropDto
 import com.jatz.app.data.model.DropIndex
+import com.jatz.app.data.model.RapDropIndex
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import kotlinx.serialization.decodeFromString
@@ -41,4 +42,14 @@ object RemoteDropApi {
 
     suspend fun fetchDrop(date: String): DropDto? =
         fetch("drops/$date.json")?.let { runCatching { json.decodeFromString<DropDto>(it) }.getOrNull() }
+
+    // The weekly rap section (engine/run_weekly_rap.py) publishes to a
+    // separate drops_rap/ folder on the same Pages site -- different
+    // cadence and content stream from the jazz drops, kept apart on disk
+    // too (see LibraryStore's drops_rap/ directory).
+    suspend fun fetchRapIndex(): RapDropIndex? =
+        fetch("drops_rap/index.json")?.let { runCatching { json.decodeFromString<RapDropIndex>(it) }.getOrNull() }
+
+    suspend fun fetchRapDrop(week: String): DropDto? =
+        fetch("drops_rap/$week.json")?.let { runCatching { json.decodeFromString<DropDto>(it) }.getOrNull() }
 }

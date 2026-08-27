@@ -1,0 +1,40 @@
+{
+ "date": "2026-W35",
+ "generatedAt": "2026-08-27T12:44:09Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-6788694570",
+   "discogsId": 0,
+   "title": "Giuda Iscariota",
+   "artist": "DJ Fede, Oyoshe & DJ Snifta",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/32/52/353252c0-b57f-d4ff-1ba2-0a405fa4f630/cover.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Giuda Iscariota",
+     "artist": "DJ Fede, Oyoshe & DJ Snifta",
+     "duration": ""
+    }
+   ],
+   "era": "IT"
+  }
+ ],
+ "counts": {
+  "vintage": 1,
+  "modern": 0
+ }
+}

@@ -29,6 +29,13 @@ object LibraryStore {
     private fun dropsDir(ctx: Context): File =
         File(ctx.filesDir, "drops").apply { mkdirs() }
 
+    // Separate directory, separate cadence, separate content stream from
+    // the jazz drops -- a weekly rap-release round-up isn't part of the
+    // "5 records a day" ration the rest of the app is built around, so it
+    // doesn't share a folder or a fetch history with it.
+    private fun rapDropsDir(ctx: Context): File =
+        File(ctx.filesDir, "drops_rap").apply { mkdirs() }
+
     private fun lovedFile(ctx: Context) = File(ctx.filesDir, "loved.json")
     private fun videoCacheFile(ctx: Context) = File(ctx.filesDir, "video_cache.json")
 
@@ -39,6 +46,21 @@ object LibraryStore {
             if (dir.listFiles()?.isNotEmpty() == true) return@withLock
             runCatching {
                 val text = ctx.assets.open("seed_drop.json").bufferedReader().use { it.readText() }
+                val drop = json.decodeFromString<DropDto>(text)
+                File(dir, "${drop.date}.json").writeText(text)
+            }
+        }
+    }
+
+    /** Same idea as [ensureSeeded], for the weekly rap section: the first
+     * build ships with one real, already-curated week so Libreria isn't
+     * empty before the first Friday cron run lands. */
+    suspend fun ensureSeededRap(ctx: Context) = withContext(Dispatchers.IO) {
+        mutex.withLock {
+            val dir = rapDropsDir(ctx)
+            if (dir.listFiles()?.isNotEmpty() == true) return@withLock
+            runCatching {
+                val text = ctx.assets.open("seed_drop_rap.json").bufferedReader().use { it.readText() }
                 val drop = json.decodeFromString<DropDto>(text)
                 File(dir, "${drop.date}.json").writeText(text)
             }
@@ -72,8 +94,38 @@ object LibraryStore {
     suspend fun allAlbums(ctx: Context): List<AlbumDto> =
         allDrops(ctx).flatMap { it.albums }
 
+    /** Look-up spans both content streams: the album detail screen doesn't
+     * care whether the tap that opened it came from the jazz library grid
+     * or the weekly rap section. */
     suspend fun findAlbum(ctx: Context, albumId: String): AlbumDto? =
         allAlbums(ctx).firstOrNull { it.id == albumId }
+            ?: allRapAlbums(ctx).firstOrNull { it.id == albumId }
+
+    // ---- Weekly rap section --------------------------------------------
+
+    suspend fun saveRapDrop(ctx: Context, drop: DropDto): Boolean = withContext(Dispatchers.IO) {
+        mutex.withLock {
+            val f = File(rapDropsDir(ctx), "${drop.date}.json")
+            if (f.exists()) return@withLock false
+            f.writeText(json.encodeToString(drop))
+            true
+        }
+    }
+
+    suspend fun hasRapDrop(ctx: Context, week: String): Boolean = withContext(Dispatchers.IO) {
+        File(rapDropsDir(ctx), "$week.json").exists()
+    }
+
+    /** All weekly rap round-ups, most recent week first. */
+    suspend fun allRapDrops(ctx: Context): List<DropDto> = withContext(Dispatchers.IO) {
+        rapDropsDir(ctx).listFiles { f -> f.extension == "json" }
+            ?.sortedByDescending { it.nameWithoutExtension }
+            ?.mapNotNull { f -> runCatching { json.decodeFromString<DropDto>(f.readText()) }.getOrNull() }
+            ?: emptyList()
+    }
+
+    suspend fun allRapAlbums(ctx: Context): List<AlbumDto> =
+        allRapDrops(ctx).flatMap { it.albums }
 
     // ---- Loved tracks -------------------------------------------------
 

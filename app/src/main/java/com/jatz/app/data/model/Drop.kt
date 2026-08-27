@@ -56,6 +56,15 @@ data class DropIndex(
     val dates: List<String> = emptyList(),
 )
 
+/** Same shape as [DropIndex] but the weekly rap section's index.json calls
+ * its list "weeks" instead of "dates" (see engine/run_weekly_rap.py). */
+@Serializable
+data class RapDropIndex(
+    val latest: String? = null,
+    val count: Int = 0,
+    val weeks: List<String> = emptyList(),
+)
+
 enum class Era { VINTAGE, MODERN, UNKNOWN }
 
 fun AlbumDto.eraEnum(): Era = when (era.uppercase()) {
