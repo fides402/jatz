@@ -3,7 +3,7 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <!-- A single bold "J" stroke, cream on dark -- one simple glyph, no
+    <!-- A single bold "J" stroke, cream on dark: one simple glyph, no
          repeating pattern (the earlier concentric-rings vinyl read as an
          optical/hypnotic spiral, not a record). Drawn as one open path with
          a thick round-capped stroke rather than a filled shape, so the curve
