@@ -41,8 +41,29 @@ jobs:
           yes | sdkmanager --licenses > /dev/null || true
           sdkmanager "platforms;android-34" "build-tools;34.0.0"
 
+      # A fresh signing key every run means every APK is a mutually
+      # incompatible "different app" as far as Android's installer is
+      # concerned -- installing a new build over an old one then needs an
+      # uninstall first, wiping the whole library. Decoding the SAME
+      # keystore every time (see app/build.gradle.kts's "jatz" signingConfig)
+      # is what makes reinstalling the APK an actual update.
+      - name: Decode signing keystore
+        run: |
+          echo "${{ secrets.JATZ_KEYSTORE_B64 }}" | base64 -d > "$RUNNER_TEMP/jatz.keystore"
+
       - name: Assemble debug APK
+        env:
+          JATZ_KEYSTORE_PATH: ${{ runner.temp }}/jatz.keystore
+          JATZ_KEYSTORE_PASSWORD: ${{ secrets.JATZ_KEYSTORE_PASSWORD }}
+          JATZ_KEY_ALIAS: ${{ secrets.JATZ_KEY_ALIAS }}
+          JATZ_KEY_PASSWORD: ${{ secrets.JATZ_KEY_PASSWORD }}
+          JATZ_VERSION_CODE: ${{ github.run_number }}
+          JATZ_VERSION_NAME: "1.0.${{ github.run_number }}"
         run: gradle :app:assembleDebug --no-daemon --stacktrace
+
+      - name: Remove decoded keystore
+        if: always()
+        run: rm -f "$RUNNER_TEMP/jatz.keystore"
 
       - name: Find APK
         id: apk
@@ -64,6 +85,8 @@ jobs:
           name: "JATZ debug build #${{ github.run_number }}"
           body: |
             Build automatico da GitHub Actions (commit ${{ github.sha }}).
-            Sideload only: firmato con la chiave di debug, non pubblicabile su Play Store
-            (estrazione stream YouTube on-device -- vedi PIANO.md).
+            Sideload only: non pubblicabile su Play Store (estrazione stream
+            YouTube on-device -- vedi PIANO.md). Firmato con una chiave stabile:
+            installarlo sopra una versione precedente aggiorna l'app mantenendo
+            libreria e brani preferiti, invece di richiedere una disinstallazione.
           files: ${{ steps.apk.outputs.path }}

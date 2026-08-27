@@ -12,11 +12,45 @@ android {
         applicationId = "com.jatz.app"
         minSdk = 26
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        // JATZ_VERSION_CODE comes from the CI run number (build-apk.yml),
+        // which only ever goes up -- required for Android to accept a
+        // sideloaded APK as an UPDATE (same package, higher versionCode)
+        // rather than a conflicting install that demands an uninstall first,
+        // which would wipe the library and loved tracks. Falls back to 1 for
+        // any build that isn't CI (there shouldn't be one, but a missing env
+        // var must never silently produce an unusable versionCode).
+        versionCode = (System.getenv("JATZ_VERSION_CODE")?.toIntOrNull()) ?: 1
+        versionName = System.getenv("JATZ_VERSION_NAME") ?: "1.0-dev"
+    }
+
+    // A signing key CI generates fresh on every run (the AGP-default "debug"
+    // keystore, auto-created when ~/.android/debug.keystore doesn't exist)
+    // makes every single build a different, mutually-incompatible app as far
+    // as Android's installer is concerned -- installing a new one over an
+    // old one is then a package conflict, not an update, and the only way
+    // forward is to uninstall first and lose the whole library. This
+    // signingConfig is instead sourced from a keystore committed once to
+    // GitHub Secrets (JATZ_KEYSTORE_B64 etc., decoded by build-apk.yml
+    // before Gradle runs) and reused for every future build, so updates are
+    // finally real updates.
+    signingConfigs {
+        create("jatz") {
+            val ksPath = System.getenv("JATZ_KEYSTORE_PATH")
+            if (ksPath != null) {
+                storeFile = file(ksPath)
+                storePassword = System.getenv("JATZ_KEYSTORE_PASSWORD")
+                keyAlias = System.getenv("JATZ_KEY_ALIAS")
+                keyPassword = System.getenv("JATZ_KEY_PASSWORD")
+            }
+        }
     }
 
     buildTypes {
+        debug {
+            if (System.getenv("JATZ_KEYSTORE_PATH") != null) {
+                signingConfig = signingConfigs.getByName("jatz")
+            }
+        }
         release {
             // Sideload-only app (see PIANO.md — YouTube stream extraction is
             // against YouTube's ToS, so this never ships to the Play Store).
@@ -25,10 +59,11 @@ android {
             // careful keep-rules, and getting a real APK in hand matters more
             // right now than shaving a few MB.
             isMinifyEnabled = false
-            // Debug-signed on purpose: a personal-use sideload build has no
-            // need for a managed release keystore, and this avoids storing
-            // signing secrets for an app that will never reach a store.
-            signingConfig = signingConfigs.getByName("debug")
+            signingConfig = if (System.getenv("JATZ_KEYSTORE_PATH") != null) {
+                signingConfigs.getByName("jatz")
+            } else {
+                signingConfigs.getByName("debug")
+            }
         }
     }
 
