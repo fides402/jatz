@@ -218,8 +218,14 @@ minuti, occasionalmente di più sotto carico). Quindi:
 
 **Trappola da non dimenticare:** GitHub disattiva i workflow schedulati dopo **60 giorni di
 inattività del repo**, e i commit fatti dal bot con `GITHUB_TOKEN` **non contano** come attività.
-Il job notturno deve committare il drop usando un **PAT** dedicato, altrimenti a fine ottobre
-l'app smette silenziosamente di aggiornarsi.
+Il fix corretto è un PAT fine-grained (solo questo repo, scope contents+workflow) messo come
+secret `JATZ_PAT` — il workflow lo usa se presente, altrimenti ricade su `GITHUB_TOKEN` (che
+funziona da subito, senza bisogno di crearlo ora). Non ho usato il tuo token `gh` personale per
+questo: ha scope troppo ampi (repo+workflow+gist+read:org su *tutti* i tuoi repo) per essere
+messo come secret di un singolo progetto. Se vuoi eliminare del tutto il rischio dei 60 giorni,
+crea un fine-grained PAT da github.com/settings/tokens limitato al solo repo `jatz` e mandamelo:
+lo metto come `JATZ_PAT`. Nel frattempo, ogni push che faccio durante lo sviluppo resetta comunque
+il contatore di inattività.
 
 ---
 
