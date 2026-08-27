@@ -1,239 +1,410 @@
 {
  "date": "2026-08-27",
- "generatedAt": "2026-08-27T02:44:15Z",
+ "generatedAt": "2026-08-27T02:54:19Z",
  "profile": "jazz",
  "albums": [
   {
-   "id": "d8247900",
-   "discogsId": 8247900,
-   "title": "Mister Mysterious",
-   "artist": "Mickey Tucker",
-   "year": 1979,
+   "id": "d1480963",
+   "discogsId": 1480963,
+   "title": "Orfeo Novo",
+   "artist": "Egberto Gismonti",
+   "year": 1971,
    "era": "VINTAGE",
-   "label": "Muse Records",
-   "country": "US",
-   "styles": [
-    "Modal"
-   ],
-   "coverUrl": "https://i.discogs.com/TEogOrR5DUe8yohXNVXzzaXRsJznp6W-yWPtCSibSdQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDc5/MDAtMTU4NTA2NTc5/MS04MTg5LmpwZWc.jpeg",
-   "ratingAvg": 4.75,
-   "ratingCount": 4,
-   "score": 0.78,
-   "vibe": 67,
-   "confidence": "text_only",
-   "scoredTracks": 0,
-   "notes": "White label promo release, with \"PROMOTION COPY NOT FOR SALE\" stamped on labels. Cover identical to regular release.",
-   "tracks": [
-    {
-     "position": "A1",
-     "title": "Plagio",
-     "artist": "Mickey Tucker",
-     "duration": "7:05"
-    },
-    {
-     "position": "A2",
-     "title": "A Prayer",
-     "artist": "Mickey Tucker",
-     "duration": "4:39"
-    },
-    {
-     "position": "A3",
-     "title": "Mister Mysterious",
-     "artist": "Mickey Tucker",
-     "duration": "5:00"
-    },
-    {
-     "position": "B1",
-     "title": "Taurus Lullaby",
-     "artist": "Mickey Tucker",
-     "duration": "7:20"
-    },
-    {
-     "position": "B2",
-     "title": "Cecilitis",
-     "artist": "Mickey Tucker",
-     "duration": "3:24"
-    },
-    {
-     "position": "B3",
-     "title": "Basic Elements",
-     "artist": "Mickey Tucker",
-     "duration": "7:05"
-    }
-   ]
-  },
-  {
-   "id": "d7089789",
-   "discogsId": 7089789,
-   "title": "Jazz On A Sunday Afternoon Vol. II",
-   "artist": "George Benson & George Duvivier & Al Harewood & Mickey Tucker",
-   "year": 1981,
-   "era": "VINTAGE",
-   "label": "Polydor",
-   "country": "Japan",
+   "label": "MPS Records",
+   "country": "France",
    "styles": [
     "Bossa Nova"
    ],
-   "coverUrl": "https://i.discogs.com/CI6GJis5aeSVgN39_ZkNoFYdZHBYihvIMqFYfbt8x1w/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODk3/ODktMTQzMzQ3Nzk2/Ni05NTE5LmpwZWc.jpeg",
-   "ratingAvg": 5.0,
-   "ratingCount": 3,
-   "score": 0.78,
-   "vibe": 67,
-   "confidence": "text_only",
-   "scoredTracks": 0,
-   "notes": "Recorded April 29, 1973 at Casa Caribe Plainfield N.J.",
+   "coverUrl": "https://i.discogs.com/6Cl5Uwt1FwpUcEdB-XtQUlXdMOOxqbtYkR1vZsCHSeU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA5/NjMtMTc0MTM3OTM1/My05NDU2LmpwZWc.jpeg",
+   "ratingAvg": 4.42,
+   "ratingCount": 12,
+   "score": 0.6765,
+   "vibe": 42,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded Oct. 28 to 30, 1970.\n\nFold-out sleeve with notes in German, English and French.",
    "tracks": [
     {
      "position": "A1",
-     "title": "Witchcraft",
-     "artist": "George Benson & George Duvivier & Al Harewood & Mickey Tucker",
-     "duration": "10:42"
+     "title": "Indi",
+     "artist": "Egberto Gismonti",
+     "duration": "4:30"
     },
     {
      "position": "A2",
-     "title": "Blue Bossa",
-     "artist": "George Benson & George Duvivier & Al Harewood & Mickey Tucker",
-     "duration": "10:40"
+     "title": "O Sonho",
+     "artist": "Egberto Gismonti",
+     "duration": "7:07"
+    },
+    {
+     "position": "A3",
+     "title": "Parque Laje",
+     "artist": "Egberto Gismonti",
+     "duration": "7:57"
     },
     {
      "position": "B1",
-     "title": "Oleo",
-     "artist": "George Benson & George Duvivier & Al Harewood & Mickey Tucker",
-     "duration": "10:32"
+     "title": "Salvador",
+     "artist": "Egberto Gismonti",
+     "duration": "5:11"
     },
     {
-     "position": "B2",
-     "title": "Lil' Darlin'",
-     "artist": "George Benson & George Duvivier & Al Harewood & Mickey Tucker",
-     "duration": "11:20"
+     "position": "B5",
+     "title": "Consolacao, Berimbau",
+     "artist": "Egberto Gismonti",
+     "duration": "3:07"
+    },
+    {
+     "position": "B6",
+     "title": "Lendas",
+     "artist": "Egberto Gismonti",
+     "duration": "3:24"
     }
    ]
   },
   {
-   "id": "d28761589",
-   "discogsId": 28761589,
-   "title": "Danny Ward & Reality",
-   "artist": "Danny Ward & Reality",
-   "year": 2023,
-   "era": "MODERN",
-   "label": "Jazz Room Records",
-   "country": "UK",
+   "id": "d13304597",
+   "discogsId": 13304597,
+   "title": "Superb",
+   "artist": "Rita Moss",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Dot Records",
+   "country": "US",
    "styles": [
-    "Jazz-Funk",
-    "Soul-Jazz",
-    "Soul",
-    "Funk"
+    "Vocal"
    ],
-   "coverUrl": "",
+   "coverUrl": "https://i.discogs.com/36CNAeYtPerwZA4_oHTkyQItD7UDwv3ZXZir6FdCZAY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA0/NTk3LTE1OTkxNzE5/ODAtMTUxMi5wbmc.jpeg",
    "ratingAvg": 0.0,
    "ratingCount": 0,
-   "score": 0.7723,
-   "vibe": 65,
-   "confidence": "text_only",
-   "scoredTracks": 0,
-   "notes": "©&℗ Danny Ward. Licensed from Danny Ward by Paul Murphy for Jazz Room Records. © 2023 JAZZ ROOM RECORDS\nWhite label promo, track info & details written on A/B label in pen.\nMailed out in release album sleeve.",
+   "score": 0.6554,
+   "vibe": 37,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
    "tracks": [
     {
      "position": "A1",
-     "title": "Rock Steady",
-     "artist": "Danny Ward & Reality",
-     "duration": ""
+     "title": "He And I Alone",
+     "artist": "Rita Moss",
+     "duration": "2:58"
     },
     {
      "position": "A2",
-     "title": "Affirmation",
-     "artist": "Danny Ward & Reality",
-     "duration": ""
+     "title": "Alfie",
+     "artist": "Rita Moss",
+     "duration": "3:46"
     },
     {
      "position": "A3",
-     "title": "Funky On My Back",
-     "artist": "Danny Ward & Reality",
-     "duration": ""
+     "title": "Forget Yesterday",
+     "artist": "Rita Moss",
+     "duration": "2:45"
+    },
+    {
+     "position": "A4",
+     "title": "He's Too Far Above Me",
+     "artist": "Rita Moss",
+     "duration": "2:52"
+    },
+    {
+     "position": "A5",
+     "title": "I Never Go There Any More",
+     "artist": "Rita Moss",
+     "duration": "3:07"
+    },
+    {
+     "position": "A6",
+     "title": "Love Is A Simple Thing",
+     "artist": "Rita Moss",
+     "duration": "2:38"
     },
     {
      "position": "B1",
-     "title": "Get It All",
-     "artist": "Danny Ward & Reality",
-     "duration": ""
+     "title": "Who Will Be With You",
+     "artist": "Rita Moss",
+     "duration": "3:09"
     },
     {
      "position": "B2",
-     "title": "Masquarade",
-     "artist": "Danny Ward & Reality",
-     "duration": ""
+     "title": "Wait Until Dark",
+     "artist": "Rita Moss",
+     "duration": "2:45"
     },
     {
      "position": "B3",
-     "title": "God Made Me Funky",
-     "artist": "Danny Ward & Reality",
-     "duration": ""
-    }
-   ]
-  },
-  {
-   "id": "d26144033",
-   "discogsId": 26144033,
-   "title": "Polygamy",
-   "artist": "Mustafa Abdul Rahman",
-   "year": 2023,
-   "era": "MODERN",
-   "label": "Eating Standing Publishing",
-   "country": "Italy",
-   "styles": [
-    "Jazz-Funk",
-    "Soul-Jazz"
-   ],
-   "coverUrl": "",
-   "ratingAvg": 5.0,
-   "ratingCount": 1,
-   "score": 0.7661,
-   "vibe": 63,
-   "confidence": "text_only",
-   "scoredTracks": 0,
-   "notes": "Heavyweight Black Vinyl / Original glued prints on Thick Cardboard 700 gram / 2 Separated parts hand-glued / Glossy lamination / PVC outer sleeve / Bandcamp Limited Edition 10 pages Booklet 30 x 30 cm printed on high quality paper with detailed interview between Tony Higgins and Mustafa's family (his sisters and children are all musicians), as well as an insight into the recording of the album with Gregory Bufford, the drummer for the session, lyrics and exclusive pictures and much much much much, very much more as usual !!!",
-   "tracks": [
-    {
-     "position": "A1",
-     "title": "Silent World",
-     "artist": "Mustafa Abdul Rahman",
-     "duration": "8:03"
+     "title": "This Lonely Town",
+     "artist": "Rita Moss",
+     "duration": "3:05"
     },
     {
-     "position": "A2",
-     "title": "Polygamy",
-     "artist": "Mustafa Abdul Rahman",
-     "duration": "8:05"
-    },
-    {
-     "position": "A3",
-     "title": "God Is",
-     "artist": "Mustafa Abdul Rahman",
+     "position": "B4",
+     "title": "Wake Up Heaven",
+     "artist": "Rita Moss",
      "duration": "2:30"
     },
     {
+     "position": "B5",
+     "title": "Gloomy Sunday",
+     "artist": "Rita Moss",
+     "duration": "4:29"
+    },
+    {
+     "position": "B6",
+     "title": "Visit Me",
+     "artist": "Rita Moss",
+     "duration": "2:59"
+    }
+   ]
+  },
+  {
+   "id": "d15942346",
+   "discogsId": 15942346,
+   "title": "She Shot Me Down",
+   "artist": "Frank Sinatra",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Reprise Records",
+   "country": "US",
+   "styles": [
+    "Big Band"
+   ],
+   "coverUrl": "https://i.discogs.com/l1mm3gGkYaBnU02j6yY76j9EhYQfJ2AVybPqcQC-5WE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQy/MzQ2LTE3MzAyMjcx/ODctNTA1OS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6356,
+   "vibe": 32,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "\"CH\" on labels.\n\"Manufactured by Columbia House Under License\" on rear bottom right of jacket.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Good Thing Going",
+     "artist": "Frank Sinatra",
+     "duration": "3:52"
+    },
+    {
+     "position": "A2",
+     "title": "Hey Look, No Crying",
+     "artist": "Frank Sinatra",
+     "duration": "3:00"
+    },
+    {
+     "position": "A3",
+     "title": "Thanks For The Memory",
+     "artist": "Frank Sinatra",
+     "duration": "4:25"
+    },
+    {
+     "position": "A4",
+     "title": "Long Night",
+     "artist": "Frank Sinatra",
+     "duration": "3:44"
+    },
+    {
+     "position": "A5",
+     "title": "Bang Bang (My Baby Shot Me Down)",
+     "artist": "Frank Sinatra",
+     "duration": "3:23"
+    },
+    {
      "position": "B1",
-     "title": "Afternoon In Paris",
-     "artist": "Mustafa Abdul Rahman",
-     "duration": "7:13"
+     "title": "Monday Morning Quarterback",
+     "artist": "Frank Sinatra",
+     "duration": "4:38"
     },
     {
      "position": "B2",
-     "title": "One And Only Love",
-     "artist": "Mustafa Abdul Rahman",
-     "duration": "5:38"
+     "title": "South - To A Warmer Place",
+     "artist": "Frank Sinatra",
+     "duration": "3:45"
     },
     {
      "position": "B3",
-     "title": "Some Other Blues",
-     "artist": "Mustafa Abdul Rahman",
-     "duration": "4:42"
+     "title": "I Loved Her",
+     "artist": "Frank Sinatra",
+     "duration": "4:04"
+    }
+   ]
+  },
+  {
+   "id": "d15842300",
+   "discogsId": 15842300,
+   "title": "The Girl In The Other Room",
+   "artist": "Diana Krall",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Verve Records",
+   "country": "Europe",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/bfSKWIbpyHqeMVBPMaoG0f87tu8aJGQpIhxqGcrQn_c/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQy/MzAwLTE1OTkxNTg4/MjgtMTk4NS5qcGVn.jpeg",
+   "ratingAvg": 3.6,
+   "ratingCount": 5,
+   "score": 0.739,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "℗ 2004 The Verve Music Group © 2004 The Verve Music Group\nMade in the EU. ",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Stop This World",
+     "artist": "Diana Krall",
+     "duration": "3:59"
+    },
+    {
+     "position": "2",
+     "title": "The Girl In The Other Room",
+     "artist": "Diana Krall",
+     "duration": "4:05"
+    },
+    {
+     "position": "3",
+     "title": "Temptation",
+     "artist": "Diana Krall",
+     "duration": "4:28"
+    },
+    {
+     "position": "4",
+     "title": "Almost Blue",
+     "artist": "Diana Krall",
+     "duration": "4:04"
+    },
+    {
+     "position": "5",
+     "title": "I've Changed My Address",
+     "artist": "Diana Krall",
+     "duration": "4:47"
+    },
+    {
+     "position": "6",
+     "title": "Love Me Like A Man",
+     "artist": "Diana Krall",
+     "duration": "5:49"
+    },
+    {
+     "position": "7",
+     "title": "I'm Pulling Through",
+     "artist": "Diana Krall",
+     "duration": "4:03"
+    },
+    {
+     "position": "8",
+     "title": "Black Crow",
+     "artist": "Diana Krall",
+     "duration": "4:48"
+    },
+    {
+     "position": "9",
+     "title": "Narrow Daylight",
+     "artist": "Diana Krall",
+     "duration": "3:32"
+    },
+    {
+     "position": "10",
+     "title": "Abandoned Masquerade",
+     "artist": "Diana Krall",
+     "duration": "5:11"
+    },
+    {
+     "position": "11",
+     "title": "I'm Coming Through",
+     "artist": "Diana Krall",
+     "duration": "5:07"
+    },
+    {
+     "position": "12",
+     "title": "Departure Bay",
+     "artist": "Diana Krall",
+     "duration": "5:40"
+    }
+   ]
+  },
+  {
+   "id": "d30868026",
+   "discogsId": 30868026,
+   "title": "Time",
+   "artist": "Larry Nozero & Dennis Tini",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Strata Records (4)",
+   "country": "UK",
+   "styles": [
+    "Soul-Jazz",
+    "Jazz-Funk",
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/NqMO1b7e2tXN_xoNOJK3OXqeY_qlvCAP2IldFEjtMfM/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY4/MDI2LTE3MjM2Njk0/MDAtODczNC5qcGVn.jpeg",
+   "ratingAvg": 4.56,
+   "ratingCount": 9,
+   "score": 0.7357,
+   "vibe": 56,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "2LP 45rpm black vinyl, remastered audio from original master tapes, previously unseen alternative cover with updated liner notes.\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Reflections Of My Past",
+     "artist": "Larry Nozero & Dennis Tini",
+     "duration": "3:50"
+    },
+    {
+     "position": "A2",
+     "title": "Tony",
+     "artist": "Larry Nozero & Dennis Tini",
+     "duration": "4:35"
+    },
+    {
+     "position": "B1",
+     "title": "Chronicle Of The Murdered House Part I",
+     "artist": "Larry Nozero & Dennis Tini",
+     "duration": "3:53"
+    },
+    {
+     "position": "B2",
+     "title": "Chronicle Of The Murdered House Part II",
+     "artist": "Larry Nozero & Dennis Tini",
+     "duration": "4:55"
+    },
+    {
+     "position": "C1",
+     "title": "Tune For L.N.",
+     "artist": "Larry Nozero & Dennis Tini",
+     "duration": "5:34"
+    },
+    {
+     "position": "C2",
+     "title": "Impressions Of My Lady",
+     "artist": "Larry Nozero & Dennis Tini",
+     "duration": "2:53"
+    },
+    {
+     "position": "D1",
+     "title": "All The Things You Are",
+     "artist": "Larry Nozero & Dennis Tini",
+     "duration": "2:14"
+    },
+    {
+     "position": "D2",
+     "title": "Two Worlds",
+     "artist": "Larry Nozero & Dennis Tini",
+     "duration": "5:52"
+    },
+    {
+     "position": "D3",
+     "title": "Baubles, Bangles & Beads",
+     "artist": "Larry Nozero & Dennis Tini",
+     "duration": "4:24"
     }
    ]
   }
  ],
  "counts": {
-  "vintage": 2,
+  "vintage": 3,
   "modern": 2
  }
 }
