@@ -2,12 +2,31 @@ package com.jatz.app.ui.theme
 
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.drawBehind
+import androidx.compose.ui.geometry.Offset
+import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Paint
 import androidx.compose.ui.graphics.drawscope.drawIntoCanvas
 import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
+
+/**
+ * A soft diagonal sheen for raised, non-photo surfaces (buttons, the
+ * transport disc, card frames) — the glossy/plastic material read the
+ * reference mockup has, where a flat fill colour alone looks matte and dead.
+ * Never apply this over actual photos (album art): it's a highlight for
+ * synthetic surfaces, not something a photo should have painted over it.
+ *
+ * `Offset.Infinite` is a real `Brush.linearGradient` sentinel meaning
+ * "resolve to this element's own bottom-right corner at draw time" — the
+ * gradient stays diagonal regardless of the element's actual size.
+ */
+fun glossyBrush(base: Color, highlightAlpha: Float = 0.14f): Brush = Brush.linearGradient(
+    colors = listOf(Color.White.copy(alpha = highlightAlpha), base, base),
+    start = Offset.Zero,
+    end = Offset.Infinite,
+)
 
 /**
  * The two-shadow "soft UI" look from the reference mockup: a light shadow to

@@ -39,6 +39,7 @@ import com.jatz.app.ui.theme.JatzSurfaceLow
 import com.jatz.app.ui.theme.JatzText
 import com.jatz.app.ui.theme.JatzTextDim
 import com.jatz.app.ui.theme.JatzType
+import com.jatz.app.ui.theme.glossyBrush
 
 /** LOVED TRACKS — the app's equivalent of Spotify's "Brani che mi piacciono". */
 @Composable
@@ -99,7 +100,7 @@ private fun LovedRow(album: AlbumDto, track: TrackDto, onClick: () -> Unit) {
             modifier = Modifier
                 .size(48.dp)
                 .clip(RoundedCornerShape(8.dp))
-                .background(JatzSurfaceLow),
+                .background(glossyBrush(JatzSurfaceLow)),
         )
         Column(modifier = Modifier.weight(1f).padding(horizontal = 10.dp)) {
             Text(track.title, style = JatzType.trackTitle, color = JatzText,

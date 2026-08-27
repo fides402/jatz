@@ -5,20 +5,16 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
-import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
-import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material.icons.filled.MoreVert
-import androidx.compose.material.icons.filled.Shuffle
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.Text
@@ -44,19 +40,18 @@ import com.jatz.app.data.LibraryStore
 import com.jatz.app.data.model.AlbumDto
 import com.jatz.app.playback.PlayerController
 import com.jatz.app.ui.components.TrackRow
-import com.jatz.app.ui.theme.JatzSurface
 import com.jatz.app.ui.theme.JatzSurfaceLow
 import com.jatz.app.ui.theme.JatzText
 import com.jatz.app.ui.theme.JatzTextDim
 import com.jatz.app.ui.theme.JatzType
+import com.jatz.app.ui.theme.glossyBrush
 import com.jatz.app.ui.theme.neumorphic
 import kotlinx.coroutines.launch
 
 /**
- * Matches the mockup's right panel proportions: a SMALL square cover flanked
- * by two circular buttons (not a full-width cover), so the tracklist below —
- * the thing you actually scroll and tap — gets almost the entire screen
- * instead of a cramped sliver under an oversized hero image.
+ * Matches the mockup's right panel proportions: a SMALL square cover (not a
+ * full-width hero image), so the tracklist below — the thing you actually
+ * scroll and tap — gets almost the entire screen.
  */
 @Composable
 fun AlbumScreen(albumId: String, navController: NavController, playerController: PlayerController) {
@@ -102,36 +97,23 @@ fun AlbumScreen(albumId: String, navController: NavController, playerController:
             }
         }
 
-        // Heart-cover-shuffle row, centered, with the title/artist block
-        // below it rather than beside it — the mockup's actual proportions,
-        // not a side-by-side layout invented to save vertical space (the
-        // tracklist below already claims all the space this row doesn't use).
+        // Just the cover, centered, tap to play from track 1 — no flanking
+        // buttons per feedback.
         Row(
             modifier = Modifier.fillMaxWidth().padding(top = 8.dp),
             horizontalArrangement = Arrangement.Center,
-            verticalAlignment = Alignment.CenterVertically,
         ) {
-            CircleAction(icon = Icons.Filled.Shuffle, contentDescription = "Shuffle disco") {
-                if (!playerState.shuffle) playerController.toggleShuffle()
-                playFrom(0)
-            }
-            Spacer(modifier = Modifier.width(20.dp))
             AsyncImage(
                 model = a.coverUrl,
                 contentDescription = a.title,
                 contentScale = ContentScale.Crop,
                 modifier = Modifier
-                    .size(104.dp)
+                    .size(112.dp)
                     .clip(RoundedCornerShape(14.dp))
-                    .background(JatzSurfaceLow)
+                    .background(glossyBrush(JatzSurfaceLow))
                     .neumorphic(cornerRadius = 14.dp, elevation = 6.dp)
                     .clickable { playFrom(0) },
             )
-            Spacer(modifier = Modifier.width(20.dp))
-            CircleAction(icon = Icons.Filled.Shuffle, contentDescription = "Shuffle disco") {
-                if (!playerState.shuffle) playerController.toggleShuffle()
-                playFrom(0)
-            }
         }
 
         Column(
@@ -173,23 +155,5 @@ fun AlbumScreen(albumId: String, navController: NavController, playerController:
                 )
             }
         }
-    }
-}
-
-@Composable
-private fun CircleAction(
-    icon: androidx.compose.ui.graphics.vector.ImageVector,
-    contentDescription: String?,
-    onClick: () -> Unit,
-) {
-    IconButton(
-        onClick = onClick,
-        modifier = Modifier
-            .size(44.dp)
-            .neumorphic(cornerRadius = 22.dp, elevation = 5.dp)
-            .clip(CircleShape)
-            .background(JatzSurface),
-    ) {
-        Icon(icon, contentDescription = contentDescription, tint = JatzText)
     }
 }

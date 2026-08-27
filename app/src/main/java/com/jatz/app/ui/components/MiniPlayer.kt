@@ -30,6 +30,7 @@ import com.jatz.app.ui.theme.JatzSurface
 import com.jatz.app.ui.theme.JatzText
 import com.jatz.app.ui.theme.JatzTextDim
 import com.jatz.app.ui.theme.JatzType
+import com.jatz.app.ui.theme.glossyBrush
 import com.jatz.app.ui.theme.neumorphic
 
 @Composable
@@ -40,10 +41,13 @@ fun MiniPlayer(state: PlayerUiState, controller: PlayerController, onOpen: () ->
     Row(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(horizontal = 12.dp, vertical = 6.dp)
+            // More room below than above: it sits directly on top of the
+            // bottom nav bar, and the earlier symmetric 6dp read as no gap
+            // at all against that adjacent surface.
+            .padding(horizontal = 12.dp, top = 6.dp, bottom = 12.dp)
             .neumorphic(cornerRadius = 16.dp, elevation = 5.dp)
             .clip(RoundedCornerShape(16.dp))
-            .background(JatzSurface)
+            .background(glossyBrush(JatzSurface))
             .clickable(onClick = onOpen)
             .padding(8.dp),
         verticalAlignment = Alignment.CenterVertically,
@@ -87,7 +91,14 @@ fun MiniPlayer(state: PlayerUiState, controller: PlayerController, onOpen: () ->
                 strokeWidth = 2.dp,
             )
         } else {
-            IconButton(onClick = { controller.togglePlayPause() }) {
+            IconButton(
+                onClick = { controller.togglePlayPause() },
+                // Extra end margin: IconButton's own 48dp touch bounds sat
+                // flush against the pill's rounded corner with only the
+                // row's uniform 8dp padding around it -- looked pinned to
+                // the edge rather than centered with room to breathe.
+                modifier = Modifier.padding(end = 4.dp),
+            ) {
                 Icon(
                     imageVector = if (state.isPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
                     contentDescription = "Play/Pause",

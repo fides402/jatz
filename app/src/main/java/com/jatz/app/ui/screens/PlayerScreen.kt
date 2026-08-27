@@ -21,7 +21,6 @@ import androidx.compose.material.icons.filled.Pause
 import androidx.compose.material.icons.filled.PlayArrow
 import androidx.compose.material.icons.filled.Repeat
 import androidx.compose.material.icons.filled.RepeatOne
-import androidx.compose.material.icons.filled.Shuffle
 import androidx.compose.material.icons.filled.SkipNext
 import androidx.compose.material.icons.filled.SkipPrevious
 import androidx.compose.material3.Icon
@@ -55,7 +54,9 @@ import com.jatz.app.ui.theme.JatzSurfaceLow
 import com.jatz.app.ui.theme.JatzText
 import com.jatz.app.ui.theme.JatzTextDim
 import com.jatz.app.ui.theme.JatzType
+import com.jatz.app.ui.theme.glossyBrush
 import com.jatz.app.ui.theme.neumorphic
+import com.jatz.app.ui.theme.neumorphicInset
 
 // Fixed, compact sizes: cover + text + slider + the transport disc need to
 // fit on a typical phone with no scrolling. The disc is deliberately large
@@ -96,7 +97,12 @@ fun PlayerScreen(navController: NavController, playerController: PlayerControlle
             modifier = Modifier
                 .fillMaxSize()
                 .verticalScroll(rememberScrollState())
-                .padding(horizontal = 28.dp),
+                // Extra bottom padding: without it the disc's own 8dp margin
+                // was the only thing between it and the screen edge -- too
+                // tight, and risks the disc's touch targets landing under a
+                // gesture-nav bar on some devices.
+                .padding(horizontal = 28.dp, vertical = 4.dp)
+                .padding(bottom = 28.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
         ) {
             Text(
@@ -113,7 +119,7 @@ fun PlayerScreen(navController: NavController, playerController: PlayerControlle
                     .padding(vertical = 14.dp)
                     .size(COVER_SIZE)
                     .clip(RoundedCornerShape(20.dp))
-                    .background(JatzSurfaceLow)
+                    .background(glossyBrush(JatzSurfaceLow))
                     .neumorphic(cornerRadius = 20.dp, elevation = 8.dp),
             )
 
@@ -165,69 +171,65 @@ fun PlayerScreen(navController: NavController, playerController: PlayerControlle
                     modifier = Modifier.padding(top = 6.dp), maxLines = 3)
             }
 
-            // One embossed disc with three tiers — shuffle near the top,
-            // previous/next in the middle, play/pause below, repeat at the
-            // bottom mirroring shuffle — the click-wheel-style layout of the
-            // reference mockup, not five buttons spread across a plain row.
+            // The reference mockup's disc is NOT a raised card with a big
+            // filled play button inside it: it's a large, barely-embossed
+            // dark disc with a smaller SUNKEN decorative circle in its
+            // center, and four small icons at the four cardinal points --
+            // repeat/loop at top (replacing shuffle), previous at left, next
+            // at right, play/pause at bottom, all the same subtle visual
+            // weight. Nothing here is a big white accent button.
             Box(
                 modifier = Modifier
                     .padding(top = 14.dp, bottom = 8.dp)
                     .size(DISC_SIZE)
-                    .neumorphic(cornerRadius = DISC_SIZE / 2, elevation = 10.dp)
+                    .neumorphic(cornerRadius = DISC_SIZE / 2, elevation = 3.dp)
                     .clip(CircleShape)
                     .background(JatzSurface),
                 contentAlignment = Alignment.Center,
             ) {
-                Column(
-                    modifier = Modifier.fillMaxSize().padding(vertical = 20.dp),
-                    horizontalAlignment = Alignment.CenterHorizontally,
-                    verticalArrangement = Arrangement.SpaceBetween,
+                // Decorative sunken center -- not interactive, just the
+                // click-wheel's visual signature. Roughly a third of the
+                // disc's diameter, not half -- the icons sit in the wide
+                // ring around it, not crowded against a huge center hole.
+                Box(
+                    modifier = Modifier
+                        .size(DISC_SIZE * 0.34f)
+                        .clip(CircleShape)
+                        .background(JatzSurfaceLow)
+                        .neumorphicInset(cornerRadius = DISC_SIZE * 0.17f, elevation = 4.dp),
+                )
+
+                IconButton(
+                    onClick = { playerController.cycleRepeat() },
+                    modifier = Modifier.align(Alignment.TopCenter).padding(top = 20.dp),
                 ) {
-                    IconButton(onClick = { playerController.toggleShuffle() }) {
-                        Icon(
-                            Icons.Filled.Shuffle,
-                            contentDescription = "Shuffle",
-                            tint = if (state.shuffle) JatzAccent else JatzTextDim,
-                        )
-                    }
-
-                    Row(
-                        modifier = Modifier.fillMaxWidth().padding(horizontal = 28.dp),
-                        horizontalArrangement = Arrangement.SpaceBetween,
-                        verticalAlignment = Alignment.CenterVertically,
-                    ) {
-                        IconButton(onClick = { playerController.previous() }, modifier = Modifier.size(44.dp)) {
-                            Icon(Icons.Filled.SkipPrevious, contentDescription = "Precedente", tint = JatzText,
-                                modifier = Modifier.size(30.dp))
-                        }
-                        IconButton(
-                            onClick = { playerController.togglePlayPause() },
-                            modifier = Modifier
-                                .size(64.dp)
-                                .neumorphic(cornerRadius = 32.dp, elevation = 6.dp)
-                                .clip(CircleShape)
-                                .background(JatzAccent),
-                        ) {
-                            Icon(
-                                imageVector = if (state.isPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
-                                contentDescription = "Play/Pausa",
-                                tint = JatzSurface,
-                                modifier = Modifier.size(30.dp),
-                            )
-                        }
-                        IconButton(onClick = { playerController.next() }, modifier = Modifier.size(44.dp)) {
-                            Icon(Icons.Filled.SkipNext, contentDescription = "Successivo", tint = JatzText,
-                                modifier = Modifier.size(30.dp))
-                        }
-                    }
-
-                    IconButton(onClick = { playerController.cycleRepeat() }) {
-                        Icon(
-                            imageVector = if (state.repeat == RepeatCycle.TRACK) Icons.Filled.RepeatOne else Icons.Filled.Repeat,
-                            contentDescription = "Repeat",
-                            tint = if (state.repeat != RepeatCycle.OFF) JatzAccent else JatzTextDim,
-                        )
-                    }
+                    Icon(
+                        imageVector = if (state.repeat == RepeatCycle.TRACK) Icons.Filled.RepeatOne else Icons.Filled.Repeat,
+                        contentDescription = "Loop",
+                        tint = if (state.repeat != RepeatCycle.OFF) JatzAccent else JatzTextDim,
+                    )
+                }
+                IconButton(
+                    onClick = { playerController.previous() },
+                    modifier = Modifier.align(Alignment.CenterStart).padding(start = 20.dp),
+                ) {
+                    Icon(Icons.Filled.SkipPrevious, contentDescription = "Precedente", tint = JatzText)
+                }
+                IconButton(
+                    onClick = { playerController.next() },
+                    modifier = Modifier.align(Alignment.CenterEnd).padding(end = 20.dp),
+                ) {
+                    Icon(Icons.Filled.SkipNext, contentDescription = "Successivo", tint = JatzText)
+                }
+                IconButton(
+                    onClick = { playerController.togglePlayPause() },
+                    modifier = Modifier.align(Alignment.BottomCenter).padding(bottom = 20.dp),
+                ) {
+                    Icon(
+                        imageVector = if (state.isPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
+                        contentDescription = "Play/Pausa",
+                        tint = JatzText,
+                    )
                 }
             }
         }
@@ -280,7 +282,23 @@ private fun ThinSeekBar(
                     cap = StrokeCap.Round,
                 )
             }
-            drawCircle(color = JatzAccent, radius = 5.dp.toPx(), center = Offset(activeX, midY))
+            // The seek marker itself: a small dark glossy bead (not a flat
+            // light dot) -- a soft drop shadow, a dark base, and a small
+            // specular glint offset toward the top-left, echoing the same
+            // glossy-material read as the buttons elsewhere on this screen.
+            val dotRadius = 7.dp.toPx()
+            val dotCenter = Offset(activeX, midY)
+            drawCircle(
+                color = Color.Black.copy(alpha = 0.35f),
+                radius = dotRadius,
+                center = dotCenter + Offset(1.dp.toPx(), 1.5.dp.toPx()),
+            )
+            drawCircle(color = JatzSurfaceLow, radius = dotRadius, center = dotCenter)
+            drawCircle(
+                color = Color.White.copy(alpha = 0.55f),
+                radius = dotRadius * 0.35f,
+                center = dotCenter + Offset(-dotRadius * 0.35f, -dotRadius * 0.35f),
+            )
         }
         Slider(
             value = positionMs.toFloat(),

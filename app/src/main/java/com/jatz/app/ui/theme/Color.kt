@@ -2,16 +2,16 @@ package com.jatz.app.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-// Matched to the reference mockup: a soft dark-grey neumorphic surface, no
-// pure black anywhere (that's what keeps the dual-shadow trick in
-// Neumorphic.kt readable). The mockup itself is monochrome -- no gold/yellow
-// accent -- so the accent is white, not a color.
-val JatzBackground = Color(0xFF2A2A2A)
-val JatzSurface = Color(0xFF2F2F2F)
-val JatzSurfaceLow = Color(0xFF272727)
-val JatzShadowLight = Color(0xFF3C3C3C)
-val JatzShadowDark = Color(0xFF141414)
+// Matched to the reference mockup: a near-black neumorphic surface (kept a
+// hair above pure black so the dual-shadow trick in Neumorphic.kt still
+// reads), no gold/yellow accent -- the mockup itself is monochrome, so the
+// accent is white, not a color.
+val JatzBackground = Color(0xFF1B1B1B)
+val JatzSurface = Color(0xFF202020)
+val JatzSurfaceLow = Color(0xFF181818)
+val JatzShadowLight = Color(0xFF323232)
+val JatzShadowDark = Color(0xFF090909)
 val JatzAccent = Color(0xFFF5F5F2)
 val JatzText = Color(0xFFEDEDED)
 val JatzTextDim = Color(0xFF9A9A9A)
-val JatzDivider = Color(0xFF3A3A3A)
+val JatzDivider = Color(0xFF2C2C2C)

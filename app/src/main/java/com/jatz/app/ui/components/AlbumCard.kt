@@ -20,6 +20,8 @@ import com.jatz.app.ui.theme.JatzSurfaceLow
 import com.jatz.app.ui.theme.JatzText
 import com.jatz.app.ui.theme.JatzTextDim
 import com.jatz.app.ui.theme.JatzType
+import com.jatz.app.ui.theme.glossyBrush
+import com.jatz.app.ui.theme.neumorphic
 
 /** One tile in the library grid — cover, title, artist, Spotify-style. */
 @Composable
@@ -33,7 +35,8 @@ fun AlbumCard(album: AlbumDto, modifier: Modifier = Modifier, onClick: () -> Uni
                 .fillMaxWidth()
                 .aspectRatio(1f)
                 .clip(RoundedCornerShape(10.dp))
-                .background(JatzSurfaceLow),
+                .background(glossyBrush(JatzSurfaceLow))
+                .neumorphic(cornerRadius = 10.dp, elevation = 4.dp),
         )
         Column(modifier = Modifier.padding(top = 6.dp)) {
             Text(

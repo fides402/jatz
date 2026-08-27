@@ -23,7 +23,6 @@ import com.jatz.app.data.model.DropDto
 import com.jatz.app.data.model.eraEnum
 import com.jatz.app.data.model.Era
 import com.jatz.app.ui.components.AlbumCard
-import com.jatz.app.ui.theme.JatzAccent
 import com.jatz.app.ui.theme.JatzText
 import com.jatz.app.ui.theme.JatzTextDim
 import com.jatz.app.ui.theme.JatzType
@@ -75,10 +74,14 @@ fun TodayScreen(navController: NavController) {
 
 @Composable
 private fun SectionLabel(text: String) {
+    // Dim, not accent: accent is reserved app-wide for active/interactive
+    // state (a loved heart, the playing track, an active nav tab) -- a
+    // static section divider isn't that, and using accent for both made
+    // active state harder to spot at a glance.
     Text(
         text = text,
         style = JatzType.caption,
-        color = JatzAccent,
+        color = JatzTextDim,
         modifier = Modifier.padding(bottom = 8.dp),
     )
 }
