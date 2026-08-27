@@ -55,6 +55,11 @@ jobs:
           path: ~/.cache/pip
           key: pip-${{ runner.os }}-${{ hashFiles('engine/requirements.txt') }}
 
+      - name: Install ffmpeg
+        # Not preinstalled on this runner image after all -- checked and
+        # confirmed absent on a real run rather than assumed present.
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
       - name: Verify ffmpeg is on PATH
         run: ffmpeg -version | head -n1
 
