@@ -13,6 +13,7 @@ import tempfile
 import threading
 
 import numpy as np
+import soundfile as sf
 
 _HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROFILE_DIR = os.path.join(_HERE, "profiles")
@@ -64,28 +65,61 @@ def _model():
     return _MODEL
 
 
+def _ffmpeg_decode(src_path: str, sr: int = 48000):
+    """Decode any container (m4a/AAC, mp3, ...) to mono float32 PCM via ffmpeg.
+
+    librosa's audioread fallback turned out unreliable in CI for iTunes' .m4a
+    previews (decode failures with an *empty* exception message — no usable
+    diagnostic at all). ffmpeg is preinstalled on GitHub-hosted Ubuntu runners
+    and decodes AAC/MP3 directly with no format-sniffing ambiguity, so this
+    shells out to it instead of trusting librosa/audioread to pick a backend.
+    """
+    import subprocess
+
+    fd, wav_path = tempfile.mkstemp(suffix=".wav")
+    os.close(fd)
+    try:
+        proc = subprocess.run(
+            ["ffmpeg", "-y", "-v", "error", "-i", src_path,
+             "-ac", "1", "-ar", str(sr), wav_path],
+            capture_output=True, timeout=30,
+        )
+        if proc.returncode != 0 or not os.path.exists(wav_path):
+            stderr = proc.stderr.decode("utf-8", "replace").strip()
+            print(f"[CLAP] ffmpeg decode failed for {os.path.basename(src_path)}: {stderr}", flush=True)
+            return None, None
+        y, out_sr = sf.read(wav_path, dtype="float32", always_2d=False)
+        return y, out_sr
+    except Exception as e:
+        print(f"[CLAP] ffmpeg decode raised for {os.path.basename(src_path)} "
+              f"({type(e).__name__}): {e}", flush=True)
+        return None, None
+    finally:
+        try:
+            os.remove(wav_path)
+        except OSError:
+            pass
+
+
 def embed_audio_file(path: str) -> np.ndarray | None:
     """512-dim L2-normalised embedding for an audio file of any format.
 
-    Decoded through librosa rather than handed straight to laion-clap: previews
-    arrive as .m4a from iTunes and .mp3 from Deezer, and going through librosa
-    normalises sample rate and channel count for both.
+    Decoded via ffmpeg rather than handed straight to laion-clap: previews
+    arrive as .m4a from iTunes and .mp3 from Deezer, and this normalises
+    sample rate and channel count for both (see [_ffmpeg_decode]).
     """
-    import librosa
-    import soundfile as sf
-
-    try:
-        y, _ = librosa.load(path, sr=48000, mono=True)
-    except Exception as e:
-        print(f"[CLAP] decode failed for {os.path.basename(path)}: {e}", flush=True)
+    y, sr = _ffmpeg_decode(path, sr=48000)
+    if y is None:
         return None
-    if y.size < 48000:          # under a second of audio — not worth scoring
+    if y.ndim > 1:               # ffmpeg -ac 1 should already guarantee mono
+        y = y.mean(axis=1)
+    if y.size < sr:               # under a second of audio — not worth scoring
         return None
 
     # CLAP's window is 10s. Take it from the middle of the preview: previews
     # often open on a fade-in or a count-in, and the centre is more
     # representative of the record.
-    want = 48000 * 10
+    want = sr * 10
     if y.size > want:
         start = (y.size - want) // 2
         y = y[start:start + want]
@@ -93,14 +127,14 @@ def embed_audio_file(path: str) -> np.ndarray | None:
     fd, tmp = tempfile.mkstemp(suffix=".wav")
     os.close(fd)
     try:
-        sf.write(tmp, y, 48000)
+        sf.write(tmp, y, sr)
         m = _model()
         with _LOCK:
             emb = m.get_audio_embedding_from_filelist(x=[tmp], use_tensor=False)
         v = np.asarray(emb[0], dtype=np.float32)
         return v / (np.linalg.norm(v) + 1e-9)
     except Exception as e:
-        print(f"[CLAP] embed failed: {e}", flush=True)
+        print(f"[CLAP] embed failed ({type(e).__name__}): {e}", flush=True)
         return None
     finally:
         try:
@@ -137,7 +171,12 @@ def text_affinity(styles: list[str], title: str, artist: str) -> float:
     desc = f"{artist} {title} {' '.join(styles)}".strip()
     try:
         d = embed_texts([desc])[0]
-    except Exception:
+    except Exception as e:
+        # Silently returning 0.0 here once hid a real problem (a missing
+        # torchvision dependency broke every embedding call, and every
+        # release quietly landed on the same flat fallback score) for a full
+        # curation run before it surfaced. Never swallow this quietly again.
+        print(f"[CLAP] text_affinity failed ({type(e).__name__}): {e}", flush=True)
         return 0.0
     pos = float(_mean_text("jazz", JAZZ_PROMPTS) @ d)
     neg = float(_mean_text("not", _NOT_JAZZ_PROMPTS) @ d)

@@ -1,9 +1,13 @@
 # NOTE: laion-clap pins numpy<2 -- do not bump.
-# torch (CPU) must be installed separately FIRST from the CPU wheel index
-# (see .github/workflows/daily.yml), otherwise pip pulls the CUDA build --
-# multiple GB, useless on a GitHub-hosted runner with no GPU.
+# torch + torchvision (CPU) must be installed separately FIRST from the CPU
+# wheel index (see .github/workflows/daily.yml), otherwise pip pulls the CUDA
+# build -- multiple GB, useless on a GitHub-hosted runner with no GPU.
+# torchvision is required even though nothing here touches images: laion-clap
+# is built on open_clip, which imports torchvision internally. Without it,
+# EVERY embed call (audio and text) fails silently inside a broad except and
+# every release falls back to the same flat placeholder score -- this bit us
+# on the very first real run, see git history on clap_score.py.
 requests
 numpy<2
-librosa
 soundfile
 laion-clap

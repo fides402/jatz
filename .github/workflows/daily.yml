@@ -55,13 +55,19 @@ jobs:
           path: ~/.cache/pip
           key: pip-${{ runner.os }}-${{ hashFiles('engine/requirements.txt') }}
 
+      - name: Verify ffmpeg is on PATH
+        run: ffmpeg -version | head -n1
+
       - name: Install dependencies
         working-directory: engine
         run: |
           python -m pip install --upgrade pip
           # CPU wheel first, or pip resolves the multi-GB CUDA build via
           # laion-clap's torch dependency -- pointless on a GPU-less runner.
-          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          # torchvision is required too: laion-clap is open_clip-based and
+          # imports it internally even for pure audio embedding (see
+          # requirements.txt for how quietly this fails without it).
+          pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
           pip install -r requirements.txt
 
       - name: Run curator
