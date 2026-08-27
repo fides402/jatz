@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A single vinyl-note glyph, kept inside the adaptive-icon safe zone
+         (the outer ~18dp on each side gets masked/cropped by launchers). -->
+    <path
+        android:fillColor="#E8C97A"
+        android:pathData="M54,26 m-28,0 a28,28 0 1,0 56,0 a28,28 0 1,0 -56,0" />
+    <path
+        android:fillColor="#2A2A2A"
+        android:pathData="M54,26 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+    <path
+        android:fillColor="#E8C97A"
+        android:pathData="M62,20 L62,64 C62,70 57,75 50,75 C44,75 39,70 39,64 C39,58 44,53 50,53 C52.5,53 54.8,53.8 56.7,55.2 L56.7,26 Z" />
+</vector>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JATZ</string>
+    <string name="notif_channel_playback">Riproduzione</string>
+    <string name="notif_channel_daily">Nuovi dischi</string>
+</resources>

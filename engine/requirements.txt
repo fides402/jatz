@@ -1,0 +1,9 @@
+# NOTE: laion-clap pins numpy<2 -- do not bump.
+# torch (CPU) must be installed separately FIRST from the CPU wheel index
+# (see .github/workflows/daily.yml), otherwise pip pulls the CUDA build --
+# multiple GB, useless on a GitHub-hosted runner with no GPU.
+requests
+numpy<2
+librosa
+soundfile
+laion-clap

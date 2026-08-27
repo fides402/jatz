@@ -1,0 +1,10 @@
+<resources>
+    <!-- The Compose theme (ui/theme/Theme.kt) owns all real styling; this is
+         only the pre-Compose window theme Android needs before the first
+         frame, kept dark to avoid a white flash on launch. -->
+    <style name="Theme.Jatz" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/jatz_bg</item>
+        <item name="android:statusBarColor">@color/jatz_bg</item>
+        <item name="android:navigationBarColor">@color/jatz_bg</item>
+    </style>
+</resources>

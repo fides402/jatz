@@ -1,0 +1,95 @@
+name: Daily jazz drop
+
+on:
+  schedule:
+    # 03:30 UTC = 05:30 CEST / 04:30 CET -- leaves 2.5h+ of buffer before the
+    # app's 08:00-local deadline even accounting for GitHub Actions' typical
+    # scheduling jitter (routinely 5-20 min, occasionally more under load).
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Force a specific date (YYYY-MM-DD), for backfill/testing"
+        required: false
+        default: ""
+      force:
+        description: "Regenerate even if that date's drop already exists"
+        type: boolean
+        default: false
+      seed_build:
+        description: "Also write app/src/main/assets/seed_drop.json (first-build seed)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # A PAT, not GITHUB_TOKEN: commits made with the default token do NOT
+          # count as repo activity, and GitHub disables schedules on repos with
+          # no activity for 60 days. Using a PAT keeps the schedule alive.
+          token: ${{ secrets.JATZ_PAT }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache CLAP checkpoint
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/laion_clap
+          key: laion-clap-music-ckpt-v1
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('engine/requirements.txt') }}
+
+      - name: Install dependencies
+        working-directory: engine
+        run: |
+          python -m pip install --upgrade pip
+          # CPU wheel first, or pip resolves the multi-GB CUDA build via
+          # laion-clap's torch dependency -- pointless on a GPU-less runner.
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements.txt
+
+      - name: Run curator
+        working-directory: engine
+        env:
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+          PYTHONIOENCODING: utf-8
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            ARGS="$ARGS --date ${{ github.event.inputs.date }}"
+          fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          if [ "${{ github.event.inputs.seed_build }}" = "true" ]; then
+            ARGS="$ARGS --seed-build"
+          fi
+          python run_daily.py $ARGS
+
+      - name: Commit drop + state
+        run: |
+          git config user.name "jatz-bot"
+          git config user.email "francescocapuani92@gmail.com"
+          git add drops/ engine/state/
+          if [ -f app/src/main/assets/seed_drop.json ]; then
+            git add app/src/main/assets/seed_drop.json
+          fi
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            git commit -m "Daily jazz drop $(date -u +%F)"
+            git push
+          fi
