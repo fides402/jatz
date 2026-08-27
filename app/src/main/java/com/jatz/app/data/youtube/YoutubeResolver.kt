@@ -6,6 +6,8 @@ import kotlinx.coroutines.withContext
 import okhttp3.OkHttpClient
 import org.schabi.newpipe.extractor.NewPipe
 import org.schabi.newpipe.extractor.ServiceList
+import org.schabi.newpipe.extractor.localization.ContentCountry
+import org.schabi.newpipe.extractor.localization.Localization
 import org.schabi.newpipe.extractor.stream.AudioStream
 import org.schabi.newpipe.extractor.stream.DeliveryMethod
 import org.schabi.newpipe.extractor.stream.StreamInfo
@@ -61,7 +63,15 @@ object YoutubeResolver {
 
     fun ensureInit() {
         if (initialized.compareAndSet(false, true)) {
-            NewPipe.init(OkHttpDownloader(httpClient))
+            // Explicit en-US: NewPipe.init()'s default locale/country combo
+            // steers YouTube toward less heavily-tested response variants,
+            // and a first real run hit a NullPointerException deep inside
+            // NewPipeExtractor's own JSON parsing (chained .getObject() calls
+            // assuming a shape YouTube didn't return) -- a known, recurring
+            // class of bug for exactly this kind of locale/experiment
+            // mismatch. en-US is what NewPipeExtractor's own test suite and
+            // the NewPipe app itself are most tested against.
+            NewPipe.init(OkHttpDownloader(httpClient), Localization("en", "US"), ContentCountry("US"))
         }
     }
 

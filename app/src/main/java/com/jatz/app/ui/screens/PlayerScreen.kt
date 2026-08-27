@@ -5,15 +5,14 @@ import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.rememberScrollState
-import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ExpandMore
 import androidx.compose.material.icons.filled.Pause
@@ -53,6 +52,12 @@ import com.jatz.app.ui.theme.JatzTextDim
 import com.jatz.app.ui.theme.JatzType
 import com.jatz.app.ui.theme.neumorphic
 
+// Fixed, compact sizes rather than fillMaxWidth/large defaults: the goal is
+// for cover + text + slider + transport disc to all fit on a typical phone
+// screen with no scrolling needed, not just to look good on a tall preview.
+private val COVER_SIZE = 190.dp
+private val DISC_SIZE = 168.dp
+
 @Composable
 fun PlayerScreen(navController: NavController, playerController: PlayerController) {
     val state by playerController.state.collectAsState()
@@ -63,7 +68,7 @@ fun PlayerScreen(navController: NavController, playerController: PlayerControlle
 
     Column(modifier = Modifier.fillMaxSize()) {
         Row(
-            modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 4.dp),
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp),
             horizontalArrangement = Arrangement.Start,
         ) {
             IconButton(onClick = { navController.popBackStack() }) {
@@ -78,148 +83,150 @@ fun PlayerScreen(navController: NavController, playerController: PlayerControlle
             return@Column
         }
 
-        // Scrollable: cover + text + slider + the 220dp transport disc can
-        // together exceed a smaller phone's usable height once the bottom
-        // nav/mini-player has already taken its share, so nothing here
-        // relies on everything fitting one unscrolled screen.
+        // Everything below is sized to fit one screen on typical phones
+        // without scrolling (see COVER_SIZE/DISC_SIZE). verticalScroll stays
+        // as a safety net only for unusually short screens/large font
+        // scales, where it silently kicks in instead of clipping content.
         Column(
             modifier = Modifier
                 .fillMaxSize()
                 .verticalScroll(rememberScrollState())
-                .padding(horizontal = 24.dp, vertical = 8.dp),
+                .padding(horizontal = 24.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
         ) {
-        Text(
-            text = album.title.uppercase(),
-            style = JatzType.screenTitle,
-            color = JatzTextDim,
-            modifier = Modifier.padding(top = 8.dp),
-        )
-
-        AsyncImage(
-            model = album.coverUrl,
-            contentDescription = album.title,
-            contentScale = ContentScale.Crop,
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(vertical = 24.dp)
-                .aspectRatio(1f)
-                .clip(RoundedCornerShape(20.dp))
-                .background(JatzSurfaceLow)
-                .neumorphic(cornerRadius = 20.dp, elevation = 8.dp),
-        )
-
-        Text(
-            text = track?.title ?: "—",
-            style = JatzType.albumTitle,
-            color = JatzText,
-            textAlign = TextAlign.Center,
-        )
-        Text(
-            text = track?.artist?.ifBlank { album.artist } ?: album.artist,
-            style = JatzType.albumArtist,
-            color = JatzTextDim,
-            modifier = Modifier.padding(top = 4.dp, bottom = 16.dp),
-        )
-
-        val shownPosition = dragPositionMs ?: state.positionMs
-        Slider(
-            value = shownPosition.toFloat(),
-            onValueChange = { dragPositionMs = it.toLong() },
-            onValueChangeFinished = {
-                dragPositionMs?.let { playerController.seekTo(it) }
-                dragPositionMs = null
-            },
-            valueRange = 0f..state.durationMs.coerceAtLeast(1L).toFloat(),
-            colors = SliderDefaults.colors(
-                thumbColor = JatzAccent,
-                activeTrackColor = JatzAccent,
-                inactiveTrackColor = JatzSurfaceLow,
-            ),
-        )
-        Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) {
-            Text(formatMs(shownPosition), style = JatzType.caption, color = JatzTextDim)
-            Text("-" + formatMs((state.durationMs - shownPosition).coerceAtLeast(0)),
-                style = JatzType.caption, color = JatzTextDim)
-        }
-
-        if (state.isLoading) {
             Text(
-                text = state.loadingLabel ?: "Carico…",
-                style = JatzType.caption,
-                color = JatzAccent,
-                modifier = Modifier.padding(top = 12.dp),
+                text = album.title.uppercase(),
+                style = JatzType.screenTitle,
+                color = JatzTextDim,
             )
-        }
-        state.error?.let {
-            Text(text = it, style = JatzType.caption, color = JatzAccent, modifier = Modifier.padding(top = 12.dp))
-        }
 
-        // Small satellite icons above the transport disc, mirroring the
-        // mockup's single shuffle icon centered above the click-wheel-style
-        // control cluster (repeat mirrors it on the other side).
-        Row(
-            modifier = Modifier.fillMaxWidth().padding(top = 20.dp, bottom = 4.dp),
-            horizontalArrangement = Arrangement.SpaceBetween,
-            verticalAlignment = Alignment.CenterVertically,
-        ) {
-            IconButton(onClick = { playerController.toggleShuffle() }) {
-                Icon(
-                    Icons.Filled.Shuffle,
-                    contentDescription = "Shuffle",
-                    tint = if (state.shuffle) JatzAccent else JatzTextDim,
+            AsyncImage(
+                model = album.coverUrl,
+                contentDescription = album.title,
+                contentScale = ContentScale.Crop,
+                modifier = Modifier
+                    .padding(vertical = 10.dp)
+                    .size(COVER_SIZE)
+                    .clip(RoundedCornerShape(18.dp))
+                    .background(JatzSurfaceLow)
+                    .neumorphic(cornerRadius = 18.dp, elevation = 8.dp),
+            )
+
+            Text(
+                text = track?.title ?: "—",
+                style = JatzType.albumTitle,
+                color = JatzText,
+                textAlign = TextAlign.Center,
+                maxLines = 1,
+            )
+            Text(
+                text = track?.artist?.ifBlank { album.artist } ?: album.artist,
+                style = JatzType.albumArtist,
+                color = JatzTextDim,
+                modifier = Modifier.padding(top = 2.dp, bottom = 8.dp),
+                maxLines = 1,
+            )
+
+            val shownPosition = dragPositionMs ?: state.positionMs
+            Slider(
+                value = shownPosition.toFloat(),
+                onValueChange = { dragPositionMs = it.toLong() },
+                onValueChangeFinished = {
+                    dragPositionMs?.let { playerController.seekTo(it) }
+                    dragPositionMs = null
+                },
+                valueRange = 0f..state.durationMs.coerceAtLeast(1L).toFloat(),
+                colors = SliderDefaults.colors(
+                    thumbColor = JatzAccent,
+                    activeTrackColor = JatzAccent,
+                    inactiveTrackColor = JatzSurfaceLow,
+                ),
+            )
+            Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) {
+                Text(formatMs(shownPosition), style = JatzType.caption, color = JatzTextDim)
+                Text("-" + formatMs((state.durationMs - shownPosition).coerceAtLeast(0)),
+                    style = JatzType.caption, color = JatzTextDim)
+            }
+
+            if (state.isLoading) {
+                Text(
+                    text = state.loadingLabel ?: "Carico…",
+                    style = JatzType.caption,
+                    color = JatzAccent,
+                    modifier = Modifier.padding(top = 6.dp),
+                    maxLines = 2,
                 )
             }
-            IconButton(onClick = { playerController.cycleRepeat() }) {
-                Icon(
-                    imageVector = if (state.repeat == RepeatCycle.TRACK) Icons.Filled.RepeatOne else Icons.Filled.Repeat,
-                    contentDescription = "Repeat",
-                    tint = if (state.repeat != RepeatCycle.OFF) JatzAccent else JatzTextDim,
-                )
+            state.error?.let {
+                Text(text = it, style = JatzType.caption, color = JatzAccent,
+                    modifier = Modifier.padding(top = 6.dp), maxLines = 3)
             }
-        }
 
-        // One big embossed disc holding prev/play-pause/next together, like
-        // the mockup's click-wheel-style transport cluster, instead of five
-        // separate buttons spread across a plain row.
-        Box(
-            modifier = Modifier
-                .padding(top = 12.dp)
-                .size(220.dp)
-                .neumorphic(cornerRadius = 110.dp, elevation = 10.dp)
-                .clip(CircleShape)
-                .background(JatzSurface),
-            contentAlignment = Alignment.Center,
-        ) {
+            // Small satellite icons above the transport disc, mirroring the
+            // mockup's single shuffle icon centered above the click-wheel-style
+            // control cluster (repeat mirrors it on the other side).
             Row(
-                horizontalArrangement = Arrangement.spacedBy(4.dp),
+                modifier = Modifier.fillMaxWidth().padding(top = 8.dp),
+                horizontalArrangement = Arrangement.SpaceBetween,
                 verticalAlignment = Alignment.CenterVertically,
             ) {
-                IconButton(onClick = { playerController.previous() }, modifier = Modifier.size(56.dp)) {
-                    Icon(Icons.Filled.SkipPrevious, contentDescription = "Precedente", tint = JatzText,
-                        modifier = Modifier.size(34.dp))
-                }
-                IconButton(
-                    onClick = { playerController.togglePlayPause() },
-                    modifier = Modifier
-                        .size(76.dp)
-                        .neumorphic(cornerRadius = 38.dp, elevation = 6.dp)
-                        .clip(CircleShape)
-                        .background(JatzAccent),
-                ) {
+                IconButton(onClick = { playerController.toggleShuffle() }) {
                     Icon(
-                        imageVector = if (state.isPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
-                        contentDescription = "Play/Pausa",
-                        tint = JatzSurface,
-                        modifier = Modifier.size(36.dp),
+                        Icons.Filled.Shuffle,
+                        contentDescription = "Shuffle",
+                        tint = if (state.shuffle) JatzAccent else JatzTextDim,
                     )
                 }
-                IconButton(onClick = { playerController.next() }, modifier = Modifier.size(56.dp)) {
-                    Icon(Icons.Filled.SkipNext, contentDescription = "Successivo", tint = JatzText,
-                        modifier = Modifier.size(34.dp))
+                IconButton(onClick = { playerController.cycleRepeat() }) {
+                    Icon(
+                        imageVector = if (state.repeat == RepeatCycle.TRACK) Icons.Filled.RepeatOne else Icons.Filled.Repeat,
+                        contentDescription = "Repeat",
+                        tint = if (state.repeat != RepeatCycle.OFF) JatzAccent else JatzTextDim,
+                    )
                 }
             }
-        }
+
+            // One big embossed disc holding prev/play-pause/next together, like
+            // the mockup's click-wheel-style transport cluster, instead of five
+            // separate buttons spread across a plain row.
+            Box(
+                modifier = Modifier
+                    .padding(top = 4.dp, bottom = 8.dp)
+                    .size(DISC_SIZE)
+                    .neumorphic(cornerRadius = DISC_SIZE / 2, elevation = 10.dp)
+                    .clip(CircleShape)
+                    .background(JatzSurface),
+                contentAlignment = Alignment.Center,
+            ) {
+                Row(
+                    horizontalArrangement = Arrangement.spacedBy(2.dp),
+                    verticalAlignment = Alignment.CenterVertically,
+                ) {
+                    IconButton(onClick = { playerController.previous() }, modifier = Modifier.size(46.dp)) {
+                        Icon(Icons.Filled.SkipPrevious, contentDescription = "Precedente", tint = JatzText,
+                            modifier = Modifier.size(28.dp))
+                    }
+                    IconButton(
+                        onClick = { playerController.togglePlayPause() },
+                        modifier = Modifier
+                            .size(64.dp)
+                            .neumorphic(cornerRadius = 32.dp, elevation = 6.dp)
+                            .clip(CircleShape)
+                            .background(JatzAccent),
+                    ) {
+                        Icon(
+                            imageVector = if (state.isPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
+                            contentDescription = "Play/Pausa",
+                            tint = JatzSurface,
+                            modifier = Modifier.size(30.dp),
+                        )
+                    }
+                    IconButton(onClick = { playerController.next() }, modifier = Modifier.size(46.dp)) {
+                        Icon(Icons.Filled.SkipNext, contentDescription = "Successivo", tint = JatzText,
+                            modifier = Modifier.size(28.dp))
+                    }
+                }
+            }
         }
     }
 }
