@@ -3,15 +3,12 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <!-- A single bold "J" stroke, cream on dark: one simple glyph, no
-         repeating pattern (the earlier concentric-rings vinyl read as an
-         optical/hypnotic spiral, not a record). Drawn as one open path with
-         a thick round-capped stroke rather than a filled shape, so the curve
-         stays smooth with no bezier-math risk. -->
-    <path
-        android:strokeColor="#EDE3D0"
-        android:strokeWidth="15"
-        android:strokeLineCap="round"
-        android:strokeLineJoin="round"
-        android:pathData="M62,29 L62,66 Q62,79 47,79" />
+    <!-- A plain record disc: one white disc, one dark label, one tiny white
+         pinhole. A single transition from edge to label, not several
+         alternating rings, so it reads as a disc rather than the earlier
+         multi-ring version's optical/hypnotic-spiral effect. Kept inside the
+         ~66dp adaptive-icon safe zone. -->
+    <path android:fillColor="#F5F5F2" android:pathData="M54,54 m-34,0 a34,34 0 1,0 68,0 a34,34 0 1,0 -68,0" />
+    <path android:fillColor="#2A2A2A" android:pathData="M54,54 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" />
+    <path android:fillColor="#F5F5F2" android:pathData="M54,54 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
 </vector>

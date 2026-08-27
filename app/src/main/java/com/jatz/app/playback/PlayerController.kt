@@ -12,6 +12,7 @@ import androidx.media3.session.SessionToken
 import com.jatz.app.data.LibraryStore
 import com.jatz.app.data.model.AlbumDto
 import com.jatz.app.data.model.TrackDto
+import com.jatz.app.data.youtube.ResolveOutcome
 import com.jatz.app.data.youtube.YoutubeResolver
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -111,6 +112,9 @@ class PlayerController(private val appContext: Context) {
 
             data class Resolved(val track: TrackDto, val item: MediaItem)
             val resolved = mutableListOf<Resolved>()
+            // Kept so a total failure shows WHY, not just "found nothing" --
+            // see ResolveOutcome's doc for why this replaced a silent null.
+            var lastFailureReason: String? = null
 
             for (track in album.tracks) {
                 _state.update { it.copy(loadingLabel = "Cerco “${track.title}”…") }
@@ -118,8 +122,14 @@ class PlayerController(private val appContext: Context) {
                     LibraryStore.cachedStreamRef(appContext, album.id, track.position)
                 }
                 val artist = track.artist.ifBlank { album.artist }
-                val stream = YoutubeResolver.resolve(artist, track.title, cached)
-                if (stream == null) continue   // track skipped; the rest of the album still plays
+                val outcome = YoutubeResolver.resolve(artist, track.title, cached)
+                val stream = when (outcome) {
+                    is ResolveOutcome.Success -> outcome.stream
+                    is ResolveOutcome.Failed -> {
+                        lastFailureReason = "${track.title}: ${outcome.reason}"
+                        continue   // track skipped; the rest of the album still plays
+                    }
+                }
 
                 if (cached == null) {
                     withContext(Dispatchers.IO) {
@@ -144,7 +154,10 @@ class PlayerController(private val appContext: Context) {
 
             if (resolved.isEmpty()) {
                 _state.update {
-                    it.copy(isLoading = false, error = "Nessuna traccia trovata su YouTube per questo disco.")
+                    it.copy(
+                        isLoading = false,
+                        error = "Nessuna traccia riproducibile. " + (lastFailureReason ?: "Motivo sconosciuto."),
+                    )
                 }
                 return@launch
             }

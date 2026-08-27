@@ -3,7 +3,7 @@
     <color name="ic_launcher_background">#2A2A2A</color>
     <color name="jatz_bg">#2A2A2A</color>
     <color name="jatz_surface">#2F2F2F</color>
-    <color name="jatz_accent">#E8C97A</color>
+    <color name="jatz_accent">#F5F5F2</color>
     <color name="jatz_text">#EDEDED</color>
     <color name="jatz_text_dim">#9A9A9A</color>
 </resources>

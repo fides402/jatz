@@ -1,5 +1,6 @@
 package com.jatz.app.data.youtube
 
+import android.util.Log
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import okhttp3.OkHttpClient
@@ -14,11 +15,29 @@ import java.util.Locale
 import java.util.concurrent.TimeUnit
 import java.util.concurrent.atomic.AtomicBoolean
 
+private const val TAG = "JATZ-YT"
+
 data class ResolvedStream(
     val watchUrl: String,
     val streamUrl: String,
     val title: String,
 )
+
+/**
+ * Outcome of a resolve attempt, WITH a reason on failure. A first real device
+ * test failed silently for every track of every album with only a generic
+ * "Nessuna traccia trovata" — every exception in this pipeline was caught by
+ * a blanket `runCatching {}.getOrNull()` with nothing logged and nothing
+ * surfaced, so there was no way to tell whether the cause was "no search
+ * results", "NewPipeExtractor threw", or "found a video but every stream was
+ * DASH-only", all of which need a different fix. Never swallow silently here
+ * again — every failure path returns a reason, and PlayerController surfaces
+ * the first one it sees.
+ */
+sealed class ResolveOutcome {
+    data class Success(val stream: ResolvedStream) : ResolveOutcome()
+    data class Failed(val reason: String) : ResolveOutcome()
+}
 
 /**
  * Finds a playable YouTube audio stream for (artist, title) with no API key
@@ -54,17 +73,48 @@ object YoutubeResolver {
         artist: String,
         title: String,
         preferredWatchUrl: String? = null,
-    ): ResolvedStream? = withContext(Dispatchers.IO) {
+    ): ResolveOutcome = withContext(Dispatchers.IO) {
         ensureInit()
 
-        val watchUrl = preferredWatchUrl ?: runCatching { search(artist, title) }.getOrNull()
-            ?: return@withContext null
+        val watchUrl: String = if (preferredWatchUrl != null) {
+            preferredWatchUrl
+        } else {
+            val searchResult = runCatching { search(artist, title) }
+            val error = searchResult.exceptionOrNull()
+            if (error != null) {
+                Log.w(TAG, "search failed for \"$artist - $title\"", error)
+                return@withContext ResolveOutcome.Failed(
+                    "ricerca YouTube fallita (${error.javaClass.simpleName}: ${error.message})",
+                )
+            }
+            searchResult.getOrNull() ?: return@withContext ResolveOutcome.Failed(
+                "nessun risultato di ricerca per “$artist - $title”",
+            )
+        }
 
-        runCatching {
-            val info = StreamInfo.getInfo(service, watchUrl)
-            val audio = pickAudioStream(info.audioStreams) ?: return@withContext null
-            ResolvedStream(watchUrl = watchUrl, streamUrl = audio.content, title = info.name ?: title)
-        }.getOrNull()
+        val infoResult = runCatching { StreamInfo.getInfo(service, watchUrl) }
+        val info = infoResult.getOrElse { error ->
+            Log.w(TAG, "StreamInfo.getInfo failed for $watchUrl", error)
+            return@withContext ResolveOutcome.Failed(
+                "risoluzione video fallita (${error.javaClass.simpleName}: ${error.message})",
+            )
+        }
+
+        val audio = pickAudioStream(info.audioStreams)
+        if (audio == null) {
+            val methods = info.audioStreams.map { it.deliveryMethod }.distinct()
+            Log.w(TAG, "no progressive-HTTP audio stream for $watchUrl " +
+                "(${info.audioStreams.size} streams, delivery methods: $methods)")
+            return@withContext ResolveOutcome.Failed(
+                if (info.audioStreams.isEmpty()) "il video non ha alcuno stream audio"
+                else "nessuno stream riproducibile tra ${info.audioStreams.size} " +
+                    "(formati: ${methods.joinToString()})",
+            )
+        }
+
+        ResolveOutcome.Success(
+            ResolvedStream(watchUrl = watchUrl, streamUrl = audio.content, title = info.name ?: title),
+        )
     }
 
     private fun pickAudioStream(streams: List<AudioStream>): AudioStream? =
@@ -86,7 +136,10 @@ object YoutubeResolver {
             .filterIsInstance<StreamInfoItem>()
             .filter { it.streamType == StreamType.VIDEO_STREAM }
             .take(10)
-        if (candidates.isEmpty()) return null
+        if (candidates.isEmpty()) {
+            Log.w(TAG, "search returned ${page.items.size} items, 0 usable video streams for \"$query\"")
+            return null
+        }
 
         val target = normalize("$artist $title")
         val best = candidates.maxByOrNull { scoreCandidate(it, target) } ?: return null
