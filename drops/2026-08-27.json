@@ -1,0 +1,405 @@
+{
+ "date": "2026-08-27",
+ "generatedAt": "2026-08-27T02:37:30Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d14761829",
+   "discogsId": 14761829,
+   "title": "Warm",
+   "artist": "Herb Alpert & The Tijuana Brass",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "A&M Records",
+   "country": "Canada",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/IMuL9d7-5kQU8eCgR2bq7vCWwgogefduLQx9Ub01cxw/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODI5LTE1ODEwOTYz/NzgtMTU4Mi5wbmc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 2,
+   "score": 0.78,
+   "vibe": 67,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Sea Is My Soil",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "4:30"
+    },
+    {
+     "position": "A2",
+     "title": "Without Her",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "3:22"
+    },
+    {
+     "position": "A3",
+     "title": "Marjorine",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "3:04"
+    },
+    {
+     "position": "A4",
+     "title": "Girl Talk",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "2:49"
+    },
+    {
+     "position": "A5",
+     "title": "Ob-La-Di, Ob-La-Da",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "1:50"
+    },
+    {
+     "position": "B1",
+     "title": "Zazueira",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "3:13"
+    },
+    {
+     "position": "B2",
+     "title": "The Continental",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "2:06"
+    },
+    {
+     "position": "B3",
+     "title": "Pretty World",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "3:45"
+    },
+    {
+     "position": "B4",
+     "title": "Warm",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "2:31"
+    },
+    {
+     "position": "B5",
+     "title": "To Wait For Love",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "2:55"
+    },
+    {
+     "position": "B6",
+     "title": "Sandbox",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "3:12"
+    }
+   ]
+  },
+  {
+   "id": "d31768223",
+   "discogsId": 31768223,
+   "title": "Morning Star",
+   "artist": "Hubert Laws",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "CTI Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/wsdfSAHu5rKcjnfURm2kcxB-AfATQTfDy2DfGRxlxqw/rs:fit/g:sm/q:90/h:600/w:418/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY4/MjIzLTE3MjczNzk4/NjMtOTE2My5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.78,
+   "vibe": 67,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Morning Star",
+     "artist": "Hubert Laws",
+     "duration": "7:54"
+    },
+    {
+     "position": "A2",
+     "title": "Let Her Go",
+     "artist": "Hubert Laws",
+     "duration": "4:50"
+    },
+    {
+     "position": "A3",
+     "title": "Where Is The Love",
+     "artist": "Hubert Laws",
+     "duration": "4:34"
+    },
+    {
+     "position": "B1",
+     "title": "No More",
+     "artist": "Hubert Laws",
+     "duration": "5:00"
+    },
+    {
+     "position": "B2",
+     "title": "Amazing Grace",
+     "artist": "Hubert Laws",
+     "duration": "7:20"
+    },
+    {
+     "position": "B3",
+     "title": "What Do You Think Of This World Now?",
+     "artist": "Hubert Laws",
+     "duration": "6:00"
+    }
+   ]
+  },
+  {
+   "id": "d3090388",
+   "discogsId": 3090388,
+   "title": "Last Tango In Paris",
+   "artist": "Gato Barbieri",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "United Artists Records",
+   "country": "France",
+   "styles": [
+    "Contemporary Jazz",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/xRruDtH_AElJ8gt8dQOZdbOEZQwTnEhDPSrOkLhC7uE/rs:fit/g:sm/q:90/h:226/w:223/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAz/ODgtMTM1MzQyMDQz/OS05NzIwLmpwZWc.jpeg",
+   "ratingAvg": 4.33,
+   "ratingCount": 3,
+   "score": 0.78,
+   "vibe": 67,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Original Soundtrack from Bernardo Bertolucci's movie.\r\nGato Barbieri performs through the courtesy of Flying Dutchman Productions Ltd.\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Last Tango In Paris - Tango",
+     "artist": "Gato Barbieri",
+     "duration": "3:32"
+    },
+    {
+     "position": "A2",
+     "title": "Jeanne",
+     "artist": "Gato Barbieri",
+     "duration": "2:34"
+    },
+    {
+     "position": "A3",
+     "title": "Girl In Black - Tango (Para Mi Negra)",
+     "artist": "Gato Barbieri",
+     "duration": "2:06"
+    },
+    {
+     "position": "A4",
+     "title": "Last Tango In Paris - Ballad",
+     "artist": "Gato Barbieri",
+     "duration": "3:43"
+    },
+    {
+     "position": "A5",
+     "title": "Fake Ophelia",
+     "artist": "Gato Barbieri",
+     "duration": "2:57"
+    },
+    {
+     "position": "A6",
+     "title": "Picture In The Rain",
+     "artist": "Gato Barbieri",
+     "duration": "1:51"
+    },
+    {
+     "position": "B1",
+     "title": "Return - Tango (La Vuelta)",
+     "artist": "Gato Barbieri",
+     "duration": "3:04"
+    },
+    {
+     "position": "B2",
+     "title": "It's Over",
+     "artist": "Gato Barbieri",
+     "duration": "3:15"
+    },
+    {
+     "position": "B3",
+     "title": "Goodbye (Un Largo Adios)",
+     "artist": "Gato Barbieri",
+     "duration": "2:32"
+    },
+    {
+     "position": "B4",
+     "title": "Why Did She Choose You?",
+     "artist": "Gato Barbieri",
+     "duration": "3:00"
+    },
+    {
+     "position": "B5",
+     "title": "Last Tango In Paris - Jazz Waltz",
+     "artist": "Gato Barbieri",
+     "duration": "5:44"
+    }
+   ]
+  },
+  {
+   "id": "d12777391",
+   "discogsId": 12777391,
+   "title": "Afro-Desia",
+   "artist": "Lonnie Smith",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Solid Records (6)",
+   "country": "Japan",
+   "styles": [
+    "Fusion",
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/vu5GNsMQG0KNCtTqu6pU8HzpAh8VOiE1_-E0fPE5_G4/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc3/MzkxLTE1NDE3NTkw/MTAtOTM2Ni5qcGVn.jpeg",
+   "ratingAvg": 4.75,
+   "ratingCount": 4,
+   "score": 0.78,
+   "vibe": 67,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "℗ © 2018 LRC. LTD. d/b/a/ Groove Merchant\nManufactured and Distributed by Ultra-Vybe, Inc., Japan\nThe copyright in this sound recording is owned by LRC. LTD. d/b/a Groove Merchant.\nLicensed courtesy of LRC LTD. d/b/a Groove Merchant.\nJASRAC STEREO",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Afrodesia",
+     "artist": "Lonnie Smith",
+     "duration": "9:24"
+    },
+    {
+     "position": "2",
+     "title": "Spirits Free",
+     "artist": "Lonnie Smith",
+     "duration": "15:01"
+    },
+    {
+     "position": "3",
+     "title": "Straight To The Point",
+     "artist": "Lonnie Smith",
+     "duration": "6:58"
+    },
+    {
+     "position": "4",
+     "title": "Favors",
+     "artist": "Lonnie Smith",
+     "duration": "10:27"
+    },
+    {
+     "position": "5",
+     "title": "The Awakening",
+     "artist": "Lonnie Smith",
+     "duration": "7:53"
+    }
+   ]
+  },
+  {
+   "id": "d19928290",
+   "discogsId": 19928290,
+   "title": "Another Side Of John Coltrane",
+   "artist": "John Coltrane",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Craft Recordings",
+   "country": "US",
+   "styles": [
+    "Modal",
+    "Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/9RNJlCEe1snOxKjCXFagN9hbSPSAkCyYQ7uzgpoba38/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI4/MjkwLTE2Mjk0Njc3/MDgtNzc1My5qcGVn.jpeg",
+   "ratingAvg": 4.72,
+   "ratingCount": 18,
+   "score": 0.78,
+   "vibe": 67,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "2021 'Barnes & Noble Exclusive' release on 180 gram opaque grey vinyl\n\nCatalog # on Barnes & Noble splash sticker - CR03306\nCatalog # on rear cover & labels - CR00093\nBarcode on sticker on shrink wrap - 8 88072 24237 1\nBarcode on rear cover - 8 88072 05352 6",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Tenor Madness",
+     "artist": "Sonny Rollins Quartet",
+     "duration": "12:08"
+    },
+    {
+     "position": "A2",
+     "title": "'Round Midnight",
+     "artist": "Miles Davis",
+     "duration": "5:22"
+    },
+    {
+     "position": "A3",
+     "title": "Oleo",
+     "artist": "The Miles Davis Quintet",
+     "duration": "6:17"
+    },
+    {
+     "position": "B1",
+     "title": "Airegin",
+     "artist": "The Miles Davis Quintet",
+     "duration": "4:21"
+    },
+    {
+     "position": "B2",
+     "title": "Soultrane",
+     "artist": "Tadd Dameron",
+     "duration": "5:22"
+    },
+    {
+     "position": "B3",
+     "title": "C.T.A.",
+     "artist": "Art Taylor",
+     "duration": "4:39"
+    },
+    {
+     "position": "B4",
+     "title": "Monk's Mood",
+     "artist": "Thelonious Monk",
+     "duration": "7:48"
+    },
+    {
+     "position": "C1",
+     "title": "Epistrophy (Alternate Take)",
+     "artist": "Thelonious Monk",
+     "duration": "3:07"
+    },
+    {
+     "position": "C2",
+     "title": "Trinkle, Tinkle",
+     "artist": "Thelonious Monk",
+     "duration": "6:39"
+    },
+    {
+     "position": "C3",
+     "title": "Nutty",
+     "artist": "Thelonious Monk",
+     "duration": "6:36"
+    },
+    {
+     "position": "C4",
+     "title": "Birks' Works",
+     "artist": "The Red Garland Quintet",
+     "duration": "7:32"
+    },
+    {
+     "position": "D1",
+     "title": "Billie's Bounce",
+     "artist": "The Red Garland Quintet",
+     "duration": "9:21"
+    },
+    {
+     "position": "D2",
+     "title": "Someday My Prince Will Come",
+     "artist": "Miles Davis",
+     "duration": "9:02"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
