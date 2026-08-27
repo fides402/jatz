@@ -36,5 +36,18 @@
             </intent-filter>
         </service>
 
+        <!-- Lets the library export be shared/saved via ACTION_SEND without
+             exposing a raw file:// path (blocked by FileUriExposedException
+             on modern Android) or requesting broad storage permissions. -->
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
     </application>
 </manifest>
