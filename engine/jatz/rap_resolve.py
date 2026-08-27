@@ -1,10 +1,19 @@
-"""Resolves an extracted {artist, title} pair to real metadata + cover art.
+"""Resolves an extracted {artist, title, kind} triple to real metadata,
+cover art, and — critically for "kind": "album" releases — the REAL
+tracklist, not a single placeholder track (a one-track "album" gets
+resolved by YoutubeResolver as a search for that one title, which on
+YouTube usually turns up a single "full album" video instead of the
+individual songs).
 
-iTunes Search API again (same as preview.py's audio-preview matching, no
-key, no auth) rather than Discogs: these are often brand-new singles that
-Discogs — a physical-release-first, community-catalogued database — simply
-hasn't been given time to catalogue yet. iTunes/Apple Music's catalogue
-updates same-day for anything properly distributed, which new singles are.
+iTunes Search API first (same as preview.py's audio-preview matching, no
+key, no auth): these are often brand-new singles that Discogs — a
+physical-release-first, community-catalogued database — hasn't had time
+to catalogue yet, while iTunes/Apple Music updates same-day for anything
+properly distributed. Deezer's public search API (also no key) is tried
+second, for the underground/regional releases iTunes has no listing for
+at all -- confirmed live against both APIs before building this: iTunes
+returns zero candidates for several real, currently-charting regional
+singles that Deezer does have.
 """
 from __future__ import annotations
 
@@ -16,7 +25,11 @@ from datetime import date
 
 import requests
 
-ITUNES = "https://itunes.apple.com/search"
+ITUNES_SEARCH = "https://itunes.apple.com/search"
+ITUNES_LOOKUP = "https://itunes.apple.com/lookup"
+DEEZER_SEARCH = "https://api.deezer.com/search"
+DEEZER_ALBUM_SEARCH = "https://api.deezer.com/search/album"
+DEEZER_ALBUM_TRACKS = "https://api.deezer.com/album/{id}/tracks"
 _UA = {"User-Agent": "JATZ/1.0 (+https://github.com/fides402/jatz)"}
 
 _NONWORD = re.compile(r"[^a-z0-9\s]")
@@ -43,9 +56,37 @@ def _score(cand_artist: str, cand_title: str, artist: str, title: str) -> float:
     return 0.6 * title_score + 0.4 * artist_score
 
 
-def _search(artist: str, title: str, entity: str, timeout: float) -> tuple[dict | None, float]:
+def _stub_tracks(title: str, artist: str) -> list[dict]:
+    return [{"position": "1", "title": title, "artist": artist, "duration": ""}]
+
+
+def _unresolved(artist: str, title: str, kind: str) -> dict:
+    return {
+        "id": f"rap-unresolved-{abs(hash(artist + title))}",
+        "discogsId": 0,
+        "title": title,
+        "artist": artist,
+        "year": date.today().year,
+        "label": "",
+        "country": "",
+        "styles": [kind],
+        "coverUrl": "",
+        "ratingAvg": 0.0,
+        "ratingCount": 0,
+        "score": 0.0,
+        "vibe": 0,
+        "confidence": "editorial-unresolved",
+        "scoredTracks": 0,
+        "notes": "",
+        "tracks": _stub_tracks(title, artist),
+    }
+
+
+# ---- iTunes -----------------------------------------------------------
+
+def _itunes_search(artist: str, title: str, entity: str, timeout: float) -> tuple[dict | None, float]:
     try:
-        r = requests.get(ITUNES, params={
+        r = requests.get(ITUNES_SEARCH, params={
             "term": f"{artist} {title}",
             "media": "music",
             "entity": entity,
@@ -54,7 +95,7 @@ def _search(artist: str, title: str, entity: str, timeout: float) -> tuple[dict 
         r.raise_for_status()
         results = (r.json() or {}).get("results", [])
     except Exception as e:
-        print(f"[rap-resolve] iTunes lookup failed for \"{artist} - {title}\" "
+        print(f"[rap-resolve] iTunes search failed for \"{artist} - {title}\" "
               f"(entity={entity}): {e}", flush=True)
         return None, 0.0
 
@@ -67,50 +108,51 @@ def _search(artist: str, title: str, entity: str, timeout: float) -> tuple[dict 
     return best, best_score
 
 
-def resolve(artist: str, title: str, kind: str, timeout: float = 12.0) -> dict | None:
-    """Returns an AlbumDto-shaped dict, or None if no good enough match."""
+def _itunes_album_tracklist(collection_id, timeout: float) -> list[dict]:
+    """Real per-track listing for an iTunes album match via the Lookup API --
+    the Search API's `entity=album` hits are collection records with no
+    track list of their own."""
+    if not collection_id:
+        return []
+    try:
+        r = requests.get(ITUNES_LOOKUP, params={"id": collection_id, "entity": "song"},
+                          headers=_UA, timeout=timeout)
+        r.raise_for_status()
+        results = (r.json() or {}).get("results", [])
+    except Exception as e:
+        print(f"[rap-resolve] iTunes tracklist lookup failed for collection "
+              f"{collection_id}: {e}", flush=True)
+        return []
+
+    tracks = []
+    for it in results:
+        if it.get("wrapperType") != "track":
+            continue
+        tracks.append({
+            "position": str(it.get("trackNumber") or len(tracks) + 1),
+            "title": it.get("trackName") or "",
+            "artist": it.get("artistName") or "",
+            "duration": "",
+        })
+    tracks.sort(key=lambda t: int(t["position"]) if t["position"].isdigit() else 999)
+    return tracks
+
+
+def _resolve_itunes(artist: str, title: str, kind: str, timeout: float) -> dict | None:
     entity = "album" if kind == "album" else "song"
-    best, best_score = _search(artist, title, entity, timeout)
+    best, best_score = _itunes_search(artist, title, entity, timeout)
 
     # An "album" search can miss on naming/reissue quirks that a plain song
-    # search catches (e.g. the album is catalogued under a slightly
-    # different collection name but the lead track matches cleanly) --
-    # worth one more try before giving up on a real release. Re-point
+    # search catches -- worth one more try before giving up. Re-point
     # `entity` at whichever search actually won, since the fields read
     # below (collectionName vs trackName) depend on it.
     if (best is None or best_score < 0.45) and entity == "album":
-        fallback_best, fallback_score = _search(artist, title, "song", timeout)
+        fallback_best, fallback_score = _itunes_search(artist, title, "song", timeout)
         if fallback_best is not None and fallback_score > best_score:
             best, best_score, entity = fallback_best, fallback_score, "song"
 
     if best is None or best_score < 0.45:
-        # No confident iTunes match -- often the release is real but too new
-        # or too underground/self-distributed to be catalogued there yet.
-        # Dropping it here would silently defeat the "famous to underground"
-        # requirement this section exists for, so keep it with the raw
-        # editorial metadata and no cover art rather than discarding it.
-        found = "no candidates at all" if best is None else f"best candidate scored {best_score:.2f}"
-        print(f"[rap-resolve] no confident iTunes match for \"{artist} - {title}\" "
-              f"({found}) -- keeping as unresolved (no cover art)", flush=True)
-        return {
-            "id": f"rap-unresolved-{abs(hash(artist + title))}",
-            "discogsId": 0,
-            "title": title,
-            "artist": artist,
-            "year": date.today().year,
-            "label": "",
-            "country": "",
-            "styles": [kind],
-            "coverUrl": "",
-            "ratingAvg": 0.0,
-            "ratingCount": 0,
-            "score": 0.0,
-            "vibe": 0,
-            "confidence": "editorial-unresolved",
-            "scoredTracks": 0,
-            "notes": "",
-            "tracks": [{"position": "1", "title": title, "artist": artist, "duration": ""}],
-        }
+        return None
 
     cover = (best.get("artworkUrl100") or "").replace("100x100bb", "600x600bb")
     release_year = 0
@@ -124,12 +166,11 @@ def resolve(artist: str, title: str, kind: str, timeout: float = 12.0) -> dict |
     real_title = best.get("collectionName") if entity == "album" else best.get("trackName")
     real_artist = best.get("artistName", artist)
 
-    track = {
-        "position": "1",
-        "title": best.get("trackName", title),
-        "artist": real_artist,
-        "duration": "",
-    }
+    tracks = _stub_tracks(real_title or title, real_artist)
+    if kind == "album" and entity == "album":
+        looked_up = _itunes_album_tracklist(best.get("collectionId"), timeout)
+        if looked_up:
+            tracks = looked_up
 
     return {
         "id": f"rap-{best.get('trackId') or best.get('collectionId') or abs(hash(artist + title))}",
@@ -148,8 +189,121 @@ def resolve(artist: str, title: str, kind: str, timeout: float = 12.0) -> dict |
         "confidence": "editorial",
         "scoredTracks": 0,
         "notes": "",
-        "tracks": [track],
+        "tracks": tracks,
     }
+
+
+# ---- Deezer (fallback for releases iTunes has no listing for at all) --
+
+def _deezer_candidates(artist: str, title: str, timeout: float) -> list[tuple[str, dict]]:
+    out: list[tuple[str, dict]] = []
+    try:
+        r = requests.get(DEEZER_SEARCH, params={"q": f"{artist} {title}"}, timeout=timeout)
+        r.raise_for_status()
+        out += [("track", it) for it in (r.json() or {}).get("data", [])[:8]]
+    except Exception as e:
+        print(f"[rap-resolve] Deezer track search failed for \"{artist} - {title}\": {e}", flush=True)
+    try:
+        r = requests.get(DEEZER_ALBUM_SEARCH, params={"q": f"{artist} {title}"}, timeout=timeout)
+        r.raise_for_status()
+        out += [("album", it) for it in (r.json() or {}).get("data", [])[:8]]
+    except Exception as e:
+        print(f"[rap-resolve] Deezer album search failed for \"{artist} - {title}\": {e}", flush=True)
+    return out
+
+
+def _deezer_album_tracklist(album_id, timeout: float) -> list[dict]:
+    if not album_id:
+        return []
+    try:
+        r = requests.get(DEEZER_ALBUM_TRACKS.format(id=album_id), timeout=timeout)
+        r.raise_for_status()
+        data = (r.json() or {}).get("data", [])
+    except Exception as e:
+        print(f"[rap-resolve] Deezer tracklist fetch failed for album {album_id}: {e}", flush=True)
+        return []
+
+    tracks = []
+    for i, it in enumerate(data, start=1):
+        tracks.append({
+            "position": str(it.get("track_position") or i),
+            "title": it.get("title") or "",
+            "artist": it.get("artist", {}).get("name", ""),
+            "duration": "",
+        })
+    return tracks
+
+
+def _resolve_deezer(artist: str, title: str, kind: str, timeout: float) -> dict | None:
+    candidates = _deezer_candidates(artist, title, timeout)
+    best, best_score, best_kind = None, 0.0, None
+    for kind_, it in candidates:
+        cand_artist = it.get("artist", {}).get("name", "")
+        cand_title = it.get("title") or ""
+        s = _score(cand_artist, cand_title, artist, title)
+        if s > best_score:
+            best, best_score, best_kind = it, s, kind_
+
+    if best is None or best_score < 0.45:
+        return None
+
+    real_title = best.get("title") or title
+    real_artist = best.get("artist", {}).get("name", artist)
+
+    if best_kind == "album":
+        cover = best.get("cover_big") or best.get("cover_medium") or ""
+        album_id = best.get("id")
+    else:
+        cover = (best.get("album") or {}).get("cover_big") \
+            or (best.get("album") or {}).get("cover_medium") or ""
+        album_id = (best.get("album") or {}).get("id")
+
+    tracks = _stub_tracks(real_title, real_artist)
+    if kind == "album" and album_id:
+        looked_up = _deezer_album_tracklist(album_id, timeout)
+        if looked_up:
+            tracks = looked_up
+
+    return {
+        "id": f"rap-deezer-{best.get('id') or abs(hash(artist + title))}",
+        "discogsId": 0,
+        "title": real_title,
+        "artist": real_artist,
+        "year": 0,
+        "label": "",
+        "country": "",
+        "styles": [kind],
+        "coverUrl": cover,
+        "ratingAvg": 0.0,
+        "ratingCount": 0,
+        "score": round(best_score, 3),
+        "vibe": 0,
+        "confidence": "editorial",
+        "scoredTracks": 0,
+        "notes": "",
+        "tracks": tracks,
+    }
+
+
+def resolve(artist: str, title: str, kind: str, timeout: float = 12.0) -> dict | None:
+    """Returns an AlbumDto-shaped dict, or None if no good enough match."""
+    album = _resolve_itunes(artist, title, kind, timeout)
+    if album is not None:
+        return album
+
+    album = _resolve_deezer(artist, title, kind, timeout)
+    if album is not None:
+        print(f"[rap-resolve] \"{artist} - {title}\" not on iTunes, matched on Deezer instead", flush=True)
+        return album
+
+    # Neither catalogue has it -- genuinely too new/underground/self-
+    # released to be indexed anywhere yet. Keep it with the raw editorial
+    # metadata rather than silently dropping it (see module docstring):
+    # a "famous to underground" catalogue that drops everything it can't
+    # find cover art for stops being an underground catalogue at all.
+    print(f"[rap-resolve] no confident match anywhere for \"{artist} - {title}\" "
+          f"-- keeping as unresolved (no cover art)", flush=True)
+    return _unresolved(artist, title, kind)
 
 
 def resolve_all(releases: list[dict]) -> list[dict]:
