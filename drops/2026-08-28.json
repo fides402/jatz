@@ -1,0 +1,427 @@
+{
+ "date": "2026-08-28",
+ "generatedAt": "2026-08-28T15:40:38Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d8011161",
+   "discogsId": 8011161,
+   "title": "Time Remembered",
+   "artist": "The Bill Evans Trio",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Riverside Records",
+   "country": "Japan",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/pIThlr9hxYFoEoF8y2-zw20oH7IVCn2PHw6Hrt6YtWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTEx/NjEtMTQ1MzQ0NDgz/NC0xODI4LmpwZWc.jpeg",
+   "ratingAvg": 4.57,
+   "ratingCount": 7,
+   "score": 0.6314,
+   "vibe": 70,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded in performance at Shelly's Manne-Hole, Hollywood, 30./31., May, 1963",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Who Cares?",
+     "artist": "The Bill Evans Trio",
+     "duration": "5:22"
+    },
+    {
+     "position": "A2",
+     "title": "In A Sentimental Mood",
+     "artist": "The Bill Evans Trio",
+     "duration": "4:23"
+    },
+    {
+     "position": "A3",
+     "title": "Everything Happens To Me",
+     "artist": "The Bill Evans Trio",
+     "duration": "4:46"
+    },
+    {
+     "position": "A4",
+     "title": "What Is This Thing Called Love?",
+     "artist": "The Bill Evans Trio",
+     "duration": "5:48"
+    },
+    {
+     "position": "B1",
+     "title": "Time Remembered",
+     "artist": "The Bill Evans Trio",
+     "duration": "5:37"
+    },
+    {
+     "position": "B2",
+     "title": "My Heart Stood Still",
+     "artist": "The Bill Evans Trio",
+     "duration": "4:33"
+    },
+    {
+     "position": "B3",
+     "title": "Lover Man",
+     "artist": "The Bill Evans Trio",
+     "duration": "5:05"
+    },
+    {
+     "position": "B4",
+     "title": "How About You?",
+     "artist": "The Bill Evans Trio",
+     "duration": "4:04"
+    }
+   ]
+  },
+  {
+   "id": "d5723968",
+   "discogsId": 5723968,
+   "title": "Sweet Rain",
+   "artist": "Stan Getz",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Verve Records",
+   "country": "Japan",
+   "styles": [
+    "Bossa Nova",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/5aZdDEsJwggQOcasEuWfC4ZAlA-SLjGiJw_nsLMRSSc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjM5/NjgtMTczMTE2Mjk5/Ni02OTEwLmpwZWc.jpeg",
+   "ratingAvg": 4.6,
+   "ratingCount": 15,
+   "score": 0.6282,
+   "vibe": 70,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded March 30, 1967 at Rudy Van Gelder Studio, Engelwood Cliffs, New Jersey.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Litha",
+     "artist": "Stan Getz",
+     "duration": "9:00"
+    },
+    {
+     "position": "A2",
+     "title": "O Grande Amor",
+     "artist": "Stan Getz",
+     "duration": "4:43"
+    },
+    {
+     "position": "A3",
+     "title": "Sweet Rain",
+     "artist": "Stan Getz",
+     "duration": "7:08"
+    },
+    {
+     "position": "B1",
+     "title": "Con Alma",
+     "artist": "Stan Getz",
+     "duration": "8:00"
+    },
+    {
+     "position": "B2",
+     "title": "Windows",
+     "artist": "Stan Getz",
+     "duration": "8:52"
+    }
+   ]
+  },
+  {
+   "id": "d12874619",
+   "discogsId": 12874619,
+   "title": "Jazz-History Vol. 28",
+   "artist": "Woody Herman",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Fontana",
+   "country": "Brazil",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/OXhIKJcjo2izPtulzCzSfUhf4wunC0yhsIZKa0CJKrA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc0/NjE5LTE1NDM2MjEx/NDgtNjk5Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6042,
+   "vibe": 64,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Good Life",
+     "artist": "Woody Herman",
+     "duration": "3:26"
+    },
+    {
+     "position": "A2",
+     "title": "Bedroom Eyes",
+     "artist": "Woody Herman",
+     "duration": "4:50"
+    },
+    {
+     "position": "A3",
+     "title": "The Things we Said Today",
+     "artist": "Woody Herman",
+     "duration": "3:33"
+    },
+    {
+     "position": "A4",
+     "title": "Just Squeeze me (But Don't Tease Me)",
+     "artist": "Woody Herman",
+     "duration": "5:00"
+    },
+    {
+     "position": "A5",
+     "title": "What Kind Of Fool I Am?",
+     "artist": "Woody Herman",
+     "duration": "1:30"
+    },
+    {
+     "position": "B1",
+     "title": "Dr. Wong's Bag",
+     "artist": "Woody Herman",
+     "duration": "6:38"
+    },
+    {
+     "position": "B2",
+     "title": "Everyboday Loves Somebody",
+     "artist": "Woody Herman",
+     "duration": "3:05"
+    },
+    {
+     "position": "B3",
+     "title": "Wa-Wa Blues",
+     "artist": "Woody Herman",
+     "duration": "3:30"
+    },
+    {
+     "position": "B4",
+     "title": "Dr. John C",
+     "artist": "Woody Herman",
+     "duration": "5:45"
+    },
+    {
+     "position": "C1",
+     "title": "Wailin' in The Woodshed",
+     "artist": "Woody Herman",
+     "duration": "3:15"
+    },
+    {
+     "position": "C2",
+     "title": "Blue Monk",
+     "artist": "Woody Herman",
+     "duration": "4:23"
+    },
+    {
+     "position": "C3",
+     "title": "You Dirty Dog",
+     "artist": "Woody Herman",
+     "duration": "4:40"
+    },
+    {
+     "position": "C4",
+     "title": "Poor House Blues",
+     "artist": "Woody Herman",
+     "duration": "5:43"
+    },
+    {
+     "position": "D1",
+     "title": "The Good Earth",
+     "artist": "Woody Herman",
+     "duration": "2:27"
+    },
+    {
+     "position": "D2",
+     "title": "Sidewalks of Cuba",
+     "artist": "Woody Herman",
+     "duration": "2:48"
+    },
+    {
+     "position": "D3",
+     "title": "I Can't Get Started",
+     "artist": "Woody Herman",
+     "duration": "3:50"
+    },
+    {
+     "position": "D4",
+     "title": "Bijou",
+     "artist": "Woody Herman",
+     "duration": "3:35"
+    },
+    {
+     "position": "D5",
+     "title": "Apple Honey",
+     "artist": "Woody Herman",
+     "duration": "5:15"
+    }
+   ]
+  },
+  {
+   "id": "d33004716",
+   "discogsId": 33004716,
+   "title": "Punti di Vista",
+   "artist": "Alessandro Di Liberto",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Gleam Records (2)",
+   "country": "Italy",
+   "styles": [
+    "Modal",
+    "Contemporary Jazz",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/3TPmTwQOT0oxEIT03LhdNoAmeFIFbWW4XAU60axg9qQ/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA0/NzE2LTE3NjI0MTgz/NjMtMTA1Ni5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6106,
+   "vibe": 65,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Vento Di Mare",
+     "artist": "Alessandro Di Liberto",
+     "duration": "4:54"
+    },
+    {
+     "position": "2",
+     "title": "Spiaggia Di Riso",
+     "artist": "Alessandro Di Liberto",
+     "duration": "5:46"
+    },
+    {
+     "position": "3",
+     "title": "Verde E Azzurro",
+     "artist": "Alessandro Di Liberto",
+     "duration": "4:50"
+    },
+    {
+     "position": "4",
+     "title": "L'Orologio Del Tempo",
+     "artist": "Alessandro Di Liberto",
+     "duration": "6:23"
+    },
+    {
+     "position": "5",
+     "title": "Pan Di Zucchero",
+     "artist": "Alessandro Di Liberto",
+     "duration": "4:34"
+    },
+    {
+     "position": "6",
+     "title": "Sulla Torre",
+     "artist": "Alessandro Di Liberto",
+     "duration": "4:55"
+    },
+    {
+     "position": "7",
+     "title": "Riviera Di Corallo",
+     "artist": "Alessandro Di Liberto",
+     "duration": "4:33"
+    },
+    {
+     "position": "8",
+     "title": "Tra Le Vie Del Borgo",
+     "artist": "Alessandro Di Liberto",
+     "duration": "5:28"
+    },
+    {
+     "position": "9",
+     "title": "L'Isola dei Giganti",
+     "artist": "Alessandro Di Liberto",
+     "duration": "5:35"
+    },
+    {
+     "position": "10",
+     "title": "Tempio Di Antas",
+     "artist": "Alessandro Di Liberto",
+     "duration": "3:38"
+    }
+   ]
+  },
+  {
+   "id": "d25327900",
+   "discogsId": 25327900,
+   "title": "Chaud-Froid",
+   "artist": "Pierre de Bethmann",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Paradis Improvisé",
+   "country": "France",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Yn8IjCgJ9r9DdMf5sML6SSB1JAheU8JNdLnzJ3bsTMw/rs:fit/g:sm/q:90/h:496/w:546/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI3/OTAwLTE2Njk4MTEy/MTYtNTQwMC5wbmc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5663,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded Jan. 13, 2022 at Paradis Improvisé (Marseille)\n\n© ℗ 2022 Paradis Improvisé",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Chaud Froid",
+     "artist": "Pierre de Bethmann",
+     "duration": "5:49"
+    },
+    {
+     "position": "2",
+     "title": "Éternel Détour",
+     "artist": "Pierre de Bethmann",
+     "duration": "6:23"
+    },
+    {
+     "position": "3",
+     "title": "Knab",
+     "artist": "Pierre de Bethmann",
+     "duration": "7:04"
+    },
+    {
+     "position": "4",
+     "title": "Pardi",
+     "artist": "Pierre de Bethmann",
+     "duration": "8:08"
+    },
+    {
+     "position": "5",
+     "title": "Exo",
+     "artist": "Pierre de Bethmann",
+     "duration": "5:09"
+    },
+    {
+     "position": "6",
+     "title": "Light",
+     "artist": "Pierre de Bethmann",
+     "duration": "5:32"
+    },
+    {
+     "position": "7",
+     "title": "Vanités",
+     "artist": "Pierre de Bethmann",
+     "duration": "5:12"
+    },
+    {
+     "position": "8",
+     "title": "En Plus",
+     "artist": "Pierre de Bethmann",
+     "duration": "3:58"
+    },
+    {
+     "position": "9",
+     "title": "T.T.T. (Twelve Tone Tune)",
+     "artist": "Pierre de Bethmann",
+     "duration": "3:59"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
