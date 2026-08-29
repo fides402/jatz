@@ -1,6 +1,6 @@
 {
  "date": "2026-W35",
- "generatedAt": "2026-08-28T23:27:41Z",
+ "generatedAt": "2026-08-29T17:32:44Z",
  "profile": "rap",
  "albums": [
   {
@@ -491,10 +491,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6803681266",
+   "discogsId": 0,
+   "title": "Yellow",
+   "artist": "DC THE DON, Sajkeena & midwxst",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/5f/e5/f75fe57c-6e58-542d-6a5a-a99b14e30596/26UM1IM07596.rgb.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Yellow",
+     "artist": "DC THE DON, Sajkeena & midwxst",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6806033898",
+   "discogsId": 0,
+   "title": "Spend Dat (feat. Davido) [International Remix]",
+   "artist": "Yung Miami, Shenseea & Vybz Kartel",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/7a/5f/b37a5fc0-79a3-b9d3-15ea-2337551beaca/26UM1IM11368.rgb.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.897,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Spend Dat (feat. Davido) [International Remix]",
+     "artist": "Yung Miami, Shenseea & Vybz Kartel",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 4,
-  "modern": 5
+  "modern": 7
  }
 }
