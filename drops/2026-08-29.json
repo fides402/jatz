@@ -1,0 +1,402 @@
+{
+ "date": "2026-08-29",
+ "generatedAt": "2026-08-29T10:24:33Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d8729122",
+   "discogsId": 8729122,
+   "title": "A Voz De Dick Farney",
+   "artist": "Dick Farney",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Fontana",
+   "country": "Brazil",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/JJ8C5qf-EL7pltggC0zFan_nslMn56bElnjFBnuZ1ZU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Mjkx/MjItMTUyNzE5MzE2/MS02MjM4LmpwZWc.jpeg",
+   "ratingAvg": 4.33,
+   "ratingCount": 3,
+   "score": 0.6583,
+   "vibe": 77,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Cat number 6488 109 on labels.\nCat number 6488.109 on back cover.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Fotografia",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Inútil Paisagem",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Pequeno Olhar",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Samba De Duas Notas",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Tristeza De Nós Dois",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "One For My Baby",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Você",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Valsa De Uma Cidade",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Hoje É Dia De Amor",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Insensatez",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Influência Do Jazz",
+     "artist": "Dick Farney",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Vivo Sonhando",
+     "artist": "Dick Farney",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d30273089",
+   "discogsId": 30273089,
+   "title": "Heavy Weather",
+   "artist": "Weather Report",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Columbia",
+   "country": "US",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/0ZxnnkmfV3Rsuth9Q98-QrmPvzmoEfpi4dHxdu5Xp4Q/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcz/MDg5LTE3MTE5OTYw/NzYtMjA5OC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5905,
+   "vibe": 60,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Advance Promotion variant\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Birdland",
+     "artist": "Weather Report",
+     "duration": "5:59"
+    },
+    {
+     "position": "A2",
+     "title": "A Remark You Made",
+     "artist": "Weather Report",
+     "duration": "6:52"
+    },
+    {
+     "position": "A3",
+     "title": "Teen Town",
+     "artist": "Weather Report",
+     "duration": "2:53"
+    },
+    {
+     "position": "A4",
+     "title": "Harlequin",
+     "artist": "Weather Report",
+     "duration": "4:00"
+    },
+    {
+     "position": "B1",
+     "title": "Rumba Mamá",
+     "artist": "Weather Report",
+     "duration": "2:12"
+    },
+    {
+     "position": "B2",
+     "title": "Palladíum",
+     "artist": "Weather Report",
+     "duration": "4:45"
+    },
+    {
+     "position": "B3",
+     "title": "The Juggler",
+     "artist": "Weather Report",
+     "duration": "5:05"
+    },
+    {
+     "position": "B4",
+     "title": "Havona",
+     "artist": "Weather Report",
+     "duration": "6:03"
+    }
+   ]
+  },
+  {
+   "id": "d4571052",
+   "discogsId": 4571052,
+   "title": "Heads",
+   "artist": "Bob James",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Tappan Zee Records",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/j5IoSIztZs0PXDC91mT1HN-HJoT74O6NurhBzelrT0I/rs:fit/g:sm/q:90/h:600/w:369/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzEw/NTItMTQ1OTExMjI3/Mi01NDk1LmpwZWc.jpeg",
+   "ratingAvg": 4.8,
+   "ratingCount": 5,
+   "score": 0.552,
+   "vibe": 51,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at Media Sound, Sound Mixers and A&R Studios, New York City, May-September 1977.\r\n℗ 1977 CBS Inc. © 1977 Tappan Zee Records, Inc.\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Heads",
+     "artist": "Bob James",
+     "duration": "6:40"
+    },
+    {
+     "position": "A2",
+     "title": "We're All Alone",
+     "artist": "Bob James",
+     "duration": "5:32"
+    },
+    {
+     "position": "A3",
+     "title": "I'm In You",
+     "artist": "Bob James",
+     "duration": "6:47"
+    },
+    {
+     "position": "B1",
+     "title": "Night Crawler",
+     "artist": "Bob James",
+     "duration": "6:17"
+    },
+    {
+     "position": "B2",
+     "title": "You Are So Beautiful",
+     "artist": "Bob James",
+     "duration": "6:50"
+    },
+    {
+     "position": "B3",
+     "title": "One Loving Night",
+     "artist": "Bob James",
+     "duration": "5:48"
+    }
+   ]
+  },
+  {
+   "id": "d15825647",
+   "discogsId": 15825647,
+   "title": "Valentine",
+   "artist": "Bill Frisell",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Blue Note",
+   "country": "US",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/HGYojqi010UO461ZAq-yA8rJVw6t8tCTrfV3TObridI/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NjQ3LTE1OTg0OTY2/OTYtODkzNy5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 6,
+   "score": 0.5863,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Track 1: Published by Label Bleu (SACEM)\nTracks 2, 3, 4, 5, 6, 8, 10, 12: Published by Frizz-Tone Music (BMI)\nTrack 7: Published by Tempo Music (ASCAP)\nTracks 9, 13: Public Domain\nTrack 11: Published by Hidden Valley Music (ASCAP), Casa David (ASCAP)\n\nBlue Note Records; ℗© 2020 UMG Recordings, Inc.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Baba Drame",
+     "artist": "Bill Frisell",
+     "duration": "4:59"
+    },
+    {
+     "position": "2",
+     "title": "Hour Glass",
+     "artist": "Bill Frisell",
+     "duration": "2:58"
+    },
+    {
+     "position": "3",
+     "title": "Valentine",
+     "artist": "Bill Frisell",
+     "duration": "6:28"
+    },
+    {
+     "position": "4",
+     "title": "Levees",
+     "artist": "Bill Frisell",
+     "duration": "6:04"
+    },
+    {
+     "position": "5",
+     "title": "Winter Always Turns To Spring",
+     "artist": "Bill Frisell",
+     "duration": "5:11"
+    },
+    {
+     "position": "6",
+     "title": "Keep Your Eyes Open",
+     "artist": "Bill Frisell",
+     "duration": "6:05"
+    },
+    {
+     "position": "7",
+     "title": "A Flower Is A Lovesome Thing",
+     "artist": "Bill Frisell",
+     "duration": "7:23"
+    },
+    {
+     "position": "8",
+     "title": "Electricity",
+     "artist": "Bill Frisell",
+     "duration": "3:19"
+    },
+    {
+     "position": "9",
+     "title": "Wagon Wheels",
+     "artist": "Bill Frisell",
+     "duration": "4:14"
+    },
+    {
+     "position": "10",
+     "title": "Aunt Mary",
+     "artist": "Bill Frisell",
+     "duration": "3:19"
+    },
+    {
+     "position": "11",
+     "title": "What The World Needs Now Is Love",
+     "artist": "Bill Frisell",
+     "duration": "5:56"
+    },
+    {
+     "position": "12",
+     "title": "Where Do We Go?",
+     "artist": "Bill Frisell",
+     "duration": "3:09"
+    },
+    {
+     "position": "13",
+     "title": "We Shall Overcome",
+     "artist": "Bill Frisell",
+     "duration": "6:25"
+    }
+   ]
+  },
+  {
+   "id": "d33575697",
+   "discogsId": 33575697,
+   "title": "Expansions",
+   "artist": "Lonnie Liston Smith And The Cosmic Echoes",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Flying Dutchman",
+   "country": "UK",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/dL2msNgyuTYKXmWMR4j2TUxG8mR-S1KoJ5pjIzYY3pw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTc1/Njk3LTE3NDM1MjIx/MTItMzQ4NC5qcGVn.jpeg",
+   "ratingAvg": 4.86,
+   "ratingCount": 36,
+   "score": 0.5593,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Cut in an all-analogue chain by Frank Merritt at the Carvery, London\n180g Vinyl\n\nXXQLP 145",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Expansions",
+     "artist": "Lonnie Liston Smith And The Cosmic Echoes",
+     "duration": "6:04"
+    },
+    {
+     "position": "A2",
+     "title": "Desert Nights",
+     "artist": "Lonnie Liston Smith And The Cosmic Echoes",
+     "duration": "6:45"
+    },
+    {
+     "position": "A3",
+     "title": "Summer Days",
+     "artist": "Lonnie Liston Smith And The Cosmic Echoes",
+     "duration": "5:53"
+    },
+    {
+     "position": "B1",
+     "title": "Voodoo Woman",
+     "artist": "Lonnie Liston Smith And The Cosmic Echoes",
+     "duration": "4:13"
+    },
+    {
+     "position": "B2",
+     "title": "Peace",
+     "artist": "Lonnie Liston Smith And The Cosmic Echoes",
+     "duration": "4:13"
+    },
+    {
+     "position": "B3",
+     "title": "Shadows",
+     "artist": "Lonnie Liston Smith And The Cosmic Echoes",
+     "duration": "6:20"
+    },
+    {
+     "position": "B4",
+     "title": "My Love",
+     "artist": "Lonnie Liston Smith And The Cosmic Echoes",
+     "duration": "5:40"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
