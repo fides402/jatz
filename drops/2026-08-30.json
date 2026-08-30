@@ -1,0 +1,335 @@
+{
+ "date": "2026-08-30",
+ "generatedAt": "2026-08-30T09:29:55Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d1627662",
+   "discogsId": 1627662,
+   "title": "B. Baker Chocolate Co.",
+   "artist": "B. Baker Chocolate Co.",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "Sterling Sound Inc.",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5805,
+   "vibe": 58,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Sterling Sound, Inc\r\nAcetate copy\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Snow Blower",
+     "artist": "B. Baker Chocolate Co.",
+     "duration": "6:45"
+    },
+    {
+     "position": "A2",
+     "title": "Carousel",
+     "artist": "B. Baker Chocolate Co.",
+     "duration": "5:35"
+    },
+    {
+     "position": "A3",
+     "title": "Dreamer",
+     "artist": "B. Baker Chocolate Co.",
+     "duration": "4:57"
+    },
+    {
+     "position": "B1",
+     "title": "Spirit Level",
+     "artist": "B. Baker Chocolate Co.",
+     "duration": "6:14"
+    },
+    {
+     "position": "B2",
+     "title": "Higher And Higher / The High And The Mighty",
+     "artist": "B. Baker Chocolate Co.",
+     "duration": "5:35"
+    },
+    {
+     "position": "B3",
+     "title": "It's Where You're Coming From",
+     "artist": "B. Baker Chocolate Co.",
+     "duration": "5:14"
+    }
+   ]
+  },
+  {
+   "id": "d34002861",
+   "discogsId": 34002861,
+   "title": "The Progressive",
+   "artist": "Don Friedman",
+   "year": 1978,
+   "era": "VINTAGE",
+   "label": "Progressive Records (2)",
+   "country": "Japan",
+   "styles": [
+    "Modal",
+    "Post Bop"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5672,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "This album has been produced by co-operative project with Teichiku Records, Japan & Gus Statiras, Progressive Records, U.S.A., A & R :KAKU, Ryuichi\n\nRecorded March 21, 1978 at Downtown Sound Studio.\n\nPublished 1978 on labels.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Au Privave",
+     "artist": "Don Friedman",
+     "duration": "3:17"
+    },
+    {
+     "position": "A2",
+     "title": "Stella By Starlight",
+     "artist": "Don Friedman",
+     "duration": "4:35"
+    },
+    {
+     "position": "A3",
+     "title": "I Love You",
+     "artist": "Don Friedman",
+     "duration": "4:26"
+    },
+    {
+     "position": "A4",
+     "title": "What Are You Doing The Rest Of Your Life",
+     "artist": "Don Friedman",
+     "duration": "5:37"
+    },
+    {
+     "position": "A5",
+     "title": "Billie's Bounce",
+     "artist": "Don Friedman",
+     "duration": "4:02"
+    },
+    {
+     "position": "B1",
+     "title": "Straight No Chaser",
+     "artist": "Don Friedman",
+     "duration": "3:05"
+    },
+    {
+     "position": "B2",
+     "title": "I Remember You",
+     "artist": "Don Friedman",
+     "duration": "4:39"
+    },
+    {
+     "position": "B3",
+     "title": "Moments Notice",
+     "artist": "Don Friedman",
+     "duration": "4:10"
+    },
+    {
+     "position": "B4",
+     "title": "All The Things You Are",
+     "artist": "Don Friedman",
+     "duration": "7:13"
+    }
+   ]
+  },
+  {
+   "id": "d16860780",
+   "discogsId": 16860780,
+   "title": "Strokin'",
+   "artist": "Richard Tee",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "CBS",
+   "country": "South Africa",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "First Love",
+     "artist": "Richard Tee",
+     "duration": "4:53"
+    },
+    {
+     "position": "A2",
+     "title": "Every Day",
+     "artist": "Richard Tee",
+     "duration": "5:24"
+    },
+    {
+     "position": "A3",
+     "title": "Strokin'",
+     "artist": "Richard Tee",
+     "duration": "5:20"
+    },
+    {
+     "position": "B1",
+     "title": "I Wanted It Too",
+     "artist": "Richard Tee",
+     "duration": "5:02"
+    },
+    {
+     "position": "B2",
+     "title": "Virginia Sunday",
+     "artist": "Richard Tee",
+     "duration": "5:30"
+    },
+    {
+     "position": "B3",
+     "title": "Jesus Children Of America",
+     "artist": "Richard Tee",
+     "duration": "4:45"
+    },
+    {
+     "position": "B4",
+     "title": "Take The \"A\" Train",
+     "artist": "Richard Tee",
+     "duration": "4:43"
+    }
+   ]
+  },
+  {
+   "id": "d13220642",
+   "discogsId": 13220642,
+   "title": "Toshiko Plays Toshiko",
+   "artist": "Toshiko Akiyoshi",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Studio Songs (2)",
+   "country": "Japan",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/wz_t2xXucKvycNRKu1okndSJNymYm-A6tN_rxcIxwLU/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIw/NjQyLTE3MDIzNjUx/MjMtOTI5Ny5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.6977,
+   "vibe": 87,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded on December 5 & 6 1978.\n\nReissue with poorly reproduced and modified front cover.\nTraycard includes several typos and lists the recording dates as 3-4 February, 2015 (thirty-six years after the album's release).\nSix panel fold out insert includes uncredited liner notes in Japanese.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Notorious Tourist From The East",
+     "artist": "Toshiko Akiyoshi",
+     "duration": "10:11"
+    },
+    {
+     "position": "2",
+     "title": "Soliloquy",
+     "artist": "Toshiko Akiyoshi",
+     "duration": "7:33"
+    },
+    {
+     "position": "3",
+     "title": "Hangin' Loose",
+     "artist": "Toshiko Akiyoshi",
+     "duration": "8:20"
+    },
+    {
+     "position": "4",
+     "title": "Memory",
+     "artist": "Toshiko Akiyoshi",
+     "duration": "4:30"
+    },
+    {
+     "position": "5",
+     "title": "After Mr. Teng",
+     "artist": "Toshiko Akiyoshi",
+     "duration": "5:28"
+    }
+   ]
+  },
+  {
+   "id": "d31017796",
+   "discogsId": 31017796,
+   "title": "Montreux II  – Recorded Live At The Montreux Festival, 1970",
+   "artist": "Bill Evans",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Sony Music",
+   "country": "Europe",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/pddNL2x48Jw94hUUSNITNF2O3qbFRfLLVRXApBKSX7g/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE3/Nzk2LTE3MTg5NTQ2/NjktMjA3NS5qcGVn.jpeg",
+   "ratingAvg": 4.75,
+   "ratingCount": 4,
+   "score": 0.6217,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded June 19, 1970 at the Casino de Montreux, Switzerland.\nMade in E.U. D.L. B 7263-2024\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Introduction",
+     "artist": "Bill Evans",
+     "duration": "1:12"
+    },
+    {
+     "position": "A2",
+     "title": "Very Early",
+     "artist": "Bill Evans",
+     "duration": "5:26"
+    },
+    {
+     "position": "A3",
+     "title": "Alfie",
+     "artist": "Bill Evans",
+     "duration": "5:29"
+    },
+    {
+     "position": "A4",
+     "title": "34 Skidoo",
+     "artist": "Bill Evans",
+     "duration": "6:34"
+    },
+    {
+     "position": "B1",
+     "title": "How My Heart Sings",
+     "artist": "Bill Evans",
+     "duration": "4:26"
+    },
+    {
+     "position": "B2",
+     "title": "Israel",
+     "artist": "Bill Evans",
+     "duration": "4:13"
+    },
+    {
+     "position": "B3",
+     "title": "I Hear A Rhapsody",
+     "artist": "Bill Evans",
+     "duration": "5:53"
+    },
+    {
+     "position": "B4",
+     "title": "Peri's Scope",
+     "artist": "Bill Evans",
+     "duration": "6:27"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
