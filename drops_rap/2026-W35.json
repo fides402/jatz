@@ -1,6 +1,6 @@
 {
  "date": "2026-W35",
- "generatedAt": "2026-08-29T17:32:44Z",
+ "generatedAt": "2026-08-30T17:58:19Z",
  "profile": "rap",
  "albums": [
   {
@@ -549,10 +549,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6801329870",
+   "discogsId": 0,
+   "title": "Check Me",
+   "artist": "Chris Patrick",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/0c/8c/810c8cbb-5737-db72-780d-66bfe17c7472/26UM1IM05480.rgb.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Check Me",
+     "artist": "Chris Patrick",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4233883152",
+   "discogsId": 0,
+   "title": "New Level",
+   "artist": "lackVill",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c60e8254573d5a484f814a72336c5406/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "New Level",
+     "artist": "lackVill",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 4,
-  "modern": 7
+  "modern": 9
  }
 }
