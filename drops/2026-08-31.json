@@ -1,0 +1,390 @@
+{
+ "date": "2026-08-31",
+ "generatedAt": "2026-08-31T10:04:38Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d6905230",
+   "discogsId": 6905230,
+   "title": "Musicmagic",
+   "artist": "Return To Forever",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "CBS",
+   "country": "Europe",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/Gct5vfIWkl5R-7Ve_2nOvAZ6GTL6Ed4r_dODZ7xPXes/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDUy/MzAtMTQyOTM3MjIx/MS0xNTQyLmpwZWc.jpeg",
+   "ratingAvg": 3.96,
+   "ratingCount": 28,
+   "score": 0.6606,
+   "vibe": 78,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Identical to [url=http://www.discogs.com/release/2150111]this release[/url], but without star on the labels.\n\nRecorded and mixed at Caribou Ranch, Colorado, January - February 1977\nMastered at A&M Studios\n\nⓅ 1977 CBS Inc.\nⒸ 1977 CBS Inc.\nMade in Holland",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Musician",
+     "artist": "Return To Forever",
+     "duration": "7:11"
+    },
+    {
+     "position": "A2",
+     "title": "Hello Again",
+     "artist": "Return To Forever",
+     "duration": "3:49"
+    },
+    {
+     "position": "A3",
+     "title": "Musicmagic",
+     "artist": "Return To Forever",
+     "duration": "11:02"
+    },
+    {
+     "position": "B1",
+     "title": "So Long Mickey Mouse",
+     "artist": "Return To Forever",
+     "duration": "6:08"
+    },
+    {
+     "position": "B2",
+     "title": "Do You Ever",
+     "artist": "Return To Forever",
+     "duration": "3:58"
+    },
+    {
+     "position": "B3",
+     "title": "The Endless Night",
+     "artist": "Return To Forever",
+     "duration": "9:41"
+    }
+   ]
+  },
+  {
+   "id": "d18950836",
+   "discogsId": 18950836,
+   "title": "'Nuff Said!",
+   "artist": "Nina Simone",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "RCA Victor",
+   "country": "UK",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/id8J7iblHK4ewuu2mZK5qn0GZvoPGuwHqh-3ctVWQaM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTUw/ODM2LTE2MjI0MDM5/NDItMTc5NS5qcGVn.jpeg",
+   "ratingAvg": 4.25,
+   "ratingCount": 4,
+   "score": 0.6253,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "All tracks recorded live at Westbury Music Fair, Long Island NY, 5 April 1968, except track B6. Produced by Joe René for Stroud Productions & Enterprises, Inc. Track B6 special bonus song recorded in RCA Studio B, New York City. \n\nTrack B1 is a song written on the day of recording, paying tribute to Dr. Martin Luther King who was assassinated the evening prior to the concert.\nThis lists Bonus Track Do What You Gotta Do on back ",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "In The Morning",
+     "artist": "Nina Simone",
+     "duration": "2:12"
+    },
+    {
+     "position": "A2",
+     "title": "Sunday In Savannah",
+     "artist": "Nina Simone",
+     "duration": "3:03"
+    },
+    {
+     "position": "A3",
+     "title": "The Backlash Blues",
+     "artist": "Nina Simone",
+     "duration": "2:43"
+    },
+    {
+     "position": "A4",
+     "title": "Please Read Me",
+     "artist": "Nina Simone",
+     "duration": "2:44"
+    },
+    {
+     "position": "A5",
+     "title": "Gin House Blues",
+     "artist": "Nina Simone",
+     "duration": "2:47"
+    },
+    {
+     "position": "B1",
+     "title": "Why? (The King Of Love Is Dead)",
+     "artist": "Nina Simone",
+     "duration": "5:31"
+    },
+    {
+     "position": "B2",
+     "title": "Peace Of Mind",
+     "artist": "Nina Simone",
+     "duration": "2:40"
+    },
+    {
+     "position": "B3",
+     "title": "Ain't Got No I Got Life",
+     "artist": "Nina Simone",
+     "duration": "2:05"
+    },
+    {
+     "position": "B4",
+     "title": "I Loves You Porgy",
+     "artist": "Nina Simone",
+     "duration": "3:27"
+    },
+    {
+     "position": "B5",
+     "title": "Take My Hand Precious Lord",
+     "artist": "Nina Simone",
+     "duration": "1:35"
+    },
+    {
+     "position": "B6",
+     "title": "Do What You Gotta Do",
+     "artist": "Nina Simone",
+     "duration": "2:55"
+    }
+   ]
+  },
+  {
+   "id": "d2937221",
+   "discogsId": 2937221,
+   "title": "After Hours",
+   "artist": "Tim Leese",
+   "year": 1980,
+   "era": "VINTAGE",
+   "label": "Music Is Medicine",
+   "country": "US",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/-fy4iVs9159AXtNgx7ftk61RBoxb8bVUd8jmyJ_0x6Q/rs:fit/g:sm/q:90/h:432/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzcy/MjEtMTM0NjU4MzQy/MC01NDUzLmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 3,
+   "score": 0.5758,
+   "vibe": 56,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at Greenbank Studios.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Perrinville Fanfare",
+     "artist": "Tim Leese",
+     "duration": "2:46"
+    },
+    {
+     "position": "A2",
+     "title": "On A Cloud",
+     "artist": "Tim Leese",
+     "duration": "4:11"
+    },
+    {
+     "position": "A3",
+     "title": "Night On The Town",
+     "artist": "Tim Leese",
+     "duration": "5:03"
+    },
+    {
+     "position": "A4",
+     "title": "One Night Forever",
+     "artist": "Tim Leese",
+     "duration": "3:56"
+    },
+    {
+     "position": "B1",
+     "title": "Waiting For You",
+     "artist": "Tim Leese",
+     "duration": "5:58"
+    },
+    {
+     "position": "B2",
+     "title": "I Have A Dream",
+     "artist": "Tim Leese",
+     "duration": "2:20"
+    },
+    {
+     "position": "B3",
+     "title": "After Hours",
+     "artist": "Tim Leese",
+     "duration": "10:19"
+    }
+   ]
+  },
+  {
+   "id": "d22161586",
+   "discogsId": 22161586,
+   "title": "هدوء نسبي = Houdou Nisbi",
+   "artist": "Ziad Rahbani",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Wewantsounds",
+   "country": "France",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/YtGTU-5vyyfBLUkohBsxBJtkg6ste1Jxrm7mCIIfXUU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTYx/NTg2LTE2NjQyMDYx/NjMtMzUyNy5qcGVn.jpeg",
+   "ratingAvg": 4.74,
+   "ratingCount": 69,
+   "score": 0.6979,
+   "vibe": 87,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Bala Wala Chi",
+     "artist": "Ziad Rahbani",
+     "duration": "3:27"
+    },
+    {
+     "position": "A2",
+     "title": "Relative Calm",
+     "artist": "Ziad Rahbani",
+     "duration": "4:28"
+    },
+    {
+     "position": "A3",
+     "title": "The Same",
+     "artist": "Ziad Rahbani",
+     "duration": "2:37"
+    },
+    {
+     "position": "A4",
+     "title": "Yalla Kichou Barra",
+     "artist": "Ziad Rahbani",
+     "duration": "2:34"
+    },
+    {
+     "position": "A5",
+     "title": "Don't Go",
+     "artist": "Ziad Rahbani",
+     "duration": "4:19"
+    },
+    {
+     "position": "A6",
+     "title": "Bil Nisbi La Boukra",
+     "artist": "Ziad Rahbani",
+     "duration": "5:02"
+    },
+    {
+     "position": "B1",
+     "title": "Bisaraha",
+     "artist": "Ziad Rahbani",
+     "duration": "4:10"
+    },
+    {
+     "position": "B2",
+     "title": "5 To 7 Pm",
+     "artist": "Ziad Rahbani",
+     "duration": "4:02"
+    },
+    {
+     "position": "B3",
+     "title": "Rouh Khabbir",
+     "artist": "Ziad Rahbani",
+     "duration": "6:27"
+    },
+    {
+     "position": "B4",
+     "title": "For Shure",
+     "artist": "Ziad Rahbani",
+     "duration": "2:38"
+    },
+    {
+     "position": "B5",
+     "title": "Khalas",
+     "artist": "Ziad Rahbani",
+     "duration": "3:55"
+    },
+    {
+     "position": "B6",
+     "title": "Finale",
+     "artist": "Ziad Rahbani",
+     "duration": "1:33"
+    }
+   ]
+  },
+  {
+   "id": "d15355246",
+   "discogsId": 15355246,
+   "title": "Winding Road (Plays The Music Of Szabolcs Oláh)",
+   "artist": "Modern Art Orchestra",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Tom-Tom Records",
+   "country": "Hungary",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/y0lgS_TWdMtO1JOI40kseaaO9bKgNKH6M_rX80PPhXw/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzU1/MjQ2LTE1OTAyMjM0/NjMtNzQ0Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5904,
+   "vibe": 60,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Uprise",
+     "artist": "Modern Art Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "In The Prison Of Remorse",
+     "artist": "Modern Art Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Synchronicity",
+     "artist": "Modern Art Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Towards The Way Of Convalescence",
+     "artist": "Modern Art Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Sorrow Of The Witness",
+     "artist": "Modern Art Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "The Bolla Expedition - Live - Part 1",
+     "artist": "Modern Art Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "The Bolla Expedition - Live - Part 2",
+     "artist": "Modern Art Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "The Bolla Expedition - Live - Part 3",
+     "artist": "Modern Art Orchestra",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
