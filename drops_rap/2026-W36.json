@@ -1,0 +1,135 @@
+{
+ "date": "2026-W36",
+ "generatedAt": "2026-08-31T19:51:47Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-deezer-1050859122",
+   "discogsId": 0,
+   "title": "Brief Intermission",
+   "artist": "Young Chris",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "ep"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/85979e012d21ea7933c0d598e53ea46f/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Brief Intermission",
+     "artist": "Young Chris",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1053722442",
+   "discogsId": 0,
+   "title": "femme fatale",
+   "artist": "skaiwater",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8d944a539d9265c25dce6915306ebe97/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "vampires, zombies",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "HITUNES",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "delilah",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "ella",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "WEVERSE",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "nana",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "angel",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "sophia",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "BAITFACE",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "radar, radar",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "foreigner",
+     "artist": "skaiwater",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "JUMP",
+     "artist": "skaiwater",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 2
+ }
+}
