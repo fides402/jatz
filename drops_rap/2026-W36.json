@@ -1,6 +1,6 @@
 {
  "date": "2026-W36",
- "generatedAt": "2026-08-31T19:51:47Z",
+ "generatedAt": "2026-09-01T17:40:53Z",
  "profile": "rap",
  "albums": [
   {
@@ -126,10 +126,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4252687551",
+   "discogsId": 0,
+   "title": "Snakes On My Collar (feat. diamond*, Lil Keed)",
+   "artist": "Young Stoner Life",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8b8c73886fdfee4f46229d294b8f54c9/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.513,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Snakes On My Collar (feat. diamond*, Lil Keed)",
+     "artist": "Young Stoner Life",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 2
+  "modern": 3
  }
 }
