@@ -1,0 +1,402 @@
+{
+ "date": "2026-09-01",
+ "generatedAt": "2026-09-01T08:55:09Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d628815",
+   "discogsId": 628815,
+   "title": "Greatest Hits",
+   "artist": "Sérgio Mendes & Brasil '66",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "A&M Records",
+   "country": "Canada",
+   "styles": [
+    "Bossa Nova",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/pgFhZyDgmE700AfJGxUrFP7rhWgzTws2-uE6yRYf6bM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODgx/NS0xNTc1NTEyMjI0/LTcyNDguanBlZw.jpeg",
+   "ratingAvg": 4.27,
+   "ratingCount": 11,
+   "score": 0.6238,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Mais Que Nada",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "2:37"
+    },
+    {
+     "position": "A2",
+     "title": "Scarborough",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:19"
+    },
+    {
+     "position": "A3",
+     "title": "With A Little Help From My Friends",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "2:33"
+    },
+    {
+     "position": "A4",
+     "title": "Like A Lover",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:51"
+    },
+    {
+     "position": "A5",
+     "title": "Look Of Love",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "2:42"
+    },
+    {
+     "position": "A6",
+     "title": "Night And Day",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:30"
+    },
+    {
+     "position": "B1",
+     "title": "Fool On The Hill",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:15"
+    },
+    {
+     "position": "B2",
+     "title": "Going Out Of My Head",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:00"
+    },
+    {
+     "position": "B3",
+     "title": "Look Around",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "2:59"
+    },
+    {
+     "position": "B4",
+     "title": "So Many Stars",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "4:25"
+    },
+    {
+     "position": "B5",
+     "title": "Day Tripper",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:09"
+    },
+    {
+     "position": "B6",
+     "title": "Pretty World",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:20"
+    }
+   ]
+  },
+  {
+   "id": "d4395648",
+   "discogsId": 4395648,
+   "title": "Autógrafos De Sucesso",
+   "artist": "Os Cariocas",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Fontana",
+   "country": "Brazil",
+   "styles": [
+    "Samba",
+    "MPB",
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/9iP3lhJ3jiFxYpqOTppyfscQxdrJiA9qcVv6t_8Aw4A/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTU2/NDgtMTczMzk0OTIz/Mi02OTM3LmpwZWc.jpeg",
+   "ratingAvg": 4.67,
+   "ratingCount": 3,
+   "score": 0.6161,
+   "vibe": 67,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "1974 Greatest Hits Fontana Release Brazil",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Devagar Com A Louca",
+     "artist": "Os Cariocas",
+     "duration": "1:49"
+    },
+    {
+     "position": "A2",
+     "title": "Vivo Sonhando",
+     "artist": "Os Cariocas",
+     "duration": "2:37"
+    },
+    {
+     "position": "A3",
+     "title": "So Tinha De Ser Com Voce",
+     "artist": "Os Cariocas",
+     "duration": "3:13"
+    },
+    {
+     "position": "A4",
+     "title": "Telefone",
+     "artist": "Os Cariocas",
+     "duration": "2:15"
+    },
+    {
+     "position": "A5",
+     "title": "Samba De Verao",
+     "artist": "Os Cariocas",
+     "duration": "2:05"
+    },
+    {
+     "position": "A6",
+     "title": "Tambem Quem Mandou",
+     "artist": "Os Cariocas",
+     "duration": "2:53"
+    },
+    {
+     "position": "A7",
+     "title": "Samba Do Aviao",
+     "artist": "Os Cariocas",
+     "duration": "2:38"
+    },
+    {
+     "position": "B1",
+     "title": "Pra Que Chorar",
+     "artist": "Os Cariocas",
+     "duration": "2:28"
+    },
+    {
+     "position": "B2",
+     "title": "Garota De Ipanema",
+     "artist": "Os Cariocas",
+     "duration": "3:00"
+    },
+    {
+     "position": "B3",
+     "title": "Rio",
+     "artist": "Os Cariocas",
+     "duration": "2:23"
+    },
+    {
+     "position": "B4",
+     "title": "Sa Danco Samba",
+     "artist": "Os Cariocas",
+     "duration": "1:53"
+    },
+    {
+     "position": "B5",
+     "title": "Inutil Paisagem",
+     "artist": "Os Cariocas",
+     "duration": "2:40"
+    },
+    {
+     "position": "B6",
+     "title": "O Amor Em Paz",
+     "artist": "Os Cariocas",
+     "duration": "2:27"
+    },
+    {
+     "position": "B7",
+     "title": "Ela E' Carioca",
+     "artist": "Os Cariocas",
+     "duration": "2:35"
+    }
+   ]
+  },
+  {
+   "id": "d22450933",
+   "discogsId": 22450933,
+   "title": "Schizophrenia",
+   "artist": "Wayne Shorter",
+   "year": 1978,
+   "era": "VINTAGE",
+   "label": "Blue Note",
+   "country": "Japan",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/W-OW25-31ZZwMM7qxWlKELU4aAGOAiwinrQ2C-B1njQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUw/OTMzLTE2NDY4NjIw/NDAtNjY1Mi5wbmc.jpeg",
+   "ratingAvg": 4.33,
+   "ratingCount": 3,
+   "score": 0.5441,
+   "vibe": 49,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Promotional copy with white label.\nRecorded on March 10, 1967.\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Tom Thumb",
+     "artist": "Wayne Shorter",
+     "duration": "6:15"
+    },
+    {
+     "position": "A2",
+     "title": "Go",
+     "artist": "Wayne Shorter",
+     "duration": "4:52"
+    },
+    {
+     "position": "A3",
+     "title": "Schizophrenia",
+     "artist": "Wayne Shorter",
+     "duration": "6:59"
+    },
+    {
+     "position": "B1",
+     "title": "Kryptonite",
+     "artist": "Wayne Shorter",
+     "duration": "6:25"
+    },
+    {
+     "position": "B2",
+     "title": "Miyako",
+     "artist": "Wayne Shorter",
+     "duration": "5:55"
+    },
+    {
+     "position": "B3",
+     "title": "Playground",
+     "artist": "Wayne Shorter",
+     "duration": "6:20"
+    }
+   ]
+  },
+  {
+   "id": "d29149357",
+   "discogsId": 29149357,
+   "title": "Coleman Hawkins Encounters Ben Webster",
+   "artist": "Coleman Hawkins & Ben Webster",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Verve Records",
+   "country": "Worldwide",
+   "styles": [
+    "Bop",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/dU4GOcXu4igNCAEYsE5mmDwKOO0u_YLAJ5Xh-ELosB0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTQ5/MzU3LTE3NjMwMzQw/MjktMzM2Ni5qcGVn.jpeg",
+   "ratingAvg": 4.81,
+   "ratingCount": 199,
+   "score": 0.6461,
+   "vibe": 74,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Repress using metal parts from [r=4850394].\n\nThis Session was recorded in Hollywood, October 16th 1957.\n\n[On rear]\nA Verve Records release; Originally released in 1959 on Verve Records © 2023 UMG Recordings, Inc.\nDistributed by Universal Music Enterprises, A Division of UMG Recordings, Inc.\n\n[On labels, rim text]\nVerve Records, Inc. — Made in U.S.A.\n\nRunouts are etched.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Blues For Yolande",
+     "artist": "Coleman Hawkins & Ben Webster",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "It Never Entered My Mind",
+     "artist": "Coleman Hawkins & Ben Webster",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Rosita",
+     "artist": "Coleman Hawkins & Ben Webster",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "You'd Be So Nice To Come Home To",
+     "artist": "Coleman Hawkins & Ben Webster",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Prisoner Of Love",
+     "artist": "Coleman Hawkins & Ben Webster",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Tangerine",
+     "artist": "Coleman Hawkins & Ben Webster",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Shine On Harvest Moon",
+     "artist": "Coleman Hawkins & Ben Webster",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d16912413",
+   "discogsId": 16912413,
+   "title": "Cedar Walton",
+   "artist": "Cedar Walton & David Williams & Billy Higgins",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Solid Records (6)",
+   "country": "Japan",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/rpn4c3_Y_qGNjVPs-ge2QD3IFGz9aTcjtL5o3WP4DIY/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTEy/NDEzLTE2MTA1NTg3/OTYtMjE5Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5616,
+   "vibe": 53,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded: Studio 44, Monster, Holland. April, 19, 1985.\n ",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Third Street Blues",
+     "artist": "Cedar Walton & David Williams & Billy Higgins",
+     "duration": "7:13"
+    },
+    {
+     "position": "2",
+     "title": "Magical Lady",
+     "artist": "Cedar Walton & David Williams & Billy Higgins",
+     "duration": "7:30"
+    },
+    {
+     "position": "3",
+     "title": "Short Comings",
+     "artist": "Cedar Walton & David Williams & Billy Higgins",
+     "duration": "5:42"
+    },
+    {
+     "position": "4",
+     "title": "Voices Deep Within",
+     "artist": "Cedar Walton & David Williams & Billy Higgins",
+     "duration": "8:50"
+    },
+    {
+     "position": "5",
+     "title": "I'll Let You Know",
+     "artist": "Cedar Walton & David Williams & Billy Higgins",
+     "duration": "7:24"
+    },
+    {
+     "position": "6",
+     "title": "Bleeker Street Team",
+     "artist": "Cedar Walton & David Williams & Billy Higgins",
+     "duration": "5:06"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
