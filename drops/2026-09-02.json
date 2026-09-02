@@ -1,0 +1,433 @@
+{
+ "date": "2026-09-02",
+ "generatedAt": "2026-09-02T08:09:36Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d5412613",
+   "discogsId": 5412613,
+   "title": "Look To The Rainbow - Live In Europe",
+   "artist": "Al Jarreau",
+   "year": 1978,
+   "era": "VINTAGE",
+   "label": "Warner Bros. Records",
+   "country": "France",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/_NGQEZd3K8fgc_WT3oaONAxkMM_UBKqHfgNYvANEhMo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTI2/MTMtMTM5MjcyNDc4/Ny0zOTE5LmpwZWc.jpeg",
+   "ratingAvg": 3.91,
+   "ratingCount": 11,
+   "score": 0.716,
+   "vibe": 92,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Reissue with cream WB labels and WE 322 distribution code on sticker. NO label code.\n\nGatefold Sleeve:\nRecorded in Europe, January and February 1977\nRemote Recording by RAK Records Mobile\nMixed at Capitol Recording Studios, Hollywood, February and March 1977\nMastered at The Mastering Lab\nSpecial Thanks to our Tour Manager, Jerry Levin\nSusan, Here's a Rainbow\n\nDistributed by WEA FILIPACCHI MUSIC · Made in France · \nWarner Bros. Records Inc. · a licensee of WEA International INC · ℗© 1977 Warner Bros. Records Inc.\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Letter Perfect",
+     "artist": "Al Jarreau",
+     "duration": "5:16"
+    },
+    {
+     "position": "A2",
+     "title": "Rainbow In Your Eyes",
+     "artist": "Al Jarreau",
+     "duration": "6:17"
+    },
+    {
+     "position": "A3",
+     "title": "One Good Turn",
+     "artist": "Al Jarreau",
+     "duration": "6:30"
+    },
+    {
+     "position": "B1",
+     "title": "Could You Believe",
+     "artist": "Al Jarreau",
+     "duration": "6:49"
+    },
+    {
+     "position": "B2",
+     "title": "Burst In With The Dawn",
+     "artist": "Al Jarreau",
+     "duration": "7:24"
+    },
+    {
+     "position": "B3",
+     "title": "Better Than Anything",
+     "artist": "Al Jarreau",
+     "duration": "5:08"
+    },
+    {
+     "position": "C1",
+     "title": "So Long Girl",
+     "artist": "Al Jarreau",
+     "duration": "3:44"
+    },
+    {
+     "position": "C2",
+     "title": "Look To The Rainbow",
+     "artist": "Al Jarreau",
+     "duration": "7:54"
+    },
+    {
+     "position": "C3",
+     "title": "You Don't See Me",
+     "artist": "Al Jarreau",
+     "duration": "6:44"
+    },
+    {
+     "position": "D1",
+     "title": "Take Five",
+     "artist": "Al Jarreau",
+     "duration": "7:20"
+    },
+    {
+     "position": "D2",
+     "title": "Loving You",
+     "artist": "Al Jarreau",
+     "duration": "5:00"
+    },
+    {
+     "position": "D3",
+     "title": "We Got By",
+     "artist": "Al Jarreau",
+     "duration": "6:47"
+    }
+   ]
+  },
+  {
+   "id": "d1688027",
+   "discogsId": 1688027,
+   "title": "The Shirley Bassey Singles Album",
+   "artist": "Shirley Bassey",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "United Artists Records",
+   "country": "Spain",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/2L_zIk3-HXeFLVeByQxBiK_cuHegofT1m5_JqUVGA_U/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODgw/MjctMTIzNzQzMjA1/Ni5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 7,
+   "score": 0.6157,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Something",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "(Where Do I Begin) Love Story",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Diamonds Are Forever",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "The Fool On The Hill",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Make The World A Little Younger",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Big Spender",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Never, Never, Never = Grande, Grande, Grande",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "When You Smile",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "If You Go Away = Ne Me Quitte Pas",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "And I Love You So",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Does Anybody Miss Me",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "For All We Know",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d646507",
+   "discogsId": 646507,
+   "title": "Perception!",
+   "artist": "Monty Alexander",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "MPS Records",
+   "country": "Germany",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/TnBAqnOolgA4_oZaTrx3tW3kVFlWZg7cGlCZUZ93KwQ/rs:fit/g:sm/q:90/h:439/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjUw/Ny0xMzAwMjQ5NDg0/LmpwZWc.jpeg",
+   "ratingAvg": 4.06,
+   "ratingCount": 16,
+   "score": 0.6022,
+   "vibe": 63,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Liner Notes in English and German\n\nRecorded June 18, 1973\n℗ 1974\n\nRunouts:\nA -- All stamped except '1 F' etched\nB -- All stamped except '1 D' etched",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Concerto D'Aranjuez",
+     "artist": "Monty Alexander",
+     "duration": "7:20"
+    },
+    {
+     "position": "A2",
+     "title": "Ben",
+     "artist": "Monty Alexander",
+     "duration": "6:47"
+    },
+    {
+     "position": "A3",
+     "title": "Battle Hymn Of The Republic",
+     "artist": "Monty Alexander",
+     "duration": "5:00"
+    },
+    {
+     "position": "B1",
+     "title": "Carnival In Jamaica",
+     "artist": "Monty Alexander",
+     "duration": "5:28"
+    },
+    {
+     "position": "B2",
+     "title": "For All We Know",
+     "artist": "Monty Alexander",
+     "duration": "7:09"
+    },
+    {
+     "position": "B3",
+     "title": "Rude Old Man",
+     "artist": "Monty Alexander",
+     "duration": "3:30"
+    },
+    {
+     "position": "B4",
+     "title": "Shaft",
+     "artist": "Monty Alexander",
+     "duration": "8:09"
+    }
+   ]
+  },
+  {
+   "id": "d29128270",
+   "discogsId": 29128270,
+   "title": "Bridges",
+   "artist": "Kevin Hays & Ben Street & Billy Hart",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Smoke Sessions Records",
+   "country": "US",
+   "styles": [
+    "Post Bop",
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/ff487cfBHSCR3lVYvJGuJZ4VZqbLZP5A4fWstPms8vQ/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI4/MjcwLTE3MDE4ODMw/NjEtMzE1My5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.5993,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Butterfly",
+     "artist": "Kevin Hays & Ben Street & Billy Hart",
+     "duration": "6:16"
+    },
+    {
+     "position": "2",
+     "title": "Capricorn",
+     "artist": "Kevin Hays & Ben Street & Billy Hart",
+     "duration": "5:52"
+    },
+    {
+     "position": "3",
+     "title": "Song For Peace",
+     "artist": "Kevin Hays & Ben Street & Billy Hart",
+     "duration": "4:31"
+    },
+    {
+     "position": "4",
+     "title": "With A Little Help from My Friends",
+     "artist": "Kevin Hays & Ben Street & Billy Hart",
+     "duration": "4:34"
+    },
+    {
+     "position": "5",
+     "title": "Row Row Row",
+     "artist": "Kevin Hays & Ben Street & Billy Hart",
+     "duration": "4:28"
+    },
+    {
+     "position": "6",
+     "title": "Throughout",
+     "artist": "Kevin Hays & Ben Street & Billy Hart",
+     "duration": "5:24"
+    },
+    {
+     "position": "7",
+     "title": "Irah",
+     "artist": "Kevin Hays & Ben Street & Billy Hart",
+     "duration": "5:44"
+    },
+    {
+     "position": "8",
+     "title": "Bridges (Travessia)",
+     "artist": "Kevin Hays & Ben Street & Billy Hart",
+     "duration": "6:34"
+    }
+   ]
+  },
+  {
+   "id": "d29372452",
+   "discogsId": 29372452,
+   "title": "Evanescence",
+   "artist": "Francis David Trio",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "FD Productions",
+   "country": "France",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/aG3zf8XtCWZaSMADMVxYNwZ6-nr_G46BNOwWr1IXs4Q/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzcy/NDUyLTE3MDQxOTYz/NTAtOTYzMC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.54,
+   "vibe": 48,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Lush Life",
+     "artist": "Francis David Trio",
+     "duration": "6:33"
+    },
+    {
+     "position": "2",
+     "title": "Blues-Ah-Bill",
+     "artist": "Francis David Trio",
+     "duration": "4:33"
+    },
+    {
+     "position": "3",
+     "title": "I Fall In Love Too Easily",
+     "artist": "Francis David Trio",
+     "duration": "4:57"
+    },
+    {
+     "position": "4",
+     "title": "Here's That Rainy Day",
+     "artist": "Francis David Trio",
+     "duration": "4:55"
+    },
+    {
+     "position": "5",
+     "title": "Evanescence",
+     "artist": "Francis David Trio",
+     "duration": "5:46"
+    },
+    {
+     "position": "6",
+     "title": "Body And Soul",
+     "artist": "Francis David Trio",
+     "duration": "6:40"
+    },
+    {
+     "position": "7",
+     "title": "Dolphin Dance",
+     "artist": "Francis David Trio",
+     "duration": "4:52"
+    },
+    {
+     "position": "8",
+     "title": "I Loves You Porgy",
+     "artist": "Francis David Trio",
+     "duration": "2:41"
+    },
+    {
+     "position": "9",
+     "title": "For Franco Manzecchi",
+     "artist": "Francis David Trio",
+     "duration": "5:46"
+    },
+    {
+     "position": "10",
+     "title": "Sno' Peas",
+     "artist": "Francis David Trio",
+     "duration": "3:39"
+    },
+    {
+     "position": "11",
+     "title": "Hymne À L'Amour",
+     "artist": "Francis David Trio",
+     "duration": "6:20"
+    },
+    {
+     "position": "12",
+     "title": "Low And Green",
+     "artist": "Francis David Trio",
+     "duration": "4:17"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
