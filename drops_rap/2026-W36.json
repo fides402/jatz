@@ -1,6 +1,6 @@
 {
  "date": "2026-W36",
- "generatedAt": "2026-09-01T17:40:53Z",
+ "generatedAt": "2026-09-02T17:41:16Z",
  "profile": "rap",
  "albums": [
   {
@@ -155,10 +155,210 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6806062898",
+   "discogsId": 0,
+   "title": "Yiccen",
+   "artist": "Wiz Khalifa",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/82/37/b0823730-488a-d8ae-2f4e-b00d48a49543/075679558190.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Yiccen",
+     "artist": "Wiz Khalifa",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-unresolved-1110711025887734431",
+   "discogsId": 0,
+   "title": "Been Crashing",
+   "artist": "Sauce Walka & Adrien Broner",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Been Crashing",
+     "artist": "Sauce Walka & Adrien Broner",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1062697301",
+   "discogsId": 0,
+   "title": "B.I.L.L.Y",
+   "artist": "Mike Dimes",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/708c75081a13de74cf9be1ea81a5835e/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "BLACK COFFEE",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "LABELS STILL CALLIN’",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "CRUCIAL",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "LINDSEY",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "STILL A YOUNGBOY",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "BANDZ 2 MAKE",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "EYE LIED",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "FUCK FAIRYTALES",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "LOVE STORY",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "PARANOID",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "SHOTS",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "DENIM BLUES",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "13",
+     "title": "STILL",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "14",
+     "title": "TESTIMONIES",
+     "artist": "Mike Dimes",
+     "duration": ""
+    },
+    {
+     "position": "15",
+     "title": "BILLY",
+     "artist": "Mike Dimes",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1065592231",
+   "discogsId": 0,
+   "title": "Last Night Out",
+   "artist": "03 Greedo",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "ep"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/824f0574d76d402d4fc2d39eb6c73f54/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Last Night Out",
+     "artist": "03 Greedo",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 3
+  "modern": 7
  }
 }
