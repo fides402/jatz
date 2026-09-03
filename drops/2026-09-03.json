@@ -1,0 +1,483 @@
+{
+ "date": "2026-09-03",
+ "generatedAt": "2026-09-03T08:19:22Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d19465003",
+   "discogsId": 19465003,
+   "title": "Visions",
+   "artist": "Paul Horn",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Epic",
+   "country": "Australia",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/qVvLwNpoB66x_inldBYtAO-MlsFYt5opAgfP6X7tUEc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY1/MDAzLTE3MDEwNjE2/MzEtMjg5Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6147,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Manufactured and distributed in Australia under license from Columbia Records.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Too High",
+     "artist": "Paul Horn",
+     "duration": "2:40"
+    },
+    {
+     "position": "A2",
+     "title": "Guinnevere",
+     "artist": "Paul Horn",
+     "duration": "3:15"
+    },
+    {
+     "position": "A3",
+     "title": "High Tide",
+     "artist": "Paul Horn",
+     "duration": "3:48"
+    },
+    {
+     "position": "A4",
+     "title": "Long Time Gone",
+     "artist": "Paul Horn",
+     "duration": "2:45"
+    },
+    {
+     "position": "A5",
+     "title": "Blue",
+     "artist": "Paul Horn",
+     "duration": "5:58"
+    },
+    {
+     "position": "B1",
+     "title": "Chelsea Morning",
+     "artist": "Paul Horn",
+     "duration": "2:45"
+    },
+    {
+     "position": "B2",
+     "title": "Visions",
+     "artist": "Paul Horn",
+     "duration": "4:00"
+    },
+    {
+     "position": "B3",
+     "title": "Song With No Words",
+     "artist": "Paul Horn",
+     "duration": "4:03"
+    },
+    {
+     "position": "B4",
+     "title": "Dida",
+     "artist": "Paul Horn",
+     "duration": "3:20"
+    },
+    {
+     "position": "B5",
+     "title": "Living For The City",
+     "artist": "Paul Horn",
+     "duration": "4:02"
+    }
+   ]
+  },
+  {
+   "id": "d3692076",
+   "discogsId": 3692076,
+   "title": "Jazz Impressions Of Black Orpheus",
+   "artist": "Vince Guaraldi Trio",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Mobile Fidelity Sound Lab",
+   "country": "US",
+   "styles": [
+    "Latin Jazz",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/A13hrlqZnpEzUhs92SI_mWWA70sRcYEP0raFQx6vWUc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTIw/NzYtMTUyNDI0OTc2/Ni0yMDMxLmpwZWc.jpeg",
+   "ratingAvg": 4.82,
+   "ratingCount": 28,
+   "score": 0.5899,
+   "vibe": 60,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "With \"Cast Your Fate To The Wind\" - The Original Hit\r\n\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Samba De Orpheus",
+     "artist": "Vince Guaraldi Trio",
+     "duration": "5:37"
+    },
+    {
+     "position": "A2",
+     "title": "Manha De Carnaval",
+     "artist": "Vince Guaraldi Trio",
+     "duration": "5:45"
+    },
+    {
+     "position": "A3",
+     "title": "Musso Amor",
+     "artist": "Vince Guaraldi Trio",
+     "duration": "4:52"
+    },
+    {
+     "position": "A4",
+     "title": "Generique",
+     "artist": "Vince Guaraldi Trio",
+     "duration": "4:44"
+    },
+    {
+     "position": "B1",
+     "title": "Cast Your Fate To The Wind",
+     "artist": "Vince Guaraldi Trio",
+     "duration": "3:05"
+    },
+    {
+     "position": "B2",
+     "title": "Moon River",
+     "artist": "Vince Guaraldi Trio",
+     "duration": "5:16"
+    },
+    {
+     "position": "B3",
+     "title": "Alma-Ville",
+     "artist": "Vince Guaraldi Trio",
+     "duration": "5:58"
+    },
+    {
+     "position": "B4",
+     "title": "Since I Fell For You",
+     "artist": "Vince Guaraldi Trio",
+     "duration": "4:20"
+    }
+   ]
+  },
+  {
+   "id": "d16382745",
+   "discogsId": 16382745,
+   "title": "La Paloma",
+   "artist": "Billy Vaughn And His Orchestra",
+   "year": 1980,
+   "era": "VINTAGE",
+   "label": "MCA Records",
+   "country": "Guatemala",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/aAXHR6YDvrOpxnrwIYTuCD_R4qu-ufLbtw5ImE-ITBM/rs:fit/g:sm/q:90/h:600/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzgy/NzQ1LTE2MDc0MTYw/MDEtOTg1OS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5535,
+   "vibe": 51,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Foldout J-card, paste-on cassette labels.\nTrack B6 spelled as on release.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "La Paloma",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "2:10"
+    },
+    {
+     "position": "A2",
+     "title": "Time Was",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "2:31"
+    },
+    {
+     "position": "A3",
+     "title": "Say Si Si",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "1:35"
+    },
+    {
+     "position": "A4",
+     "title": "Mexicali Rose",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "1:45"
+    },
+    {
+     "position": "A5",
+     "title": "El Choclo",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "2:03"
+    },
+    {
+     "position": "A6",
+     "title": "La Golondrina",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "2:10"
+    },
+    {
+     "position": "B1",
+     "title": "Brazil",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "2:10"
+    },
+    {
+     "position": "B2",
+     "title": "Estrellita",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "1:38"
+    },
+    {
+     "position": "B3",
+     "title": "La Cumparsita",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "2:18"
+    },
+    {
+     "position": "B4",
+     "title": "Perfidia",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "2:00"
+    },
+    {
+     "position": "B5",
+     "title": "Yours",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "2:23"
+    },
+    {
+     "position": "B6",
+     "title": "The Peanut Vender",
+     "artist": "Billy Vaughn And His Orchestra",
+     "duration": "1:48"
+    }
+   ]
+  },
+  {
+   "id": "d17177797",
+   "discogsId": 17177797,
+   "title": "Queen Of Soul",
+   "artist": "Aretha Franklin",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Cult Legends",
+   "country": "Netherlands",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/4JF_Uv0NCbvwR1M_GFRSOys-xdKvUBijzMlDWSJZU18/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTc3/Nzk3LTE3MjYxMjM3/MjktNDI1MS5qcGVn.jpeg",
+   "ratingAvg": 4.67,
+   "ratingCount": 3,
+   "score": 0.6219,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Try A Little Tenderness",
+     "artist": "Aretha Franklin",
+     "duration": "3:19"
+    },
+    {
+     "position": "2",
+     "title": "I Apologize",
+     "artist": "Aretha Franklin",
+     "duration": "2:56"
+    },
+    {
+     "position": "3",
+     "title": "Operation Heartbreak",
+     "artist": "Aretha Franklin",
+     "duration": "2:56"
+    },
+    {
+     "position": "4",
+     "title": "I'm Wandering",
+     "artist": "Aretha Franklin",
+     "duration": "3:30"
+    },
+    {
+     "position": "5",
+     "title": "I Don't Know You Anymore",
+     "artist": "Aretha Franklin",
+     "duration": "2:48"
+    },
+    {
+     "position": "6",
+     "title": "I Surrender Dear",
+     "artist": "Aretha Franklin",
+     "duration": "2:48"
+    },
+    {
+     "position": "7",
+     "title": "How Deep Is The Ocean",
+     "artist": "Aretha Franklin",
+     "duration": "2:51"
+    },
+    {
+     "position": "8",
+     "title": "You Made Me Love You",
+     "artist": "Aretha Franklin",
+     "duration": "2:20"
+    },
+    {
+     "position": "9",
+     "title": "Ac-Cent-Tchu-Ate The Positive",
+     "artist": "Aretha Franklin",
+     "duration": "2:18"
+    },
+    {
+     "position": "10",
+     "title": "I'm Sitting On Top Of The World",
+     "artist": "Aretha Franklin",
+     "duration": "2:45"
+    },
+    {
+     "position": "11",
+     "title": "Today I Sing The Blues",
+     "artist": "Aretha Franklin",
+     "duration": "2:46"
+    },
+    {
+     "position": "12",
+     "title": "That Lucky Old Son",
+     "artist": "Aretha Franklin",
+     "duration": "3:21"
+    },
+    {
+     "position": "13",
+     "title": "Without The One You Love",
+     "artist": "Aretha Franklin",
+     "duration": "2:48"
+    },
+    {
+     "position": "14",
+     "title": "Over The Rainbow",
+     "artist": "Aretha Franklin",
+     "duration": "2:40"
+    },
+    {
+     "position": "15",
+     "title": "God Bless The Child",
+     "artist": "Aretha Franklin",
+     "duration": "3:05"
+    },
+    {
+     "position": "16",
+     "title": "Trouble In Mind",
+     "artist": "Aretha Franklin",
+     "duration": "2:13"
+    }
+   ]
+  },
+  {
+   "id": "d26836949",
+   "discogsId": 26836949,
+   "title": "Black, Brown, And Blue",
+   "artist": "Eric Reed",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Smoke Sessions Records",
+   "country": "US",
+   "styles": [
+    "Post Bop",
+    "Bop",
+    "Vocal"
+   ],
+   "coverUrl": "https://i.discogs.com/eOhVDXWAC4rOMtn6OkNm4dQseb86NM5WD25gc5dbEqI/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM2/OTQ5LTE2ODIxMTM5/NDgtNDMyMS5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.6025,
+   "vibe": 63,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded June 24, 2022 at Stagg Street Studio, Van Nuys, California.\n\n℗© 2023 Smoke Sessions Records",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Black, Brown, And Blue",
+     "artist": "Eric Reed",
+     "duration": "2:17"
+    },
+    {
+     "position": "2",
+     "title": "Lean On Me",
+     "artist": "Eric Reed",
+     "duration": "4:01"
+    },
+    {
+     "position": "3",
+     "title": "I Got It Bad (And That Ain't Good)",
+     "artist": "Eric Reed",
+     "duration": "3:15"
+    },
+    {
+     "position": "4",
+     "title": "Peace",
+     "artist": "Eric Reed",
+     "duration": "4:57"
+    },
+    {
+     "position": "5",
+     "title": "Search For Peace",
+     "artist": "Eric Reed",
+     "duration": "6:36"
+    },
+    {
+     "position": "6",
+     "title": "Christina",
+     "artist": "Eric Reed",
+     "duration": "9:29"
+    },
+    {
+     "position": "7",
+     "title": "Infant Eyes",
+     "artist": "Eric Reed",
+     "duration": "5:03"
+    },
+    {
+     "position": "8",
+     "title": "Cheryl Ann",
+     "artist": "Eric Reed",
+     "duration": "5:40"
+    },
+    {
+     "position": "9",
+     "title": "Along Came Betty",
+     "artist": "Eric Reed",
+     "duration": "5:22"
+    },
+    {
+     "position": "10",
+     "title": "Variation Twenty-Four",
+     "artist": "Eric Reed",
+     "duration": "7:59"
+    },
+    {
+     "position": "11",
+     "title": "One For E",
+     "artist": "Eric Reed",
+     "duration": "5:41"
+    },
+    {
+     "position": "12",
+     "title": "Pastime Paradise",
+     "artist": "Eric Reed",
+     "duration": "3:58"
+    },
+    {
+     "position": "13",
+     "title": "Ugly Beauty",
+     "artist": "Eric Reed",
+     "duration": "3:18"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
