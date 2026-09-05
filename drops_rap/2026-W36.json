@@ -1,6 +1,6 @@
 {
  "date": "2026-W36",
- "generatedAt": "2026-09-02T17:41:16Z",
+ "generatedAt": "2026-09-05T16:36:33Z",
  "profile": "rap",
  "albums": [
   {
@@ -355,10 +355,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4180444312",
+   "discogsId": 0,
+   "title": "I Will Not Lose",
+   "artist": "The Diplomats",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5b77ee1165c8e54a66a4ff4e86716d3a/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "I Will Not Lose",
+     "artist": "The Diplomats",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 7
+  "modern": 8
  }
 }
