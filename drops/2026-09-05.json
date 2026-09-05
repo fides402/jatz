@@ -1,0 +1,294 @@
+{
+ "date": "2026-09-05",
+ "generatedAt": "2026-09-05T07:53:42Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d29619004",
+   "discogsId": 29619004,
+   "title": "Passionfruit",
+   "artist": "Michael Franks",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Warner Bros. Records",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/S0aYCDR8TBRNXklJkwoD7vsJz2hv_-GlrMblsY7_190/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjE5/MDA0LTE3MDYzODc4/MzgtNTkyOC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.581,
+   "vibe": 58,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Alone At Night",
+     "artist": "Michael Franks",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Never Satisfied",
+     "artist": "Michael Franks",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Amazon",
+     "artist": "Michael Franks",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Now That Your Joystick's Broke",
+     "artist": "Michael Franks",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Sunday Morning Here With You",
+     "artist": "Michael Franks",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Never Say Die",
+     "artist": "Michael Franks",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Rainy Night In Tokyo",
+     "artist": "Michael Franks",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Tell Me All About It",
+     "artist": "Michael Franks",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "When Sly Calls (Don't Touch That Phone)",
+     "artist": "Michael Franks",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "How The Garden Grows",
+     "artist": "Michael Franks",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d2110043",
+   "discogsId": 2110043,
+   "title": "Kind Of Blue",
+   "artist": "Miles Davis",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "CBS/Sony",
+   "country": "Japan",
+   "styles": [
+    "Modal",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Z6bn0jtgy9tHUFP7yrUhRQ1J_ZsPs5iK2MuJb49Ejl8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTAw/NDMtMTM1MjA0NjE1/Ni0yMzU0LmpwZWc.jpeg",
+   "ratingAvg": 4.86,
+   "ratingCount": 72,
+   "score": 0.5717,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Side A: Recorded NYC, March 2, 1959\nSide B: Recorded NYC, April 22, 1959\n\nManufactured by CBS/SONY Inc. (Tokyo Japan) / ® CBS Inc. / SONY ®Sony Corp. (js) \n\nIncludes japanese liner notes.\n\n[url=https://www.discogs.com/lists/SJ-Seal-Of-Approval/577495]SJ Seal Of Approval[/url]",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "So What",
+     "artist": "Miles Davis",
+     "duration": "8:59"
+    },
+    {
+     "position": "A2",
+     "title": "Freddie Freeloader",
+     "artist": "Miles Davis",
+     "duration": "9:37"
+    },
+    {
+     "position": "A3",
+     "title": "Blue In Green",
+     "artist": "Miles Davis",
+     "duration": "5:28"
+    },
+    {
+     "position": "B1",
+     "title": "All Blues",
+     "artist": "Miles Davis",
+     "duration": "11:39"
+    },
+    {
+     "position": "B2",
+     "title": "Flamenco Sketches",
+     "artist": "Miles Davis",
+     "duration": "9:25"
+    }
+   ]
+  },
+  {
+   "id": "d9907338",
+   "discogsId": 9907338,
+   "title": "Tears Of Joy",
+   "artist": "Don Ellis",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Columbia",
+   "country": "US",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/a4wbRj1l7uueVfYv5KvDcL3tvjucrB3k90Dh-2c24YU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDcz/MzgtMTQ4ODM5MTcx/OS0xOTU3LmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5635,
+   "vibe": 53,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Tears Of Joy",
+     "artist": "Don Ellis",
+     "duration": "2:55"
+    },
+    {
+     "position": "B",
+     "title": "Quiet Longing",
+     "artist": "Don Ellis",
+     "duration": "3:43"
+    }
+   ]
+  },
+  {
+   "id": "d27184890",
+   "discogsId": 27184890,
+   "title": "Pöllö",
+   "artist": "Njet Njet 9",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Eclipse Music (3)",
+   "country": null,
+   "styles": [
+    "Contemporary Jazz",
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/H5OchwzzIVqjUQ6iv6tSKuPcyebLZ4H8rj8AN6SUgAg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTg0/ODkwLTE2ODUwMTAy/MDYtMTI1MS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6403,
+   "vibe": 73,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Pöllö",
+     "artist": "Njet Njet 9",
+     "duration": "6:02"
+    }
+   ]
+  },
+  {
+   "id": "d24647927",
+   "discogsId": 24647927,
+   "title": "Sea Of Love",
+   "artist": "The New Peter Lehel Quartet",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Finetone",
+   "country": "Germany",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/v_tKZZBxqE4i87W40E0OKuyzURQZZ9GmNBoKJZ_OUAA/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQ3/OTI3LTE2NjQyOTY1/OTItOTA1Ni5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.5795,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "When Future Smiles",
+     "artist": "The New Peter Lehel Quartet",
+     "duration": "7:22"
+    },
+    {
+     "position": "2",
+     "title": "Lonely Bird On Lonely Planet",
+     "artist": "The New Peter Lehel Quartet",
+     "duration": "5:37"
+    },
+    {
+     "position": "3",
+     "title": "Song For No Reason",
+     "artist": "The New Peter Lehel Quartet",
+     "duration": "5:50"
+    },
+    {
+     "position": "4",
+     "title": "Sea Of Love",
+     "artist": "The New Peter Lehel Quartet",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Moove!",
+     "artist": "The New Peter Lehel Quartet",
+     "duration": "5:33"
+    },
+    {
+     "position": "6",
+     "title": "Spherical Blues",
+     "artist": "The New Peter Lehel Quartet",
+     "duration": "4:08"
+    },
+    {
+     "position": "7",
+     "title": "Trane's Hussar Mood",
+     "artist": "The New Peter Lehel Quartet",
+     "duration": "9:51"
+    },
+    {
+     "position": "8",
+     "title": "Taste Of Fruit",
+     "artist": "The New Peter Lehel Quartet",
+     "duration": "5:48"
+    },
+    {
+     "position": "9",
+     "title": "One For Kodály",
+     "artist": "The New Peter Lehel Quartet",
+     "duration": "8:25"
+    },
+    {
+     "position": "10",
+     "title": "Contemplation",
+     "artist": "The New Peter Lehel Quartet",
+     "duration": "5:38"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
