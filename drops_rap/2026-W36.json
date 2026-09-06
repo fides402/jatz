@@ -1,6 +1,6 @@
 {
  "date": "2026-W36",
- "generatedAt": "2026-09-05T16:36:33Z",
+ "generatedAt": "2026-09-06T16:45:08Z",
  "profile": "rap",
  "albums": [
   {
@@ -384,10 +384,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-7729361236312616238",
+   "discogsId": 0,
+   "title": "OK",
+   "artist": "Nemzzz ft. Latto",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "OK",
+     "artist": "Nemzzz ft. Latto",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 8
+  "modern": 9
  }
 }
