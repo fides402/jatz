@@ -1,0 +1,328 @@
+{
+ "date": "2026-09-06",
+ "generatedAt": "2026-09-06T08:07:36Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d2837408",
+   "discogsId": 2837408,
+   "title": "Jazz Samba",
+   "artist": "Stan Getz & Charlie Byrd",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Verve Records",
+   "country": "Japan",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/9ypt1nPysI_cn01j11fDdql3GLV2XshHmCzb-lVY0vE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzc0/MDgtMTMwMzMxMTIz/NS5qcGVn.jpeg",
+   "ratingAvg": 4.56,
+   "ratingCount": 9,
+   "score": 0.5941,
+   "vibe": 61,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded in Pierce Hall, All Souls Unitarian Church, Washington D.C., February 13, 1962.\n\n℗ © 1962 Polygram Classics, Inc.\n\nManufactured By Polydor K.K., Japan SE 8301\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Desafinado",
+     "artist": "Stan Getz & Charlie Byrd",
+     "duration": "5:49"
+    },
+    {
+     "position": "A2",
+     "title": "Samba Dees Days",
+     "artist": "Stan Getz & Charlie Byrd",
+     "duration": "3:31"
+    },
+    {
+     "position": "A3",
+     "title": "O Pato",
+     "artist": "Stan Getz & Charlie Byrd",
+     "duration": "2:27"
+    },
+    {
+     "position": "A4",
+     "title": "Samba Triste",
+     "artist": "Stan Getz & Charlie Byrd",
+     "duration": "4:45"
+    },
+    {
+     "position": "B1",
+     "title": "Samba De Uma Nota So",
+     "artist": "Stan Getz & Charlie Byrd",
+     "duration": "6:07"
+    },
+    {
+     "position": "B2",
+     "title": "E Luxo So",
+     "artist": "Stan Getz & Charlie Byrd",
+     "duration": "3:39"
+    },
+    {
+     "position": "B3",
+     "title": "Baia",
+     "artist": "Stan Getz & Charlie Byrd",
+     "duration": "6:35"
+    }
+   ]
+  },
+  {
+   "id": "d11704981",
+   "discogsId": 11704981,
+   "title": "Blows The Blues",
+   "artist": "Sonny Stitt",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Verve Records",
+   "country": "South Africa",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/7Y23m0w1AHdhHjgC0egGCQrc4BWLT71RihNkOacj9js/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA0/OTgxLTE1MjA5NjI4/OTQtNDM5My5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.5906,
+   "vibe": 60,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Blue Devil Blues",
+     "artist": "Sonny Stitt",
+     "duration": "4:28"
+    },
+    {
+     "position": "A2",
+     "title": "Home Free Blues",
+     "artist": "Sonny Stitt",
+     "duration": "4:23"
+    },
+    {
+     "position": "A3",
+     "title": "Blue Predlude",
+     "artist": "Sonny Stitt",
+     "duration": "3:07"
+    },
+    {
+     "position": "A4",
+     "title": "Frankie",
+     "artist": "Sonny Stitt",
+     "duration": "5:31"
+    },
+    {
+     "position": "B1",
+     "title": "Birth Of The Blues",
+     "artist": "Sonny Stitt",
+     "duration": "5:57"
+    },
+    {
+     "position": "B2",
+     "title": "A Blues Offering",
+     "artist": "Sonny Stitt",
+     "duration": "4:06"
+    },
+    {
+     "position": "B3",
+     "title": "Hymnal Blues",
+     "artist": "Sonny Stitt",
+     "duration": "6:10"
+    },
+    {
+     "position": "B4",
+     "title": "Morning After Blues",
+     "artist": "Sonny Stitt",
+     "duration": "2:59"
+    }
+   ]
+  },
+  {
+   "id": "d7073368",
+   "discogsId": 7073368,
+   "title": "Jazz In Czechoslovakia 1964. 6th Review Of Jazz In Czechoslovakia",
+   "artist": "Various",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Supraphon",
+   "country": "Czechoslovakia",
+   "styles": [
+    "Bop",
+    "Big Band",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/YYEddjLugoy0r6es6BB2idmTpvEiT8ojwxmZyVUrSuY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzMz/NjgtMTQzMzA4NDY3/NC03NzU3LmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5777,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "English language labels.\r\nGatefold sleeve with 4 page picture insert stapled into gatefold.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Intensities (A Jazz Suite). Overture - Riff - Waltz - Finale",
+     "artist": "Czechoslovak Radio Jazz Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Ballad",
+     "artist": "Junior Trio",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Capriola And The Parasol",
+     "artist": "Traditional Jazz Studio",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Kiss And Run",
+     "artist": "SHQ",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Ingrid",
+     "artist": "Kvarteto Pavla Polanského",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Five Minutes To Twelve",
+     "artist": "Kvarteto Leona Slezáka",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Dialogue",
+     "artist": "Karel Vlach Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "In The Ravine",
+     "artist": "Jazz Combo Ústí N. L.",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "African Nights",
+     "artist": "Combo Orchestru Gustava Broma",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d28122001",
+   "discogsId": 28122001,
+   "title": "Changing Earth",
+   "artist": "Matthew Halsall",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Gondwana Records",
+   "country": "UK",
+   "styles": [
+    "Contemporary Jazz",
+    "Modal",
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/QNLLF4IYdbo3qPDhjrVXjdoSRW97JV2uHanX5lwGd8A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTIy/MDAxLTE2OTM0MDUx/ODUtNzEzMi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6231,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Positive Activity",
+     "artist": "Matthew Halsall",
+     "duration": "7:53"
+    },
+    {
+     "position": "2",
+     "title": "Changing Earth",
+     "artist": "Matthew Halsall",
+     "duration": "6:27"
+    },
+    {
+     "position": "3",
+     "title": "Yogic Flying",
+     "artist": "Matthew Halsall",
+     "duration": "8:25"
+    },
+    {
+     "position": "4",
+     "title": "Upper Space",
+     "artist": "Matthew Halsall",
+     "duration": "7:53"
+    }
+   ]
+  },
+  {
+   "id": "d18928684",
+   "discogsId": 18928684,
+   "title": "Dance",
+   "artist": "Kamal & The Brothers",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Soul Brother Records (3)",
+   "country": "UK",
+   "styles": [
+    "Soul-Jazz",
+    "Modal",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/uUPUD-WfBBZvAsdqos3_xLFgDMViAhsK8sPoxG5ikeA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI4/Njg0LTE2MzAzOTAw/NTAtNTg4Ny5qcGVn.jpeg",
+   "ratingAvg": 4.75,
+   "ratingCount": 4,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Recorded at Nola Studios, October 12, 1983",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Dance",
+     "artist": "Kamal & The Brothers",
+     "duration": "7:26"
+    },
+    {
+     "position": "2",
+     "title": "Al Nafs",
+     "artist": "Kamal & The Brothers",
+     "duration": "6:13"
+    },
+    {
+     "position": "3",
+     "title": "Peace",
+     "artist": "Kamal & The Brothers",
+     "duration": "7:41"
+    },
+    {
+     "position": "4",
+     "title": "Brotherhood",
+     "artist": "Kamal & The Brothers",
+     "duration": "7:42"
+    },
+    {
+     "position": "5",
+     "title": "Prayer",
+     "artist": "Kamal & The Brothers",
+     "duration": "7:37"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
