@@ -1,0 +1,288 @@
+{
+ "date": "2026-09-07",
+ "generatedAt": "2026-09-07T08:37:06Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d804720",
+   "discogsId": 804720,
+   "title": "Stop! Watch! And Listen!",
+   "artist": "Knut Kiesewetter Train",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "MPS Records",
+   "country": "Germany",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/oq1F7vCnXXAihroZx0koFj6Em-XECC5wm2Y54LoTy2M/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDcy/MC0xMzg1MjMxMTY0/LTU2NzcuanBlZw.jpeg",
+   "ratingAvg": 4.41,
+   "ratingCount": 17,
+   "score": 0.6573,
+   "vibe": 77,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded July 2 and 3, 1970, Germany",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Whisper Not",
+     "artist": "Knut Kiesewetter Train",
+     "duration": "3:49"
+    },
+    {
+     "position": "A2",
+     "title": "Sometimes In Winter",
+     "artist": "Knut Kiesewetter Train",
+     "duration": "4:13"
+    },
+    {
+     "position": "A3",
+     "title": "Roll On The Left Side",
+     "artist": "Knut Kiesewetter Train",
+     "duration": "4:54"
+    },
+    {
+     "position": "A4",
+     "title": "Work Song",
+     "artist": "Knut Kiesewetter Train",
+     "duration": "7:44"
+    },
+    {
+     "position": "B1",
+     "title": "Morning And Evening Blues",
+     "artist": "Knut Kiesewetter Train",
+     "duration": "4:23"
+    },
+    {
+     "position": "B2",
+     "title": "Fool On The Hill",
+     "artist": "Knut Kiesewetter Train",
+     "duration": "4:19"
+    },
+    {
+     "position": "B3",
+     "title": "I Wish I Knew How It Would Feel To Be Free",
+     "artist": "Knut Kiesewetter Train",
+     "duration": "5:00"
+    },
+    {
+     "position": "B4",
+     "title": "Body And Soul",
+     "artist": "Knut Kiesewetter Train",
+     "duration": "4:31"
+    }
+   ]
+  },
+  {
+   "id": "d3375554",
+   "discogsId": 3375554,
+   "title": "The Only Recorded Performance Of Paul Desmond With The Modern Jazz Quartet",
+   "artist": "Paul Desmond & The Modern Jazz Quartet",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Finesse Records (3)",
+   "country": "UK",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/InRkn4uVEmT1AyD0wz8O5mM_gnXG-_vWTJXgoug1EBk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzU1/NTQtMTU3MjcxOTQy/OC03NDYzLmpwZWc.jpeg",
+   "ratingAvg": 4.14,
+   "ratingCount": 7,
+   "score": 0.6004,
+   "vibe": 63,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at Town Hall, New York City, Christmas day 1971.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Greensleevs",
+     "artist": "Paul Desmond & The Modern Jazz Quartet",
+     "duration": "3:10"
+    },
+    {
+     "position": "A2",
+     "title": "You Go To My Head",
+     "artist": "Paul Desmond & The Modern Jazz Quartet",
+     "duration": "7:56"
+    },
+    {
+     "position": "A3",
+     "title": "Blue Dove",
+     "artist": "Paul Desmond & The Modern Jazz Quartet",
+     "duration": "4:55"
+    },
+    {
+     "position": "A4",
+     "title": "Jesus Christ Superstar",
+     "artist": "Paul Desmond & The Modern Jazz Quartet",
+     "duration": "4:54"
+    },
+    {
+     "position": "B1",
+     "title": "Here's That Rainy Day",
+     "artist": "Paul Desmond & The Modern Jazz Quartet",
+     "duration": "4:50"
+    },
+    {
+     "position": "B2",
+     "title": "East Of The Sun",
+     "artist": "Paul Desmond & The Modern Jazz Quartet",
+     "duration": "8:25"
+    },
+    {
+     "position": "B3",
+     "title": "Bags New Groove",
+     "artist": "Paul Desmond & The Modern Jazz Quartet",
+     "duration": "5:10"
+    }
+   ]
+  },
+  {
+   "id": "d6220051",
+   "discogsId": 6220051,
+   "title": "Hold On, I'm Comin'",
+   "artist": "Herbie Mann",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Atlantic",
+   "country": "Spain",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/pn1qmY66m_CZyCk9PdcNJTDkw9vrFnJS9YKdcUzHkjg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjAw/NTEtMTQ2NDAzNjIy/Ny0zMTUzLmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 3,
+   "score": 0.5867,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Runouts are etched",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "(Gimme Some Of That Good Old) Soul Beat Momma",
+     "artist": "Herbie Mann",
+     "duration": "8:33"
+    },
+    {
+     "position": "A2",
+     "title": "Never Can Say Goodbye",
+     "artist": "Herbie Mann",
+     "duration": "4:32"
+    },
+    {
+     "position": "A3",
+     "title": "Respect Yourself",
+     "artist": "Herbie Mann",
+     "duration": "8:50"
+    },
+    {
+     "position": "B1",
+     "title": "Memphis Underground",
+     "artist": "Herbie Mann",
+     "duration": "12:58"
+    },
+    {
+     "position": "B2",
+     "title": "Hold On, I'm Comin'",
+     "artist": "Herbie Mann",
+     "duration": "4:07"
+    }
+   ]
+  },
+  {
+   "id": "d28417180",
+   "discogsId": 28417180,
+   "title": "Live At Montmartre",
+   "artist": "George Adams - Don Pullen Quartet",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Solid Records (6)",
+   "country": "Japan",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/ZhMW2z08x21n-5R4SMUgO60MAWWoZlJMkx_fiMgMzHc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDE3/MTgwLTE2OTU4NDE3/NTItMzI4OC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5632,
+   "vibe": 53,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Recorded live at Jazzhus Montmartre, April 4 & 5, 1985\n2022 remaster",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "I.J.",
+     "artist": "George Adams - Don Pullen Quartet",
+     "duration": "8:03"
+    },
+    {
+     "position": "2",
+     "title": "Flame Games",
+     "artist": "George Adams - Don Pullen Quartet",
+     "duration": "11:28"
+    },
+    {
+     "position": "3",
+     "title": "Well, I Guess We'll Never Know",
+     "artist": "George Adams - Don Pullen Quartet",
+     "duration": "8:23"
+    },
+    {
+     "position": "4",
+     "title": "Forever Lovers",
+     "artist": "George Adams - Don Pullen Quartet",
+     "duration": "10:50"
+    },
+    {
+     "position": "5",
+     "title": "Song Everlasting",
+     "artist": "George Adams - Don Pullen Quartet",
+     "duration": "11:23"
+    }
+   ]
+  },
+  {
+   "id": "d35713558",
+   "discogsId": 35713558,
+   "title": "Instant Composers Pool 010",
+   "artist": "Misha Mengelberg / Han Bennink",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Instant Composers Pool",
+   "country": "Netherlands",
+   "styles": [
+    "Free Improvisation"
+   ],
+   "coverUrl": "https://i.discogs.com/Nmh6q-dVpf2_yT7P_qh50oRQZ1iDtK_4PC7RTuyKQQI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzEz/NTU4LTE3NjM2NDE1/NzEtNjA5OC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Recorded 23/3/71 at Stedelijk Museum Amsterdam by Onno Scholtze with STEIM equipment\n\nArtwork by Tomas Schmit is titled \"Two new ways to draw a circle\", which possibly is also an alternative title for this release.\n",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "And The Great Spotted Woodpecker.......? \"Tsjik, Tsjik, Tsjik\" Or \"Kik\" And A Very Fast Roll",
+     "artist": "Misha Mengelberg / Han Bennink",
+     "duration": "18:45"
+    },
+    {
+     "position": "2",
+     "title": "Where Is The Police?",
+     "artist": "Misha Mengelberg / Han Bennink",
+     "duration": "21:28"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
