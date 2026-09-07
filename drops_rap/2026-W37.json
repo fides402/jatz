@@ -1,0 +1,40 @@
+{
+ "date": "2026-W37",
+ "generatedAt": "2026-09-07T18:38:10Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-1678007254",
+   "discogsId": 0,
+   "title": "On My Mind",
+   "artist": "Papi Flaco",
+   "year": 2023,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/30/2e/dd302e9a-b476-88c6-08c9-b0c7f054d8cd/artwork.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.8,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "On My Mind",
+     "artist": "Papi Flaco",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 1
+ }
+}
