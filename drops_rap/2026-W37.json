@@ -1,6 +1,6 @@
 {
  "date": "2026-W37",
- "generatedAt": "2026-09-07T18:38:10Z",
+ "generatedAt": "2026-09-08T17:48:31Z",
  "profile": "rap",
  "albums": [
   {
@@ -31,10 +31,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6805647200",
+   "discogsId": 0,
+   "title": "Africa",
+   "artist": "ApolloRed1",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/82/4a/b9824a12-4094-d695-50ee-5f56de25d129/26UM1IM10311.rgb.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Africa",
+     "artist": "ApolloRed1",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 1
+  "modern": 2
  }
 }
