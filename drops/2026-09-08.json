@@ -1,0 +1,397 @@
+{
+ "date": "2026-09-08",
+ "generatedAt": "2026-09-08T08:20:07Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d10708338",
+   "discogsId": 10708338,
+   "title": "Play Me",
+   "artist": "Gene Ammons",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Prestige",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/PemdU8NM6z6gqkRFDHqMUHZn0stNazRtmIK2JpCKRhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA4/MzM4LTE1MDI4MTI2/ODMtNzc1MS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6469,
+   "vibe": 74,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Label variant - different type/text.  ",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Play Me",
+     "artist": "Gene Ammons",
+     "duration": "3:30"
+    },
+    {
+     "position": "B",
+     "title": "Lady Sings The Blues",
+     "artist": "Gene Ammons",
+     "duration": "3:15"
+    }
+   ]
+  },
+  {
+   "id": "d3223947",
+   "discogsId": 3223947,
+   "title": "Acker Pie",
+   "artist": "Acker Bilk And His Paramount Jazz Band",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Pye Records",
+   "country": "UK",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/LrvwlEUcoP82_OWDxApKepYsBxuGF_mGWta_U2dl3Qs/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjM5/NDctMTMyMTE5NTc2/MC5qcGVn.jpeg",
+   "ratingAvg": 2.0,
+   "ratingCount": 1,
+   "score": 0.6376,
+   "vibe": 72,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Wolverine Blues",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Spider And The Fly",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Burgundy Street",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Roses Of The Rio Grande",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Nobody Knows You",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Nairobi Knees Up",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "I'm An Old Cow Hand",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "South Rampart Street",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Sweet Georgia Brown",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Gloomy Sunday",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Free For All",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Travelin' On",
+     "artist": "Acker Bilk And His Paramount Jazz Band",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d13163138",
+   "discogsId": 13163138,
+   "title": "Walk On The Water",
+   "artist": "Gerry Mulligan And His Orchestra",
+   "year": 1980,
+   "era": "VINTAGE",
+   "label": "Not On Label",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/aMkH_sV-z6Zr5woHqEDGvB1F2RylWVloI-hJjOSb6Uc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYz/MTM4LTE1NDkxNDQ0/MDYtNTc0My5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5826,
+   "vibe": 58,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Track list taken from the retail version.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "For An Unfinished Woman",
+     "artist": "Gerry Mulligan And His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Song For Strayhorn",
+     "artist": "Gerry Mulligan And His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "42nd & Broadway",
+     "artist": "Gerry Mulligan And His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Angelica",
+     "artist": "Gerry Mulligan And His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Walk On The Water",
+     "artist": "Gerry Mulligan And His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Across The Track Blues",
+     "artist": "Gerry Mulligan And His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "I'm Getting Sentimental Over You",
+     "artist": "Gerry Mulligan And His Orchestra",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d12668592",
+   "discogsId": 12668592,
+   "title": "Black Christ Of The Andes",
+   "artist": "Mary Lou Williams",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Saba",
+   "country": "Italy",
+   "styles": [
+    "Bop",
+    "Soul-Jazz",
+    "Gospel",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/Gqy36uFmCfMU4m4Pkfuyr0qx-JgbDheFU8fuxeZZOpk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY4/NTkyLTE1ODc2NzYx/NzgtODg1NS5qcGVn.jpeg",
+   "ratingAvg": 4.75,
+   "ratingCount": 12,
+   "score": 0.5775,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "A very welcome reissue of one of the highly regarded pieces of music by the great pianist and composer Mary Lou Williams. The concept behind \"Black Christ of the Andes\" is about the ideal meeting between Jazz and Spiritual. From the dark, smokey atmospheres of the Devil's music to the luminous sound of the African American Church. A very enjoyable record made up of different materials like \"Jump Blues\" numbers, a cappella choral pieces and some striking piano trio cuts. All arranged and conducted by the great Melba Liston and featuring performances of Jazz luminaries such as Milt Hinton, Grant",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Black Christ Of The Andes (St. Martin De Porres)",
+     "artist": "Mary Lou Williams",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "It Ain't Necessarily So",
+     "artist": "Mary Lou Williams",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "The Devil",
+     "artist": "Mary Lou Williams",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Miss D. D.",
+     "artist": "Mary Lou Williams",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Anima Christi",
+     "artist": "Mary Lou Williams",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "A Grand Nite For Swinging",
+     "artist": "Mary Lou Williams",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "My Blue Heaven",
+     "artist": "Mary Lou Williams",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Dirge Blues",
+     "artist": "Mary Lou Williams",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "A Fungus Amungus",
+     "artist": "Mary Lou Williams",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Praise The Lord",
+     "artist": "Mary Lou Williams",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d32212188",
+   "discogsId": 32212188,
+   "title": "Coyote, You're My Star",
+   "artist": "Dana and Alden",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Winspear",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 5.0,
+   "ratingCount": 3,
+   "score": 0.5649,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Coyote, You're My Star",
+     "artist": "Dana and Alden",
+     "duration": "2:05"
+    },
+    {
+     "position": "A2",
+     "title": "You Can Do Anything",
+     "artist": "Dana and Alden",
+     "duration": "2:43"
+    },
+    {
+     "position": "A3",
+     "title": "Ivan's Theme",
+     "artist": "Dana and Alden",
+     "duration": "2:45"
+    },
+    {
+     "position": "A4",
+     "title": "Family Garden",
+     "artist": "Melanie Charles",
+     "duration": "4:10"
+    },
+    {
+     "position": "A5",
+     "title": "Paper Tiger",
+     "artist": "Dana and Alden",
+     "duration": "4:05"
+    },
+    {
+     "position": "A6",
+     "title": "Bourdain",
+     "artist": "Dana and Alden",
+     "duration": "4:28"
+    },
+    {
+     "position": "B7",
+     "title": "Ice Cream Song",
+     "artist": "Cinya Khan",
+     "duration": "2:39"
+    },
+    {
+     "position": "B8",
+     "title": "Frigate Bay",
+     "artist": "Dana and Alden",
+     "duration": "3:36"
+    },
+    {
+     "position": "B9",
+     "title": "Maria (Believe Again)",
+     "artist": "Dana and Alden",
+     "duration": "2:14"
+    },
+    {
+     "position": "B10",
+     "title": "PB",
+     "artist": "Dana and Alden",
+     "duration": "2:05"
+    },
+    {
+     "position": "B11",
+     "title": "Grellie",
+     "artist": "Dana and Alden",
+     "duration": "1:44"
+    },
+    {
+     "position": "B12",
+     "title": "Chocobanano",
+     "artist": "Dana and Alden",
+     "duration": "1:52"
+    },
+    {
+     "position": "B13",
+     "title": "Popular Front",
+     "artist": "Dana and Alden",
+     "duration": "2:47"
+    },
+    {
+     "position": "B14",
+     "title": "Return of the Coyote",
+     "artist": "Dana and Alden",
+     "duration": "2:33"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
