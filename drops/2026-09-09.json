@@ -1,0 +1,509 @@
+{
+ "date": "2026-09-09",
+ "generatedAt": "2026-09-09T08:24:06Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d1912928",
+   "discogsId": 1912928,
+   "title": "A Arte De Tom Jobim",
+   "artist": "Antonio Carlos Jobim",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Fontana",
+   "country": "Brazil",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/XIoO7PWbZ7d6wtaQRyHYZokUmVb8Dn-0moMfK3nfTtY/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI5/MjgtMTQwNzg2Mjg2/Ni05MDQ2LmpwZWc.jpeg",
+   "ratingAvg": 4.21,
+   "ratingCount": 38,
+   "score": 0.6951,
+   "vibe": 86,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Do not confuse with [R19457134] which do ot have the same label.\non back cover: Série Medium\n\nThe catalog numbers are all given on the sleeve:\ndisc n°1: 6470 578\ndisc n°2: 6470 579\nSet of two discs: 6641550\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Garota De Ipanema",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:31"
+    },
+    {
+     "position": "A2",
+     "title": "Samba De Uma Nota So",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:15"
+    },
+    {
+     "position": "A3",
+     "title": "Ela É Carioca",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:33"
+    },
+    {
+     "position": "A4",
+     "title": "Vivo Sonhando",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:20"
+    },
+    {
+     "position": "A5",
+     "title": "Agua De Beber",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:17"
+    },
+    {
+     "position": "A6",
+     "title": "Insensatez",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:53"
+    },
+    {
+     "position": "B1",
+     "title": "O Morro Nao Tem Vez",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:34"
+    },
+    {
+     "position": "B2",
+     "title": "Corcovado",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:15"
+    },
+    {
+     "position": "B3",
+     "title": "So Tinha Que Ser Com Voce",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:26"
+    },
+    {
+     "position": "B4",
+     "title": "Meditacao",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "3:14"
+    },
+    {
+     "position": "B5",
+     "title": "A Felicidade",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:05"
+    },
+    {
+     "position": "B6",
+     "title": "Surf Board",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:21"
+    },
+    {
+     "position": "B7",
+     "title": "Ana Luiza",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "5:25"
+    },
+    {
+     "position": "C1",
+     "title": "Desafinado",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:43"
+    },
+    {
+     "position": "C2",
+     "title": "Bonita",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:06"
+    },
+    {
+     "position": "C3",
+     "title": "Dindi",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:35"
+    },
+    {
+     "position": "C4",
+     "title": "So Danco Samba",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:15"
+    },
+    {
+     "position": "C5",
+     "title": "Por Toda Minha Vida",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "1:50"
+    },
+    {
+     "position": "C6",
+     "title": "Samba Do Aviao",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "2:11"
+    },
+    {
+     "position": "D1",
+     "title": "Chega De Saudade",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "4:20"
+    },
+    {
+     "position": "D2",
+     "title": "Inutil Paisagem",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "3:07"
+    },
+    {
+     "position": "D3",
+     "title": "Matita Pere",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "7:11"
+    },
+    {
+     "position": "D4",
+     "title": "Nuvens Douradas",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "3:16"
+    },
+    {
+     "position": "D5",
+     "title": "Aguas De Marco",
+     "artist": "Antonio Carlos Jobim",
+     "duration": "3:30"
+    }
+   ]
+  },
+  {
+   "id": "d6090715",
+   "discogsId": 6090715,
+   "title": "The Astrud Gilberto Album",
+   "artist": "Astrud Gilberto",
+   "year": 1978,
+   "era": "VINTAGE",
+   "label": "Polydor",
+   "country": "Japan",
+   "styles": [
+    "Bossa Nova",
+    "Easy Listening"
+   ],
+   "coverUrl": "https://i.discogs.com/Co6D_gZi8DClUAygcOaahok1BwfoxhLQ2va0w39lVx0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTA3/MTUtMTYzMjc0NDU0/MC0xODgwLmpwZWc.jpeg",
+   "ratingAvg": 4.27,
+   "ratingCount": 11,
+   "score": 0.6937,
+   "vibe": 86,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at RCA Studios, Hollywood, California, January 27 & 28, 1965.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Once I Loved",
+     "artist": "Astrud Gilberto",
+     "duration": "2:10"
+    },
+    {
+     "position": "A2",
+     "title": "Agua De Beber",
+     "artist": "Astrud Gilberto",
+     "duration": "2:16"
+    },
+    {
+     "position": "A3",
+     "title": "Meditation",
+     "artist": "Astrud Gilberto",
+     "duration": "2:39"
+    },
+    {
+     "position": "A4",
+     "title": "And Roses And Roses",
+     "artist": "Astrud Gilberto",
+     "duration": "2:30"
+    },
+    {
+     "position": "A5",
+     "title": "O Morro (Nao Tem Vez)",
+     "artist": "Astrud Gilberto",
+     "duration": "2:55"
+    },
+    {
+     "position": "A6",
+     "title": "How Insensitive",
+     "artist": "Astrud Gilberto",
+     "duration": "2:45"
+    },
+    {
+     "position": "B1",
+     "title": "Dindi",
+     "artist": "Astrud Gilberto",
+     "duration": "2:40"
+    },
+    {
+     "position": "B2",
+     "title": "Photograph",
+     "artist": "Astrud Gilberto",
+     "duration": "2:10"
+    },
+    {
+     "position": "B3",
+     "title": "Dreamer",
+     "artist": "Astrud Gilberto",
+     "duration": "2:00"
+    },
+    {
+     "position": "B4",
+     "title": "So Finha De Ser Com Voce",
+     "artist": "Astrud Gilberto",
+     "duration": "2:15"
+    },
+    {
+     "position": "B5",
+     "title": "All That's Left Is To Say",
+     "artist": "Astrud Gilberto",
+     "duration": "3:09"
+    }
+   ]
+  },
+  {
+   "id": "d13415188",
+   "discogsId": 13415188,
+   "title": "Jamalca",
+   "artist": "Ahmad Jamal",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "20th Century Records",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/jiu5Mc4pJcPDGQvxjvV5uD0L_UtoxYSUdX5kyA-ipxU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE1/MTg4LTE1OTkzMTE2/MjctMTM1Ni5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 5,
+   "score": 0.6236,
+   "vibe": 68,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "©℗1974 20th Century Records\n\"Promotional Record for Broadcast and Review Not For Sale\" stamp on back Cover",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Ghetto Child",
+     "artist": "Ahmad Jamal",
+     "duration": "5:37"
+    },
+    {
+     "position": "A2",
+     "title": "Misdemeanor",
+     "artist": "Ahmad Jamal",
+     "duration": "4:30"
+    },
+    {
+     "position": "A3",
+     "title": "Along The Nile",
+     "artist": "Ahmad Jamal",
+     "duration": "4:46"
+    },
+    {
+     "position": "A4",
+     "title": "Trouble Man",
+     "artist": "Ahmad Jamal",
+     "duration": "5:11"
+    },
+    {
+     "position": "B1",
+     "title": "Jamalca",
+     "artist": "Ahmad Jamal",
+     "duration": "3:54"
+    },
+    {
+     "position": "B2",
+     "title": "Don't Misunderstand",
+     "artist": "Ahmad Jamal",
+     "duration": "4:07"
+    },
+    {
+     "position": "B3",
+     "title": "Theme Bahamas",
+     "artist": "Ahmad Jamal",
+     "duration": "6:09"
+    },
+    {
+     "position": "B4",
+     "title": "Children Calling",
+     "artist": "Ahmad Jamal",
+     "duration": "4:45"
+    },
+    {
+     "position": "B5",
+     "title": "M*A*S*H Theme",
+     "artist": "Ahmad Jamal",
+     "duration": "2:48"
+    }
+   ]
+  },
+  {
+   "id": "d23641811",
+   "discogsId": 23641811,
+   "title": "I Believe In Love",
+   "artist": "Marsha Bartenetti",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Disk Eyes Production",
+   "country": null,
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/1FPoQMcYmAOcd2MisQIi_jvPssv8b3gsy3HbkNIcxvo/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjQx/ODExLTE2NTU3NjMz/MTAtNDY4Mi5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.7248,
+   "vibe": 94,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Fragile",
+     "artist": "Marsha Bartenetti",
+     "duration": "3:40"
+    },
+    {
+     "position": "2",
+     "title": "Spring Can Really Hang You Up The Most",
+     "artist": "Marsha Bartenetti",
+     "duration": "5:55"
+    },
+    {
+     "position": "3",
+     "title": "I Got It Bad And That Ain't Good",
+     "artist": "Marsha Bartenetti",
+     "duration": "3:33"
+    },
+    {
+     "position": "4",
+     "title": "Will You Still Love Me Tomorrow",
+     "artist": "Marsha Bartenetti",
+     "duration": "4:06"
+    },
+    {
+     "position": "5",
+     "title": "Our Day Will Come",
+     "artist": "Marsha Bartenetti",
+     "duration": "4:33"
+    },
+    {
+     "position": "6",
+     "title": "Alfie",
+     "artist": "Marsha Bartenetti",
+     "duration": "3:18"
+    },
+    {
+     "position": "7",
+     "title": "Nature Boy",
+     "artist": "Marsha Bartenetti",
+     "duration": "4:58"
+    },
+    {
+     "position": "8",
+     "title": "I Know You By Heart",
+     "artist": "Marsha Bartenetti",
+     "duration": "3:31"
+    },
+    {
+     "position": "9",
+     "title": "God Bless The Child",
+     "artist": "Marsha Bartenetti",
+     "duration": "5:39"
+    },
+    {
+     "position": "10",
+     "title": "The Very Thought Of You",
+     "artist": "Marsha Bartenetti",
+     "duration": "3:49"
+    },
+    {
+     "position": "11",
+     "title": "Throw It Away",
+     "artist": "Marsha Bartenetti",
+     "duration": "4:50"
+    }
+   ]
+  },
+  {
+   "id": "d31945741",
+   "discogsId": 31945741,
+   "title": "NAUSYQA",
+   "artist": "NAUSYQA",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Wicked Wax Amsterdam",
+   "country": "Netherlands",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.604,
+   "vibe": 64,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Unfold",
+     "artist": "NAUSYQA",
+     "duration": "2:36"
+    },
+    {
+     "position": "A2",
+     "title": "The Leap",
+     "artist": "NAUSYQA",
+     "duration": "2:25"
+    },
+    {
+     "position": "A3",
+     "title": "Voyager",
+     "artist": "NAUSYQA",
+     "duration": "3:49"
+    },
+    {
+     "position": "A4",
+     "title": "Ferry Waves",
+     "artist": "NAUSYQA",
+     "duration": "1:38"
+    },
+    {
+     "position": "A5",
+     "title": "The Valley",
+     "artist": "NAUSYQA",
+     "duration": "3:51"
+    },
+    {
+     "position": "B1",
+     "title": "Talea",
+     "artist": "NAUSYQA",
+     "duration": "3:55"
+    },
+    {
+     "position": "B2",
+     "title": "To Those Who Fight",
+     "artist": "NAUSYQA",
+     "duration": "4:59"
+    },
+    {
+     "position": "B3",
+     "title": "Red Sun",
+     "artist": "NAUSYQA",
+     "duration": "8:00"
+    },
+    {
+     "position": "B4",
+     "title": "Eclipse",
+     "artist": "NAUSYQA",
+     "duration": "2:36"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
