@@ -1,6 +1,6 @@
 {
  "date": "2026-W37",
- "generatedAt": "2026-09-09T17:39:47Z",
+ "generatedAt": "2026-09-10T17:31:39Z",
  "profile": "rap",
  "albums": [
   {
@@ -118,10 +118,97 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6791645418",
+   "discogsId": 0,
+   "title": "Juicy",
+   "artist": "Victoria Monét",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/fa/63/61fa635a-fc24-b63a-00eb-a88371c28eab/196874323458.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Juicy",
+     "artist": "Victoria Monét",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1071245582",
+   "discogsId": 0,
+   "title": "KNOCK",
+   "artist": "Ovrkast.",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0893e474ed96e2428948cde85e301739/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "KNOCK",
+     "artist": "Ovrkast.",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-1507796392",
+   "discogsId": 0,
+   "title": "Different",
+   "artist": "Designer Kidd",
+   "year": 2020,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/6e/2b/016e2b6b-3ee5-27d7-891a-229a2f3f5624/MBgGPZ68oapQW-wait-is-over-original-copy-457b085b.png/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.491,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Different",
+     "artist": "Designer Kidd",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 4
+  "modern": 7
  }
 }
