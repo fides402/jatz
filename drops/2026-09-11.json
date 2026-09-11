@@ -1,0 +1,426 @@
+{
+ "date": "2026-09-11",
+ "generatedAt": "2026-09-11T08:19:24Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d8230162",
+   "discogsId": 8230162,
+   "title": "Heat Wave",
+   "artist": "Cal Tjader & Carmen McRae",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "Concord Jazz",
+   "country": "New Zealand",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6432,
+   "vibe": 73,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at Coast Recorders, San Francisco, California, January 1982.\nRemixed at PER, San Francisco, California.\n\nTrack A1 published by Irving Berlin Music Corp. - ASCAP.\nTrack A2 & B5 published by Jobete Music Co., Inc.-Black Bull Music, Inc. - ASCAP.\nTrack A3 published by Peer International Corp. - BMI.\nTrack A4 published by Richcár Music Co., a Div. of Frandell Music, Inc. - BMI.\nTrack A5 published by Harrison Music Corp.-Robbins Music Corp. - ASCAP.\nTrack B1 published by Leo Feist, Inc. - ASCAP.\nTrack B2 published by Odeon - ASCAP.\nTrack B3 published by Dinorah Music-Kidada Music - BMI.\nTr",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Heat Wave",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": "3:02"
+    },
+    {
+     "position": "A2",
+     "title": "All In Love Is Fair",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": "4:23"
+    },
+    {
+     "position": "A3",
+     "title": "Besame Mucho",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": "5:21"
+    },
+    {
+     "position": "A4",
+     "title": "Evil Ways",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": "5:11"
+    },
+    {
+     "position": "A5",
+     "title": "Do Nothing 'Till You Hear From Me",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": "3:08"
+    },
+    {
+     "position": "B1",
+     "title": "Love",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": "3:02"
+    },
+    {
+     "position": "B2",
+     "title": "Upside Down (Flor De Lis)",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": "4:29"
+    },
+    {
+     "position": "B3",
+     "title": "The Visit",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": "4:09"
+    },
+    {
+     "position": "B4",
+     "title": "Speak Low",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": "4:46"
+    },
+    {
+     "position": "B5",
+     "title": "Don't You Worry 'Bout A Thing",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": "3:41"
+    }
+   ]
+  },
+  {
+   "id": "d7428606",
+   "discogsId": 7428606,
+   "title": "Weekend In L.A.",
+   "artist": "George Benson",
+   "year": 1978,
+   "era": "VINTAGE",
+   "label": "Warner Bros. Records",
+   "country": "Canada",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/NUIGTfWzXVlvZaEU77rWNKZd-ZHjPrt0fUSflxjwKwM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjg2/MDYtMTUyODU2NzMz/MC02NzY0LmpwZWc.jpeg",
+   "ratingAvg": 3.83,
+   "ratingCount": 23,
+   "score": 0.5905,
+   "vibe": 60,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded live at the Roxy in Hollywood, Sept. 30th, Oct. 1st & 2nd, 1977.\n\nCanadian issue with 'palm tree' labels as opposed to more common 'lined paper' WB labels.\nRecord 1 has side 1 &4, Record 2 side 2&3",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Weekend In L.A.",
+     "artist": "George Benson",
+     "duration": "7:21"
+    },
+    {
+     "position": "A2",
+     "title": "On Broadway",
+     "artist": "George Benson",
+     "duration": "9:55"
+    },
+    {
+     "position": "B1",
+     "title": "Lady Blue",
+     "artist": "George Benson",
+     "duration": "3:30"
+    },
+    {
+     "position": "B2",
+     "title": "We All Remember Wes",
+     "artist": "George Benson",
+     "duration": "5:37"
+    },
+    {
+     "position": "B3",
+     "title": "We As Love",
+     "artist": "George Benson",
+     "duration": "6:43"
+    },
+    {
+     "position": "C1",
+     "title": "Down Here On The Ground",
+     "artist": "George Benson",
+     "duration": "4:57"
+    },
+    {
+     "position": "C2",
+     "title": "California P.M.",
+     "artist": "George Benson",
+     "duration": "6:59"
+    },
+    {
+     "position": "C3",
+     "title": "The Greatest Love Of All",
+     "artist": "George Benson",
+     "duration": "5:23"
+    },
+    {
+     "position": "D1",
+     "title": "It's All In The Game",
+     "artist": "George Benson",
+     "duration": "3:50"
+    },
+    {
+     "position": "D2",
+     "title": "Windsong",
+     "artist": "George Benson",
+     "duration": "6:04"
+    },
+    {
+     "position": "D3",
+     "title": "Ode To A Kudu",
+     "artist": "George Benson",
+     "duration": "7:17"
+    }
+   ]
+  },
+  {
+   "id": "d3993830",
+   "discogsId": 3993830,
+   "title": "Ross Tompkins And Good Friends",
+   "artist": "Ross Tompkins",
+   "year": 1978,
+   "era": "VINTAGE",
+   "label": "Concord Jazz",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/KjPVq6F7MFAPoS5IZPZITTz6AN-mKH3qN75jjRydYu8/rs:fit/g:sm/q:90/h:586/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTM4/MzAtMTY0MDcxODY4/MS0xMjg3LmpwZWc.jpeg",
+   "ratingAvg": 4.43,
+   "ratingCount": 7,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Blue Lou",
+     "artist": "Ross Tompkins",
+     "duration": "5:33"
+    },
+    {
+     "position": "A2",
+     "title": "Lover Man Oh Where Can You Be",
+     "artist": "Ross Tompkins",
+     "duration": "6:31"
+    },
+    {
+     "position": "A3",
+     "title": "My Silent Love",
+     "artist": "Ross Tompkins",
+     "duration": "5:40"
+    },
+    {
+     "position": "A4",
+     "title": "Always",
+     "artist": "Ross Tompkins",
+     "duration": "5:33"
+    },
+    {
+     "position": "B1",
+     "title": "My Heart Stood Still",
+     "artist": "Ross Tompkins",
+     "duration": "5:14"
+    },
+    {
+     "position": "B2",
+     "title": "Serenade To Sweden",
+     "artist": "Ross Tompkins",
+     "duration": "4:20"
+    },
+    {
+     "position": "B3",
+     "title": "How Deep Is The Ocean",
+     "artist": "Ross Tompkins",
+     "duration": "6:42"
+    },
+    {
+     "position": "B4",
+     "title": "Close Your Eyes",
+     "artist": "Ross Tompkins",
+     "duration": "3:19"
+    }
+   ]
+  },
+  {
+   "id": "d13386222",
+   "discogsId": 13386222,
+   "title": "Infinity",
+   "artist": "Tom Harrell",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "HighNote Records, Inc.",
+   "country": "Japan",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/ny8puSxzhDT7ezb1fWtjdLv3MtDfV9QUhTx4E9bIhh8/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg2/MjIyLTE1NTMyMzc2/MzEtNTEyOS5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.6017,
+   "vibe": 63,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at Sear Sound, New York, NY on September 24 & 30, 2018.\n\nThis Japanese edition is the US release with added full-back obi and a four-page insert with a Japanese translation of the original liner notes, in a resealable bag.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "The Fast",
+     "artist": "Tom Harrell",
+     "duration": "6:38"
+    },
+    {
+     "position": "2",
+     "title": "Dublin",
+     "artist": "Tom Harrell",
+     "duration": "9:40"
+    },
+    {
+     "position": "3",
+     "title": "Hope",
+     "artist": "Tom Harrell",
+     "duration": "7:30"
+    },
+    {
+     "position": "4",
+     "title": "Coronation",
+     "artist": "Tom Harrell",
+     "duration": "6:56"
+    },
+    {
+     "position": "5",
+     "title": "Folk Song",
+     "artist": "Tom Harrell",
+     "duration": "6:03"
+    },
+    {
+     "position": "6",
+     "title": "Blue",
+     "artist": "Tom Harrell",
+     "duration": "5:40"
+    },
+    {
+     "position": "7",
+     "title": "Ground",
+     "artist": "Tom Harrell",
+     "duration": "7:18"
+    },
+    {
+     "position": "8",
+     "title": "The Isle",
+     "artist": "Tom Harrell",
+     "duration": "8:25"
+    },
+    {
+     "position": "9",
+     "title": "Duet",
+     "artist": "Tom Harrell",
+     "duration": "1:41"
+    },
+    {
+     "position": "10",
+     "title": "Taurus",
+     "artist": "Tom Harrell",
+     "duration": "6:01"
+    }
+   ]
+  },
+  {
+   "id": "d20106412",
+   "discogsId": 20106412,
+   "title": "After The Long Drive Home",
+   "artist": "Grady Tate",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Skye Records",
+   "country": "Japan",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5802,
+   "vibe": 58,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded April, 1970 at A&R Recording Studios, New York",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Prologue",
+     "artist": "Grady Tate",
+     "duration": "0:53"
+    },
+    {
+     "position": "2",
+     "title": "After The Long Drive Home",
+     "artist": "Grady Tate",
+     "duration": "3:37"
+    },
+    {
+     "position": "3",
+     "title": "Follow The Path",
+     "artist": "Grady Tate",
+     "duration": "3:12"
+    },
+    {
+     "position": "4",
+     "title": "I Can Deliver",
+     "artist": "Grady Tate",
+     "duration": "3:19"
+    },
+    {
+     "position": "5",
+     "title": "I Think It's Going To Rain Today",
+     "artist": "Grady Tate",
+     "duration": "4:48"
+    },
+    {
+     "position": "6",
+     "title": "There's Nothing Between Us Now",
+     "artist": "Grady Tate",
+     "duration": "3:54"
+    },
+    {
+     "position": "7",
+     "title": "In My Time",
+     "artist": "Grady Tate",
+     "duration": "2:56"
+    },
+    {
+     "position": "8",
+     "title": "Interlude",
+     "artist": "Grady Tate",
+     "duration": "0:42"
+    },
+    {
+     "position": "9",
+     "title": "Bridges (Travessia)",
+     "artist": "Grady Tate",
+     "duration": "3:18"
+    },
+    {
+     "position": "10",
+     "title": "I'll Try Again",
+     "artist": "Grady Tate",
+     "duration": "3:04"
+    },
+    {
+     "position": "11",
+     "title": "Suicide Is Painless (Song From M*A*S*H)",
+     "artist": "Grady Tate",
+     "duration": "3:13"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
