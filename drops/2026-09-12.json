@@ -1,0 +1,416 @@
+{
+ "date": "2026-09-12",
+ "generatedAt": "2026-09-12T08:08:41Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d3913336",
+   "discogsId": 3913336,
+   "title": "Hey Look Me Over",
+   "artist": "Susan Maughan",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Fontana",
+   "country": "UK",
+   "styles": [
+    "Vocal"
+   ],
+   "coverUrl": "https://i.discogs.com/iAeKiPZbXUvboYgvclevpzYrPXfPXSeFeTOk-Gip78w/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTMz/MzYtMTQ5MTMwNTY2/OC02NDg1LmpwZWc.jpeg",
+   "ratingAvg": 4.78,
+   "ratingCount": 9,
+   "score": 0.6599,
+   "vibe": 77,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Hey Look Me Over",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Great Day",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "I'm A Believer",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "More",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "On Green Dolphin Street",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "I'm All Smiles",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Let's Fall In Love",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Call Me",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Matchmaker, Matchmaker",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "There's A Kind Of Hush (All Over The World)",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Cute",
+     "artist": "Susan Maughan",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Softly As I Leave You",
+     "artist": "Susan Maughan",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d28593220",
+   "discogsId": 28593220,
+   "title": "California Soul",
+   "artist": "Gerald Wilson Orchestra",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "World Pacific Jazz",
+   "country": "US",
+   "styles": [
+    "Big Band"
+   ],
+   "coverUrl": "https://i.discogs.com/j8O775kDlCj3E6Mv-bKSKdoaAzfdZ5vFfAjX2A143nc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjIwLTE2OTczMDcx/OTQtMTIzNC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5892,
+   "vibe": 60,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Gatefold sleeve. \nLabel variation with \"...visual sound STEREO\" and 1/2 on the right of \"ST-20135'.\nWorld Pacific Jazz sleeve, Pacific Jazz labels.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "California Soul",
+     "artist": "Gerald Wilson Orchestra",
+     "duration": "4:06"
+    },
+    {
+     "position": "A2",
+     "title": "Light My Fire",
+     "artist": "Gerald Wilson Orchestra",
+     "duration": "5:00"
+    },
+    {
+     "position": "A3",
+     "title": "Channel Island",
+     "artist": "Gerald Wilson Orchestra",
+     "duration": "5:05"
+    },
+    {
+     "position": "A4",
+     "title": "Lullaby From Rosemary's Baby",
+     "artist": "Gerald Wilson Orchestra",
+     "duration": "2:47"
+    },
+    {
+     "position": "A5",
+     "title": "Sunshine Of Your Love",
+     "artist": "Gerald Wilson Orchestra",
+     "duration": "2:49"
+    },
+    {
+     "position": "B1",
+     "title": "Russian River",
+     "artist": "Gerald Wilson Orchestra",
+     "duration": "5:20"
+    },
+    {
+     "position": "B2",
+     "title": "Yesterlove",
+     "artist": "Gerald Wilson Orchestra",
+     "duration": "3:57"
+    },
+    {
+     "position": "B3",
+     "title": "Down Here On The Ground",
+     "artist": "Gerald Wilson Orchestra",
+     "duration": "4:45"
+    },
+    {
+     "position": "B4",
+     "title": "El Presidente",
+     "artist": "Gerald Wilson Orchestra",
+     "duration": "4:10"
+    }
+   ]
+  },
+  {
+   "id": "d9935870",
+   "discogsId": 9935870,
+   "title": "Satchmo Sings",
+   "artist": "Louis Armstrong And His Orchestra",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "MCA Coral",
+   "country": "Germany",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Vt6ZB9AL32qdhmX15lfYa32y7tQ9oFaZdZkFNpv3p8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzU4/NzAtMTQ4ODgyODEy/MS01NjQ4LmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5827,
+   "vibe": 58,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "At the back side there is additional number COPS: 1669 \nNumber on the label side 1 MG 4073\nside 2: MG 4074\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Someday You'll Be Sorry",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "3:04"
+    },
+    {
+     "position": "A2",
+     "title": "Sincerely",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "2:52"
+    },
+    {
+     "position": "A3",
+     "title": "Your Cheatin' Heart",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "2:42"
+    },
+    {
+     "position": "A4",
+     "title": "Ramona",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "2:44"
+    },
+    {
+     "position": "A5",
+     "title": "I Laughed At Love",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "2:54"
+    },
+    {
+     "position": "A6",
+     "title": "I Wonder",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "2:59"
+    },
+    {
+     "position": "B1",
+     "title": "Pledging My Love",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "2:32"
+    },
+    {
+     "position": "B2",
+     "title": "April In Portugal",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "2:40"
+    },
+    {
+     "position": "B3",
+     "title": "The Gypsy",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "3:20"
+    },
+    {
+     "position": "B4",
+     "title": "Kiss Of Fire",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "3:03"
+    },
+    {
+     "position": "B5",
+     "title": "Takes Two To Tango",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "2:54"
+    },
+    {
+     "position": "B6",
+     "title": "If",
+     "artist": "Louis Armstrong And His Orchestra",
+     "duration": "3:19"
+    }
+   ]
+  },
+  {
+   "id": "d38144007",
+   "discogsId": 38144007,
+   "title": "Coral Keys",
+   "artist": "Walter Bishop, Jr.",
+   "year": 2026,
+   "era": "MODERN",
+   "label": "Black Jazz Records",
+   "country": "US",
+   "styles": [
+    "Post Bop",
+    "Modal",
+    "Hard Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/IfGxB_FisraMYyTGWxY-dkLXOYDKURzkzGX14F8mmWY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ0/MDA3LTE3ODcwMTE2/NTMtNzc2My5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.6081,
+   "vibe": 65,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "\"Blue with Black Swirl Pressing.  Limited to 500 copies!\"\n\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Coral Keys",
+     "artist": "Walter Bishop, Jr.",
+     "duration": "6:20"
+    },
+    {
+     "position": "A2",
+     "title": "Waltz For Zweetie",
+     "artist": "Walter Bishop, Jr.",
+     "duration": "5:08"
+    },
+    {
+     "position": "A3",
+     "title": "Track Down",
+     "artist": "Walter Bishop, Jr.",
+     "duration": "4:51"
+    },
+    {
+     "position": "A4",
+     "title": "Soul Turn Around",
+     "artist": "Walter Bishop, Jr.",
+     "duration": "7:18"
+    },
+    {
+     "position": "B1",
+     "title": "Our November",
+     "artist": "Walter Bishop, Jr.",
+     "duration": "4:10"
+    },
+    {
+     "position": "B2",
+     "title": "Three Loves",
+     "artist": "Walter Bishop, Jr.",
+     "duration": "5:00"
+    },
+    {
+     "position": "B3",
+     "title": "Freedom Suite",
+     "artist": "Walter Bishop, Jr.",
+     "duration": "7:50"
+    }
+   ]
+  },
+  {
+   "id": "d22468810",
+   "discogsId": 22468810,
+   "title": "Peace",
+   "artist": "Chet Baker",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Enja Records",
+   "country": "Germany",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/NurJq80CP80Vzjlc91XEBA_sDjq64rSX_bME7wIoILM/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY4/ODEwLTE2NDk5NzI0/MzQtNDQ5MS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6047,
+   "vibe": 64,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded on February 23, 1982 at Vanguard Studios, New York",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "3 + 1 = 5",
+     "artist": "Chet Baker",
+     "duration": "7:37"
+    },
+    {
+     "position": "2",
+     "title": "Peace",
+     "artist": "Chet Baker",
+     "duration": "4:07"
+    },
+    {
+     "position": "3",
+     "title": "Lament For Thelonious",
+     "artist": "Chet Baker",
+     "duration": "10:09"
+    },
+    {
+     "position": "4",
+     "title": "The Song Is You",
+     "artist": "Chet Baker",
+     "duration": "7:04"
+    },
+    {
+     "position": "5",
+     "title": "Shadows",
+     "artist": "Chet Baker",
+     "duration": "4:35"
+    },
+    {
+     "position": "6",
+     "title": "For Now",
+     "artist": "Chet Baker",
+     "duration": "7:30"
+    },
+    {
+     "position": "7",
+     "title": "3 + 1 = 5 (Alternate Take)",
+     "artist": "Chet Baker",
+     "duration": "6:54"
+    },
+    {
+     "position": "8",
+     "title": "Peace (Alternate Take)",
+     "artist": "Chet Baker",
+     "duration": "4:20"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
