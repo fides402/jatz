@@ -1,6 +1,6 @@
 {
  "date": "2026-W37",
- "generatedAt": "2026-09-11T17:36:57Z",
+ "generatedAt": "2026-09-12T16:48:29Z",
  "profile": "rap",
  "albums": [
   {
@@ -497,10 +497,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4278260892",
+   "discogsId": 0,
+   "title": "Be Like Me",
+   "artist": "Soulja Boy Tell'em",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a9a4e82e21f0e8cb14906d010b3f3fb3/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Be Like Me",
+     "artist": "Soulja Boy Tell'em",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 9
+  "modern": 10
  }
 }
