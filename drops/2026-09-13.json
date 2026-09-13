@@ -1,0 +1,389 @@
+{
+ "date": "2026-09-13",
+ "generatedAt": "2026-09-13T08:33:09Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d3095083",
+   "discogsId": 3095083,
+   "title": "João Gilberto",
+   "artist": "João Gilberto",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Philips",
+   "country": "Brazil",
+   "styles": [
+    "Bossa Nova",
+    "MPB"
+   ],
+   "coverUrl": "https://i.discogs.com/b_XUdm3aizf6Efj8cVATKyCH-oAhfwcmzK91jz-xlm8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTUw/ODMtMTMxNTQ4ODMy/OC5qcGVn.jpeg",
+   "ratingAvg": 4.71,
+   "ratingCount": 7,
+   "score": 0.6607,
+   "vibe": 78,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "De Conversa Em Conversa",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Ela É Carioca",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "O Sapo",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Esperança Perdida",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Trolley Song",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "João Marcelo",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Farolito",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Astronauta (Samba Da Pergunta)",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Acapulco",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Besame Mucho",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Eclipse",
+     "artist": "João Gilberto",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d11191309",
+   "discogsId": 11191309,
+   "title": "The Brazilian Sound",
+   "artist": "Zimbo Trio",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Seven Seas",
+   "country": "Japan",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/QvZ9whBqSjvmJdNoxvEebwuH7Y7x5rTqyTRnTPwwkic/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkx/MzA5LTE1MTE1Njg5/NzgtMjA1MC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.6249,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Kao, xango",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Bocoxe",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "So tinha de ser com voce",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Favela",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Amanha",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Samba de veloso",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Pra machucar meu coracao",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "No blanco do jequibau",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Pra viver feliz",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "Tristeza",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "Agua de beber",
+     "artist": "Zimbo Trio",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d16624419",
+   "discogsId": 16624419,
+   "title": "Oração de Um Jovem Triste",
+   "artist": "Antonio Marcos",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "RCA Victor",
+   "country": "South Africa",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/T0w2nC9feZ_j-4FNQZ_2agHyWP-IIzI8-pvKU1Y4C_o/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjI0/NDE5LTE2MDg5MDMz/MDktMzk3MS5qcGVn.jpeg",
+   "ratingAvg": 2.0,
+   "ratingCount": 1,
+   "score": 0.6246,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Oração de Um Jovem Triste",
+     "artist": "Antonio Marcos",
+     "duration": "4:28"
+    },
+    {
+     "position": "B",
+     "title": "Escuta",
+     "artist": "Antonio Marcos",
+     "duration": "3:50"
+    }
+   ]
+  },
+  {
+   "id": "d14280015",
+   "discogsId": 14280015,
+   "title": "The Quartet",
+   "artist": "George Coleman",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Smoke Sessions Records",
+   "country": "US",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/uh9lLJbWqTj5GIez60zhQv5kCnVKK57oBzYeGbmIGfQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgw/MDE1LTE1NzEzNDEx/NTctOTQyNi5qcGVn.jpeg",
+   "ratingAvg": 4.6,
+   "ratingCount": 5,
+   "score": 0.6125,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded on May 20, 2019 at Sear Sound, Studio C, New York, NY",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Paul's Call",
+     "artist": "George Coleman",
+     "duration": "6:27"
+    },
+    {
+     "position": "2",
+     "title": "I Wish You Love",
+     "artist": "George Coleman",
+     "duration": "6:05"
+    },
+    {
+     "position": "3",
+     "title": "Prelude To A Kiss",
+     "artist": "George Coleman",
+     "duration": "8:25"
+    },
+    {
+     "position": "4",
+     "title": "Lollipops and Roses",
+     "artist": "George Coleman",
+     "duration": "6:17"
+    },
+    {
+     "position": "5",
+     "title": "East 9th Street Blues",
+     "artist": "George Coleman",
+     "duration": "12:05"
+    },
+    {
+     "position": "6",
+     "title": "When I Fall In Love",
+     "artist": "George Coleman",
+     "duration": "10:59"
+    },
+    {
+     "position": "7",
+     "title": "Along Came Betty",
+     "artist": "George Coleman",
+     "duration": "5:54"
+    },
+    {
+     "position": "8",
+     "title": "You've Changed",
+     "artist": "George Coleman",
+     "duration": "10:16"
+    },
+    {
+     "position": "9",
+     "title": "Triste",
+     "artist": "George Coleman",
+     "duration": "6:57"
+    }
+   ]
+  },
+  {
+   "id": "d19559521",
+   "discogsId": 19559521,
+   "title": "Eclectik",
+   "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Cristal Records",
+   "country": "France",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/BevVnVQgC2iH0r7NmecldnIqcQUZ4Qnc4xGK8OzELrY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU5/NTIxLTE2MjY3Nzkw/NDMtMzQyNi5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6118,
+   "vibe": 65,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Somersault",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "5:45"
+    },
+    {
+     "position": "2",
+     "title": "Today",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "3:18"
+    },
+    {
+     "position": "3",
+     "title": "Plum",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "3:36"
+    },
+    {
+     "position": "4",
+     "title": "In The Small Hours Of The Morning",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "3:26"
+    },
+    {
+     "position": "5",
+     "title": "Sous Le Ciel De Paris",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "5:57"
+    },
+    {
+     "position": "6",
+     "title": "Guaglio",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "4:56"
+    },
+    {
+     "position": "7",
+     "title": "Maité",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "4:44"
+    },
+    {
+     "position": "8",
+     "title": "Small Empty Space",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "4:37"
+    },
+    {
+     "position": "9",
+     "title": "You",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "5:18"
+    },
+    {
+     "position": "10",
+     "title": "The World Is A Circle",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "4:51"
+    },
+    {
+     "position": "11",
+     "title": "80 VS 2000",
+     "artist": "André Ceccarelli & Sylvain Luc & Hadrien Féraud",
+     "duration": "3:19"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
