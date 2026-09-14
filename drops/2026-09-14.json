@@ -1,0 +1,388 @@
+{
+ "date": "2026-09-14",
+ "generatedAt": "2026-09-14T09:15:16Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d6842716",
+   "discogsId": 6842716,
+   "title": "Terra De Mel",
+   "artist": "Eugénia Melo E Castro",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "Polydor",
+   "country": "Portugal",
+   "styles": [
+    "Bossa Nova",
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/sisKMjzuFgo2V_Pv5qCJ-f_-oUKqm51LgXx5jKXXPwo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDI3/MTYtMTQ4NDQ4MDU5/OC0yMjAyLmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 5,
+   "score": 0.6603,
+   "vibe": 78,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Special edition for Circulo de Leitores.\nComes with insert with lyrics and credits.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Beco Do Tiso",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Diferença Horária",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Em Milímetros",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Vira Virou",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Cais",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "É Assim",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Começo De Mar",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Terra De Mel",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d28585300",
+   "discogsId": 28585300,
+   "title": "Concert At The Palladium Volume 2",
+   "artist": "Les Brown And His Band Of Renown",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "MCA Records",
+   "country": "Japan",
+   "styles": [
+    "Cool Jazz",
+    "Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/DHinxBUY5fEWyp3ujUWdYYkRO8BK94_N1RFPbg5dYm8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg1/MzAwLTE2OTcyNDMw/MDEtNDc0MS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5582,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Actually recorded at the Hollywood Palladium, September, 1953.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Midnight Sun",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Begin The Beguine",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Happy Hooligan",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "I Would Do Anything For You",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Laura",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Jersey Bounce",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "From This Moment On",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Crazy Legs",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Flying Home",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "One O'Clock Jump",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Cherokee (Indian Love Song)",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Sentimental Journey",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    },
+    {
+     "position": "B7",
+     "title": "Closing Annoncement By Les Brown (Sentimental Journey)",
+     "artist": "Les Brown And His Band Of Renown",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d2656980",
+   "discogsId": 2656980,
+   "title": "Skid Marks",
+   "artist": "Jimmy Skidmore",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "DJM Silverline",
+   "country": "UK",
+   "styles": [
+    "Contemporary Jazz",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/FH0rGo3kEWhB33yK3Jon3DpWiOCpa1LetkexGBTwDLo/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTY5/ODAtMTI5NTM2MTcx/Ni5qcGVn.jpeg",
+   "ratingAvg": 4.33,
+   "ratingCount": 6,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Recorded at the D.J.M. Studio, London.\nTextured cover.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Skidrow",
+     "artist": "Jimmy Skidmore",
+     "duration": "5:19"
+    },
+    {
+     "position": "A2",
+     "title": "Polka Dots And Moonbeams",
+     "artist": "Jimmy Skidmore",
+     "duration": "7:06"
+    },
+    {
+     "position": "A3",
+     "title": "This Can't Be Love",
+     "artist": "Jimmy Skidmore",
+     "duration": "4:52"
+    },
+    {
+     "position": "A4",
+     "title": "Body And Soul",
+     "artist": "Jimmy Skidmore",
+     "duration": "3:42"
+    },
+    {
+     "position": "B1",
+     "title": "Good Queen Bess",
+     "artist": "Jimmy Skidmore",
+     "duration": "4:25"
+    },
+    {
+     "position": "B2",
+     "title": "Beneath The Sun",
+     "artist": "Jimmy Skidmore",
+     "duration": "5:06"
+    },
+    {
+     "position": "B3",
+     "title": "I Fall In Love Too Easily",
+     "artist": "Jimmy Skidmore",
+     "duration": "4:54"
+    },
+    {
+     "position": "B4",
+     "title": "Out Of Nowhere",
+     "artist": "Jimmy Skidmore",
+     "duration": "4:09"
+    }
+   ]
+  },
+  {
+   "id": "d22237225",
+   "discogsId": 22237225,
+   "title": "Asking For The Moon",
+   "artist": "Martin Ehlers Trio",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "NRW Records",
+   "country": "Germany",
+   "styles": [
+    "Contemporary Jazz",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/mhThccy_Vt66nEDEuS2TPBLe48kU4J1RoDvsEfs5JQU/rs:fit/g:sm/q:90/h:420/w:468/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjM3/MjI1LTE2NDUzNzcx/MDYtNzk5MS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6321,
+   "vibe": 71,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded on May 16th to 18th, 2014.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Morning Coast Line",
+     "artist": "Martin Ehlers Trio",
+     "duration": "7:01"
+    },
+    {
+     "position": "2",
+     "title": "Awakening",
+     "artist": "Martin Ehlers Trio",
+     "duration": "4:37"
+    },
+    {
+     "position": "3",
+     "title": "All That Is",
+     "artist": "Martin Ehlers Trio",
+     "duration": "7:16"
+    },
+    {
+     "position": "4",
+     "title": "Touching",
+     "artist": "Martin Ehlers Trio",
+     "duration": "4:58"
+    },
+    {
+     "position": "5",
+     "title": "Asking For The Moon Part I",
+     "artist": "Martin Ehlers Trio",
+     "duration": "3:47"
+    },
+    {
+     "position": "6",
+     "title": "Asking For The Moon Part II",
+     "artist": "Martin Ehlers Trio",
+     "duration": "3:22"
+    },
+    {
+     "position": "7",
+     "title": "More Than Believing",
+     "artist": "Martin Ehlers Trio",
+     "duration": "5:26"
+    },
+    {
+     "position": "8",
+     "title": "My Summer Tune",
+     "artist": "Martin Ehlers Trio",
+     "duration": "4:59"
+    },
+    {
+     "position": "9",
+     "title": "Changing Skies",
+     "artist": "Martin Ehlers Trio",
+     "duration": "4:59"
+    }
+   ]
+  },
+  {
+   "id": "d22967462",
+   "discogsId": 22967462,
+   "title": "Live At Console",
+   "artist": "Steve Potts & Jobic Le Masson",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Joma (2)",
+   "country": "France",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/GQOf0E8cCPizBgHY_Om6GZ60F3mi5xJdnIgVZzYpXlo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY3/NDYyLTE2NTA2MjE0/MzMtNTQyNi5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5748,
+   "vibe": 56,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Recorded July 2, 2021 at Console, Paris, France.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Ella",
+     "artist": "Steve Potts & Jobic Le Masson",
+     "duration": "7:42"
+    },
+    {
+     "position": "A2",
+     "title": "Impro #2",
+     "artist": "Steve Potts & Jobic Le Masson",
+     "duration": "6:10"
+    },
+    {
+     "position": "A3",
+     "title": "Sisco",
+     "artist": "Steve Potts & Jobic Le Masson",
+     "duration": "7:29"
+    },
+    {
+     "position": "B1",
+     "title": "Impro #1",
+     "artist": "Steve Potts & Jobic Le Masson",
+     "duration": "5:24"
+    },
+    {
+     "position": "B2",
+     "title": "Cervione",
+     "artist": "Steve Potts & Jobic Le Masson",
+     "duration": "13:40"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
