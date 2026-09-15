@@ -1,0 +1,449 @@
+{
+ "date": "2026-09-15",
+ "generatedAt": "2026-09-15T08:57:54Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d15975286",
+   "discogsId": 15975286,
+   "title": "A Message From Garcia",
+   "artist": "Vic Garcia",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Ampar",
+   "country": "Australia & New Zealand",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/bY-MZY0Nw2FlHDV8IaTjfR5ZauiCmbaaCL1LQ_axfuQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc1/Mjg2LTE2MDEyMDg5/MTEtODA4MS5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.7004,
+   "vibe": 88,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Australian & New Zealand release ",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Recado Boss Nova",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "The Shadow Of Your Smile",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Watch What Happens",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "People",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Insensatez (How Insensitive)",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Samba de Orpheus",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Montivideo",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Strangers In The Night",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Slowly",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "I Wish You Love",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "A Taste Of Honey",
+     "artist": "Vic Garcia",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Woe Is Me",
+     "artist": "Vic Garcia",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d4677443",
+   "discogsId": 4677443,
+   "title": "Bob French And The Storyville Jazz Band",
+   "artist": "Bob French's Storyville Jazz Band",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Sound Of New Orleans",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/DcCnIQtpieqzQoAhjHU_0olAQ7d708-9xfjfMHuBZMI/rs:fit/g:sm/q:90/h:503/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzc0/NDMtMTM3MTkzNjI2/OS0zMDU3LmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.6403,
+   "vibe": 73,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Bill Bailey",
+     "artist": "Bob French's Storyville Jazz Band",
+     "duration": "3:31"
+    },
+    {
+     "position": "A2",
+     "title": "Way Down Yonder In New Orleans",
+     "artist": "Bob French's Storyville Jazz Band",
+     "duration": "3:02"
+    },
+    {
+     "position": "A3",
+     "title": "High Society",
+     "artist": "Bob French's Storyville Jazz Band",
+     "duration": "3:38"
+    },
+    {
+     "position": "A4",
+     "title": "Bourbon Street Parade",
+     "artist": "Bob French's Storyville Jazz Band",
+     "duration": "3:47"
+    },
+    {
+     "position": "A5",
+     "title": "Just A Closer Walk",
+     "artist": "Bob French's Storyville Jazz Band",
+     "duration": "4:13"
+    },
+    {
+     "position": "B1",
+     "title": "The Saints",
+     "artist": "Bob French's Storyville Jazz Band",
+     "duration": "5:50"
+    },
+    {
+     "position": "B2",
+     "title": "Tiger Rag",
+     "artist": "Bob French's Storyville Jazz Band",
+     "duration": "3:42"
+    },
+    {
+     "position": "B3",
+     "title": "South Rampart Street Parade",
+     "artist": "Bob French's Storyville Jazz Band",
+     "duration": "3:49"
+    },
+    {
+     "position": "B4",
+     "title": "St. James Infirmary",
+     "artist": "Bob French's Storyville Jazz Band",
+     "duration": "3:17"
+    }
+   ]
+  },
+  {
+   "id": "d10609020",
+   "discogsId": 10609020,
+   "title": "Bridge Over Troubled Water",
+   "artist": "Paul Desmond",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "A&M Records",
+   "country": "Japan",
+   "styles": [
+    "Bossa Nova",
+    "Easy Listening"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6254,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "El Condor Pasa",
+     "artist": "Paul Desmond",
+     "duration": "3:03"
+    },
+    {
+     "position": "A2",
+     "title": "So Long, Frank Lloyd Wright",
+     "artist": "Paul Desmond",
+     "duration": "3:30"
+    },
+    {
+     "position": "A3",
+     "title": "The 59th St. Bridge Song (Feelin' Groovy)",
+     "artist": "Paul Desmond",
+     "duration": "5:10"
+    },
+    {
+     "position": "A4",
+     "title": "Mrs. Robinson",
+     "artist": "Paul Desmond",
+     "duration": "2:42"
+    },
+    {
+     "position": "A5",
+     "title": "Old Friends",
+     "artist": "Paul Desmond",
+     "duration": "4:25"
+    },
+    {
+     "position": "B1",
+     "title": "America",
+     "artist": "Paul Desmond",
+     "duration": "4:56"
+    },
+    {
+     "position": "B2",
+     "title": "For Emily, Whenever I May Find Her",
+     "artist": "Paul Desmond",
+     "duration": "4:00"
+    },
+    {
+     "position": "B3",
+     "title": "Scarborough Fair / Canticle",
+     "artist": "Paul Desmond",
+     "duration": "4:22"
+    },
+    {
+     "position": "B4",
+     "title": "Cecilia",
+     "artist": "Paul Desmond",
+     "duration": "2:12"
+    },
+    {
+     "position": "B5",
+     "title": "Bridge Over Troubled Water",
+     "artist": "Paul Desmond",
+     "duration": "3:25"
+    }
+   ]
+  },
+  {
+   "id": "d12505757",
+   "discogsId": 12505757,
+   "title": "Anthem",
+   "artist": "Madeleine Peyroux",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Decca (3)",
+   "country": "Russia",
+   "styles": [],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6332,
+   "vibe": 71,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "4-page art booklet included.\nPackaged in a jewel case with a transparent tray.\n",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "On My Own",
+     "artist": "Madeleine Peyroux",
+     "duration": "4:05"
+    },
+    {
+     "position": "2",
+     "title": "Down On Me",
+     "artist": "Madeleine Peyroux",
+     "duration": "4:58"
+    },
+    {
+     "position": "3",
+     "title": "Party Tyme",
+     "artist": "Madeleine Peyroux",
+     "duration": "4:35"
+    },
+    {
+     "position": "4",
+     "title": "Anthem",
+     "artist": "Madeleine Peyroux",
+     "duration": "5:25"
+    },
+    {
+     "position": "5",
+     "title": "All My Heroes",
+     "artist": "Madeleine Peyroux",
+     "duration": "3:58"
+    },
+    {
+     "position": "6",
+     "title": "On A Sunday Afternoon",
+     "artist": "Madeleine Peyroux",
+     "duration": "4:15"
+    },
+    {
+     "position": "7",
+     "title": "The Brand New Deal",
+     "artist": "Madeleine Peyroux",
+     "duration": "4:56"
+    },
+    {
+     "position": "8",
+     "title": "Lullaby",
+     "artist": "Madeleine Peyroux",
+     "duration": "5:19"
+    },
+    {
+     "position": "9",
+     "title": "Honey Party",
+     "artist": "Madeleine Peyroux",
+     "duration": "3:59"
+    },
+    {
+     "position": "10",
+     "title": "The Ghosts Of Tomorrow",
+     "artist": "Madeleine Peyroux",
+     "duration": "4:13"
+    },
+    {
+     "position": "11",
+     "title": "We Might As Well Dance",
+     "artist": "Madeleine Peyroux",
+     "duration": "3:14"
+    },
+    {
+     "position": "12",
+     "title": "Liberté",
+     "artist": "Madeleine Peyroux",
+     "duration": "4:29"
+    }
+   ]
+  },
+  {
+   "id": "d24713093",
+   "discogsId": 24713093,
+   "title": "Is That So?",
+   "artist": "John Hicks Trio",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Timeless Records (3)",
+   "country": "Japan",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/FhERFV12ou9bvQ6agOxzKOTPMVjHpFynWdzdq_DeFEE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEz/MDkzLTE2NjQ4Mzky/NjQtNTkyMi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6213,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recording Date : 10 July 1990\n ",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Is That So?",
+     "artist": "John Hicks Trio",
+     "duration": "7:30"
+    },
+    {
+     "position": "2",
+     "title": "Autumn Leaves",
+     "artist": "John Hicks Trio",
+     "duration": "6:22"
+    },
+    {
+     "position": "3",
+     "title": "How Insensitive",
+     "artist": "John Hicks Trio",
+     "duration": "8:52"
+    },
+    {
+     "position": "4",
+     "title": "April Eyes",
+     "artist": "John Hicks Trio",
+     "duration": "5:10"
+    },
+    {
+     "position": "5",
+     "title": "Yesterdays",
+     "artist": "John Hicks Trio",
+     "duration": "4:50"
+    },
+    {
+     "position": "6",
+     "title": "Emily",
+     "artist": "John Hicks Trio",
+     "duration": "7:48"
+    },
+    {
+     "position": "7",
+     "title": "I'll Remember April",
+     "artist": "John Hicks Trio",
+     "duration": "9:09"
+    },
+    {
+     "position": "8",
+     "title": "Never Let Me Go",
+     "artist": "John Hicks Trio",
+     "duration": "8:11"
+    },
+    {
+     "position": "9",
+     "title": "Softly, As In A Morning Sunrise",
+     "artist": "John Hicks Trio",
+     "duration": "5:21"
+    },
+    {
+     "position": "10",
+     "title": "Sonnymoon For Two",
+     "artist": "John Hicks Trio",
+     "duration": "6:14"
+    },
+    {
+     "position": "11",
+     "title": "My Foolish Heart",
+     "artist": "John Hicks Trio",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
