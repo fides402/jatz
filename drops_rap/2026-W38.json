@@ -1,0 +1,69 @@
+{
+ "date": "2026-W38",
+ "generatedAt": "2026-09-15T17:59:53Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-unresolved-3044490907177905568",
+   "discogsId": 0,
+   "title": "Am I Wrong",
+   "artist": "YFG Fatso",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Am I Wrong",
+     "artist": "YFG Fatso",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6810781941",
+   "discogsId": 0,
+   "title": "Love Bomb",
+   "artist": "Jhené Aiko & Ab-Soul",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/5a/90/715a9057-5ed3-26e0-a706-0fc39b1a1a64/26UM1IM17018.rgb.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Love Bomb",
+     "artist": "Jhené Aiko & Ab-Soul",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 2
+ }
+}
