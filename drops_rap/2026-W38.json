@@ -1,6 +1,6 @@
 {
  "date": "2026-W38",
- "generatedAt": "2026-09-15T17:59:53Z",
+ "generatedAt": "2026-09-16T17:59:51Z",
  "profile": "rap",
  "albums": [
   {
@@ -60,10 +60,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-6959654341649196633",
+   "discogsId": 0,
+   "title": "Painkiller",
+   "artist": "Joy Crookes featuring Denzel Curry",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Painkiller",
+     "artist": "Joy Crookes featuring Denzel Curry",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1078727572",
+   "discogsId": 0,
+   "title": "Rock Ya Body",
+   "artist": "Rakim",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/41e7e7cf62573db92ccafa55dc0f8b54/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Rock Ya Body",
+     "artist": "Rakim",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 2
+  "modern": 4
  }
 }
