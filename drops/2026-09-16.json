@@ -1,0 +1,481 @@
+{
+ "date": "2026-09-16",
+ "generatedAt": "2026-09-16T08:51:04Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d7668101",
+   "discogsId": 7668101,
+   "title": "Latin Vibrations",
+   "artist": "John Schroeder",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Polydor",
+   "country": "Brazil",
+   "styles": [
+    "Latin Jazz",
+    "Easy Listening"
+   ],
+   "coverUrl": "https://i.discogs.com/DfFES7xfFiWbdGJ97JrBiUkPLAuFpOLasmJl69P9im0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Njgx/MDEtMTY4NTgwOTEx/MS05MTAyLmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6474,
+   "vibe": 74,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Romantica",
+     "artist": "John Schroeder",
+     "duration": "3:28"
+    },
+    {
+     "position": "A2",
+     "title": "Scarborough Fair",
+     "artist": "John Schroeder",
+     "duration": "4:14"
+    },
+    {
+     "position": "A3",
+     "title": "If You Could Read My Mind",
+     "artist": "John Schroeder",
+     "duration": "3:49"
+    },
+    {
+     "position": "A4",
+     "title": "Un Banc, Un Arbre, Une Rue",
+     "artist": "John Schroeder",
+     "duration": "3:10"
+    },
+    {
+     "position": "A5",
+     "title": "With A Little Help From My Friends",
+     "artist": "John Schroeder",
+     "duration": "3:30"
+    },
+    {
+     "position": "B1",
+     "title": "Carnival (Manha De Carnaval)",
+     "artist": "John Schroeder",
+     "duration": "3:13"
+    },
+    {
+     "position": "B2",
+     "title": "Moanin'",
+     "artist": "John Schroeder",
+     "duration": "2:45"
+    },
+    {
+     "position": "B3",
+     "title": "Paramaribo",
+     "artist": "John Schroeder",
+     "duration": "2:38"
+    },
+    {
+     "position": "B4",
+     "title": "Sweet Unity",
+     "artist": "John Schroeder",
+     "duration": "3:00"
+    },
+    {
+     "position": "B5",
+     "title": "It Don't Come Easy",
+     "artist": "John Schroeder",
+     "duration": "3:45"
+    }
+   ]
+  },
+  {
+   "id": "d4278798",
+   "discogsId": 4278798,
+   "title": "Mose Allison",
+   "artist": "Mose Allison",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Atlantic",
+   "country": "Germany",
+   "styles": [
+    "Cool Jazz",
+    "Vocal"
+   ],
+   "coverUrl": "https://i.discogs.com/vCXB3e2YEhpKflJPO8beX76jDMlZieUmmgN3WEL9vNE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzg3/OTgtMTM5OTIzOTEy/MS0yNTUzLmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 14,
+   "score": 0.6227,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Your Mind Is On Vacation",
+     "artist": "Mose Allison",
+     "duration": "2:35"
+    },
+    {
+     "position": "A2",
+     "title": "Swingin'  Machine",
+     "artist": "Mose Allison",
+     "duration": "2:31"
+    },
+    {
+     "position": "A3",
+     "title": "Stop This World",
+     "artist": "Mose Allison",
+     "duration": "3:24"
+    },
+    {
+     "position": "A4",
+     "title": "If You're Goin' To The City",
+     "artist": "Mose Allison",
+     "duration": "3:49"
+    },
+    {
+     "position": "A5",
+     "title": "Days Like This",
+     "artist": "Mose Allison",
+     "duration": "2:51"
+    },
+    {
+     "position": "A6",
+     "title": "New Parchman",
+     "artist": "Mose Allison",
+     "duration": "3:04"
+    },
+    {
+     "position": "A7",
+     "title": "Rollin' Stone",
+     "artist": "Mose Allison",
+     "duration": "2:58"
+    },
+    {
+     "position": "A8",
+     "title": "Fool Killer",
+     "artist": "Mose Allison",
+     "duration": "2:25"
+    },
+    {
+     "position": "B1",
+     "title": "Everybody Cryin' Mercy",
+     "artist": "Mose Allison",
+     "duration": "2:39"
+    },
+    {
+     "position": "B2",
+     "title": "Your Molecular Structure",
+     "artist": "Mose Allison",
+     "duration": "2:05"
+    },
+    {
+     "position": "B3",
+     "title": "Hello There Universe",
+     "artist": "Mose Allison",
+     "duration": "3:48"
+    },
+    {
+     "position": "B4",
+     "title": "Night Club",
+     "artist": "Mose Allison",
+     "duration": "2:36"
+    },
+    {
+     "position": "B5",
+     "title": "Western Man",
+     "artist": "Mose Allison",
+     "duration": "3:14"
+    },
+    {
+     "position": "B6",
+     "title": "Seventh Son",
+     "artist": "Mose Allison",
+     "duration": "4:22"
+    },
+    {
+     "position": "B7",
+     "title": "Fool's Paradise",
+     "artist": "Mose Allison",
+     "duration": "4:55"
+    }
+   ]
+  },
+  {
+   "id": "d24128375",
+   "discogsId": 24128375,
+   "title": "The Best Of Sarah Vaughan",
+   "artist": "Sarah Vaughan",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Philips",
+   "country": "Netherlands",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/e2aaApjSlRuKab21FOLrkPg0_bY7nRJ9kPGriY7VGss/rs:fit/g:sm/q:90/h:386/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/Mzc1LTE2NTk4ODU2/MDktMjc4OC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6172,
+   "vibe": 67,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Misty",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Broken Hearted Melody",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Close To You",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Autumn In New York",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Moonlight In Vermont",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "How Important Can It Be ?",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Smooth Operator",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Whatever Lola Wants",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Lullaby Of Birdland",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Eternally",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Poor Butterfly",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Make Yourself Comfortable",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d13036048",
+   "discogsId": 13036048,
+   "title": "Seeking Higher Ground",
+   "artist": "The Maguire Twins",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Three Tree Records",
+   "country": "US",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/pAGp8tJoUwWelMraoMyE67r8iNBDoC2PvLcLnkkNI5U/rs:fit/g:sm/q:90/h:224/w:224/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM2/MDQ4LTE1NDY4OTA2/NDQtNDU1My5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5595,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Theodicy",
+     "artist": "The Maguire Twins",
+     "duration": "6:08"
+    },
+    {
+     "position": "2",
+     "title": "Hibiscus",
+     "artist": "The Maguire Twins",
+     "duration": "8:24"
+    },
+    {
+     "position": "3",
+     "title": "The Early Bird Gets The Short End Of The Stick",
+     "artist": "The Maguire Twins",
+     "duration": "6:08"
+    },
+    {
+     "position": "4",
+     "title": "Clarity",
+     "artist": "The Maguire Twins",
+     "duration": "5:36"
+    },
+    {
+     "position": "5",
+     "title": "Shed",
+     "artist": "The Maguire Twins",
+     "duration": "6:00"
+    },
+    {
+     "position": "6",
+     "title": "Song For Arjun",
+     "artist": "The Maguire Twins",
+     "duration": "6:54"
+    },
+    {
+     "position": "7",
+     "title": "Witch",
+     "artist": "The Maguire Twins",
+     "duration": "4:42"
+    },
+    {
+     "position": "8",
+     "title": "49th St",
+     "artist": "The Maguire Twins",
+     "duration": "5:19"
+    },
+    {
+     "position": "9",
+     "title": "Mid Air",
+     "artist": "The Maguire Twins",
+     "duration": "5:52"
+    },
+    {
+     "position": "10",
+     "title": "Machi No Michi",
+     "artist": "The Maguire Twins",
+     "duration": "6:16"
+    },
+    {
+     "position": "11",
+     "title": "An Island, A Piano, and Keith",
+     "artist": "The Maguire Twins",
+     "duration": "6:45"
+    },
+    {
+     "position": "12",
+     "title": "Someday My Prince Will Come",
+     "artist": "The Maguire Twins",
+     "duration": "6:50"
+    }
+   ]
+  },
+  {
+   "id": "d16230527",
+   "discogsId": 16230527,
+   "title": "The Creeper",
+   "artist": "Dennis Budimir",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Mainstream Records",
+   "country": "US",
+   "styles": [
+    "Fusion",
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/N3C8K70psnbug0DEK-vgEYD3q0zLdg7aC07L0CQ69iQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjMw/NTI3LTE2MDU2NTA2/NjYtNzEwNS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Diamond Back",
+     "artist": "Dennis Budimir",
+     "duration": "2:26"
+    },
+    {
+     "position": "2",
+     "title": "What The World Needs Now Is Love",
+     "artist": "Dennis Budimir",
+     "duration": "3:03"
+    },
+    {
+     "position": "3",
+     "title": "Like A Rolling Stone",
+     "artist": "Dennis Budimir",
+     "duration": "2:30"
+    },
+    {
+     "position": "4",
+     "title": "The Cobra",
+     "artist": "Dennis Budimir",
+     "duration": "1:55"
+    },
+    {
+     "position": "5",
+     "title": "The Creeper",
+     "artist": "Dennis Budimir",
+     "duration": "2:22"
+    },
+    {
+     "position": "6",
+     "title": "Eve Of Destruction",
+     "artist": "Dennis Budimir",
+     "duration": "3:08"
+    },
+    {
+     "position": "7",
+     "title": "In",
+     "artist": "Dennis Budimir",
+     "duration": "2:19"
+    },
+    {
+     "position": "8",
+     "title": "The Python",
+     "artist": "Dennis Budimir",
+     "duration": "2:38"
+    },
+    {
+     "position": "9",
+     "title": "I Got You Babe",
+     "artist": "Dennis Budimir",
+     "duration": "2:57"
+    },
+    {
+     "position": "10",
+     "title": "Cast Your Fate To The Winds",
+     "artist": "Dennis Budimir",
+     "duration": "2:31"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
