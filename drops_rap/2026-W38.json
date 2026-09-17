@@ -1,6 +1,6 @@
 {
  "date": "2026-W38",
- "generatedAt": "2026-09-16T17:59:51Z",
+ "generatedAt": "2026-09-17T17:59:21Z",
  "profile": "rap",
  "albums": [
   {
@@ -118,10 +118,155 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4251969161",
+   "discogsId": 0,
+   "title": "BOOBYTRAP",
+   "artist": "POLO PERKS <3 <3 <3",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9c44606933bb274581ea45dff7a69722/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "BOOBYTRAP",
+     "artist": "POLO PERKS <3 <3 <3",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1074927602",
+   "discogsId": 0,
+   "title": "This Thing Of Ours",
+   "artist": "Joey Purp",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/36eae8fc89f7542ed2fbaabc24c64584/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "This Thing Of Ours",
+     "artist": "Joey Purp",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4267121062",
+   "discogsId": 0,
+   "title": "Grave Shift",
+   "artist": "Lelo",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/99fcf99517108c81a9a14db546455aa9/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Grave Shift",
+     "artist": "Lelo",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1078962842",
+   "discogsId": 0,
+   "title": "Cantos of Ghais",
+   "artist": "Ghais Guevara",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "ep"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/11625ca36eef327e47ba842bf4d35a3a/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Cantos of Ghais",
+     "artist": "Ghais Guevara",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6812286093",
+   "discogsId": 0,
+   "title": "Grab Your Popcorn (Remix)",
+   "artist": "Kur & Lil Uzi Vert",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/9b/02/369b0297-9c3f-4c40-03dd-ae7f40a246e4/cover_4062851353786.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Grab Your Popcorn (Remix)",
+     "artist": "Kur & Lil Uzi Vert",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 4
+  "modern": 9
  }
 }
