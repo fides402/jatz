@@ -1,0 +1,381 @@
+{
+ "date": "2026-09-17",
+ "generatedAt": "2026-09-17T08:54:45Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d2370732",
+   "discogsId": 2370732,
+   "title": "How Will I Remember You?",
+   "artist": "Lorez Alexandria",
+   "year": 1978,
+   "era": "VINTAGE",
+   "label": "Discovery Records",
+   "country": "US",
+   "styles": [
+    "Modal",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/6MUXl0gEYWsM1uEwAq7kbQWigoOD-zcfyMZdjptjkQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzA3/MzItMTYwNTA0MDUw/MS05MzQ2LmpwZWc.jpeg",
+   "ratingAvg": 4.43,
+   "ratingCount": 37,
+   "score": 0.673,
+   "vibe": 81,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Back cover release notes written by Leonard Feather",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Make Someone Happy",
+     "artist": "Lorez Alexandria",
+     "duration": "2:35"
+    },
+    {
+     "position": "A2",
+     "title": "How Will I Remember You ?",
+     "artist": "Lorez Alexandria",
+     "duration": "5:22"
+    },
+    {
+     "position": "A3",
+     "title": "Perhaps",
+     "artist": "Lorez Alexandria",
+     "duration": "2:51"
+    },
+    {
+     "position": "A4",
+     "title": "You Light Up My Life",
+     "artist": "Lorez Alexandria",
+     "duration": "2:54"
+    },
+    {
+     "position": "A5",
+     "title": "I'll Buy You A Star",
+     "artist": "Lorez Alexandria",
+     "duration": "2:26"
+    },
+    {
+     "position": "A6",
+     "title": "The Greatest Love Of All",
+     "artist": "Lorez Alexandria",
+     "duration": "5:50"
+    },
+    {
+     "position": "B1",
+     "title": "Until It's Time For You To Go",
+     "artist": "Lorez Alexandria",
+     "duration": "4:40"
+    },
+    {
+     "position": "B2",
+     "title": "While We're Young",
+     "artist": "Lorez Alexandria",
+     "duration": "5:50"
+    },
+    {
+     "position": "B3",
+     "title": "Baltimore Oriole",
+     "artist": "Lorez Alexandria",
+     "duration": "3:13"
+    },
+    {
+     "position": "B4",
+     "title": "He Was Too Good For Me",
+     "artist": "Lorez Alexandria",
+     "duration": "3:52"
+    },
+    {
+     "position": "B5",
+     "title": "Little Boat",
+     "artist": "Lorez Alexandria",
+     "duration": "2:36"
+    }
+   ]
+  },
+  {
+   "id": "d14960289",
+   "discogsId": 14960289,
+   "title": "The Herbie Mann/Sam Most Quintet",
+   "artist": "The Herbie Mann-Sam Most Quintet",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Bethlehem Records",
+   "country": "Australia",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/CtrmPWQKCZtUW_t0QS1dp5E7uGTN4B9aQcUsTRfmM2g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYw/Mjg5LTE3MjU3NzIz/NzMtMzY4MC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5674,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Released with a high gloss front sleeve\n\nBack sleeve:\n- Recorded October 12th and 17th, 1955, New York City\n\nRunouts are stamped",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Fascinating Rhythm",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Why Do I Love You?",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "It's Only Sunshine",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Love Letters",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Let's Get Away From It All",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Flying Home",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "I'll Remember April",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Empathy",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "It Might As Well Be Spring",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Just One Of Those Things",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Seven Come Eleven",
+     "artist": "The Herbie Mann-Sam Most Quintet",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d1135607",
+   "discogsId": 1135607,
+   "title": "Spring Rain",
+   "artist": "Rudolph Johnson",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Black Jazz Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/hxJ3yn2cTQzEesl826oiUXOQSqES2pZMVtFMMh5THFY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzU2/MDctMTM4Nzc0NTg5/Mi02MDM5LmpwZWc.jpeg",
+   "ratingAvg": 4.48,
+   "ratingCount": 54,
+   "score": 0.5544,
+   "vibe": 51,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Tan label RCA Indianapolis pressing, different from this version of [r7763732] pressed at Capitol Jacksonville.\n\nDurations printed on cover are incorrect.\n\nSome copies are pressed on RCA Dynaflex vinyl.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Sylvia Ann",
+     "artist": "Rudolph Johnson",
+     "duration": "5:03"
+    },
+    {
+     "position": "A2",
+     "title": "Fonda",
+     "artist": "Rudolph Johnson",
+     "duration": "7:26"
+    },
+    {
+     "position": "A3",
+     "title": "Diswa",
+     "artist": "Rudolph Johnson",
+     "duration": "6:33"
+    },
+    {
+     "position": "A4",
+     "title": "Mr. T.J.",
+     "artist": "Rudolph Johnson",
+     "duration": "6:08"
+    },
+    {
+     "position": "B1",
+     "title": "Little Daphne",
+     "artist": "Rudolph Johnson",
+     "duration": "9:50"
+    },
+    {
+     "position": "B2",
+     "title": "Devon Jean",
+     "artist": "Rudolph Johnson",
+     "duration": "3:06"
+    },
+    {
+     "position": "B3",
+     "title": "Spring Rain",
+     "artist": "Rudolph Johnson",
+     "duration": "8:10"
+    }
+   ]
+  },
+  {
+   "id": "d30658918",
+   "discogsId": 30658918,
+   "title": "Rising",
+   "artist": "Jasmine Myra",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Gondwana Records",
+   "country": "UK",
+   "styles": [
+    "Contemporary Jazz",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/SmJEbn7UpjGCpfeRnG9AojcjlFzeMGRHyIqrOpqHH_I/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjU4/OTE4LTE3MTYzNzUw/NDQtNjM3My5qcGVn.jpeg",
+   "ratingAvg": 4.86,
+   "ratingCount": 7,
+   "score": 0.6627,
+   "vibe": 78,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Released in a gatefold digisleeve.",
+   "tracks": [
+    {
+     "position": "01",
+     "title": "Rising",
+     "artist": "Jasmine Myra",
+     "duration": "7:05"
+    },
+    {
+     "position": "02",
+     "title": "Still Waters",
+     "artist": "Jasmine Myra",
+     "duration": "6:04"
+    },
+    {
+     "position": "03",
+     "title": "Knowingness",
+     "artist": "Jasmine Myra",
+     "duration": "7:59"
+    },
+    {
+     "position": "04",
+     "title": "Glimmers",
+     "artist": "Jasmine Myra",
+     "duration": "8:08"
+    },
+    {
+     "position": "05",
+     "title": "From Embers",
+     "artist": "Jasmine Myra",
+     "duration": "2:41"
+    },
+    {
+     "position": "06",
+     "title": "How Tall The Mountains",
+     "artist": "Jasmine Myra",
+     "duration": "7:22"
+    }
+   ]
+  },
+  {
+   "id": "d20754913",
+   "discogsId": 20754913,
+   "title": "Pawpaw",
+   "artist": "Andy Woodson",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Not On Label",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Wan34yHajp_0HBefCyOjRqBuyuuDypHyBUEuXibocqs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU0/OTEzLTE2MzUzNzMw/MjYtODM2Ny5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Rory -Canine lead vocals\n\nThis record is dedicated to Tom and Nancy Woodson",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Pawpaw",
+     "artist": "Andy Woodson",
+     "duration": "5:27"
+    },
+    {
+     "position": "A2",
+     "title": "Prairie Portage",
+     "artist": "Andy Woodson",
+     "duration": "6:18"
+    },
+    {
+     "position": "A3",
+     "title": "Ruairi",
+     "artist": "Andy Woodson",
+     "duration": "1:21"
+    },
+    {
+     "position": "A4",
+     "title": "Insinnuendo",
+     "artist": "Andy Woodson",
+     "duration": "7:17"
+    },
+    {
+     "position": "B1",
+     "title": "Sleeping Giant",
+     "artist": "Andy Woodson",
+     "duration": "7:16"
+    },
+    {
+     "position": "B2",
+     "title": "Weirdo",
+     "artist": "Andy Woodson",
+     "duration": "3:35"
+    },
+    {
+     "position": "B3",
+     "title": "Gulch",
+     "artist": "Andy Woodson",
+     "duration": "9:09"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
