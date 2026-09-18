@@ -1,0 +1,439 @@
+{
+ "date": "2026-09-18",
+ "generatedAt": "2026-09-18T08:30:52Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d22151710",
+   "discogsId": 22151710,
+   "title": "Electrified!",
+   "artist": "Billy Vaughn",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Paramount Records",
+   "country": "South Africa",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.615,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Most Beautiful Girl",
+     "artist": "Billy Vaughn",
+     "duration": "2:27"
+    },
+    {
+     "position": "A2",
+     "title": "Make It With You",
+     "artist": "Billy Vaughn",
+     "duration": "3:20"
+    },
+    {
+     "position": "A3",
+     "title": "I Got A Name",
+     "artist": "Billy Vaughn",
+     "duration": "3:03"
+    },
+    {
+     "position": "A4",
+     "title": "Haze",
+     "artist": "Billy Vaughn",
+     "duration": "4:35"
+    },
+    {
+     "position": "A5",
+     "title": "Killing Me Softly With His Song",
+     "artist": "Billy Vaughn",
+     "duration": "3:32"
+    },
+    {
+     "position": "B1",
+     "title": "You Are The Sunshine Of My Life",
+     "artist": "Billy Vaughn",
+     "duration": "2:49"
+    },
+    {
+     "position": "B2",
+     "title": "Sweet Christie",
+     "artist": "Billy Vaughn",
+     "duration": "3:35"
+    },
+    {
+     "position": "B3",
+     "title": "Place Of Rest",
+     "artist": "Billy Vaughn",
+     "duration": "3:27"
+    },
+    {
+     "position": "B4",
+     "title": "Without You",
+     "artist": "Billy Vaughn",
+     "duration": "2:57"
+    },
+    {
+     "position": "B5",
+     "title": "Where Is The Love",
+     "artist": "Billy Vaughn",
+     "duration": "2:31"
+    }
+   ]
+  },
+  {
+   "id": "d3556785",
+   "discogsId": 3556785,
+   "title": "Aldemaro Romero Presenta La Onda Nueva",
+   "artist": "Aldemaro Romero",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "CBS",
+   "country": "Venezuela",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/kjOOHY63rcic6eD3HcjXheVasYhn-3T07rZo4DWXVkQ/rs:fit/g:sm/q:90/h:440/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTY3/ODUtMTMzNTE0MDk4/NS5qcGVn.jpeg",
+   "ratingAvg": 4.67,
+   "ratingCount": 3,
+   "score": 0.6069,
+   "vibe": 64,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Fool On The Hill",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "De Prisa",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Doña Mentira",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Sueño Rosado",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "La Caracola",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Araguita",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "La Niña Que Invento La Sonrisa",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Retrato De Un Hombre",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Amor De Segunda Mano",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Caminante",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Sueño De Una Niña Grande",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Hey Jude",
+     "artist": "Aldemaro Romero",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d8666484",
+   "discogsId": 8666484,
+   "title": "In Dallas",
+   "artist": "Ray Trotta",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "Oak Cliff Records",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/1BOWhYUTd0juksJv8P_zxRyCQmSRY5qs8BYEa6V0f1o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjY0/ODQtMTQ2NjIxMzM3/OC01MTkwLmpwZWc.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 2,
+   "score": 0.6051,
+   "vibe": 64,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "If I Were A Rich Man (From Fiddler On The Roof)",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "You Don't Understand Me",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "L-O-V-E",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Never On Sunday",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Be My Little Bumble Bee - Do You Ever Think Of Me",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "If I Didn't Care - Peg O' My Heart",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Can't Take My Eyes Off You",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Heartaches",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Spanish Eyes",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "The Girl From Ipanema - My Day Will Come",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Japanese Sandman - Mr Sandman",
+     "artist": "Ray Trotta",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Once In A While",
+     "artist": "Ray Trotta",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d13136577",
+   "discogsId": 13136577,
+   "title": "Jaye P. Morgan",
+   "artist": "Jaye P. Morgan",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Wewantsounds",
+   "country": "France",
+   "styles": [
+    "Soul-Jazz",
+    "Soul"
+   ],
+   "coverUrl": "https://i.discogs.com/tx4HGG3J5La2wji-iQnEuZngCb6pW2zreSW6Gg7_Zx8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM2/NTc3LTE1NDkxNzAx/NjktMTIzMi5qcGVn.jpeg",
+   "ratingAvg": 4.72,
+   "ratingCount": 61,
+   "score": 0.6348,
+   "vibe": 71,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "First official worldwide reissue of Morgan's ultra rare 1976 private press recorded in LA\n\nDeluxe LP Edition featuring 4 page insert with session photos and full lineup. \nIncludes digital download card\n\nRunouts are laser etched.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "I Fall In Love Everyday",
+     "artist": "Jaye P. Morgan",
+     "duration": "3:15"
+    },
+    {
+     "position": "A2",
+     "title": "Keepin' It To Myself",
+     "artist": "Jaye P. Morgan",
+     "duration": "3:27"
+    },
+    {
+     "position": "A3",
+     "title": "Here Is Where Your Love Belongs",
+     "artist": "Jaye P. Morgan",
+     "duration": "4:29"
+    },
+    {
+     "position": "A4",
+     "title": "Closet Man",
+     "artist": "Jaye P. Morgan",
+     "duration": "3:38"
+    },
+    {
+     "position": "A5",
+     "title": "It's Been So Long",
+     "artist": "Jaye P. Morgan",
+     "duration": "5:36"
+    },
+    {
+     "position": "B1",
+     "title": "Let's Get Together",
+     "artist": "Jaye P. Morgan",
+     "duration": "3:50"
+    },
+    {
+     "position": "B2",
+     "title": "Can't Hide Love",
+     "artist": "Jaye P. Morgan",
+     "duration": "4:52"
+    },
+    {
+     "position": "B3",
+     "title": "You're All I Need To Get By",
+     "artist": "Jaye P. Morgan",
+     "duration": "3:24"
+    },
+    {
+     "position": "B4",
+     "title": "It All Goes Round",
+     "artist": "Jaye P. Morgan",
+     "duration": "6:14"
+    }
+   ]
+  },
+  {
+   "id": "d30703831",
+   "discogsId": 30703831,
+   "title": "O Silêncio Imperfeito",
+   "artist": "Maluca Beleza",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Label Durance",
+   "country": "France",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/18dWHZ0nnAxEMf4AC7FUqTjgWF-GEfnEgSBKUIWTljY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzAz/ODMxLTE3MTU5NTcy/NjMtODQ3OC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.59,
+   "vibe": 60,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Caroline Tolla (chant, mise en musique des textes, auteur) / Pierre Fenichel (contrebasse, compositions) / Wim Welker (guitare, chœurs) / Roman Gigoi-Gary (clarinette, clarinette basse) / Romain Morello (trombone) / Julien Heurtel (batterie, percussions, chœurs).\nProduit par Les Voies du Chant et Caroline Tolla. / Enregistré, mixé et masterisé par Antony Soler  en septembre 2020 à l'Atelier de Musiques Improvisées (04160 Château-Arnoux) / Conception graphique : François Parmentier / Peurduloup\n\nMaluca Beleza est un groupe de jazz-fusion singulier, offrant un mélange subtil de musique brésili",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Epigrama N°8",
+     "artist": "Maluca Beleza",
+     "duration": "7:10"
+    },
+    {
+     "position": "2",
+     "title": "O Silêncio Imperfeito",
+     "artist": "Maluca Beleza",
+     "duration": "5:44"
+    },
+    {
+     "position": "3",
+     "title": "Cogito",
+     "artist": "Maluca Beleza",
+     "duration": "4:59"
+    },
+    {
+     "position": "4",
+     "title": "Doinel No Céu",
+     "artist": "Maluca Beleza",
+     "duration": "5:33"
+    },
+    {
+     "position": "5",
+     "title": "Me Leva",
+     "artist": "Maluca Beleza",
+     "duration": "5:55"
+    },
+    {
+     "position": "6",
+     "title": "Mysticis",
+     "artist": "Maluca Beleza",
+     "duration": "5:45"
+    },
+    {
+     "position": "7",
+     "title": "Na Baixa Do Sapateiro",
+     "artist": "Maluca Beleza",
+     "duration": "6:08"
+    },
+    {
+     "position": "8",
+     "title": "Search For Nirvana",
+     "artist": "Maluca Beleza",
+     "duration": "4:34"
+    },
+    {
+     "position": "9",
+     "title": "A Voz Do Canavial",
+     "artist": "Maluca Beleza",
+     "duration": "4:40"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
