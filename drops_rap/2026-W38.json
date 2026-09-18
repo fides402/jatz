@@ -1,6 +1,6 @@
 {
  "date": "2026-W38",
- "generatedAt": "2026-09-17T17:59:21Z",
+ "generatedAt": "2026-09-18T17:34:18Z",
  "profile": "rap",
  "albums": [
   {
@@ -263,10 +263,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6812114133",
+   "discogsId": 0,
+   "title": "Run It Up",
+   "artist": "Fenix Flexin, French Montana, Max B & Purps On The Beat",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/76/e3/2b76e3bd-7703-fc3f-47f8-f0fea7674ab4/199316776829_cover.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.943,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Run It Up",
+     "artist": "Fenix Flexin, French Montana, Max B & Purps On The Beat",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6797669661",
+   "discogsId": 0,
+   "title": "Angelic Crashout",
+   "artist": "Mulan",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "ep"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/ee/08/adee08e5-3845-157b-d3fb-477f48831169/881453455209_cover.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Angelic Crashout",
+     "artist": "Mulan",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 9
+  "modern": 11
  }
 }
