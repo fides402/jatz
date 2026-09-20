@@ -1,0 +1,357 @@
+{
+ "date": "2026-09-20",
+ "generatedAt": "2026-09-20T08:49:27Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d6495376",
+   "discogsId": 6495376,
+   "title": "How's Everything",
+   "artist": "Sadao Watanabe",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Columbia",
+   "country": "South Africa",
+   "styles": [
+    "Fusion",
+    "Contemporary Jazz",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/90fdVfME51dwROE05QT1wjTOws2aiDgGpZIlASEtXhI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTUz/NzYtMTU4MTI2MzE3/Ni0zMzA4LmpwZWc.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 2,
+   "score": 0.6111,
+   "vibe": 65,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "South African release. \"ARTONE PRESS\" logo printed on back sleeve bottom right.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Up Country",
+     "artist": "Sadao Watanabe",
+     "duration": "10:39"
+    },
+    {
+     "position": "A2",
+     "title": "Mzuri",
+     "artist": "Sadao Watanabe",
+     "duration": "4:27"
+    },
+    {
+     "position": "B1",
+     "title": "Tsumagoi",
+     "artist": "Sadao Watanabe",
+     "duration": "6:31"
+    },
+    {
+     "position": "B2",
+     "title": "All About Love",
+     "artist": "Sadao Watanabe",
+     "duration": "4:40"
+    },
+    {
+     "position": "B3",
+     "title": "Nice Shot",
+     "artist": "Sadao Watanabe",
+     "duration": "7:19"
+    },
+    {
+     "position": "C1",
+     "title": "Seeing You",
+     "artist": "Sadao Watanabe",
+     "duration": "5:33"
+    },
+    {
+     "position": "C2",
+     "title": "No Problem",
+     "artist": "Sadao Watanabe",
+     "duration": "7:19"
+    },
+    {
+     "position": "C3",
+     "title": "Boa Noite",
+     "artist": "Sadao Watanabe",
+     "duration": "6:07"
+    },
+    {
+     "position": "D1",
+     "title": "Sun Dance",
+     "artist": "Sadao Watanabe",
+     "duration": "7:46"
+    },
+    {
+     "position": "D2",
+     "title": "M&M Studio",
+     "artist": "Sadao Watanabe",
+     "duration": "9:07"
+    },
+    {
+     "position": "D3",
+     "title": "My Dear Life",
+     "artist": "Sadao Watanabe",
+     "duration": "5:21"
+    }
+   ]
+  },
+  {
+   "id": "d3363969",
+   "discogsId": 3363969,
+   "title": "Sergio Mendes' Favorite Things",
+   "artist": "Sérgio Mendes",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Atlantic",
+   "country": "US",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/oNUZG5lKoJjmZag9yRzGWQBmE_qCC9-XhNPMiV8mhng/rs:fit/g:sm/q:90/h:436/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjM5/NjktMTU0Mzk1NTU5/Mi0yMDgyLmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5994,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Promo, 45 housed in text cover with b/w image of LP cover. \"This is a compatible CSG Stereo Recording, it can be played both Mono and Stereo\".\r\n\r\nLabel: 45-EP-A-1007\r\nCover: EP.CSG-A-1007\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "My Favorite Things",
+     "artist": "Sérgio Mendes",
+     "duration": "2:52"
+    },
+    {
+     "position": "A2",
+     "title": "Ponteio",
+     "artist": "Sérgio Mendes",
+     "duration": "2:26"
+    },
+    {
+     "position": "B1",
+     "title": "A Banda (Parade)",
+     "artist": "Sérgio Mendes",
+     "duration": "2:30"
+    },
+    {
+     "position": "B2",
+     "title": "Tempo Feliz (Happy Times)",
+     "artist": "Sérgio Mendes",
+     "duration": "2:34"
+    }
+   ]
+  },
+  {
+   "id": "d28171000",
+   "discogsId": 28171000,
+   "title": "West Side Story",
+   "artist": "Earl Hines",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "Black Lion Records",
+   "country": "Italy",
+   "styles": [
+    "Modal",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/RO6PVn1QB8OS3FZKwfAvtxy5iBL2WEHIe_6b8qgX470/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTcx/MDAwLTE2OTQ1ODgw/ODQtNDEzNi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.558,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded live at the Montreux Jazz Festival, 2nd July 1974",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "West Side Story",
+     "artist": "Earl Hines",
+     "duration": "10:30"
+    },
+    {
+     "position": "A2",
+     "title": "Close To You",
+     "artist": "Earl Hines",
+     "duration": "3:42"
+    },
+    {
+     "position": "A3",
+     "title": "Why Do I Love Yo?",
+     "artist": "Earl Hines",
+     "duration": "6:43"
+    },
+    {
+     "position": "B1",
+     "title": "In My Solitude",
+     "artist": "Earl Hines",
+     "duration": "7:53"
+    },
+    {
+     "position": "B2",
+     "title": "Dont Get Around Much Anymore",
+     "artist": "Earl Hines",
+     "duration": "10:32"
+    }
+   ]
+  },
+  {
+   "id": "d20143930",
+   "discogsId": 20143930,
+   "title": "Cobra",
+   "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Klaeng Records",
+   "country": "Germany",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/1H4b1a6qhKti9rjf22xKNXld_uahMXQGTo1O3UNOXOA/rs:fit/g:sm/q:90/h:420/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQz/OTMwLTE2MzA5OTg0/NjItNzc2Mi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Recorded on 25th / 26th / 27th of July 2020",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Cobra",
+     "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+     "duration": "3:31"
+    },
+    {
+     "position": "2",
+     "title": "Lacy",
+     "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+     "duration": "3:42"
+    },
+    {
+     "position": "3",
+     "title": "Umlauftank [M0DVL4R]",
+     "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+     "duration": "7:13"
+    },
+    {
+     "position": "4",
+     "title": "Giga (C4G3)",
+     "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+     "duration": "4:47"
+    },
+    {
+     "position": "5",
+     "title": "Zustand I (BR4XT0N)",
+     "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+     "duration": "2:40"
+    },
+    {
+     "position": "6",
+     "title": "Aggregat",
+     "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+     "duration": "5:10"
+    },
+    {
+     "position": "7",
+     "title": "Erweiterung (X3N4K1S)",
+     "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+     "duration": "3:50"
+    },
+    {
+     "position": "8",
+     "title": "Zustand II [M0DVL4R]",
+     "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+     "duration": "2:49"
+    },
+    {
+     "position": "9",
+     "title": "Trakt",
+     "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+     "duration": "4:38"
+    },
+    {
+     "position": "10",
+     "title": "Zustand III",
+     "artist": "Victor Fox & Achim Kaufmann & Roger Kintopf & Leif Berger",
+     "duration": "2:28"
+    }
+   ]
+  },
+  {
+   "id": "d37467984",
+   "discogsId": 37467984,
+   "title": "Cognitive Interweavings For Duo",
+   "artist": "Udo Schindler & Flo Stoffner",
+   "year": 2026,
+   "era": "MODERN",
+   "label": "Arch-Musik",
+   "country": "Germany",
+   "styles": [
+    "Free Improvisation"
+   ],
+   "coverUrl": "https://i.discogs.com/LaiGtBhJA8iH2b5aikldALKuqQ3rGHjUUvZz1L6rzsU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDY3/OTg0LTE3Nzk5ODMy/OTQtNDIwMS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5372,
+   "vibe": 47,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Audio & video live recordings June 20th, 2025 at Studio+Atelier SCHINDLER in Krailling/Munich by Udo Schindler (arch-musik)\n\nthanks for support to the Schauer family, Martin Schnitzer, Birgit Knobloch (Giesinger Bahnhof), Wolfgang Obrecht/Tonstudio RichArt, Michael Kurz/video, Ernst Nebhuth, Wolf Willinger, Max Frei, Bruno Waltersbacher, Martin Suter (Blashaus Luzern), Benedikt Eppelsheim (†)\nwww.arch-musik.de\nfstoffner.wixsite.com/flostoffner",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Warp Thread #1",
+     "artist": "Udo Schindler & Flo Stoffner",
+     "duration": "4:16"
+    },
+    {
+     "position": "2",
+     "title": "Vertical Stripes #2",
+     "artist": "Udo Schindler & Flo Stoffner",
+     "duration": "9:27"
+    },
+    {
+     "position": "3",
+     "title": "Weft Thread",
+     "artist": "Udo Schindler & Flo Stoffner",
+     "duration": "3:54"
+    },
+    {
+     "position": "4",
+     "title": "Wavy Lines",
+     "artist": "Udo Schindler & Flo Stoffner",
+     "duration": "6:53"
+    },
+    {
+     "position": "5",
+     "title": "Warp Thread #2",
+     "artist": "Udo Schindler & Flo Stoffner",
+     "duration": "1:03"
+    },
+    {
+     "position": "6",
+     "title": "Floral Design",
+     "artist": "Udo Schindler & Flo Stoffner",
+     "duration": "4:38"
+    },
+    {
+     "position": "7",
+     "title": "Vertical Stripes #1",
+     "artist": "Udo Schindler & Flo Stoffner",
+     "duration": "3:45"
+    },
+    {
+     "position": "8",
+     "title": "Diagonal Stripes",
+     "artist": "Udo Schindler & Flo Stoffner",
+     "duration": "5:55"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
