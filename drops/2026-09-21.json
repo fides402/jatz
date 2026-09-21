@@ -1,0 +1,348 @@
+{
+ "date": "2026-09-21",
+ "generatedAt": "2026-09-21T09:17:08Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d28068907",
+   "discogsId": 28068907,
+   "title": "Sandy's Love",
+   "artist": "Harold Alexander",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Atlantic",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/f1xyvb5EkcdkYlEAWeOh_6PZu75TIf2C5gsUvLqe1sY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDY4/OTA3LTE2OTI5MjI5/MDItNjkwNi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6121,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Sandy's Love",
+     "artist": "Harold Alexander",
+     "duration": "3:21"
+    },
+    {
+     "position": "B",
+     "title": "Sandy's Love",
+     "artist": "Harold Alexander",
+     "duration": "3:21"
+    }
+   ]
+  },
+  {
+   "id": "d2339436",
+   "discogsId": 2339436,
+   "title": "Do You Know The Way?",
+   "artist": "Bobby Timmons",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Milestone (4)",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/53tMNNiSiGVCxHxJ0dmGQP1eB0pVVoxlRIqn_9gK1Lc/rs:fit/g:sm/q:90/h:425/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzk0/MzYtMTI4OTYyMzc0/NS5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 16,
+   "score": 0.6025,
+   "vibe": 63,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Yellow and brown Milestone repress (2nd pressing).",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Spanish Count",
+     "artist": "Bobby Timmons",
+     "duration": "5:52"
+    },
+    {
+     "position": "A2",
+     "title": "I Won't Be Back",
+     "artist": "Bobby Timmons",
+     "duration": "5:35"
+    },
+    {
+     "position": "A3",
+     "title": "Last Night When We Where Young",
+     "artist": "Bobby Timmons",
+     "duration": "4:24"
+    },
+    {
+     "position": "A4",
+     "title": "Do You Know The Way To San Jose?",
+     "artist": "Bobby Timmons",
+     "duration": "4:06"
+    },
+    {
+     "position": "B1",
+     "title": "Come Together",
+     "artist": "Bobby Timmons",
+     "duration": "7:32"
+    },
+    {
+     "position": "B2",
+     "title": "Something To Live For",
+     "artist": "Bobby Timmons",
+     "duration": "4:59"
+    },
+    {
+     "position": "B3",
+     "title": "Soul Time",
+     "artist": "Bobby Timmons",
+     "duration": "4:23"
+    },
+    {
+     "position": "B4",
+     "title": "This Guy's In Love With You",
+     "artist": "Bobby Timmons",
+     "duration": "3:36"
+    }
+   ]
+  },
+  {
+   "id": "d15839034",
+   "discogsId": 15839034,
+   "title": "Lighthouse '68",
+   "artist": "The Crusaders",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "World Pacific Records",
+   "country": "USA & Canada",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/4ch09s3uk5vgbn4v0Qrie8llvVkhqCWIBbZ_R7f2NxE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM5/MDM0LTE1OTg3MzEz/NDAtNjMxMi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5608,
+   "vibe": 53,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Manufactured and Distributed by The STEREOTAPE DIVISION of GREENTREE ELECTRONICS",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Ooga-Boo-Ga-Loo",
+     "artist": "The Crusaders",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Eleanor Rigby",
+     "artist": "The Crusaders",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Native Dancer",
+     "artist": "The Crusaders",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Never Had It So Good",
+     "artist": "The Crusaders",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "The Emperor",
+     "artist": "The Crusaders",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Impressions",
+     "artist": "The Crusaders",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d24617363",
+   "discogsId": 24617363,
+   "title": "Everything I Know About Love",
+   "artist": "Laufey",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Awal Recordings America, Inc.",
+   "country": "US",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/5DI_Ms_1kBKXhyzK8tk3J2iJMghDg1F-KuJcauOwC9k/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjE3/MzYzLTE2NjQwMzQ0/MjgtMzI0MS5qcGVn.jpeg",
+   "ratingAvg": 4.97,
+   "ratingCount": 38,
+   "score": 0.5779,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Features exclusive booklet insert.\n\nFulfilled by Ambient Inks.\n\n℗ & © 2022 Laufey under exclusive license to AWAL Recordings America, Inc.\nMade in Czech Republic.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Fragile",
+     "artist": "Laufey",
+     "duration": "4:01"
+    },
+    {
+     "position": "A2",
+     "title": "Beautiful Stranger",
+     "artist": "Laufey",
+     "duration": "3:21"
+    },
+    {
+     "position": "A3",
+     "title": "Above The Chinese Restaurant",
+     "artist": "Laufey",
+     "duration": "3:43"
+    },
+    {
+     "position": "A4",
+     "title": "Dear Soulmate",
+     "artist": "Laufey",
+     "duration": "4:20"
+    },
+    {
+     "position": "A5",
+     "title": "What Love Will Do To You",
+     "artist": "Laufey",
+     "duration": "2:51"
+    },
+    {
+     "position": "A6",
+     "title": "I've Never Been In Love Before",
+     "artist": "Laufey",
+     "duration": "3:42"
+    },
+    {
+     "position": "B1",
+     "title": "Just Like Chet",
+     "artist": "Laufey",
+     "duration": "3:36"
+    },
+    {
+     "position": "B2",
+     "title": "Everything I Know About Love",
+     "artist": "Laufey",
+     "duration": "3:30"
+    },
+    {
+     "position": "B3",
+     "title": "Falling Behind",
+     "artist": "Laufey",
+     "duration": "2:54"
+    },
+    {
+     "position": "B4",
+     "title": "Hi",
+     "artist": "Laufey",
+     "duration": "3:14"
+    },
+    {
+     "position": "B5",
+     "title": "Dance With You Tonight",
+     "artist": "Laufey",
+     "duration": "2:39"
+    },
+    {
+     "position": "B6",
+     "title": "Night Light",
+     "artist": "Laufey",
+     "duration": "4:02"
+    }
+   ]
+  },
+  {
+   "id": "d24680714",
+   "discogsId": 24680714,
+   "title": "Summer Of Change / JRPG",
+   "artist": "Low Pass Killer & JRPG",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Low Key Records (7)",
+   "country": "US",
+   "styles": [
+    "Ambient",
+    "Experimental",
+    "Funk",
+    "Jazz-Funk",
+    "New Wave",
+    "Nu-Disco",
+    "Synthwave"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.567,
+   "vibe": 54,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Shiny rosegold shell with handcut sticker labels, sparkled norelco case, track/credits card, and sticker, inside trinket box with mixed media designs and inlay. Trinket boxes come in two variants: blue sheen box with cotton inlay or silver sparkled box with fabric inlay. Limited to 25 copies total.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Don't Stop Protesting (Can't Stop Protesting)",
+     "artist": "Low Pass Killer",
+     "duration": "8:52"
+    },
+    {
+     "position": "A2",
+     "title": "Mobilize",
+     "artist": "Low Pass Killer",
+     "duration": "7:55"
+    },
+    {
+     "position": "A3",
+     "title": "Disband The Departments, Abolish The Prisons",
+     "artist": "Low Pass Killer",
+     "duration": "6:34"
+    },
+    {
+     "position": "A4",
+     "title": "Life After Police",
+     "artist": "Low Pass Killer",
+     "duration": "9:20"
+    },
+    {
+     "position": "B1",
+     "title": "Shapes",
+     "artist": "JRPG",
+     "duration": "10:55"
+    },
+    {
+     "position": "B2",
+     "title": "Glo",
+     "artist": "JRPG",
+     "duration": "6:10"
+    },
+    {
+     "position": "B3",
+     "title": "Sharps",
+     "artist": "JRPG",
+     "duration": "5:48"
+    },
+    {
+     "position": "B4",
+     "title": "Take Care Of Yourself",
+     "artist": "JRPG",
+     "duration": "8:48"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
