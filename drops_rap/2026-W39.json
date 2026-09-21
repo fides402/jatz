@@ -1,0 +1,69 @@
+{
+ "date": "2026-W39",
+ "generatedAt": "2026-09-21T19:07:10Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-6809868053",
+   "discogsId": 0,
+   "title": "Cool Me Down",
+   "artist": "EARTHGANG & NATURE",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/52/db/4152db15-a16b-ad72-217f-b6414a152e98/478702.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Cool Me Down",
+     "artist": "EARTHGANG & NATURE",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-unresolved-5893885582944546462",
+   "discogsId": 0,
+   "title": "Still Standing",
+   "artist": "Polo G",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Still Standing",
+     "artist": "Polo G",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 2
+ }
+}
