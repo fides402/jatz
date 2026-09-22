@@ -1,6 +1,6 @@
 {
  "date": "2026-W39",
- "generatedAt": "2026-09-21T19:07:10Z",
+ "generatedAt": "2026-09-22T17:59:32Z",
  "profile": "rap",
  "albums": [
   {
@@ -60,10 +60,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-2171180406767152427",
+   "discogsId": 0,
+   "title": "OPP",
+   "artist": "Benji Blue Bills",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "OPP",
+     "artist": "Benji Blue Bills",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 2
+  "modern": 3
  }
 }
