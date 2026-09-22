@@ -1,0 +1,349 @@
+{
+ "date": "2026-09-22",
+ "generatedAt": "2026-09-22T08:49:43Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d1252272",
+   "discogsId": 1252272,
+   "title": "Tomorrow Is Here",
+   "artist": "Willie Bobo",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Blue Note",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/vX7HZHWffEWcwC3bvS9236MYzNOdzx740cSmdwH0VrM/rs:fit/g:sm/q:90/h:338/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIy/NzItMTIwMzg5NjEy/Ni5qcGVn.jpeg",
+   "ratingAvg": 4.03,
+   "ratingCount": 31,
+   "score": 0.6554,
+   "vibe": 76,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Columbia, Terre Haute pressing variant with \"T\" etching in runouts.\n\nSome copies came with a lyrics insert.\n\nBlue \"notes\" company inner.\n\nRunouts are etched except \"KENDUN\", \"A\" stamped.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Suitcase Full Of Dreams",
+     "artist": "Willie Bobo",
+     "duration": "3:48"
+    },
+    {
+     "position": "A2",
+     "title": "Funk De Mambo",
+     "artist": "Willie Bobo",
+     "duration": "3:17"
+    },
+    {
+     "position": "A3",
+     "title": "Keep On Walking",
+     "artist": "Willie Bobo",
+     "duration": "4:28"
+    },
+    {
+     "position": "A4",
+     "title": "Dreamin'",
+     "artist": "Willie Bobo",
+     "duration": "5:08"
+    },
+    {
+     "position": "B1",
+     "title": "Wacky Tobacky (The Race)",
+     "artist": "Willie Bobo",
+     "duration": "2:58"
+    },
+    {
+     "position": "B2",
+     "title": "Can't Stay Down Too Long",
+     "artist": "Willie Bobo",
+     "duration": "3:29"
+    },
+    {
+     "position": "B3",
+     "title": "Time After Time",
+     "artist": "Willie Bobo",
+     "duration": "3:16"
+    },
+    {
+     "position": "B4",
+     "title": "Kojak-Theme",
+     "artist": "Willie Bobo",
+     "duration": "3:33"
+    },
+    {
+     "position": "B5",
+     "title": "A Little Tear",
+     "artist": "Willie Bobo",
+     "duration": "4:53"
+    }
+   ]
+  },
+  {
+   "id": "d12288456",
+   "discogsId": 12288456,
+   "title": "I'm Gonna Move To The Outskirts Of Town / Stay loose",
+   "artist": "Jimmy Smith",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Verve Records",
+   "country": "Netherlands",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/pKGLrAFFZ3vzOPPUG2o73RNVgMBgZ7k_LDSammYyuVI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg4/NDU2LTE1MzIyMjUz/ODYtOTgyMC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 4,
+   "score": 0.5622,
+   "vibe": 53,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "I'm Gonna Move To The Outskirts Of Town",
+     "artist": "Jimmy Smith",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Stay Loose",
+     "artist": "Jimmy Smith",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d2355579",
+   "discogsId": 2355579,
+   "title": "Star Bag",
+   "artist": "Willis Jackson & Trudy Pitts & Bill Jennings",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Prestige",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/9oetheb5nP9ye2kSKooofFnKP6cIbk6qGvISjeOOgLQ/rs:fit/g:sm/q:90/h:482/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU1/NzktMTMzMTk5NTU3/NS5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 6,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Recorded on March 22, 1968\n\nCatalog #'s:\nPR 7571 is on front sleeve.\nPRST 7571 is on labels.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Star Bag",
+     "artist": "Willis Jackson & Trudy Pitts & Bill Jennings",
+     "duration": "7:35"
+    },
+    {
+     "position": "A2",
+     "title": "The Girl From Ipanema",
+     "artist": "Willis Jackson & Trudy Pitts & Bill Jennings",
+     "duration": "5:55"
+    },
+    {
+     "position": "A3",
+     "title": "Good To The Damn Bone",
+     "artist": "Willis Jackson & Trudy Pitts & Bill Jennings",
+     "duration": "5:30"
+    },
+    {
+     "position": "B1",
+     "title": "More",
+     "artist": "Willis Jackson & Trudy Pitts & Bill Jennings",
+     "duration": "7:25"
+    },
+    {
+     "position": "B2",
+     "title": "Smoke Rings",
+     "artist": "Willis Jackson & Trudy Pitts & Bill Jennings",
+     "duration": "6:00"
+    },
+    {
+     "position": "B3",
+     "title": "Yellow Days",
+     "artist": "Willis Jackson & Trudy Pitts & Bill Jennings",
+     "duration": "5:45"
+    }
+   ]
+  },
+  {
+   "id": "d37954002",
+   "discogsId": 37954002,
+   "title": "Paris Après Minuit",
+   "artist": "Rich'Art",
+   "year": 2026,
+   "era": "MODERN",
+   "label": "Messe Basse Production",
+   "country": "France",
+   "styles": [
+    "Soul-Jazz",
+    "Spiritual Jazz",
+    "Afro-Cuban Jazz",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/J8HeeMtZU-eviBqFDVeaTh81fk75YWoAEcKzQ1i4xhw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTU0/MDAyLTE3ODQ3OTU1/MDktODU3Ny5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6485,
+   "vibe": 75,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Originally released in 2015, in a crystal box packaging.\nRecorded in Nicostudio",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "En Retard",
+     "artist": "Rich'Art",
+     "duration": "5:29"
+    },
+    {
+     "position": "2",
+     "title": "Jazzy Mais Funky",
+     "artist": "Rich'Art",
+     "duration": "3:45"
+    },
+    {
+     "position": "3",
+     "title": "Simplement Pour Toi",
+     "artist": "Rich'Art",
+     "duration": "2:50"
+    },
+    {
+     "position": "4",
+     "title": "L'Équilibriste",
+     "artist": "Rich'Art",
+     "duration": "4:21"
+    },
+    {
+     "position": "5",
+     "title": "Connexion",
+     "artist": "Rich'Art",
+     "duration": "4:20"
+    },
+    {
+     "position": "6",
+     "title": "Le Bois De L'Étang",
+     "artist": "Rich'Art",
+     "duration": "5:50"
+    },
+    {
+     "position": "7",
+     "title": "Sentiment Amoureux",
+     "artist": "Rich'Art",
+     "duration": "3:00"
+    },
+    {
+     "position": "8",
+     "title": "Paris Après Minuit",
+     "artist": "Rich'Art",
+     "duration": "4:18"
+    },
+    {
+     "position": "9",
+     "title": "Discrétion",
+     "artist": "Rich'Art",
+     "duration": "4:00"
+    },
+    {
+     "position": "10",
+     "title": "L'Air De Rien",
+     "artist": "Rich'Art",
+     "duration": "5:50"
+    },
+    {
+     "position": "11",
+     "title": "La Versaillaise",
+     "artist": "Rich'Art",
+     "duration": "4:46"
+    },
+    {
+     "position": "12",
+     "title": "Très En Retard",
+     "artist": "Rich'Art",
+     "duration": "2:27"
+    }
+   ]
+  },
+  {
+   "id": "d28988965",
+   "discogsId": 28988965,
+   "title": "It's Christmas",
+   "artist": "Tower Of Power",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Tower Of Power Records (2)",
+   "country": "Canada",
+   "styles": [
+    "Soul",
+    "Jazz-Funk",
+    "Soul-Jazz",
+    "Holiday"
+   ],
+   "coverUrl": "https://i.discogs.com/7zz5Q4YYLPqP1n6WGEA3yhdIVE34DSWlHuIwPFjYlH8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTg4/OTY1LTE3MDA2NjY1/MTgtNTQ0Ny5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5745,
+   "vibe": 56,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "The Christmas Song",
+     "artist": "Tower Of Power",
+     "duration": "4:10"
+    },
+    {
+     "position": "2",
+     "title": "This Christmas",
+     "artist": "Tower Of Power",
+     "duration": "3:11"
+    },
+    {
+     "position": "3",
+     "title": "A Very Special Christmas",
+     "artist": "Tower Of Power",
+     "duration": "1:31"
+    },
+    {
+     "position": "4",
+     "title": "Santa Claus Is Coming To Town",
+     "artist": "Tower Of Power",
+     "duration": "4:22"
+    },
+    {
+     "position": "5",
+     "title": "Silver Bells",
+     "artist": "Tower Of Power",
+     "duration": "4:56"
+    },
+    {
+     "position": "6",
+     "title": "It's Christmas (A Long Way From Home)",
+     "artist": "Tower Of Power",
+     "duration": "4:14"
+    },
+    {
+     "position": "7",
+     "title": "O Holy Night",
+     "artist": "Tower Of Power",
+     "duration": "4:15"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
