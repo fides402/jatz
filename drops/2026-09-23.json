@@ -1,0 +1,329 @@
+{
+ "date": "2026-09-23",
+ "generatedAt": "2026-09-23T08:50:24Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d2020235",
+   "discogsId": 2020235,
+   "title": "Eon",
+   "artist": "Richard Beirach",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "ECM Records",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/4MNHL7435viMHrR3aUuh5T3gTX-TqErKybYD8FN3DIc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjAy/MzUtMTc1ODYzNzcx/OS03MTIzLmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 21,
+   "score": 0.7246,
+   "vibe": 94,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded November 1974 at Generation Sound Studios, New York City\n\nA1 published by Musical Frontiers, BMI\nA2, A3 published by Liebstone Music, ASCAP\nB1 to B3 published by Beirach Music Company, BMI\n\nPrinted in U.S.A.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Nardis",
+     "artist": "Richard Beirach",
+     "duration": "11:56"
+    },
+    {
+     "position": "A2",
+     "title": "Places",
+     "artist": "Richard Beirach",
+     "duration": "4:03"
+    },
+    {
+     "position": "A3",
+     "title": "Seeing You",
+     "artist": "Richard Beirach",
+     "duration": "4:05"
+    },
+    {
+     "position": "B1",
+     "title": "Eon",
+     "artist": "Richard Beirach",
+     "duration": "8:13"
+    },
+    {
+     "position": "B2",
+     "title": "Bones",
+     "artist": "Richard Beirach",
+     "duration": "3:34"
+    },
+    {
+     "position": "B3",
+     "title": "Mitsuku",
+     "artist": "Richard Beirach",
+     "duration": "6:16"
+    }
+   ]
+  },
+  {
+   "id": "d12933321",
+   "discogsId": 12933321,
+   "title": "Ella Loves Cole",
+   "artist": "Ella Fitzgerald",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Atlantic",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/cLcte2mRz228B6F5gY4o_-V-SSpF37M9mLmtFcDdD1w/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMz/MzIxLTE1NDQ4MTk4/NTctOTAwMy5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.715,
+   "vibe": 91,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at MGM Recording Studios, Hollywood, Calif.\r\n\r\nAll tracks published by Chappell, ASCAP, except track A1, B2, B3, B5 published by Warner Bros, ASCAP\r\nMfg. by Atlantic Recording Corp.\r\n\r\n℗ 1972 Salle Records\r\n© 1972 Atlantic Recording Corporation\r\n\r\n\r\nPrinted in U.S.A.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "I Get A Kick Out Of You",
+     "artist": "Ella Fitzgerald",
+     "duration": "4:18"
+    },
+    {
+     "position": "A2",
+     "title": "Down In The Depths",
+     "artist": "Ella Fitzgerald",
+     "duration": "3:37"
+    },
+    {
+     "position": "A3",
+     "title": "At Long Last Love",
+     "artist": "Ella Fitzgerald",
+     "duration": "2:29"
+    },
+    {
+     "position": "A4",
+     "title": "I've Got You Under My Skin",
+     "artist": "Ella Fitzgerald",
+     "duration": "3:13"
+    },
+    {
+     "position": "A5",
+     "title": "So Near And Yet So Far",
+     "artist": "Ella Fitzgerald",
+     "duration": "2:16"
+    },
+    {
+     "position": "A6",
+     "title": "All Of You",
+     "artist": "Ella Fitzgerald",
+     "duration": "2:15"
+    },
+    {
+     "position": "A7",
+     "title": "Without Love",
+     "artist": "Ella Fitzgerald",
+     "duration": "2:47"
+    },
+    {
+     "position": "B1",
+     "title": "My Heart Belongs To Daddy",
+     "artist": "Ella Fitzgerald",
+     "duration": "2:28"
+    },
+    {
+     "position": "B2",
+     "title": "Love For Sale",
+     "artist": "Ella Fitzgerald",
+     "duration": "4:28"
+    },
+    {
+     "position": "B3",
+     "title": "Just One Of Those Things",
+     "artist": "Ella Fitzgerald",
+     "duration": "3:48"
+    },
+    {
+     "position": "B4",
+     "title": "I Concentrate On You",
+     "artist": "Ella Fitzgerald",
+     "duration": "4:00"
+    },
+    {
+     "position": "B5",
+     "title": "Anything Goes",
+     "artist": "Ella Fitzgerald",
+     "duration": "2:46"
+    },
+    {
+     "position": "B6",
+     "title": "C'est Magnifique",
+     "artist": "Ella Fitzgerald",
+     "duration": "2:27"
+    }
+   ]
+  },
+  {
+   "id": "d5619857",
+   "discogsId": 5619857,
+   "title": "With These Hands / Burnin' Coal",
+   "artist": "Les McCann",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Atlantic",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/opNvrggrHgnjCOhODJGuQ8j9k1fHVf4jXCTLpXCRF4o/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTk4/NTctMTcxNTEwNDAz/Ni0zMjcxLmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 2,
+   "score": 0.6452,
+   "vibe": 74,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Text on labels:\nCSG Processed\nMono Master\nFrom Atlantic LP 1516\n\nLabel variation.",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "With These Hands",
+     "artist": "Les McCann",
+     "duration": "3:42"
+    },
+    {
+     "position": "B",
+     "title": "Burnin' Coal",
+     "artist": "Les McCann",
+     "duration": "2:41"
+    }
+   ]
+  },
+  {
+   "id": "d15901936",
+   "discogsId": 15901936,
+   "title": "Days As Echoes",
+   "artist": "Misha Panfilov Sound Combo",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Fnr",
+   "country": "US",
+   "styles": [
+    "Psychedelic",
+    "Modal",
+    "Space-Age"
+   ],
+   "coverUrl": "https://i.discogs.com/5GlTgtKG5lWAb1NRVbTBge5J-wzoutDZ0W6hy7YsnqI/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTAx/OTM2LTE1OTk4NzMz/OTMtODIzOS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.5708,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded in Tallinn & Viljandi, Estonia",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Days As Echoes",
+     "artist": "Misha Panfilov Sound Combo",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "In A Dream",
+     "artist": "Misha Panfilov Sound Combo",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Moonscape Waltz",
+     "artist": "Misha Panfilov Sound Combo",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Together",
+     "artist": "Misha Panfilov Sound Combo",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Few Layers For Smith",
+     "artist": "Misha Panfilov Sound Combo",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Ocean Song",
+     "artist": "Misha Panfilov Sound Combo",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d13721024",
+   "discogsId": 13721024,
+   "title": "Mellow Dream",
+   "artist": "Ryo Fukui",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "We Release Jazz",
+   "country": "Switzerland",
+   "styles": [
+    "Fusion",
+    "Post Bop",
+    "Modal",
+    "Cool Jazz"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 4.6,
+   "ratingCount": 5,
+   "score": 0.5687,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Edition of 15.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Mellow Dream",
+     "artist": "Ryo Fukui",
+     "duration": "9:48"
+    },
+    {
+     "position": "A2",
+     "title": "My Foolish Heart",
+     "artist": "Ryo Fukui",
+     "duration": "6:54"
+    },
+    {
+     "position": "A3",
+     "title": "Baron Potato Blues",
+     "artist": "Ryo Fukui",
+     "duration": "7:02"
+    },
+    {
+     "position": "B1",
+     "title": "What's New",
+     "artist": "Ryo Fukui",
+     "duration": "5:55"
+    },
+    {
+     "position": "B2",
+     "title": "Horizon",
+     "artist": "Ryo Fukui",
+     "duration": "9:27"
+    },
+    {
+     "position": "B3",
+     "title": "My Funny Valentine",
+     "artist": "Ryo Fukui",
+     "duration": "3:16"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
