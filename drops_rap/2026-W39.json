@@ -1,6 +1,6 @@
 {
  "date": "2026-W39",
- "generatedAt": "2026-09-22T17:59:32Z",
+ "generatedAt": "2026-09-23T18:17:54Z",
  "profile": "rap",
  "albums": [
   {
@@ -89,10 +89,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-1100619772",
+   "discogsId": 0,
+   "title": "Play This Back",
+   "artist": "Luhh Dyl",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5c5a64f09e57a22c34d758e85293d854/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Play This Back",
+     "artist": "Luhh Dyl",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 3
+  "modern": 4
  }
 }
