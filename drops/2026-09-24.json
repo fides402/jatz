@@ -1,0 +1,427 @@
+{
+ "date": "2026-09-24",
+ "generatedAt": "2026-09-24T08:44:45Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d17198467",
+   "discogsId": 17198467,
+   "title": "The Devil Is Afraid Of Music",
+   "artist": "Barbara Lea",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Audiophile (2)",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/j24u6d8ra979XidaNbDs2YruKyeLaRNw35zTD4h-Xck/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTk4/NDY3LTE2MTIxMTYw/NTItMzExNS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.7158,
+   "vibe": 91,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Matrix and release date handwritten on label.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Devil Is Afraid Of Music",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Guess I'll Go Back Home This Summer",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Lonely Acres",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Deep Elm, You Tell 'Em I'm Blue",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Peaceful Valley",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "A Woman Alone With The Blues",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "A Cottage For Sale",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "'Tain't So, Honey, 'Tain't So",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Old Folks",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Little High Chairman",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "My Egotism Is Hurtin' Me",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "'Round My Old Deserted Farm",
+     "artist": "Barbara Lea",
+     "duration": ""
+    },
+    {
+     "position": "B7",
+     "title": "The Devil Is Afraid Of Music",
+     "artist": "Barbara Lea",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d2851833",
+   "discogsId": 2851833,
+   "title": "Desire",
+   "artist": "Tom Scott",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Elektra Musician",
+   "country": "Germany",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/SGsPGxswR24P3gRm7u9wjcSAL8j0wlMepn-tXaRXJfY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE4/MzMtMTYzMDc1MDY4/Ny04OTYzLmpwZWc.jpeg",
+   "ratingAvg": 4.13,
+   "ratingCount": 8,
+   "score": 0.5832,
+   "vibe": 58,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Disc: ℗ 1982 Electra / Asylum Records for the U.S. Made in West Germany By PolyGram\n\nBooklet: © 1982 Electra / Asylum Records. Manufactured by PolyGram in Hanover, West Germany Printed in West Germany 9 60162-2. Recorded LIVE TO TWO TRACKS on June 30th, July 1, 1982, at Ocean Way Studios, Hollywood, California\n\nJewel case with smooth edges\n",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Desire",
+     "artist": "Tom Scott",
+     "duration": "4:14"
+    },
+    {
+     "position": "2",
+     "title": "Sure Enough",
+     "artist": "Tom Scott",
+     "duration": "4:25"
+    },
+    {
+     "position": "3",
+     "title": "The Only One",
+     "artist": "Tom Scott",
+     "duration": "5:16"
+    },
+    {
+     "position": "4",
+     "title": "Stride",
+     "artist": "Tom Scott",
+     "duration": "5:33"
+    },
+    {
+     "position": "5",
+     "title": "Johnny B. Badd",
+     "artist": "Tom Scott",
+     "duration": "3:51"
+    },
+    {
+     "position": "6",
+     "title": "Meet Somebody",
+     "artist": "Tom Scott",
+     "duration": "4:08"
+    },
+    {
+     "position": "7",
+     "title": "Maybe I'm Amazed",
+     "artist": "Tom Scott",
+     "duration": "4:21"
+    },
+    {
+     "position": "8",
+     "title": "Chunk O' Funk",
+     "artist": "Tom Scott",
+     "duration": "5:11"
+    }
+   ]
+  },
+  {
+   "id": "d5139056",
+   "discogsId": 5139056,
+   "title": "Nexus First",
+   "artist": "Nexus",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "Swedisc",
+   "country": "Japan",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/mjCXRSZrIwYP8SfNgWk0i3wqKREtkvNKosPydFty85I/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzkw/NTYtMTM4ODc3NjU3/MS02MzU5LmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 2,
+   "score": 0.5645,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded 2-5 of May 1978, Bellatrix Studio, Malmö.\n\ninsert in japan\n\nMade in Japan\n\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Black Angel",
+     "artist": "Nexus",
+     "duration": "6:18"
+    },
+    {
+     "position": "A2",
+     "title": "Black Narcissus",
+     "artist": "Nexus",
+     "duration": "6:02"
+    },
+    {
+     "position": "A3",
+     "title": "Infant Eyes",
+     "artist": "Nexus",
+     "duration": "2:34"
+    },
+    {
+     "position": "A4",
+     "title": "Ida Lupino",
+     "artist": "Nexus",
+     "duration": "4:17"
+    },
+    {
+     "position": "B1",
+     "title": "Nefertiti",
+     "artist": "Nexus",
+     "duration": "7:50"
+    },
+    {
+     "position": "B2",
+     "title": "Blue In Green",
+     "artist": "Nexus",
+     "duration": "5:15"
+    },
+    {
+     "position": "B3",
+     "title": "Grazing Dreams",
+     "artist": "Nexus",
+     "duration": "8:01"
+    }
+   ]
+  },
+  {
+   "id": "d16953369",
+   "discogsId": 16953369,
+   "title": "In My Dreams",
+   "artist": "Dusko Goykovich",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Ultra-Vybe",
+   "country": "Japan",
+   "styles": [
+    "Modal",
+    "Hard Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/_xsdcTp4-dxELhN8nTEzNZfoWa1iy9EZrZUkj0My16U/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUz/MzY5LTE2MTA3OTg4/NjctNDg0Mi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6509,
+   "vibe": 75,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Recorded on September 29, 2000.\n ",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "In My Dreams",
+     "artist": "Dusko Goykovich",
+     "duration": "7:26"
+    },
+    {
+     "position": "2",
+     "title": "St. Germain de Pres",
+     "artist": "Dusko Goykovich",
+     "duration": "6:50"
+    },
+    {
+     "position": "3",
+     "title": "Sequoia Song",
+     "artist": "Dusko Goykovich",
+     "duration": "4:11"
+    },
+    {
+     "position": "4",
+     "title": "Introduction",
+     "artist": "Dusko Goykovich",
+     "duration": "4:57"
+    },
+    {
+     "position": "5",
+     "title": "Skylark",
+     "artist": "Dusko Goykovich",
+     "duration": "7:59"
+    },
+    {
+     "position": "6",
+     "title": "One Morning In My",
+     "artist": "Dusko Goykovich",
+     "duration": "5:17"
+    },
+    {
+     "position": "7",
+     "title": "All My Love - Piano Trio Version",
+     "artist": "Dusko Goykovich",
+     "duration": "4:23"
+    },
+    {
+     "position": "8",
+     "title": "Little Theo",
+     "artist": "Dusko Goykovich",
+     "duration": "5:11"
+    },
+    {
+     "position": "9",
+     "title": "I Miss You So",
+     "artist": "Dusko Goykovich",
+     "duration": "7:30"
+    },
+    {
+     "position": "10",
+     "title": "Ballad For Belgrade",
+     "artist": "Dusko Goykovich",
+     "duration": "5:46"
+    },
+    {
+     "position": "11",
+     "title": "All My Love - Quartet Version",
+     "artist": "Dusko Goykovich",
+     "duration": "4:09"
+    }
+   ]
+  },
+  {
+   "id": "d23911079",
+   "discogsId": 23911079,
+   "title": "Everyday Life",
+   "artist": "Edoardo Liberati Synthetics & Nico Gori",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Gleam Records (2)",
+   "country": "Italy",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/H7UXsfHpx-qJb4l7raxmlaIkQ1Dmt9SXwJ_4f5mBPHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTEx/MDc5LTE3MTM2MTcy/MjItODY0My5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5678,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Everyday Life",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "4:24"
+    },
+    {
+     "position": "2",
+     "title": "Lithium",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "5:46"
+    },
+    {
+     "position": "3",
+     "title": "Monginevra",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "6:28"
+    },
+    {
+     "position": "4",
+     "title": "Elegy",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "2:45"
+    },
+    {
+     "position": "5",
+     "title": "When The Movie's Over",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "8:59"
+    },
+    {
+     "position": "6",
+     "title": "Choro Cantato",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "6:58"
+    },
+    {
+     "position": "7",
+     "title": "Elegy (Reprise)",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "4:14"
+    },
+    {
+     "position": "8",
+     "title": "Intermezzo",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "0:55"
+    },
+    {
+     "position": "9",
+     "title": "Preghiera In Settembre",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "4:14"
+    },
+    {
+     "position": "10",
+     "title": "Everyday Life (Outro)",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "3:56"
+    },
+    {
+     "position": "11",
+     "title": "Calypsin'",
+     "artist": "Edoardo Liberati Synthetics & Nico Gori",
+     "duration": "3:49"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
