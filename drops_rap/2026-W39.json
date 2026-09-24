@@ -1,6 +1,6 @@
 {
  "date": "2026-W39",
- "generatedAt": "2026-09-23T18:17:54Z",
+ "generatedAt": "2026-09-24T18:17:48Z",
  "profile": "rap",
  "albums": [
   {
@@ -118,10 +118,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-8787418002665741461",
+   "discogsId": 0,
+   "title": "It’s The Summer",
+   "artist": "Babyfxce E & Fox BD",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "It’s The Summer",
+     "artist": "Babyfxce E & Fox BD",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 4
+  "modern": 5
  }
 }
