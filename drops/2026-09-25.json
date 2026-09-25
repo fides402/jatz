@@ -1,0 +1,370 @@
+{
+ "date": "2026-09-25",
+ "generatedAt": "2026-09-25T09:05:00Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d12320760",
+   "discogsId": 12320760,
+   "title": "Maiden Voyage",
+   "artist": "Kellee Patterson",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Black Jazz Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/pt_d83tGT0iWHPkdkySa3C5TSlXeH7QbIW_Cm-d8Tm4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIw/NzYwLTE1MzI4ODAw/NTItNTQ3Mi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.702,
+   "vibe": 88,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Stereo tape",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Magic Wand Of Love",
+     "artist": "Kellee Patterson",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Look At The Child",
+     "artist": "Kellee Patterson",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Maiden Voyage",
+     "artist": "Kellee Patterson",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Be All Your Own",
+     "artist": "Kellee Patterson",
+     "duration": ""
+    },
+    {
+     "position": "C1",
+     "title": "Soul Daddy (Lady)",
+     "artist": "Kellee Patterson",
+     "duration": ""
+    },
+    {
+     "position": "C2",
+     "title": "Don't Misunderstand",
+     "artist": "Kellee Patterson",
+     "duration": ""
+    },
+    {
+     "position": "D1",
+     "title": "See You Later",
+     "artist": "Kellee Patterson",
+     "duration": ""
+    },
+    {
+     "position": "D2",
+     "title": "You",
+     "artist": "Kellee Patterson",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d21994864",
+   "discogsId": 21994864,
+   "title": "Brazilia",
+   "artist": "John Klemmer",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "MCA Records",
+   "country": "Japan",
+   "styles": [
+    "Jazz-Funk",
+    "Latin Jazz",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/IRJBTeyfRcRxXgS-Yn1WiOGgwoR_hCKuyLdBjw4J_-4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk0/ODY0LTE2NDM4MTM4/MjQtOTA3OC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6532,
+   "vibe": 76,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Licensed By MCA Records, Inc., Universal City, California, U. S. A. \nManufactured by Victor Musical Industries, Inc., Tokyo, Japan.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Brazilia (Brasilia)",
+     "artist": "John Klemmer",
+     "duration": "9:11"
+    },
+    {
+     "position": "A2",
+     "title": "Tropical Snowflakes (Tropical Nevepedacos)",
+     "artist": "John Klemmer",
+     "duration": "6:36"
+    },
+    {
+     "position": "A3",
+     "title": "Heartbreak (Kuebrou Meu Coraçaõ)",
+     "artist": "John Klemmer",
+     "duration": "5:46"
+    },
+    {
+     "position": "A4",
+     "title": "Summertime (Tempo De Veraõ)",
+     "artist": "John Klemmer",
+     "duration": "4:05"
+    },
+    {
+     "position": "B1",
+     "title": "Tender Storm (Suave Chuva)",
+     "artist": "John Klemmer",
+     "duration": "4:18"
+    },
+    {
+     "position": "B2",
+     "title": "Copacabana (Copacabana)",
+     "artist": "John Klemmer",
+     "duration": "6:01"
+    },
+    {
+     "position": "B3",
+     "title": "Bahia (Bahia)",
+     "artist": "John Klemmer",
+     "duration": "5:03"
+    },
+    {
+     "position": "B4",
+     "title": "My Love Has Butterfly Wings ('79) (Meu Amor Tem Asasa Borboleta)",
+     "artist": "John Klemmer",
+     "duration": "6:04"
+    }
+   ]
+  },
+  {
+   "id": "d2611500",
+   "discogsId": 2611500,
+   "title": "Digits",
+   "artist": "David Benoit",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "AVI Records",
+   "country": "US",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/l2a0v27BLioC4BybZHqSUFwkiOcC62C8FftfO0nc9i0/rs:fit/g:sm/q:90/h:304/w:195/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE1/MDAtMTMzNjkzMDQw/Ni02NjAxLmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6017,
+   "vibe": 63,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "29th Street",
+     "artist": "David Benoit",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Wind Season",
+     "artist": "David Benoit",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Lorraine",
+     "artist": "David Benoit",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Gold Coast",
+     "artist": "David Benoit",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Arthur's Theme",
+     "artist": "David Benoit",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "You Never Love Me The Same Way Twice",
+     "artist": "David Benoit",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "If I Could Reach Rainbows",
+     "artist": "David Benoit",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Strange Meadowlark",
+     "artist": "David Benoit",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d25208377",
+   "discogsId": 25208377,
+   "title": "Christmas With Michelle Malone And The Hot Toddies",
+   "artist": "Michelle Malone & The Hot Toddies",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "SBS Records (4)",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk",
+    "Holiday"
+   ],
+   "coverUrl": "https://i.discogs.com/3v5T3thW0A1wMfBxYfnGaj81pv-tZXHIZuPCjH-z-y0/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA4/Mzc3LTE3MDkzMjM5/NTEtNDI3MS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5941,
+   "vibe": 61,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Boogie Woogie Santa Claus",
+     "artist": "Michelle Malone & The Hot Toddies",
+     "duration": "2:35"
+    },
+    {
+     "position": "2",
+     "title": "Deck The Halls",
+     "artist": "Michelle Malone & The Hot Toddies",
+     "duration": "2:56"
+    },
+    {
+     "position": "3",
+     "title": "Silver Bells",
+     "artist": "Michelle Malone & The Hot Toddies",
+     "duration": "5:25"
+    },
+    {
+     "position": "4",
+     "title": "Blue Christmas",
+     "artist": "Michelle Malone & The Hot Toddies",
+     "duration": "2:55"
+    },
+    {
+     "position": "5",
+     "title": "Have Yourself A Merry Little Christmas",
+     "artist": "Michelle Malone & The Hot Toddies",
+     "duration": "4:12"
+    },
+    {
+     "position": "6",
+     "title": "Winter Wonderland",
+     "artist": "Michelle Malone & The Hot Toddies",
+     "duration": "3:35"
+    },
+    {
+     "position": "7",
+     "title": "What Child Is This?",
+     "artist": "Michelle Malone & The Hot Toddies",
+     "duration": "3:14"
+    },
+    {
+     "position": "8",
+     "title": "Rockin' Around The Christmas Tree",
+     "artist": "Michelle Malone & The Hot Toddies",
+     "duration": "2:03"
+    },
+    {
+     "position": "9",
+     "title": "White Christmas",
+     "artist": "Michelle Malone & The Hot Toddies",
+     "duration": "3:53"
+    },
+    {
+     "position": "10",
+     "title": "Santa Bring My Baby Back To Me",
+     "artist": "Michelle Malone & The Hot Toddies",
+     "duration": "2:42"
+    }
+   ]
+  },
+  {
+   "id": "d12007948",
+   "discogsId": 12007948,
+   "title": "Moments - analogue recordings",
+   "artist": "Joe Dinkelbach Organ Trio",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Doublejoe Music",
+   "country": "Germany",
+   "styles": [
+    "Soul-Jazz",
+    "Swing"
+   ],
+   "coverUrl": "https://i.discogs.com/Rua0tsZPfRqL9BIsO7eNhKBZ47y5bFb2RjiyX7jR3hE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA3/OTQ4LTE1MjY0NjI4/MTQtODQzOC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "totally analogue recorded and produced, no digital effects or cutting",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Moments",
+     "artist": "Joe Dinkelbach",
+     "duration": "5:11"
+    },
+    {
+     "position": "2",
+     "title": "When It's Sleeping Time Down South",
+     "artist": "Joe Dinkelbach",
+     "duration": "6:00"
+    },
+    {
+     "position": "3",
+     "title": "Nobody Else But Me",
+     "artist": "Joe Dinkelbach",
+     "duration": "5:51"
+    },
+    {
+     "position": "4",
+     "title": "Organ Mover's Blues",
+     "artist": "Joe Dinkelbach",
+     "duration": "3:33"
+    },
+    {
+     "position": "5",
+     "title": "Smoke",
+     "artist": "Joe Dinkelbach",
+     "duration": "5:35"
+    },
+    {
+     "position": "6",
+     "title": "Erik's Waltz",
+     "artist": "Joe Dinkelbach",
+     "duration": "6:46"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
