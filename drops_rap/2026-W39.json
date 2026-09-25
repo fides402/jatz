@@ -1,6 +1,6 @@
 {
  "date": "2026-W39",
- "generatedAt": "2026-09-24T18:17:48Z",
+ "generatedAt": "2026-09-25T18:17:55Z",
  "profile": "rap",
  "albums": [
   {
@@ -147,10 +147,365 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-1052550902",
+   "discogsId": 0,
+   "title": "Bread & Butter",
+   "artist": "Your Old Droog",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e06ff889cec68c0adba9249ceeeb667a/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "You Know How That Go",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Brighton Beach",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Bread & Butter",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Pavlovian Effect",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Thinking",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "I Appreciate You",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Symphony",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Therapy",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Schadenfreude",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "I Don't Care",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "Hunter Biden (Outro)",
+     "artist": "Your Old Droog",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "Impression Control (Bonus)",
+     "artist": "Your Old Droog",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1064872751",
+   "discogsId": 0,
+   "title": "Still Tapped In",
+   "artist": "Trae Tha Truth",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e2cfa36d78f4250d7261e4a9a8516a3f/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.867,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "On One",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Gangsta Party With God",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Preacher Man",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Pray For Me",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "If It's Smoke",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Delicate",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Coffin Out",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Can't Get Away",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Haunted",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "Started Out",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "Let Ya Tears Fall",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "Champion",
+     "artist": "Trae Tha Truth",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1079516982",
+   "discogsId": 0,
+   "title": "Luxury Tax",
+   "artist": "Apollo Brown",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/30a2eeb3767f5c152f4d4429e32e3f49/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Soapbox Two",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Abundance",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Detours",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "God Given",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Keep It Close",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Table Manners",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Learned Behavior",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Rose Tinted",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Scrape The Bowl",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "No Discounts",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "Hear Me Out",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "The Blind Spot (feat. Elzhi & Blu)",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "13",
+     "title": "Under The Lights",
+     "artist": "Apollo Brown",
+     "duration": ""
+    },
+    {
+     "position": "14",
+     "title": "The Rearview",
+     "artist": "Apollo Brown",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1064565991",
+   "discogsId": 0,
+   "title": "Felony Ring",
+   "artist": "Meechy Darko",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/fb8790f020cf47d9733bd94a3fa72272/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Felony Ring",
+     "artist": "Meechy Darko",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-unresolved-4316795780768766243",
+   "discogsId": 0,
+   "title": "Gimmie What I Ask",
+   "artist": "BunnaB",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Gimmie What I Ask",
+     "artist": "BunnaB",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 5
+  "modern": 10
  }
 }
