@@ -1,0 +1,323 @@
+{
+ "date": "2026-09-26",
+ "generatedAt": "2026-09-26T08:50:55Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d8187495",
+   "discogsId": 8187495,
+   "title": "Ballads",
+   "artist": "The John Coltrane Quartet",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Impulse!",
+   "country": "US",
+   "styles": [
+    "Hard Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/1-Op6knLH2Ty0qsUmPCGyF5U__TwV6L5c6-y-141r0U/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODc0/OTUtMTQ1Njc3MTA3/Ni0xMzU1LmpwZWc.jpeg",
+   "ratingAvg": 4.29,
+   "ratingCount": 7,
+   "score": 0.6165,
+   "vibe": 67,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Gatefold jacket. Text along bottom edge of labels: A Product of ABC Records, Inc. © 1971\n\nPressed By credit derived from runout inscription.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Say It (Over And Over Again)",
+     "artist": "The John Coltrane Quartet",
+     "duration": "4:15"
+    },
+    {
+     "position": "A2",
+     "title": "You Don't Know What Love Is",
+     "artist": "The John Coltrane Quartet",
+     "duration": "5:11"
+    },
+    {
+     "position": "A3",
+     "title": "Too Young To Go Steady",
+     "artist": "The John Coltrane Quartet",
+     "duration": "4:20"
+    },
+    {
+     "position": "A4",
+     "title": "All Or Nothing At All",
+     "artist": "The John Coltrane Quartet",
+     "duration": "3:35"
+    },
+    {
+     "position": "B1",
+     "title": "I Wish I Knew",
+     "artist": "The John Coltrane Quartet",
+     "duration": "4:54"
+    },
+    {
+     "position": "B2",
+     "title": "What's New",
+     "artist": "The John Coltrane Quartet",
+     "duration": "3:43"
+    },
+    {
+     "position": "B3",
+     "title": "It's Easy To Remember",
+     "artist": "The John Coltrane Quartet",
+     "duration": "2:45"
+    },
+    {
+     "position": "B4",
+     "title": "Nancy (With The Laughing Face)",
+     "artist": "The John Coltrane Quartet",
+     "duration": "3:09"
+    }
+   ]
+  },
+  {
+   "id": "d5541388",
+   "discogsId": 5541388,
+   "title": "Kelly At Midnite",
+   "artist": "Wynton Kelly",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Vee Jay Records",
+   "country": "Japan",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/mPMqlEZ2p3afsyh0hehlPN95Z9w7-O3NPhVZMG9lOP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDEz/ODgtMTY1MTIxMzEy/OC02OTc4LmpwZWc.jpeg",
+   "ratingAvg": 4.68,
+   "ratingCount": 28,
+   "score": 0.6063,
+   "vibe": 64,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded in New York, April 27, 1960.\n\n℗ 1981 Vee Jay Records\nManufactured by RVC Corporation Tokyo, Japan\n\n[url=https://www.discogs.com/lists/SJ-Seal-Of-Approval/577495]SJ Seal Of Approval[/url]",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Temperance",
+     "artist": "Wynton Kelly",
+     "duration": "7:32"
+    },
+    {
+     "position": "A2",
+     "title": "Weird Lullaby",
+     "artist": "Wynton Kelly",
+     "duration": "7:12"
+    },
+    {
+     "position": "B1",
+     "title": "On Stage",
+     "artist": "Wynton Kelly",
+     "duration": "5:13"
+    },
+    {
+     "position": "B2",
+     "title": "Skatin'",
+     "artist": "Wynton Kelly",
+     "duration": "5:51"
+    },
+    {
+     "position": "B3",
+     "title": "Pot Luck",
+     "artist": "Wynton Kelly",
+     "duration": "6:53"
+    }
+   ]
+  },
+  {
+   "id": "d10293143",
+   "discogsId": 10293143,
+   "title": "Red Metal",
+   "artist": "Allen Vizzutti",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Bainbridge Records",
+   "country": "US",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/BpjHwFutgObEwSQ8tvmuMisdHQkikkGlwBw26e8SuUY/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjkz/MTQzLTE0OTQ4Njk3/MTQtODU2MS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5986,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Miracle Man",
+     "artist": "Allen Vizzutti",
+     "duration": "4:32"
+    },
+    {
+     "position": "A2",
+     "title": "Reflection",
+     "artist": "Allen Vizzutti",
+     "duration": "5:14"
+    },
+    {
+     "position": "A3",
+     "title": "Takes My Breath Away",
+     "artist": "Allen Vizzutti",
+     "duration": "4:00"
+    },
+    {
+     "position": "A4",
+     "title": "Livin' For Love",
+     "artist": "Allen Vizzutti",
+     "duration": "5:02"
+    },
+    {
+     "position": "B1",
+     "title": "Red Metal",
+     "artist": "Allen Vizzutti",
+     "duration": "4:52"
+    },
+    {
+     "position": "B2",
+     "title": "Swivel Hips",
+     "artist": "Allen Vizzutti",
+     "duration": "5:38"
+    },
+    {
+     "position": "B3",
+     "title": "Night Breeze",
+     "artist": "Allen Vizzutti",
+     "duration": "5:27"
+    },
+    {
+     "position": "B4",
+     "title": "Colossus",
+     "artist": "Allen Vizzutti",
+     "duration": "7:29"
+    }
+   ]
+  },
+  {
+   "id": "d36855469",
+   "discogsId": 36855469,
+   "title": "Guilty Pleasures",
+   "artist": "Anne Bisson",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Camilio Records",
+   "country": "Canada",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/vx0AJBskfwtmy9O-gu_B1u7PALsJg625iOjyu-zpBaQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODU1/NDY5LTE3NzQyNzk4/NzktNzczMi5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.6081,
+   "vibe": 65,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "I’m Leaving You",
+     "artist": "Anne Bisson",
+     "duration": "3:26"
+    },
+    {
+     "position": "2",
+     "title": "Harvest Moon",
+     "artist": "Anne Bisson",
+     "duration": "3:18"
+    },
+    {
+     "position": "3",
+     "title": "Once Upon A Summertime / How Insensitive",
+     "artist": "Anne Bisson",
+     "duration": "4:02"
+    },
+    {
+     "position": "4",
+     "title": "Autumn Leaves / Les Feuilles Mortes",
+     "artist": "Anne Bisson",
+     "duration": "3:19"
+    },
+    {
+     "position": "5",
+     "title": "Comfortably Numb",
+     "artist": "Anne Bisson",
+     "duration": "5:10"
+    },
+    {
+     "position": "6",
+     "title": "In The Ghetto",
+     "artist": "Anne Bisson",
+     "duration": "3:27"
+    },
+    {
+     "position": "7",
+     "title": "In Your Eyes",
+     "artist": "Anne Bisson",
+     "duration": "4:21"
+    },
+    {
+     "position": "8",
+     "title": "The Moon Is A Harsh Mistress",
+     "artist": "Anne Bisson",
+     "duration": "4:05"
+    },
+    {
+     "position": "9",
+     "title": "Wild Horses",
+     "artist": "Anne Bisson",
+     "duration": "4:42"
+    },
+    {
+     "position": "10",
+     "title": "Music And Travels",
+     "artist": "Anne Bisson",
+     "duration": "2:23"
+    },
+    {
+     "position": "11",
+     "title": "Somewhere Over The Rainbow",
+     "artist": "Anne Bisson",
+     "duration": "2:25"
+    }
+   ]
+  },
+  {
+   "id": "d26602493",
+   "discogsId": 26602493,
+   "title": "Hello Mary Lou",
+   "artist": "The Lautreamonts",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Paranoia Musique",
+   "country": null,
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/kwHlUN_DXThUusouAh4VG7sFUWdathxNvJfGX-WoYWs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAy/NDkzLTE2ODAyNTk0/NzQtNTU2My5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5789,
+   "vibe": 57,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Hello Mary Lou",
+     "artist": "The Lautreamonts",
+     "duration": "4:10"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
