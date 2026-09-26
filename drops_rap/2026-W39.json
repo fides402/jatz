@@ -1,6 +1,6 @@
 {
  "date": "2026-W39",
- "generatedAt": "2026-09-25T18:17:55Z",
+ "generatedAt": "2026-09-26T17:38:51Z",
  "profile": "rap",
  "albums": [
   {
@@ -502,10 +502,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4285769152",
+   "discogsId": 0,
+   "title": "Barbiturates",
+   "artist": "Bruiser Wolf",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5d318e0838c6069ddc5830665b89b6c9/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Barbiturates",
+     "artist": "Bruiser Wolf",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4285821402",
+   "discogsId": 0,
+   "title": "Loaded",
+   "artist": "Sleepy Hallow",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5c3fa7b14d0c84ad41c87b9f100579ac/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Loaded",
+     "artist": "Sleepy Hallow",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 10
+  "modern": 12
  }
 }
