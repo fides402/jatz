@@ -1,0 +1,342 @@
+{
+ "date": "2026-09-27",
+ "generatedAt": "2026-09-27T09:32:11Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d5988418",
+   "discogsId": 5988418,
+   "title": "The Rocking Tenor Sax Of Eddie Chamblee",
+   "artist": "Eddie Chamblee",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Prestige",
+   "country": "Belgium",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/pzRLEQLPZkoxgjeFMSiOVLK2kasij8pEMFMCC8oifsc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODg0/MTgtMTU4NzgzMzI2/OC00NzQ3LmpwZWc.jpeg",
+   "ratingAvg": 4.4,
+   "ratingCount": 5,
+   "score": 0.5883,
+   "vibe": 60,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "with Dayton Selby and Al Griffin",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "The Honeydripper",
+     "artist": "Eddie Chamblee",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "You'll Never Walk Alone",
+     "artist": "Eddie Chamblee",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Softly As I Leave You",
+     "artist": "Eddie Chamblee",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Bye Bye Blackbird",
+     "artist": "Eddie Chamblee",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Champin'",
+     "artist": "Eddie Chamblee",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Skang!",
+     "artist": "Eddie Chamblee",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Soon",
+     "artist": "Eddie Chamblee",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Little Things Mean Alot",
+     "artist": "Eddie Chamblee",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d7177676",
+   "discogsId": 7177676,
+   "title": "Double Deluxe",
+   "artist": "Eumir Deodato",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "CTI Records",
+   "country": "Australia",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/UfBzMJ42QLCXYJxzaLSaRkzBhsSwZp3OlzZpqfTGTP0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzc2/NzYtMTQzNTQ3MDky/Ny04NTQ2LmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5651,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "\"2 LP - Double Playing Time\"\r\n\r\nDistributed by Polygram Records Pty Ltd (listed on cassette label).\r\n\r\nNote: Side A contains [m=84782] and Side B contains [m=84787], both originally released in 1973.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Also Sprach Zarathustra (2001)",
+     "artist": "Eumir Deodato",
+     "duration": "8:52"
+    },
+    {
+     "position": "A2",
+     "title": "Spirit Of Summer",
+     "artist": "Eumir Deodato",
+     "duration": "4:09"
+    },
+    {
+     "position": "A3",
+     "title": "Carly & Carole",
+     "artist": "Eumir Deodato",
+     "duration": "3:42"
+    },
+    {
+     "position": "A4",
+     "title": "Baubles, Bangles and Beads",
+     "artist": "Eumir Deodato",
+     "duration": "5:17"
+    },
+    {
+     "position": "A5",
+     "title": "Prelude To Afternoon Of A Faun",
+     "artist": "Eumir Deodato",
+     "duration": "5:15"
+    },
+    {
+     "position": "A6",
+     "title": "September 13",
+     "artist": "Eumir Deodato",
+     "duration": "5:20"
+    },
+    {
+     "position": "B1",
+     "title": "Nights In White Satin",
+     "artist": "Eumir Deodato",
+     "duration": "5:55"
+    },
+    {
+     "position": "B2",
+     "title": "Pavane For A Dead Princess",
+     "artist": "Eumir Deodato",
+     "duration": "4:03"
+    },
+    {
+     "position": "B3",
+     "title": "Skyscrapers",
+     "artist": "Eumir Deodato",
+     "duration": "6:39"
+    },
+    {
+     "position": "B4",
+     "title": "Super Strut",
+     "artist": "Eumir Deodato",
+     "duration": "8:59"
+    },
+    {
+     "position": "B5",
+     "title": "Rhapsody In Blue",
+     "artist": "Eumir Deodato",
+     "duration": "8:40"
+    }
+   ]
+  },
+  {
+   "id": "d22008325",
+   "discogsId": 22008325,
+   "title": "Los Grandes Del Jazz 92",
+   "artist": "Buddy Rich & Illinois Jacquet & Kenny Barron & Bob Cranshaw",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "Sarpe",
+   "country": "Spain",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/w0BL_RrgmVXHidbCh6EtTC5INrM03JhdtHnMawC-dXw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDA4/MzI1LTE2NDM5MDA4/MzctMTkzNS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "RARE SPANISH EDITION CASSETTE MADE IN SPAIN",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Soft Winds",
+     "artist": "Buddy Rich & Illinois Jacquet & Kenny Barron & Bob Cranshaw",
+     "duration": "7:17"
+    },
+    {
+     "position": "A2",
+     "title": "Sweet Georgia Brown",
+     "artist": "Buddy Rich & Illinois Jacquet & Kenny Barron & Bob Cranshaw",
+     "duration": "6:32"
+    },
+    {
+     "position": "A3",
+     "title": "How Long",
+     "artist": "Buddy Rich & Illinois Jacquet & Kenny Barron & Bob Cranshaw",
+     "duration": "4:53"
+    },
+    {
+     "position": "B1",
+     "title": "Caurage",
+     "artist": "Buddy Rich & Illinois Jacquet & Kenny Barron & Bob Cranshaw",
+     "duration": "9:20"
+    },
+    {
+     "position": "B2",
+     "title": "All Right",
+     "artist": "Buddy Rich & Illinois Jacquet & Kenny Barron & Bob Cranshaw",
+     "duration": "7:20"
+    }
+   ]
+  },
+  {
+   "id": "d12006434",
+   "discogsId": 12006434,
+   "title": "Almost Persuaded",
+   "artist": "Swing Out Sister",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Miso Music Ltd.",
+   "country": null,
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/OI4AGCk1bmKsyYMIx2aHCFnqdxp02oX7qWNybx9jXJQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA2/NDM0LTE1MjY0MjM3/NzktNzQ2Mi5qcGVn.jpeg",
+   "ratingAvg": 4.83,
+   "ratingCount": 6,
+   "score": 0.6715,
+   "vibe": 80,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Limited Edition re-issue of second batch of 200 copies sold via PledgeMusic and signed by the artist.\n150g vinyl. Printed inner sleeves with lyrics.\n\nIdentical runouts to first batch but different labels and additional data on rear of sleeve:\nMiso Music Ltd\nabsolute: brought to you by Absolute via Universal/SonyDADC\n\nMade in the EU.\n\nFirst batch of 200 here: [r11845013]",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Don't Give The Game Away",
+     "artist": "Swing Out Sister",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Happier Than Sunshine",
+     "artist": "Swing Out Sister",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Almost Persuaded",
+     "artist": "Swing Out Sister",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Which Wrong Is Right?",
+     "artist": "Swing Out Sister",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Everybody's Here",
+     "artist": "Swing Out Sister",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Until Tomorrow Forgets",
+     "artist": "Swing Out Sister",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "I Wish I Knew",
+     "artist": "Swing Out Sister",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "All In A Heartbeat",
+     "artist": "Swing Out Sister",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Something Deep In Your Heart",
+     "artist": "Swing Out Sister",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Be My Valentine",
+     "artist": "Swing Out Sister",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d31229821",
+   "discogsId": 31229821,
+   "title": "Soul 02",
+   "artist": "Jazz N Palms",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Jazz N Palms",
+   "country": "Italy",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/1l6K1APz98UHqWKsr9njM8FxPpJZEi6Fw_XqBGoShns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjI5/ODIxLTE3MjE5MjUy/MjctNDcxMi5qcGVn.jpeg",
+   "ratingAvg": 4.83,
+   "ratingCount": 6,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Jazz N Palms Soul Series",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Away",
+     "artist": "Jazz N Palms",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Gro",
+     "artist": "Jazz N Palms",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
