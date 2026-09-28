@@ -1,0 +1,363 @@
+{
+ "date": "2026-09-28",
+ "generatedAt": "2026-09-28T10:09:05Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d2046928",
+   "discogsId": 2046928,
+   "title": "The Look Of Love / This Guy's In Love With You",
+   "artist": "Stanley Turrentine",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Blue Note",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/TOoktfe7lp1WchE1a1-4Y8SBTQb7YvyYQOx2jVJta1I/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDY5/MjgtMTQ2MzkzNTA5/NS0xNTIxLmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 3,
+   "score": 0.6491,
+   "vibe": 75,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Label variation: This version features track durations on both labels.\nVery similar version without durations exists here: [r=8560700]\n\nSide A - Published By Colgems Music  ASCAP\nSide B - Published By Blue Seas Music, Inc., JAC Music Co., Inc. ASCAP\n\n43 W. 61st Street, New York 23. N.Y.\n\nA Division of Liberty Records, Inc.\n",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "The Look Of Love",
+     "artist": "Stanley Turrentine",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "This Guy's In Love With You",
+     "artist": "Stanley Turrentine",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d5826187",
+   "discogsId": 5826187,
+   "title": "Jazz Portrait Erroll Garner",
+   "artist": "Erroll Garner",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "AMIGA",
+   "country": "German Democratic Republic (GDR)",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/IC40rsh5ugjGkBlHrZwertna_ltN_lG-nDg0vB7TM9o/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjYx/ODctMTQxMTQ2MTUx/OS00OTA5LmpwZWc.jpeg",
+   "ratingAvg": 4.45,
+   "ratingCount": 11,
+   "score": 0.6488,
+   "vibe": 75,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Different cover artwork than [r806962]\n\nsmall unboxed side numers on light blue labels\nlabel shows 8 50 205 (which would be Mono) BUT matrix and cover are STEREO!\n\nSleeve notes:\n\"A Product of Octave Records Inc. Copyright 1965, world rights reserved, Original American Recordings licensed and trademark registered by Metro-Goldwyn-Mayer Inc., New York, USA\"\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "You Made Me Love You",
+     "artist": "Erroll Garner",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "As Time Goes By",
+     "artist": "Erroll Garner",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Sonny Boy",
+     "artist": "Erroll Garner",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Charmaine",
+     "artist": "Erroll Garner",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "I Found A Million Dollar Baby",
+     "artist": "Erroll Garner",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "I'll Get By",
+     "artist": "Erroll Garner",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Three O'Clock In The Morning",
+     "artist": "Erroll Garner",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Stella By Starlight",
+     "artist": "Erroll Garner",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Jeannine I Dream Of Lilac Time",
+     "artist": "Erroll Garner",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "How Deep Is The Ocean",
+     "artist": "Erroll Garner",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "It's Only A Paper Moon",
+     "artist": "Erroll Garner",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d9632645",
+   "discogsId": 9632645,
+   "title": "Jazz Number II",
+   "artist": "Ray Charles",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Tangerine Records",
+   "country": "Brazil",
+   "styles": [
+    "Contemporary Jazz",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/ycah8Qa2b3T4_j854VyT_GytccnWdaBt4myHltdWawk/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzI2/NDUtMTYzMjU5Nzk2/Mi0zNTAzLmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6397,
+   "vibe": 72,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Brazilian \"Equipe\" version",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Our Site",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "A Pair Of Threes",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Morning Of Carnival",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Going Home",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Kids Are Pretty",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Togetherness",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Brazilian Skies",
+     "artist": "Ray Charles",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d18016468",
+   "discogsId": 18016468,
+   "title": "Up There",
+   "artist": "Romain Berrodier",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Not On Label",
+   "country": "France",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/v9UwJ3Kwah1M3Q980XdaVymexFACjE0zm_Bj3Kh8P1g/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDE2/NDY4LTE2MTY3NTg2/NzktOTg2Mi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5712,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Up There",
+     "artist": "Romain Berrodier",
+     "duration": "4:39"
+    },
+    {
+     "position": "2",
+     "title": "Mirabelle",
+     "artist": "Romain Berrodier",
+     "duration": "4:55"
+    },
+    {
+     "position": "3",
+     "title": "I Fall In Love Too Easily",
+     "artist": "Romain Berrodier",
+     "duration": "5:51"
+    },
+    {
+     "position": "4",
+     "title": "Rue Des Saules",
+     "artist": "Romain Berrodier",
+     "duration": "4:55"
+    },
+    {
+     "position": "5",
+     "title": "Raydiese",
+     "artist": "Romain Berrodier",
+     "duration": "5:50"
+    },
+    {
+     "position": "6",
+     "title": "My Foolish Heart",
+     "artist": "Romain Berrodier",
+     "duration": "5:41"
+    },
+    {
+     "position": "7",
+     "title": "Blame It On My Youth",
+     "artist": "Romain Berrodier",
+     "duration": "5:11"
+    },
+    {
+     "position": "8",
+     "title": "Some Other Time Ago",
+     "artist": "Romain Berrodier",
+     "duration": "4:00"
+    },
+    {
+     "position": "9",
+     "title": "Fail Away",
+     "artist": "Romain Berrodier",
+     "duration": "4:58"
+    },
+    {
+     "position": "10",
+     "title": "Babylone",
+     "artist": "Romain Berrodier",
+     "duration": "4:52"
+    },
+    {
+     "position": "11",
+     "title": "When You Wish Upon A Star",
+     "artist": "Romain Berrodier",
+     "duration": "5:58"
+    }
+   ]
+  },
+  {
+   "id": "d15388587",
+   "discogsId": 15388587,
+   "title": "Morphée",
+   "artist": "Marc Perrenoud Trio",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Neuklang",
+   "country": "France",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/JyVzEsRwySSJM58q8rKL3ysiXgsqX9lcYkRur3oB7kI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg4/NTg3LTE1OTA3MzQ5/MTYtMjg2NC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.5576,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "01",
+     "title": "Morphée",
+     "artist": "Marc Perrenoud Trio",
+     "duration": "5:52"
+    },
+    {
+     "position": "02",
+     "title": "Night Run",
+     "artist": "Marc Perrenoud Trio",
+     "duration": "4:21"
+    },
+    {
+     "position": "03",
+     "title": "Stairs (take 2)",
+     "artist": "Marc Perrenoud Trio",
+     "duration": "5:05"
+    },
+    {
+     "position": "04",
+     "title": "The Reb",
+     "artist": "Marc Perrenoud Trio",
+     "duration": "4:11"
+    },
+    {
+     "position": "05",
+     "title": "A Feather",
+     "artist": "Marc Perrenoud Trio",
+     "duration": "6:23"
+    },
+    {
+     "position": "06",
+     "title": "East Tower",
+     "artist": "Marc Perrenoud Trio",
+     "duration": "5:09"
+    },
+    {
+     "position": "07",
+     "title": "Twenty Five Ghosts",
+     "artist": "Marc Perrenoud Trio",
+     "duration": "2:48"
+    },
+    {
+     "position": "08",
+     "title": "A flower to my daughter",
+     "artist": "Marc Perrenoud Trio",
+     "duration": "3:41"
+    },
+    {
+     "position": "09",
+     "title": "Stairs (take 1)",
+     "artist": "Marc Perrenoud Trio",
+     "duration": "4:35"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
