@@ -1,0 +1,69 @@
+{
+ "date": "2026-W40",
+ "generatedAt": "2026-09-29T19:10:52Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-unresolved-338098202137826776",
+   "discogsId": 0,
+   "title": "Tina Tuesday Freestyle",
+   "artist": "Megan Thee Stallion",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Tina Tuesday Freestyle",
+     "artist": "Megan Thee Stallion",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-unresolved-292812584964635095",
+   "discogsId": 0,
+   "title": "Walls Closin Inn",
+   "artist": "xaviersobased",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Walls Closin Inn",
+     "artist": "xaviersobased",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 2
+ }
+}
