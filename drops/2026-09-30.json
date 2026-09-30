@@ -1,0 +1,303 @@
+{
+ "date": "2026-09-30",
+ "generatedAt": "2026-09-30T10:00:00Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d707847",
+   "discogsId": 707847,
+   "title": "Rise Of The Phenix",
+   "artist": "Rahmlee Michael Davis",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Headfirst",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/hjtS_O61AF50w25FSNlDGna-YNo06W4w20waa0jtrUk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzg0/Ny0xMjQyNzE2MDgx/LmpwZWc.jpeg",
+   "ratingAvg": 4.42,
+   "ratingCount": 43,
+   "score": 0.6514,
+   "vibe": 75,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Recorded and Mixed at Conway Studio\nDigital Mastering (Sony PCM 1600 Digital System): Digital Sound Recording, Los Angeles, CA\nDisc Mastering (Cybersonics Lathe): Precision Lacquer, Los Angeles, CA\nVirgin Vinyl Pressing: Rainbo Records, Santa Monica, CA\n©℗ 1981 Headfirst Records, Inc.\nDistributed by MCA Distributing Corp.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Heartbreaker",
+     "artist": "Rahmlee Michael Davis",
+     "duration": "6:28"
+    },
+    {
+     "position": "A2",
+     "title": "Basin Street Brass / Down In Storyville",
+     "artist": "Rahmlee Michael Davis",
+     "duration": "5:14"
+    },
+    {
+     "position": "A3",
+     "title": "Rise Of The Phenix (Birth & Consumption)",
+     "artist": "Rahmlee Michael Davis",
+     "duration": "10:43"
+    },
+    {
+     "position": "B1",
+     "title": "Never Give Up On You",
+     "artist": "Rahmlee Michael Davis",
+     "duration": "8:10"
+    },
+    {
+     "position": "B2",
+     "title": "You Know What I Mean",
+     "artist": "Rahmlee Michael Davis",
+     "duration": "2:33"
+    },
+    {
+     "position": "B3",
+     "title": "Think",
+     "artist": "Rahmlee Michael Davis",
+     "duration": "6:33"
+    },
+    {
+     "position": "B4",
+     "title": "Rise Of The Phenix (Rebirth & Immortality)",
+     "artist": "Rahmlee Michael Davis",
+     "duration": "4:00"
+    }
+   ]
+  },
+  {
+   "id": "d13365664",
+   "discogsId": 13365664,
+   "title": "Água E Luz",
+   "artist": "Joyce",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Odeon",
+   "country": "Uruguay",
+   "styles": [
+    "Bossa Nova",
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/fr1d6lQmTyopaACJ6QWPX6nHSvzJ5GlCH58_I1_93YI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY1/NjY0LTE1NTI4Mzc5/MjItNjI1NS5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.6495,
+   "vibe": 75,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Productor Fonografico R. y R. Giosca S. A. Ind. Uruguaya on center label, R. R. Giosca, S.A. on rear sleeve\n\nSecondary catalog number on center labels",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Monsieur Binot",
+     "artist": "Joyce",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Muito Prazer",
+     "artist": "Joyce",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Moreno",
+     "artist": "Joyce",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Beira Rio",
+     "artist": "Joyce",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Samba De Gago",
+     "artist": "Joyce",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Meio A Meio",
+     "artist": "Joyce",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Banho Maria",
+     "artist": "Joyce",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Mais Uma Vez, Mais Uma Voz",
+     "artist": "Joyce",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Eternamente Grávida",
+     "artist": "Joyce",
+     "duration": ""
+    },
+    {
+     "position": "B5a",
+     "title": "Doçura Forte",
+     "artist": "Joyce",
+     "duration": ""
+    },
+    {
+     "position": "B5b",
+     "title": "Água E Luz",
+     "artist": "Joyce",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d7004161",
+   "discogsId": 7004161,
+   "title": "Parana",
+   "artist": "Airto Moreira",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "CTI Records",
+   "country": "US",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/cqe8ELRBwmjVrhsZIOGQdpJ76mDjhS9rNk0WRpPUO0s/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDQx/NjEtMTQzMjEzOTk0/Ni02NjQ4LmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5809,
+   "vibe": 58,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "From Album \"Fingers\" CTI 6028\r\nNot For Sale",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Parana",
+     "artist": "Airto Moreira",
+     "duration": "3:30"
+    },
+    {
+     "position": "B",
+     "title": "Parana",
+     "artist": "Airto Moreira",
+     "duration": "3:30"
+    }
+   ]
+  },
+  {
+   "id": "d24044285",
+   "discogsId": 24044285,
+   "title": "Come Into My Life / Dreams Of Love",
+   "artist": "Bill Summers",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Expansion",
+   "country": "UK",
+   "styles": [
+    "Funk",
+    "Jazz-Funk",
+    "Soul"
+   ],
+   "coverUrl": "https://i.discogs.com/PU7icEXGNREwf36Vk5df5i4Nf84jM0s3UvdMlL1T5CQ/rs:fit/g:sm/q:90/h:324/w:324/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQ0/Mjg1LTE2NTk2ODY0/ODEtOTcwMy5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6585,
+   "vibe": 77,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Reissue via Expansion Records.  Mispress copy labelled as Don't fade away and actual track is Dreams of Love",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Come Into My Life",
+     "artist": "Bill Summers",
+     "duration": "3:15"
+    },
+    {
+     "position": "B",
+     "title": "Dreams Of Love",
+     "artist": "Bill Summers",
+     "duration": "3:35"
+    }
+   ]
+  },
+  {
+   "id": "d35790463",
+   "discogsId": 35790463,
+   "title": "Royal Flush",
+   "artist": "The Preacher Men & Efraim Trujillo & Rob Mostert & Chris Strik",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "ZenneZ Records",
+   "country": "Netherlands",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/HZ4E7chyleW_Eu_a9p6r_hJT_ElOrh2XZ-nqTp6N6xc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzkw/NDYzLTE3NjQzNjY3/MDItOTc5Ni5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 2,
+   "score": 0.5668,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Music for Blueshorn",
+     "artist": "The Preacher Men & Efraim Trujillo & Rob Mostert & Chris Strik",
+     "duration": "5:24"
+    },
+    {
+     "position": "A2",
+     "title": "Royal Flush",
+     "artist": "The Preacher Men & Efraim Trujillo & Rob Mostert & Chris Strik",
+     "duration": "2:37"
+    },
+    {
+     "position": "A3",
+     "title": "Amen",
+     "artist": "The Preacher Men & Efraim Trujillo & Rob Mostert & Chris Strik",
+     "duration": "6:18"
+    },
+    {
+     "position": "A4",
+     "title": "Sweet Tooth",
+     "artist": "The Preacher Men & Efraim Trujillo & Rob Mostert & Chris Strik",
+     "duration": "3:28"
+    },
+    {
+     "position": "B1",
+     "title": "Swing Like Eddie",
+     "artist": "The Preacher Men & Efraim Trujillo & Rob Mostert & Chris Strik",
+     "duration": "7:14"
+    },
+    {
+     "position": "B2",
+     "title": "The Freedom Trail",
+     "artist": "The Preacher Men & Efraim Trujillo & Rob Mostert & Chris Strik",
+     "duration": "4:25"
+    },
+    {
+     "position": "B3",
+     "title": "Pacing",
+     "artist": "The Preacher Men & Efraim Trujillo & Rob Mostert & Chris Strik",
+     "duration": "4:10"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
