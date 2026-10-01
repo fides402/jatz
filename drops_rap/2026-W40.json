@@ -1,6 +1,6 @@
 {
  "date": "2026-W40",
- "generatedAt": "2026-09-29T19:10:52Z",
+ "generatedAt": "2026-10-01T19:19:17Z",
  "profile": "rap",
  "albums": [
   {
@@ -60,10 +60,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-7353769397484615897",
+   "discogsId": 0,
+   "title": "Lil Birdie",
+   "artist": "Hurricane Wisdom",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Lil Birdie",
+     "artist": "Hurricane Wisdom",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6804813238",
+   "discogsId": 0,
+   "title": "A Warrior's Pain",
+   "artist": "R-MEAN, Styles P & Kabaka Pyramid",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/db/1e/51db1e73-4b9a-e185-00a1-8841bff060d3/67052.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "A Warrior's Pain",
+     "artist": "R-MEAN, Styles P & Kabaka Pyramid",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 2
+  "modern": 4
  }
 }
