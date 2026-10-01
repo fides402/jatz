@@ -1,0 +1,313 @@
+{
+ "date": "2026-10-01",
+ "generatedAt": "2026-10-01T10:26:07Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d13995682",
+   "discogsId": 13995682,
+   "title": "Charles Lloyd In Europe",
+   "artist": "Charles Lloyd",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Atlantic",
+   "country": "Canada",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/1IxQHeuK3ENGMvYCyqYSjXJs5cfZJztARVjzdTI9l-Y/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk1/NjgyLTE1NjgyOTkw/MzktMzAxMC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6795,
+   "vibe": 82,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Recorded in concert at Aulaen Hall, Oslo, Norway.\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Tagore",
+     "artist": "Charles Lloyd",
+     "duration": "9:48"
+    },
+    {
+     "position": "A2",
+     "title": "Karma",
+     "artist": "Charles Lloyd",
+     "duration": "3:44"
+    },
+    {
+     "position": "A3",
+     "title": "Little Anahid's Day",
+     "artist": "Charles Lloyd",
+     "duration": "6:13"
+    },
+    {
+     "position": "B1",
+     "title": "Manhattan Carousel",
+     "artist": "Charles Lloyd",
+     "duration": "8:40"
+    },
+    {
+     "position": "B2",
+     "title": "European Fantasy",
+     "artist": "Charles Lloyd",
+     "duration": "5:26"
+    },
+    {
+     "position": "B3",
+     "title": "Hej Da! (Hey Daw)",
+     "artist": "Charles Lloyd",
+     "duration": "2:46"
+    }
+   ]
+  },
+  {
+   "id": "d32953848",
+   "discogsId": 32953848,
+   "title": "That's Him",
+   "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Riverside Records",
+   "country": "Japan",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/PBLumYfhOdafCgEXK7Cla-1CO_bUCH45Pho3z9n3_X8/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTUz/ODQ4LTE3Mzc4NTQ5/MTgtNTg3Ny5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.6549,
+   "vibe": 76,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Promo:\n\nRecorded at Reeves Sound Studios, New York; October 28, 1957.\n\nⓅ 76\n発売元: ビクター音楽産業株式会社\n\nIncludes Japanese liner notes.\n\nSJ Seal Of Approval",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Strong Man",
+     "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Happiness Is Just A Thing Called Joe",
+     "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "My Man",
+     "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Tender As A Rose",
+     "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "That's Him",
+     "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "I Must Have That Man",
+     "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Porgy",
+     "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "When A Woman Loves A Man",
+     "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Can't Help Lovin' Dat Man",
+     "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Don't Explain",
+     "artist": "Abbey Lincoln & The Riverside Jazz Stars",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d24217406",
+   "discogsId": 24217406,
+   "title": "Soul Jazz Volume Two",
+   "artist": "The Prestige All Stars",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Prestige Bluesville",
+   "country": "South Africa",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/z4HxtkSoYsHIUQlhKkyUT5Qg0GnsnKFNUEG4dcb_2DI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjE3/NDA2LTE2NzkyMTIz/MzEtMjUxNy5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.601,
+   "vibe": 63,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Blue Hymn",
+     "artist": "Gene Ammons' All Stars",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "The Rev",
+     "artist": "Eddie Lockjaw Davis Quartet",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Cool Grits",
+     "artist": "Willis Jackson Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Enough Said",
+     "artist": "Bill Jennings Quartet",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d13862853",
+   "discogsId": 13862853,
+   "title": "Reach",
+   "artist": "Jeff Oster",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Retso Records",
+   "country": null,
+   "styles": [
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/A34Xbjoi4QqylA6ilzkGG0rJGGbmH5PG5sGw6afxH5Y/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYy/ODUzLTE1NjI4MDI5/MTYtMTk4Ny5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 2,
+   "score": 0.5784,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Onward",
+     "artist": "Jeff Oster",
+     "duration": "5:59"
+    },
+    {
+     "position": "2",
+     "title": "Far Rockaway",
+     "artist": "Jeff Oster",
+     "duration": "3:15"
+    },
+    {
+     "position": "3",
+     "title": "Le Caveau",
+     "artist": "Jeff Oster",
+     "duration": "3:20"
+    },
+    {
+     "position": "4",
+     "title": "Five Great Mountains",
+     "artist": "Jeff Oster",
+     "duration": "5:27"
+    },
+    {
+     "position": "5",
+     "title": "The Lotus Within",
+     "artist": "Jeff Oster",
+     "duration": "7:04"
+    },
+    {
+     "position": "6",
+     "title": "Troppo y Boffo",
+     "artist": "Jeff Oster",
+     "duration": "3:44"
+    },
+    {
+     "position": "7",
+     "title": "How Familiar",
+     "artist": "Jeff Oster",
+     "duration": "5:41"
+    },
+    {
+     "position": "8",
+     "title": "Velvet And Smoke",
+     "artist": "Jeff Oster",
+     "duration": "4:23"
+    },
+    {
+     "position": "9",
+     "title": "The Pink City",
+     "artist": "Jeff Oster",
+     "duration": "5:52"
+    }
+   ]
+  },
+  {
+   "id": "d17992771",
+   "discogsId": 17992771,
+   "title": "Hav",
+   "artist": "Jan Erik Vold & Jan Garbarek",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Norske Albumklassikere",
+   "country": "Norway",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/tdNHhZWt1MSj4ks0xvz47YCWrCnq8rXeRO8vx6CM47I/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTky/NzcxLTE2MTY2MTE2/NjgtNTY1Ny5qcGVn.jpeg",
+   "ratingAvg": 4.2,
+   "ratingCount": 10,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Released for the first time on CD in a 4-panel gatefold digisleeve.\n\nRecorded September 28.–29. 1970 at Rosenborg Studio, Oslo, Norway.\n\nPoem on track \"Det Alle Vet\" published in Jan Erik Vold's \"Mor Godhjertas glade version. Ja\" (1968). Poem on track \"Dikt\" published in Jan Erik Vold's \"Kykelipi\" (1969).\n\nRemastered by Giert Clausen/Fersk Lyd AS.\n\nThis CD is based on original analogue master tapes and digital files from Nasjonalbiblioteket.\n\n© Philips 1970. ℗ Norske Albumklassikere 2021.\n\nLicenced by Universal Music Group.\n\nMade possible through crowdfunding at bidra.no\n\nConfirmation on exact",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Det Alle Vet",
+     "artist": "Jan Erik Vold & Jan Garbarek",
+     "duration": "21:50"
+    },
+    {
+     "position": "2",
+     "title": "Dikt",
+     "artist": "Jan Erik Vold & Jan Garbarek",
+     "duration": "16:43"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
