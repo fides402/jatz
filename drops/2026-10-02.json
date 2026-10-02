@@ -1,0 +1,426 @@
+{
+ "date": "2026-10-02",
+ "generatedAt": "2026-10-02T10:04:09Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d9044943",
+   "discogsId": 9044943,
+   "title": "The Return Of Don Patterson",
+   "artist": "Don Patterson",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Muse Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/xmdUibOPaJIbbz9ZD7GeOZpf9wQm6HN37Klz2gE4alo/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDQ5/NDMtMTQ3MzgwMjA1/OS0yOTM4LmpwZWc.jpeg",
+   "ratingAvg": 4.67,
+   "ratingCount": 3,
+   "score": 0.7354,
+   "vibe": 96,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Promotional copy. Not for sale.\n\nRecorded Live October 30, 1972",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Jesse Jackson",
+     "artist": "Don Patterson",
+     "duration": "7:20"
+    },
+    {
+     "position": "A2",
+     "title": "Theme From The Odd Couple",
+     "artist": "Don Patterson",
+     "duration": "8:35"
+    },
+    {
+     "position": "A3",
+     "title": "Lori",
+     "artist": "Don Patterson",
+     "duration": "7:08"
+    },
+    {
+     "position": "B1",
+     "title": "Theme From Love Story",
+     "artist": "Don Patterson",
+     "duration": "9:56"
+    },
+    {
+     "position": "B2",
+     "title": "The Lamp Is Low",
+     "artist": "Don Patterson",
+     "duration": "10:11"
+    }
+   ]
+  },
+  {
+   "id": "d12137943",
+   "discogsId": 12137943,
+   "title": "The Warm And Tender Soul Of Mahalia Jackson - Vol. 2",
+   "artist": "Mahalia Jackson",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "Ris",
+   "country": "Italy",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/4Hu_NUAmjZpwRC2-T6G99tY0sF0-tbNRoMrVIa634_c/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM3/OTQzLTE1MjkwNjA0/MjgtNjg3OS5qcGVn.jpeg",
+   "ratingAvg": 3.0,
+   "ratingCount": 1,
+   "score": 0.6924,
+   "vibe": 86,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Made in Italy ℗1975\nCover:\nImprimé en France (Printed in France)\nImportation et Distribution Record International Service",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "In The Upper Room Pt. 1 & Pt. 2",
+     "artist": "Mahalia Jackson",
+     "duration": "5:50"
+    },
+    {
+     "position": "A2",
+     "title": "City Called Heaven",
+     "artist": "Mahalia Jackson",
+     "duration": "3:22"
+    },
+    {
+     "position": "A3",
+     "title": "Run All The Way",
+     "artist": "Mahalia Jackson",
+     "duration": "2:18"
+    },
+    {
+     "position": "A4",
+     "title": "Go Tell It On The Mountain",
+     "artist": "Mahalia Jackson",
+     "duration": "3:08"
+    },
+    {
+     "position": "A5",
+     "title": "I´m On My Way To Canaan",
+     "artist": "Mahalia Jackson",
+     "duration": "3:04"
+    },
+    {
+     "position": "B1",
+     "title": "I Bow On My Knees",
+     "artist": "Mahalia Jackson",
+     "duration": "3:13"
+    },
+    {
+     "position": "B2",
+     "title": "Shall I Meet You Over Yonder",
+     "artist": "Mahalia Jackson",
+     "duration": "3:13"
+    },
+    {
+     "position": "B3",
+     "title": "Beautiful Tomorrow",
+     "artist": "Mahalia Jackson",
+     "duration": "2:26"
+    },
+    {
+     "position": "B4",
+     "title": "It Is No Secret",
+     "artist": "Mahalia Jackson",
+     "duration": "2:58"
+    },
+    {
+     "position": "B5",
+     "title": "Hands Of God",
+     "artist": "Mahalia Jackson",
+     "duration": "3:08"
+    },
+    {
+     "position": "B6",
+     "title": "Jesus Is With Me",
+     "artist": "Mahalia Jackson",
+     "duration": "3:01"
+    }
+   ]
+  },
+  {
+   "id": "d10100377",
+   "discogsId": 10100377,
+   "title": "Soul Symphony",
+   "artist": "The Three Sounds",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Blue Note",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/uIa6BJGhEqNHs0b6uIQWRd1LJzSIi0t8hvp_eDDDGoQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAw/Mzc3LTE0OTE2MDc5/OTQtODQxOS5qcGVn.jpeg",
+   "ratingAvg": 4.25,
+   "ratingCount": 28,
+   "score": 0.5797,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Liberty UA, .INC. Los Angeles California\nLabel: Blue Note Records - A Division of Liberty Records, Inc.",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Soul Symphony",
+     "artist": "The Three Sounds",
+     "duration": "26:05"
+    },
+    {
+     "position": "B1",
+     "title": "Repeat After Me",
+     "artist": "The Three Sounds",
+     "duration": "6:45"
+    },
+    {
+     "position": "B2",
+     "title": "Upper Four Hundred",
+     "artist": "The Three Sounds",
+     "duration": "4:03"
+    },
+    {
+     "position": "B3",
+     "title": "Popsicle Pimp",
+     "artist": "The Three Sounds",
+     "duration": "2:55"
+    },
+    {
+     "position": "B4",
+     "title": "Black Sugar",
+     "artist": "The Three Sounds",
+     "duration": "4:15"
+    }
+   ]
+  },
+  {
+   "id": "d35975095",
+   "discogsId": 35975095,
+   "title": "High Priestess Of Soul",
+   "artist": "Nina Simone",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "The Vinyl Champ",
+   "country": "Netherlands",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/IfM-m0gg9yDQ01qtw40PfKwkAIoJkAa4qD5pUa2Q2PU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc1/MDk1LTE3NjYyNDQy/MzctMzc2Mi5qcGVn.jpeg",
+   "ratingAvg": 3.93,
+   "ratingCount": 14,
+   "score": 0.6509,
+   "vibe": 75,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "My Baby Just Cares For Me",
+     "artist": "Nina Simone",
+     "duration": "3:38"
+    },
+    {
+     "position": "A2",
+     "title": "Do Nothin' Till You Hear From Me",
+     "artist": "Nina Simone",
+     "duration": "2:51"
+    },
+    {
+     "position": "A3",
+     "title": "The Gal From Joe's",
+     "artist": "Nina Simone",
+     "duration": "2:14"
+    },
+    {
+     "position": "A4",
+     "title": "Satin Doll",
+     "artist": "Nina Simone",
+     "duration": "3:36"
+    },
+    {
+     "position": "A5",
+     "title": "I Got It Bad (And That Ain't Good)",
+     "artist": "Nina Simone",
+     "duration": "4:08"
+    },
+    {
+     "position": "A6",
+     "title": "Love Me Or Leave Me",
+     "artist": "Nina Simone",
+     "duration": "3:23"
+    },
+    {
+     "position": "A7",
+     "title": "It Might As Well Be Spring",
+     "artist": "Nina Simone",
+     "duration": "3:57"
+    },
+    {
+     "position": "B1",
+     "title": "Rags And Old Iron",
+     "artist": "Nina Simone",
+     "duration": "4:07"
+    },
+    {
+     "position": "B2",
+     "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+     "artist": "Nina Simone",
+     "duration": "2:34"
+    },
+    {
+     "position": "B3",
+     "title": "Children Go Where I Send You",
+     "artist": "Nina Simone",
+     "duration": "2:53"
+    },
+    {
+     "position": "B4",
+     "title": "Mood Indigo",
+     "artist": "Nina Simone",
+     "duration": "4:03"
+    },
+    {
+     "position": "B5",
+     "title": "Stompin' At The Savoy",
+     "artist": "Nina Simone",
+     "duration": "2:10"
+    },
+    {
+     "position": "B6",
+     "title": "He Needs Me",
+     "artist": "Nina Simone",
+     "duration": "2:30"
+    },
+    {
+     "position": "B7",
+     "title": "Forbidden Fruit",
+     "artist": "Nina Simone",
+     "duration": "3:49"
+    },
+    {
+     "position": "B8",
+     "title": "You've Been Gone Too Long",
+     "artist": "Nina Simone",
+     "duration": "2:13"
+    }
+   ]
+  },
+  {
+   "id": "d24237131",
+   "discogsId": 24237131,
+   "title": "Café Society - Numbered 1.111 Units Only, 180g White Vinyl",
+   "artist": "Billie Holiday",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Magic Of Vinyl",
+   "country": "Ireland",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/qMjodncqZcKGOMG4EXRS6eZYGV2MVDwV9EdYfx1JF5U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjM3/MTMxLTE2NjA4MjMx/NDAtNDQ0Ny5qcGVn.jpeg",
+   "ratingAvg": 4.86,
+   "ratingCount": 7,
+   "score": 0.6449,
+   "vibe": 74,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "All Of Me",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Crazy He Calls Me",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Lover Man (Oh, Where Can You Be?)",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "I'll Look Around",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Easy Living",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "God Bless The Child",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "A7",
+     "title": "Blue Moon",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "I'll Be Seeing You",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Strange Fruit",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Solitude",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Them There Eyes",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "That Ole Devil Called Love",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "April In Paris",
+     "artist": "Billie Holiday",
+     "duration": ""
+    },
+    {
+     "position": "B7",
+     "title": "Autumn In New York",
+     "artist": "Billie Holiday",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
