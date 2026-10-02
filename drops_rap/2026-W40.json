@@ -1,6 +1,6 @@
 {
  "date": "2026-W40",
- "generatedAt": "2026-10-01T19:19:17Z",
+ "generatedAt": "2026-10-02T19:02:29Z",
  "profile": "rap",
  "albums": [
   {
@@ -118,10 +118,307 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-1104039032",
+   "discogsId": 0,
+   "title": "Grip Thumb 2 Paper Cuts",
+   "artist": "BLP Kosher",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4c20d737f4ce25b2f45208ea36f12bc4/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Entendre",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "No Idols",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Fangs",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Head Lice",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Broken Toilet (feat. BabyTron)",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Switch Back 3",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Swallow A Diamond",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Bull Mastiff",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Somebodylovesmeinthesky (feat. BONES)",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "Red Dot Reaper (feat. Sematary)",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "Gold Rush (feat. Riff Raff)",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "Shoelace Belt (feat. Trapland Pat)",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "13",
+     "title": "Tony Glock",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "14",
+     "title": "Skin in the game",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "15",
+     "title": "OCD (feat. Flogo)",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "16",
+     "title": "Halos",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "17",
+     "title": "Wallpaper",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "18",
+     "title": "Every b*tch is a 10",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "19",
+     "title": "Sun Scars",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "20",
+     "title": "Cabin Fever",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "21",
+     "title": "Talk Me Out Of Suicide",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "22",
+     "title": "Bathtub",
+     "artist": "BLP Kosher",
+     "duration": ""
+    },
+    {
+     "position": "23",
+     "title": "Message to my younger self",
+     "artist": "BLP Kosher",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6815153792",
+   "discogsId": 0,
+   "title": "Life 1",
+   "artist": "Quadeca",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/ab/47/82ab475c-298d-f2fc-b50e-5c42228fc34d/16782.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Life 1 (where did the time go)",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Dark magic",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "The hero never dies",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "It goes like this",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "CELERY",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Make you my what",
+     "artist": "Quadeca & kmoe",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Regular guy",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "THE GAMBLER",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Like you always do",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "Baby steps",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "Hell of a time",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "Illusion of choice",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "13",
+     "title": "Good grief",
+     "artist": "Quadeca",
+     "duration": ""
+    },
+    {
+     "position": "14",
+     "title": "In another life…",
+     "artist": "Quadeca",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1101864732",
+   "discogsId": 0,
+   "title": "NORTH OF EVERYTHING",
+   "artist": "WondaGurl",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "ep"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f2f7c12841138784601befad1a86c9b5/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "NORTH OF EVERYTHING",
+     "artist": "WondaGurl",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 4
+  "modern": 7
  }
 }
