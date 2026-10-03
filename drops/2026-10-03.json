@@ -1,0 +1,354 @@
+{
+ "date": "2026-10-03",
+ "generatedAt": "2026-10-03T09:26:39Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d33914880",
+   "discogsId": 33914880,
+   "title": "The Swinging Big Bands (Glenn Miller Vol. 3)",
+   "artist": "Glenn Miller",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Archive Of Jazz",
+   "country": "Germany",
+   "styles": [
+    "Big Band",
+    "Swing"
+   ],
+   "coverUrl": "https://i.discogs.com/TIo29oJBoTKQnRJlaiIi7xlqRLID7tvqMx_GVGJZxFE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTE0/ODgwLTE3NDY2MjE4/MTItNDAyNy5qcGVn.jpeg",
+   "ratingAvg": 3.0,
+   "ratingCount": 1,
+   "score": 0.6433,
+   "vibe": 73,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Labels:\nMade in Germany\n\nFront sleeve:\nThe Swinging Big Bands (1939/1942)\n\nRear sleeve:\nW. Gurtler Editore\nMade in West-Germany\nA1 - New York, May 7, 1941\nA2 - New York, February 20, 1941\nA3 - Chicago, July 14, 1942\nA4 - Chicago, July 15, 1942\nA5 - Chicago, May 20, 1942\nB1 - New York, April 28, 1940\nB2 - New York, December 8, 1941\nB3 - New York, October 3, 1939\nB4 - Chicago, June 13, 1940\nB5 - Hollywood, May 28, 1941\nB6 - New York, February 19, 1941\n\nJudging by [r=4367495], \"Ray Conway\" is a typo for \"Bill Conway (2)\" in the personnel list for track B5.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Chattanooga Choo Choo",
+     "artist": "Glenn Miller",
+     "duration": "3:25"
+    },
+    {
+     "position": "A2",
+     "title": "It's Always You",
+     "artist": "Glenn Miller",
+     "duration": "3:07"
+    },
+    {
+     "position": "A3",
+     "title": "Moonlight Mood",
+     "artist": "Glenn Miller",
+     "duration": "2:45"
+    },
+    {
+     "position": "A4",
+     "title": "That Old Black Magic",
+     "artist": "Glenn Miller",
+     "duration": "3:03"
+    },
+    {
+     "position": "A5",
+     "title": "Serenade In Blue",
+     "artist": "Glenn Miller",
+     "duration": "3:23"
+    },
+    {
+     "position": "B1",
+     "title": "Pennsylvania 6-5000",
+     "artist": "Glenn Miller",
+     "duration": "3:14"
+    },
+    {
+     "position": "B2",
+     "title": "Moonlight Cocktail",
+     "artist": "Glenn Miller",
+     "duration": "3:12"
+    },
+    {
+     "position": "B3",
+     "title": "Blue Rain",
+     "artist": "Glenn Miller",
+     "duration": "3:05"
+    },
+    {
+     "position": "B4",
+     "title": "Blueberry Hill",
+     "artist": "Glenn Miller",
+     "duration": "2:49"
+    },
+    {
+     "position": "B5",
+     "title": "I Guess I'll Have To Dream The Rest",
+     "artist": "Glenn Miller",
+     "duration": "3:09"
+    },
+    {
+     "position": "B6",
+     "title": "Perfidia",
+     "artist": "Glenn Miller",
+     "duration": "3:17"
+    }
+   ]
+  },
+  {
+   "id": "d15152551",
+   "discogsId": 15152551,
+   "title": "Live!",
+   "artist": "Sara Hamilton And David",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Innovation Records (3)",
+   "country": "Canada",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/w4DBLPdJwPJMlsbtZ_dh7zOFMfgC3lF-1Xx2iZs0Aok/rs:fit/g:sm/q:90/h:600/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTUy/NTUxLTE1ODczNjI1/NjYtNjM3Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5828,
+   "vibe": 58,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Take The A Train",
+     "artist": "Sara Hamilton And David",
+     "duration": "3:50"
+    },
+    {
+     "position": "A2",
+     "title": "Baltimore Oriole",
+     "artist": "Sara Hamilton And David",
+     "duration": "5:35"
+    },
+    {
+     "position": "A3",
+     "title": "Fine And Mellow",
+     "artist": "Sara Hamilton And David",
+     "duration": "4:40"
+    },
+    {
+     "position": "A4",
+     "title": "Guess Who I Saw Today",
+     "artist": "Sara Hamilton And David",
+     "duration": "4:20"
+    },
+    {
+     "position": "A5",
+     "title": "Over The Rainbow",
+     "artist": "Sara Hamilton And David",
+     "duration": "5:40"
+    },
+    {
+     "position": "B1",
+     "title": "Night And Day",
+     "artist": "Sara Hamilton And David",
+     "duration": "6:00"
+    },
+    {
+     "position": "B2",
+     "title": "Fever",
+     "artist": "Sara Hamilton And David",
+     "duration": "4:25"
+    },
+    {
+     "position": "B3",
+     "title": "When Your Tears Hit The Ground",
+     "artist": "Sara Hamilton And David",
+     "duration": "4:00"
+    },
+    {
+     "position": "B4",
+     "title": "Don't Wanna Play No More",
+     "artist": "Sara Hamilton And David",
+     "duration": "5:30"
+    },
+    {
+     "position": "B5",
+     "title": "Shiver Me Timbers",
+     "artist": "Sara Hamilton And David",
+     "duration": "6:10"
+    }
+   ]
+  },
+  {
+   "id": "d7885894",
+   "discogsId": 7885894,
+   "title": "The Innocent Years",
+   "artist": "Zoot Sims Quartet",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "Pablo Records",
+   "country": "Brazil",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/o--BmU2N_OhctIGWNWL4gXDMxPVk3JBNrzXFyj7tNpA/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODU4/OTQtMTQ1MDkwOTYz/MS05Mzk2LmpwZWc.jpeg",
+   "ratingAvg": 4.25,
+   "ratingCount": 4,
+   "score": 0.5712,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded at RCA Recording Studios, New York, N.Y., 9 March 1982",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Very Thought Of You",
+     "artist": "Zoot Sims Quartet",
+     "duration": "6:33"
+    },
+    {
+     "position": "A2",
+     "title": "If You Were Mine",
+     "artist": "Zoot Sims Quartet",
+     "duration": "6:17"
+    },
+    {
+     "position": "A3",
+     "title": "Indian Summer",
+     "artist": "Zoot Sims Quartet",
+     "duration": "5:58"
+    },
+    {
+     "position": "B1",
+     "title": "I Hear A Rhapsody",
+     "artist": "Zoot Sims Quartet",
+     "duration": "5:28"
+    },
+    {
+     "position": "B2",
+     "title": "Pomme Au Four",
+     "artist": "Zoot Sims Quartet",
+     "duration": "6:14"
+    },
+    {
+     "position": "B3",
+     "title": "Over The Rainbow",
+     "artist": "Zoot Sims Quartet",
+     "duration": "10:52"
+    }
+   ]
+  },
+  {
+   "id": "d36616780",
+   "discogsId": 36616780,
+   "title": "Off The Rack Live!",
+   "artist": "Pete Vance & Mark Pradella",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Not On Label (Mark Pradella Self-released)",
+   "country": "Australia",
+   "styles": [
+    "Contemporary Jazz",
+    "Swing"
+   ],
+   "coverUrl": "https://i.discogs.com/ao_qaHMr0lucWypyT9JG58VsdUsSVWld0lrp39QuSx4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjE2/NzgwLTE3NzIxMDMx/NjEtOTg3MS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6751,
+   "vibe": 81,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at the Brisbane Jazz Club, Kangaroo Point 23 October 2021.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Rack Of Life",
+     "artist": "Pete Vance & Mark Pradella",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "God Bless The Child",
+     "artist": "Pete Vance & Mark Pradella",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Light My Fire",
+     "artist": "Pete Vance & Mark Pradella",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Just The Two Of Us",
+     "artist": "Pete Vance & Mark Pradella",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "One Hundred Ways",
+     "artist": "Pete Vance & Mark Pradella",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Nature Boy",
+     "artist": "Pete Vance & Mark Pradella",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Isn't She Lovely",
+     "artist": "Pete Vance & Mark Pradella",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Since I Fell For You",
+     "artist": "Pete Vance & Mark Pradella",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d26931014",
+   "discogsId": 26931014,
+   "title": "Live On The Street April 14​/​2023",
+   "artist": "The Six Million Dollar Guitar",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Not On Label (The Six Million Dollar Guitar Self-released)",
+   "country": "Worldwide",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/hgbYe8oswwhJ_0FtZuRl4E-0dzpKZPBRpWOMq4n8Xyo/rs:fit/g:sm/q:90/h:463/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTMx/MDE0LTE2ODI4NjIy/NzAtNzE1NS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6023,
+   "vibe": 63,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Glow Worms",
+     "artist": "The Six Million Dollar Guitar",
+     "duration": "80:05"
+    },
+    {
+     "position": "2",
+     "title": "Sugar Blues",
+     "artist": "The Six Million Dollar Guitar",
+     "duration": "23:07"
+    },
+    {
+     "position": "3",
+     "title": "Islands",
+     "artist": "The Six Million Dollar Guitar",
+     "duration": "112:22"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
