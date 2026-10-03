@@ -1,6 +1,6 @@
 {
  "date": "2026-W40",
- "generatedAt": "2026-10-02T19:02:29Z",
+ "generatedAt": "2026-10-03T17:49:54Z",
  "profile": "rap",
  "albums": [
   {
@@ -415,10 +415,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6813663127",
+   "discogsId": 0,
+   "title": "The Liz Symphony",
+   "artist": "Armani Caesar",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/c6/53/d6c653ef-f4dc-5cb8-20d2-74ae5b969246/1839.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "The Liz Symphony",
+     "artist": "Armani Caesar",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 7
+  "modern": 8
  }
 }
