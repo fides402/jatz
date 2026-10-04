@@ -1,0 +1,576 @@
+{
+ "date": "2026-10-04",
+ "generatedAt": "2026-10-04T10:04:02Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d30865254",
+   "discogsId": 30865254,
+   "title": "Frank Sinatra's Greatest Hits Vol. 3",
+   "artist": "Frank Sinatra",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Reprise Records",
+   "country": "Australia",
+   "styles": [
+    "Big Band"
+   ],
+   "coverUrl": "https://i.discogs.com/txcUmOKsWUixlnEeA2QO6qDxQJ7_JcC53Fmj_eTp1U0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY1/MjU0LTE3MTc0NjIz/NDgtOTI0NC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.7149,
+   "vibe": 91,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Label variant with bold STEREO font",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "My Way",
+     "artist": "Frank Sinatra",
+     "duration": "4:38"
+    },
+    {
+     "position": "A2",
+     "title": "A  Man Alone",
+     "artist": "Frank Sinatra",
+     "duration": "3:45"
+    },
+    {
+     "position": "A3",
+     "title": "Cycles",
+     "artist": "Frank Sinatra",
+     "duration": "3:07"
+    },
+    {
+     "position": "A4",
+     "title": "Bein' Green",
+     "artist": "Frank Sinatra",
+     "duration": "3:00"
+    },
+    {
+     "position": "A5",
+     "title": "Love's Been Good To Me",
+     "artist": "Frank Sinatra",
+     "duration": "3:25"
+    },
+    {
+     "position": "A6",
+     "title": "I'm Not Afraid",
+     "artist": "Frank Sinatra",
+     "duration": "3:40"
+    },
+    {
+     "position": "B1",
+     "title": "Goin' Out Of My Head",
+     "artist": "Frank Sinatra",
+     "duration": "2:45"
+    },
+    {
+     "position": "B2",
+     "title": "Something",
+     "artist": "Frank Sinatra",
+     "duration": "3:31"
+    },
+    {
+     "position": "B3",
+     "title": "What's Now Is Now",
+     "artist": "Frank Sinatra",
+     "duration": "4:03"
+    },
+    {
+     "position": "B4",
+     "title": "Star!",
+     "artist": "Frank Sinatra",
+     "duration": "2:32"
+    },
+    {
+     "position": "B5",
+     "title": "The September Of My Years",
+     "artist": "Frank Sinatra",
+     "duration": "3:12"
+    }
+   ]
+  },
+  {
+   "id": "d11046212",
+   "discogsId": 11046212,
+   "title": "Dream Traveler",
+   "artist": "Zap",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "Three Blind Mice",
+   "country": "Japan",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/gtA3aHPlUYisGC8nPcG7iLy0yfcDmv0nSw-RomKnnvI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/MjEyLTE2NjcxNDkz/NjctNzcwMy5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 12,
+   "score": 0.6811,
+   "vibe": 83,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Recorded June 13, 14, 15, 1979 At Epicurus Studio, Tokyo.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Mole Walk",
+     "artist": "Zap",
+     "duration": "6:50"
+    },
+    {
+     "position": "A2",
+     "title": "Tomato & Potato",
+     "artist": "Zap",
+     "duration": "6:03"
+    },
+    {
+     "position": "A3",
+     "title": "Twilight Time",
+     "artist": "Zap",
+     "duration": "8:12"
+    },
+    {
+     "position": "B1",
+     "title": "Autumn Leaves",
+     "artist": "Zap",
+     "duration": "9:34"
+    },
+    {
+     "position": "B2",
+     "title": "Georgia On My Mind",
+     "artist": "Zap",
+     "duration": "5:25"
+    },
+    {
+     "position": "B3",
+     "title": "Rock Climbing",
+     "artist": "Zap",
+     "duration": "7:54"
+    }
+   ]
+  },
+  {
+   "id": "d30701038",
+   "discogsId": 30701038,
+   "title": "40 Favourite Songs",
+   "artist": "Bing Crosby",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Gallo",
+   "country": "South Africa",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/PIs2fKAUZke2aMJgN7hD26zlrNyFMt4Z7uMYqEorUAo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzAx/MDM4LTE3MTU5MzY4/NTYtOTgxMy5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6573,
+   "vibe": 77,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Dear Hearts And Gentle People",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Pennies From Heaven",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "In The Cool Cool Cool Of The Evening",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Mexicali Rose",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "It's Been A Long Long Time",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Too Ra Loo Ra Loo Ral",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "A7",
+     "title": "Play A Simple Melody",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "A8",
+     "title": "Stardust",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "A9",
+     "title": "Swingin' On A Star",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "A10",
+     "title": "You Are My Sunshine",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Don't Fence Me In",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Deep Purple",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "I'm An Old Cowhand",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Vaya Con Dios",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Sam's Song",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Wrap Your Troubles In Dreams",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "B7",
+     "title": "Be Home With Me",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "B8",
+     "title": "Faraway Places",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "B9",
+     "title": "Home On The Range",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "B10",
+     "title": "Gone Fishin'",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "C1",
+     "title": "Now Is The Hour",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "C2",
+     "title": "Macnamara's Band",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "C3",
+     "title": "Red Sails In The Sunset",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "C4",
+     "title": "On The Atchinson Topeka",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "C5",
+     "title": "It's Easy To Remember",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "C6",
+     "title": "Sunshine Cake",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "C7",
+     "title": "The Bells Of St. Mary",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "C8",
+     "title": "Beautiful Dreamed",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "C9",
+     "title": "Deep In The Heart Of Texas",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "C10",
+     "title": "Aloha",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "D1",
+     "title": "Galway Bay",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "D2",
+     "title": "Moonlight Becomes You",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "D3",
+     "title": "I Can't Begin To Tell You",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "D4",
+     "title": "Accentuate The Positive",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "D5",
+     "title": "Please",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "D6",
+     "title": "Sweet Leilani",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "D7",
+     "title": "Ain't You Glad You're You",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "D8",
+     "title": "Let Me Call You Sweetheart",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "D9",
+     "title": "Home Cookin'",
+     "artist": "Bing Crosby",
+     "duration": ""
+    },
+    {
+     "position": "D10",
+     "title": "Where The Blue Of The Night",
+     "artist": "Bing Crosby",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d13424139",
+   "discogsId": 13424139,
+   "title": "The Spice Of Five",
+   "artist": "Tristan",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Isolde Records",
+   "country": "Netherlands",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/dC4UQpxA72oATSFpyltaUuYxefOb-Goq-fb_rCeu9Kc/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI0/MTM5LTE1NTM5NDQ0/MTAtMjIxNy5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5879,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "The Spice Of Five ",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Hands Up",
+     "artist": "Tristan",
+     "duration": "3:59"
+    },
+    {
+     "position": "2",
+     "title": "I Left My Jacket In The van",
+     "artist": "Tristan",
+     "duration": "3:29"
+    },
+    {
+     "position": "3",
+     "title": "1985",
+     "artist": "Tristan",
+     "duration": "3:14"
+    },
+    {
+     "position": "4",
+     "title": "Amplify",
+     "artist": "Tristan",
+     "duration": "4:54"
+    },
+    {
+     "position": "5",
+     "title": "Where Do We Go From Here",
+     "artist": "Tristan",
+     "duration": "6:13"
+    },
+    {
+     "position": "6",
+     "title": "First You Believe",
+     "artist": "Tristan",
+     "duration": "4:54"
+    },
+    {
+     "position": "7",
+     "title": "Bring It In",
+     "artist": "Tristan",
+     "duration": "3:43"
+    },
+    {
+     "position": "8",
+     "title": "Neon Girls",
+     "artist": "Tristan",
+     "duration": "3:59"
+    },
+    {
+     "position": "9",
+     "title": "Don't Skip This",
+     "artist": "Tristan",
+     "duration": "3:29"
+    },
+    {
+     "position": "10",
+     "title": "Night Train",
+     "artist": "Tristan",
+     "duration": "3:05"
+    },
+    {
+     "position": "11",
+     "title": "Down Town",
+     "artist": "Tristan",
+     "duration": "3:42"
+    },
+    {
+     "position": "12",
+     "title": "Travel",
+     "artist": "Tristan",
+     "duration": "4:40"
+    }
+   ]
+  },
+  {
+   "id": "d15582867",
+   "discogsId": 15582867,
+   "title": "Hail Ceasar!",
+   "artist": "Caesar Frazier",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Tidal Waves Music",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/RJr6-ZWKG8YarXY69yMnDtZ12fnlgbAo81jMsrzUN-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgy/ODY3LTE1OTY3MjIw/MTktNzc1OC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 6,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Limited to 100 copies (with sticker on front cover) 180g CLEAR Vinyl LIGHT IN THE ATTIC exclusive.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Hicky-Burr",
+     "artist": "Caesar Frazier",
+     "duration": "8:05"
+    },
+    {
+     "position": "A2",
+     "title": "Ellie's Love Theme",
+     "artist": "Caesar Frazier",
+     "duration": "5:00"
+    },
+    {
+     "position": "A3",
+     "title": "See-F",
+     "artist": "Caesar Frazier",
+     "duration": "4:37"
+    },
+    {
+     "position": "B1",
+     "title": "Hail Ceasar!",
+     "artist": "Caesar Frazier",
+     "duration": "6:23"
+    },
+    {
+     "position": "B2",
+     "title": "Make It With You",
+     "artist": "Caesar Frazier",
+     "duration": "4:42"
+    },
+    {
+     "position": "B3",
+     "title": "Runnin' Away",
+     "artist": "Caesar Frazier",
+     "duration": "4:55"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
