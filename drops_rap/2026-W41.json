@@ -1,0 +1,141 @@
+{
+ "date": "2026-W41",
+ "generatedAt": "2026-10-05T21:24:28Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-6807538469",
+   "discogsId": 0,
+   "title": "2 Seat",
+   "artist": "DaniLeigh",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/fc/32/e3fc3206-ece6-5cdc-d5cc-25122440d146/1338299.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "2 Seat",
+     "artist": "DaniLeigh",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1068421981",
+   "discogsId": 0,
+   "title": "With Love, From Dani",
+   "artist": "DaniLeigh",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/eeebb537c8e7c265ce0832205aa07ee1/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Worthy",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Cinderella Man",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Home",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "G.O.D.",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Step",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Up Down",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Expensive",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "La Familia",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Slide",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "SK8",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "2 Seat",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "Goosebumps",
+     "artist": "DaniLeigh",
+     "duration": ""
+    },
+    {
+     "position": "13",
+     "title": "G.O.D. (feat. Alex Jean)",
+     "artist": "DaniLeigh",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 2
+ }
+}
