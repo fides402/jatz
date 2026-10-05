@@ -1,0 +1,465 @@
+{
+ "date": "2026-10-05",
+ "generatedAt": "2026-10-05T10:49:27Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d4164025",
+   "discogsId": 4164025,
+   "title": "The Third World",
+   "artist": "Herbie Nichols",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "Blue Note",
+   "country": "US",
+   "styles": [
+    "Hard Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/mysX63Qx8vqnytNPfy4ZOvu4atp-ZxkiFNBPs5dhccc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjQw/MjUtMTU3MTE1MDY2/My0xNTUyLmpwZWc.jpeg",
+   "ratingAvg": 4.69,
+   "ratingCount": 42,
+   "score": 0.6258,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "\"The complete Blue Note recordings of one of the most remarkable and unique composer/pianist in jazz.\"\n\nSide A recorded in New York on May 6, 1955. Previously issued as a 10\" album Blue Note 5068, [r=5582421].\nSide B recorded in New York on May 13, 1955. Previously issued as a 10\" album Blue Note 5069, [r=7903551].\nTracks C1 to C5 and D4 recorded in New York on August 1, 1955. Previously issued on \"[m=208989]\"\nTracks D1, D2, D3 and D5 recorded in New York on April 19, 1956. Previously issued on \"[m=208989]\"\nAll tunes mono.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Third World",
+     "artist": "Herbie Nichols",
+     "duration": "4:05"
+    },
+    {
+     "position": "A2",
+     "title": "Step Tempest",
+     "artist": "Herbie Nichols",
+     "duration": "5:04"
+    },
+    {
+     "position": "A3",
+     "title": "Dance Line",
+     "artist": "Herbie Nichols",
+     "duration": "4:20"
+    },
+    {
+     "position": "A4",
+     "title": "Blue Chopsticks",
+     "artist": "Herbie Nichols",
+     "duration": "4:15"
+    },
+    {
+     "position": "A5",
+     "title": "Double Exposure",
+     "artist": "Herbie Nichols",
+     "duration": "3:18"
+    },
+    {
+     "position": "A6",
+     "title": "Cro-Magnon Nights",
+     "artist": "Herbie Nichols",
+     "duration": "4:35"
+    },
+    {
+     "position": "B1",
+     "title": "Amoeba's Dance",
+     "artist": "Herbie Nichols",
+     "duration": "4:20"
+    },
+    {
+     "position": "B2",
+     "title": "Crisp Day",
+     "artist": "Herbie Nichols",
+     "duration": "3:40"
+    },
+    {
+     "position": "B3",
+     "title": "2300 Skiddoo",
+     "artist": "Herbie Nichols",
+     "duration": "4:40"
+    },
+    {
+     "position": "B4",
+     "title": "It Did't Happen",
+     "artist": "Herbie Nichols",
+     "duration": "4:12"
+    },
+    {
+     "position": "B5",
+     "title": "Shuffle Montgomery",
+     "artist": "Herbie Nichols",
+     "duration": "4:07"
+    },
+    {
+     "position": "B6",
+     "title": "Brass Rings",
+     "artist": "Herbie Nichols",
+     "duration": "3:57"
+    },
+    {
+     "position": "C1",
+     "title": "The Gig",
+     "artist": "Herbie Nichols",
+     "duration": "4:22"
+    },
+    {
+     "position": "C2",
+     "title": "House Party Starting",
+     "artist": "Herbie Nichols",
+     "duration": "5:35"
+    },
+    {
+     "position": "C3",
+     "title": "Chit Chattin'",
+     "artist": "Herbie Nichols",
+     "duration": "4:00"
+    },
+    {
+     "position": "C4",
+     "title": "The Lady Sings The Blues",
+     "artist": "Herbie Nichols",
+     "duration": "4:20"
+    },
+    {
+     "position": "C5",
+     "title": "Terpsichore",
+     "artist": "Herbie Nichols",
+     "duration": "3:56"
+    },
+    {
+     "position": "D1",
+     "title": "Spinning Song",
+     "artist": "Herbie Nichols",
+     "duration": "5:45"
+    },
+    {
+     "position": "D2",
+     "title": "Query",
+     "artist": "Herbie Nichols",
+     "duration": "3:20"
+    },
+    {
+     "position": "D3",
+     "title": "Wildflower",
+     "artist": "Herbie Nichols",
+     "duration": "4:00"
+    },
+    {
+     "position": "D4",
+     "title": "Hangover Triangle",
+     "artist": "Herbie Nichols",
+     "duration": "4:00"
+    },
+    {
+     "position": "D5",
+     "title": "Mine",
+     "artist": "Herbie Nichols",
+     "duration": "4:00"
+    }
+   ]
+  },
+  {
+   "id": "d3389388",
+   "discogsId": 3389388,
+   "title": "\"Frankly Speaking\"",
+   "artist": "The Frank Newman Quartet",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Reverb Records (6)",
+   "country": "US",
+   "styles": [
+    "Swing",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/_JK5GbDqgPsmlDZC2yAo69pOd-UDwptdgOksjdKeUO4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODkz/ODgtMTY0OTk3NzUx/OC0zMzU5LmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5965,
+   "vibe": 62,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Reverb Records\r\n5959 Oldtown\r\nDetroit, Michigan\r\n48224\r\n\r\nRecorded September 26, 1967\r\n\r\nReally tough: One time recording for this artist/group (The Jazz Discography). Art Mardigian is still spelling his name with the second (i) as he changed it to Mardigan later. No info. on the label or if the label did more than one release. Cat.# is M1001. Liner notes are by famed jazz musician Jack Brokensha. As all these musicians/engineer are or where fixtures in the midwest (Detroit esp.) at this time and Brokensha bio. says he had a production co. at that time, one can assume this is a Brokensha produ",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Soft Winds",
+     "artist": "The Frank Newman Quartet",
+     "duration": "3:22"
+    },
+    {
+     "position": "A2",
+     "title": "See-Me-Lo (Similau)",
+     "artist": "The Frank Newman Quartet",
+     "duration": "3:05"
+    },
+    {
+     "position": "A3",
+     "title": "Baubles, Bangles And Beads",
+     "artist": "The Frank Newman Quartet",
+     "duration": "2:36"
+    },
+    {
+     "position": "A4",
+     "title": "It Never Entered My Mind",
+     "artist": "The Frank Newman Quartet",
+     "duration": "3:41"
+    },
+    {
+     "position": "A5",
+     "title": "Time Was",
+     "artist": "The Frank Newman Quartet",
+     "duration": "2:52"
+    },
+    {
+     "position": "B1",
+     "title": "You'd Be So Nice To Come Home To",
+     "artist": "The Frank Newman Quartet",
+     "duration": "3:15"
+    },
+    {
+     "position": "B2",
+     "title": "My One And Only Love",
+     "artist": "The Frank Newman Quartet",
+     "duration": "2:35"
+    },
+    {
+     "position": "B3",
+     "title": "Jasper The Swinging Ghost",
+     "artist": "The Frank Newman Quartet",
+     "duration": "3:00"
+    },
+    {
+     "position": "B4",
+     "title": "Star Dust",
+     "artist": "The Frank Newman Quartet",
+     "duration": "2:01"
+    },
+    {
+     "position": "B5",
+     "title": "I Have Dreamed",
+     "artist": "The Frank Newman Quartet",
+     "duration": "2:56"
+    }
+   ]
+  },
+  {
+   "id": "d15425187",
+   "discogsId": 15425187,
+   "title": "Mirror, Mirror",
+   "artist": "Joe Henderson & Chick Corea & Ron Carter & Billy Higgins",
+   "year": 1980,
+   "era": "VINTAGE",
+   "label": "MPS Records",
+   "country": "Spain",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/vwFH4xiORiFdu1qjQ_AanHEWL8302_M12EYhrBPvm-M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/MTg3LTE1OTEzNDA1/MjEtNTA1Ni5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.562,
+   "vibe": 53,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "\n\nRecorded at Studio-Masters Los Angeles, January 1980\n\n℗ © 1980 by MPS Records\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Mirror, Mirror",
+     "artist": "Joe Henderson & Chick Corea & Ron Carter & Billy Higgins",
+     "duration": "5:53"
+    },
+    {
+     "position": "A2",
+     "title": "Candlelight",
+     "artist": "Joe Henderson & Chick Corea & Ron Carter & Billy Higgins",
+     "duration": "6:13"
+    },
+    {
+     "position": "A3",
+     "title": "Keystone",
+     "artist": "Joe Henderson & Chick Corea & Ron Carter & Billy Higgins",
+     "duration": "9:40"
+    },
+    {
+     "position": "B1",
+     "title": "Joe's Bolero",
+     "artist": "Joe Henderson & Chick Corea & Ron Carter & Billy Higgins",
+     "duration": "9:43"
+    },
+    {
+     "position": "B2",
+     "title": "What's New",
+     "artist": "Joe Henderson & Chick Corea & Ron Carter & Billy Higgins",
+     "duration": "3:58"
+    },
+    {
+     "position": "B3",
+     "title": "Blues For Liebestraum",
+     "artist": "Joe Henderson & Chick Corea & Ron Carter & Billy Higgins",
+     "duration": "7:56"
+    }
+   ]
+  },
+  {
+   "id": "d24606746",
+   "discogsId": 24606746,
+   "title": "Jenga",
+   "artist": "JiLL-Decoy association & chihiRo",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "decogram recods",
+   "country": "Japan",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/5G_8vKx_5kD7a6fXC_lSJCjiO0bya236L4yaPpoZnGI/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjA2/NzQ2LTE2NjM5NDA3/MTEtMjI4Mi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6496,
+   "vibe": 75,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Pray",
+     "artist": "JiLL-Decoy association & chihiRo",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Letter For You",
+     "artist": "JiLL-Decoy association & chihiRo",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "甘いライフ",
+     "artist": "JiLL-Decoy association & chihiRo",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "花火",
+     "artist": "JiLL-Decoy association & chihiRo",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "君に触れたい",
+     "artist": "JiLL-Decoy association & chihiRo",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Tomorrow Is Another Day",
+     "artist": "JiLL-Decoy association & chihiRo",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Interlude",
+     "artist": "JiLL-Decoy association & chihiRo",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "グレー色",
+     "artist": "JiLL-Decoy association & chihiRo",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "恋人",
+     "artist": "JiLL-Decoy association & chihiRo",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "Homecoming",
+     "artist": "JiLL-Decoy association & chihiRo",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d35957206",
+   "discogsId": 35957206,
+   "title": "Abendmusiken",
+   "artist": "Green Cosmos",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Frederiksberg Records",
+   "country": "USA & Europe",
+   "styles": [
+    "Spiritual Jazz",
+    "Avant-garde Jazz",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/W-ML37S9swfFBObSIu5JIzzrqJPSPjLey2R345AO9LQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTU3/MjA2LTE3NjYwNjIz/NzItODMzOS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6451,
+   "vibe": 74,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Aufnahmen: 29.12.1981 Marsberg (5, 6) - 29./30.12.1982 Galerie Varsbeck",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Über Dem Berg",
+     "artist": "Green Cosmos",
+     "duration": "7:21"
+    },
+    {
+     "position": "2",
+     "title": "Nach Dem Sandsturm",
+     "artist": "Green Cosmos",
+     "duration": "7:32"
+    },
+    {
+     "position": "3",
+     "title": "Lovely Suite",
+     "artist": "Green Cosmos",
+     "duration": "4:38"
+    },
+    {
+     "position": "4",
+     "title": "Vollmondscheinsonate",
+     "artist": "Green Cosmos",
+     "duration": "4:13"
+    },
+    {
+     "position": "5",
+     "title": "Kalimba Suite, Part 1",
+     "artist": "Green Cosmos",
+     "duration": "5:59"
+    },
+    {
+     "position": "6",
+     "title": "Fools Of Paradise",
+     "artist": "Green Cosmos",
+     "duration": "7:56"
+    },
+    {
+     "position": "7",
+     "title": "Concentration",
+     "artist": "Green Cosmos",
+     "duration": "6:37"
+    },
+    {
+     "position": "8",
+     "title": "Opus X",
+     "artist": "Green Cosmos",
+     "duration": "5:12"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
