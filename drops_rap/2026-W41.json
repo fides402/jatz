@@ -1,6 +1,6 @@
 {
  "date": "2026-W41",
- "generatedAt": "2026-10-06T19:20:23Z",
+ "generatedAt": "2026-10-07T19:47:02Z",
  "profile": "rap",
  "albums": [
   {
@@ -161,10 +161,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-1292919007182575306",
+   "discogsId": 0,
+   "title": "Coast 2 Coast",
+   "artist": "Lil Baby featuring Fatt Smaxk & Bally Baby",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Coast 2 Coast",
+     "artist": "Lil Baby featuring Fatt Smaxk & Bally Baby",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-unresolved-2941297616882435962",
+   "discogsId": 0,
+   "title": "Making Drops",
+   "artist": "Young Chris",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Making Drops",
+     "artist": "Young Chris",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 3
+  "modern": 5
  }
 }
