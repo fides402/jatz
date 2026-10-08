@@ -1,0 +1,364 @@
+{
+ "date": "2026-10-08",
+ "generatedAt": "2026-10-08T10:54:43Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d13356182",
+   "discogsId": 13356182,
+   "title": "Iguaçu",
+   "artist": "Passport",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Atlantic",
+   "country": "Germany",
+   "styles": [
+    "Latin",
+    "Jazz-Funk",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/dgMplJAVYWip_kg4BU4bH09_KKC4zh7k03HyhYiY3qM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU2/MTgyLTE1NTI2NzM0/MjctMjI5NC5qcGVn.jpeg",
+   "ratingAvg": 3.86,
+   "ratingCount": 7,
+   "score": 0.6955,
+   "vibe": 86,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Recorded at Union Studios, München & Level Studios, Rio De Janeiro.\n\nAll selections published by Musik Unserer Zeit.\n\n℗ 1977 Atlantic Records Corp. (On Backcover)\n℗ 1977 WEA Musik GmbH. (On Labels)\n© WEA Musik GmbH. \nDistributed by WEA Musik GmbH.\nMade in Germany.\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Bahia Do Sol",
+     "artist": "Passport",
+     "duration": "5:53"
+    },
+    {
+     "position": "A2",
+     "title": "Aguamarinha",
+     "artist": "Passport",
+     "duration": "4:10"
+    },
+    {
+     "position": "A3",
+     "title": "Bird Of Paradise",
+     "artist": "Passport",
+     "duration": "5:36"
+    },
+    {
+     "position": "A4",
+     "title": "Sambukada",
+     "artist": "Passport",
+     "duration": "4:30"
+    },
+    {
+     "position": "B1",
+     "title": "Iguaçu",
+     "artist": "Passport",
+     "duration": "8:42"
+    },
+    {
+     "position": "B2",
+     "title": "Praia Leme",
+     "artist": "Passport",
+     "duration": "2:58"
+    },
+    {
+     "position": "B3",
+     "title": "Heavy Weight",
+     "artist": "Passport",
+     "duration": "4:30"
+    },
+    {
+     "position": "B4",
+     "title": "Guna Guna",
+     "artist": "Passport",
+     "duration": "4:28"
+    }
+   ]
+  },
+  {
+   "id": "d8789301",
+   "discogsId": 8789301,
+   "title": "Vinicius & Toquinho",
+   "artist": "Toquinho & Vinicius",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Philips",
+   "country": "Uruguay",
+   "styles": [
+    "Samba",
+    "MPB",
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/fLXD8q7fD-fiiPks7wdPZr2f2AmxVjtJgQPdxNHSZcM/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODkz/MDEtMTQ2ODc5NDg1/OS02MjY4LmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6872,
+   "vibe": 84,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Como É Duro Trabalhar",
+     "artist": "Toquinho & Vinicius",
+     "duration": "3:46"
+    },
+    {
+     "position": "A2",
+     "title": "Samba Da Volta",
+     "artist": "Toquinho & Vinicius",
+     "duration": "2:50"
+    },
+    {
+     "position": "A3",
+     "title": "A Carta Que Não Foi Mandada",
+     "artist": "Toquinho & Vinicius",
+     "duration": "2:55"
+    },
+    {
+     "position": "A4",
+     "title": "Triste Sertão",
+     "artist": "Toquinho & Vinicius",
+     "duration": "3:10"
+    },
+    {
+     "position": "A5",
+     "title": "Carta Ao Tom 74",
+     "artist": "Toquinho & Vinicius",
+     "duration": "2:40"
+    },
+    {
+     "position": "A6",
+     "title": "Canto E Contraponto",
+     "artist": "Toquinho & Vinicius",
+     "duration": "3:03"
+    },
+    {
+     "position": "B1",
+     "title": "Samba Pra Vinicius",
+     "artist": "Toquinho & Vinicius",
+     "duration": "2:42"
+    },
+    {
+     "position": "B2",
+     "title": "Sem Medo",
+     "artist": "Toquinho & Vinicius",
+     "duration": "3:40"
+    },
+    {
+     "position": "B3",
+     "title": "Samba Do Jato",
+     "artist": "Toquinho & Vinicius",
+     "duration": "3:42"
+    },
+    {
+     "position": "B4",
+     "title": "As Cores De Abril",
+     "artist": "Toquinho & Vinicius",
+     "duration": "4:00"
+    },
+    {
+     "position": "B5",
+     "title": "Tudo Na Mais Santa Paz",
+     "artist": "Toquinho & Vinicius",
+     "duration": "3:40"
+    }
+   ]
+  },
+  {
+   "id": "d4798893",
+   "discogsId": 4798893,
+   "title": "Bing And Satchmo",
+   "artist": "Bing Crosby & Louis Armstrong",
+   "year": 1978,
+   "era": "VINTAGE",
+   "label": "Capitol Records",
+   "country": "Australia",
+   "styles": [
+    "Big Band",
+    "Dixieland"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6619,
+   "vibe": 78,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at United Recording, Hollywood, Calif.\n\n(Recording first published 1960)\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Muskrat Ramble",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "2:58"
+    },
+    {
+     "position": "A2",
+     "title": "Sugar",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "5:11"
+    },
+    {
+     "position": "A3",
+     "title": "Preacher",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "2:15"
+    },
+    {
+     "position": "A4",
+     "title": "Dardanella",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "2:45"
+    },
+    {
+     "position": "A5",
+     "title": "Let's Sing Like A Dixieland Band",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "2:16"
+    },
+    {
+     "position": "B1",
+     "title": "'Way Down Yonder In New Orleans",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "3:03"
+    },
+    {
+     "position": "B2",
+     "title": "Brother Bill",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "2:58"
+    },
+    {
+     "position": "B3",
+     "title": "Little Ol' Tune",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "3:03"
+    },
+    {
+     "position": "B4",
+     "title": "At The Jazz Band Ball",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "3:00"
+    },
+    {
+     "position": "B5",
+     "title": "Rocky Mountain Moon",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "3:40"
+    },
+    {
+     "position": "B6",
+     "title": "Bye Bye Blues",
+     "artist": "Bing Crosby & Louis Armstrong",
+     "duration": "3:42"
+    }
+   ]
+  },
+  {
+   "id": "d25754551",
+   "discogsId": 25754551,
+   "title": "Kind Of Blue",
+   "artist": "Miles Davis",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Second Records",
+   "country": "Europe",
+   "styles": [
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/xSsKNXMn7fTQ6JXsr_z3osiOZFAesn8g0Osp-fM53uc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU0/NTUxLTE2NzM2MjUy/ODItODgwMi5qcGVn.jpeg",
+   "ratingAvg": 4.57,
+   "ratingCount": 23,
+   "score": 0.5704,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Barcode appears on hype sticker.\nComes in PVC protective sleeve.\n180 gram\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "So What",
+     "artist": "Miles Davis",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Freddie Freeloader",
+     "artist": "Miles Davis",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Blue In Green",
+     "artist": "Miles Davis",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Flamenco Sketches",
+     "artist": "Miles Davis",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "All Blues",
+     "artist": "Miles Davis",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d25533880",
+   "discogsId": 25533880,
+   "title": "FM Flight",
+   "artist": "Moot Booxlé & Kozmik Funk",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "NYC Records (6)",
+   "country": "USA & Canada",
+   "styles": [
+    "Nu-Disco",
+    "Italo-Disco",
+    "House",
+    "Disco",
+    "Synthwave",
+    "Future Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/HkS5jc_YgnEWADUTg0foX0B6mGT3RzK8LSzrZ6zpAOE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTMz/ODgwLTE2NzE2NzQx/ODMtNjk4NS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "2 Acetates made for label owner for promotional purposes (of tracks not available on Vinyl)\n\nRecorded, Mixed, & Mastered @SPAZZOID STUDIO, FL\n(Most Synths on \"FM Flight\" recorded @Moot Booxle studio, FL)\n\n\"A VERY SPECIAL REENO MIX\"",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "FM Flight",
+     "artist": "Moot Booxlé",
+     "duration": "6:45"
+    },
+    {
+     "position": "B1",
+     "title": "FM Madness",
+     "artist": "Kozmik Funk",
+     "duration": "4:22"
+    },
+    {
+     "position": "B2",
+     "title": "FM Madness (Bonus Beats)",
+     "artist": "Kozmik Funk",
+     "duration": "3:53"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
