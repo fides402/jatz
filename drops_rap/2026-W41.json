@@ -1,6 +1,6 @@
 {
  "date": "2026-W41",
- "generatedAt": "2026-10-07T19:47:02Z",
+ "generatedAt": "2026-10-08T19:42:29Z",
  "profile": "rap",
  "albums": [
   {
@@ -219,10 +219,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-5015943856479201491",
+   "discogsId": 0,
+   "title": "Every Night",
+   "artist": "Offset featuring Don Toliver",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Every Night",
+     "artist": "Offset featuring Don Toliver",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 5
+  "modern": 6
  }
 }
