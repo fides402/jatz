@@ -1,6 +1,6 @@
 {
  "date": "2026-W41",
- "generatedAt": "2026-10-08T19:42:29Z",
+ "generatedAt": "2026-10-09T19:18:56Z",
  "profile": "rap",
  "albums": [
   {
@@ -248,10 +248,105 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6818930250",
+   "discogsId": 0,
+   "title": "THE BRIDGE",
+   "artist": "Tobe Nwigwe",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/0c/cc/370ccc0b-834f-bbb7-3577-147f36d3cf72/885288729627.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "CHINEKE",
+     "artist": "Tobe Nwigwe & Busta Rhymes",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "CHOP",
+     "artist": "Tobe Nwigwe & The Cavemen.",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "DISGUISE",
+     "artist": "Tobe Nwigwe, Sia & Fat Nwigwe",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "ULTRASOUND",
+     "artist": "Tobe Nwigwe, Adekunle Gold & K CAMP",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "ALL OR NOTHING",
+     "artist": "Tobe Nwigwe & Labrinth",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "PERFECTION (feat. C.S. Armstrong)",
+     "artist": "Tobe Nwigwe & Flavour",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "TOPS DROP '26",
+     "artist": "Tobe Nwigwe & Paul Wall",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "ALLAHUAKBARS",
+     "artist": "Tobe Nwigwe & Fat Nwigwe",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "PEACE AND PROBLEMS",
+     "artist": "Tobe Nwigwe, Scarface, Hanumankind & ODUMODUBLVCK",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "HEAVEN KNOWS ME WELL",
+     "artist": "Tobe Nwigwe, Malice & Jacob Banks",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "SUPERSTAR",
+     "artist": "Tobe Nwigwe, The Cavemen. & FirstKlaz",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "WHAT LOVERS DO",
+     "artist": "Tobe Nwigwe, Infinity Song, Fat Nwigwe & The Cavemen.",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 6
+  "modern": 7
  }
 }
