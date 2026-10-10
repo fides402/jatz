@@ -1,0 +1,362 @@
+{
+ "date": "2026-10-10",
+ "generatedAt": "2026-10-10T10:08:23Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d4130545",
+   "discogsId": 4130545,
+   "title": "Mirrors",
+   "artist": "Benny Bailey",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "Freedom",
+   "country": "Germany",
+   "styles": [
+    "Smooth Jazz",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/TWE3VqJIQLVewP11maVoD81Pgm1TQQbyjqHiBEh3R6I/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzA1/NDUtMTM1NjI5ODA1/OC00MzY1LmpwZWc.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 2,
+   "score": 0.5977,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Plus 12 String Section\r\nA FREEDOM recording (FLP 40 163)\r\nRecorded at Cornet Studios Cologne \r\nSeptember 11th 1971 \r\n© ℗ 1975 Phonoco International Ltd.\r\nA product of Intercord Tom GmbH.\r\nPrinted in West Germany.\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Mirrors",
+     "artist": "Benny Bailey",
+     "duration": "6:49"
+    },
+    {
+     "position": "A2",
+     "title": "Effluves",
+     "artist": "Benny Bailey",
+     "duration": "5:50"
+    },
+    {
+     "position": "A3",
+     "title": "Flunkeyania",
+     "artist": "Benny Bailey",
+     "duration": "5:41"
+    },
+    {
+     "position": "B1",
+     "title": "Sum Umbra",
+     "artist": "Benny Bailey",
+     "duration": "6:41"
+    },
+    {
+     "position": "B2",
+     "title": "Everything Happens To Me",
+     "artist": "Benny Bailey",
+     "duration": "5:19"
+    },
+    {
+     "position": "B3",
+     "title": "At Ronnie's",
+     "artist": "Benny Bailey",
+     "duration": "7:28"
+    }
+   ]
+  },
+  {
+   "id": "d12261869",
+   "discogsId": 12261869,
+   "title": "Feelin' Red",
+   "artist": "Red Garland",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "Seven Seas",
+   "country": "Japan",
+   "styles": [
+    "Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/yaxcVsmNclJ37UPWnnVQT3pV7R8LIWTYZOWD2Qsl1gI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/ODY5LTE1MzE2Njcx/MDUtNzY5OS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5964,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at CI Recording, NYC  ‎– May 15, 1978.\n\nⒸⓅ 1979, Muse Records, A Division Of Blanchris, Inc.\n\nA1: Chappell & Co., Inc. ASCAP\nA2: Chappell & Co., Inc. ASCAP\nA3: Chappell & Co., Inc. ASCAP\nB1: P.D.\nB2: Miller Music ASCAP\nB3: Bregman, Vocco & Conn, Inc. ASCAP\nB4: The Peter Maurice Music Co. Ltd./Shapiro Bernstein & Co., Inc. ASCAP\nIncludes Japanese liner notes.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "It's All Right With Me",
+     "artist": "Red Garland",
+     "duration": "8:40"
+    },
+    {
+     "position": "A2",
+     "title": "You Better Go Now",
+     "artist": "Red Garland",
+     "duration": "4:23"
+    },
+    {
+     "position": "A3",
+     "title": "On A Clear Day",
+     "artist": "Red Garland",
+     "duration": "8:30"
+    },
+    {
+     "position": "B1",
+     "title": "Going Home",
+     "artist": "Red Garland",
+     "duration": "8:01"
+    },
+    {
+     "position": "B2",
+     "title": "The Second Time Around",
+     "artist": "Red Garland",
+     "duration": "3:13"
+    },
+    {
+     "position": "B3",
+     "title": "I Wish I Knew",
+     "artist": "Red Garland",
+     "duration": "3:55"
+    },
+    {
+     "position": "B4",
+     "title": "Cherokee",
+     "artist": "Red Garland",
+     "duration": "5:32"
+    }
+   ]
+  },
+  {
+   "id": "d7839943",
+   "discogsId": 7839943,
+   "title": "Movin On",
+   "artist": "Roger Eckers",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Zez Records",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/MfGHF7n2rk6HO1T3UeBYS6gMr_y13St3_6wt235zZmQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mzk5/NDMtMTQ0OTkyMDgz/Ni03MzEyLmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 2,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Movin On",
+     "artist": "Roger Eckers",
+     "duration": "3:17"
+    },
+    {
+     "position": "A2",
+     "title": "Mercy Mercy Mercy",
+     "artist": "Roger Eckers",
+     "duration": "4:17"
+    },
+    {
+     "position": "A3",
+     "title": "You Don't Know Like I Know",
+     "artist": "Roger Eckers",
+     "duration": "3:45"
+    },
+    {
+     "position": "A4",
+     "title": "Traces",
+     "artist": "Roger Eckers",
+     "duration": "3:40"
+    },
+    {
+     "position": "A5",
+     "title": "Also Sparach Zarathustra Theme From 2001",
+     "artist": "Roger Eckers",
+     "duration": "8:07"
+    },
+    {
+     "position": "B1",
+     "title": "Put It Where You Want It",
+     "artist": "Roger Eckers",
+     "duration": "3:40"
+    },
+    {
+     "position": "B2",
+     "title": "My Love",
+     "artist": "Roger Eckers",
+     "duration": "3:30"
+    },
+    {
+     "position": "B3",
+     "title": "Watermelon Man",
+     "artist": "Roger Eckers",
+     "duration": "3:30"
+    },
+    {
+     "position": "B4",
+     "title": "Suavicito",
+     "artist": "Roger Eckers",
+     "duration": "3:35"
+    },
+    {
+     "position": "B5",
+     "title": "I Gotta Make It With You",
+     "artist": "Roger Eckers",
+     "duration": "4:01"
+    },
+    {
+     "position": "B6",
+     "title": "Day By Day - Godspell",
+     "artist": "Roger Eckers",
+     "duration": "2:28"
+    }
+   ]
+  },
+  {
+   "id": "d34410775",
+   "discogsId": 34410775,
+   "title": "Insides",
+   "artist": "Paulina Przybysz",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Calm Courage",
+   "country": "Poland",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/89OvYCnMODttIoonDRw-EERZvcWB2dS2BPSMCbYqDrc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDEw/Nzc1LTE3NTEyNzI1/MDktOTY5OS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.707,
+   "vibe": 89,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Total time: 45:20.\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Naima",
+     "artist": "Paulina Przybysz",
+     "duration": "5:28"
+    },
+    {
+     "position": "A2",
+     "title": "See-Line Woman",
+     "artist": "Paulina Przybysz",
+     "duration": "5:12"
+    },
+    {
+     "position": "A3",
+     "title": "I Cover The Waterfront",
+     "artist": "Paulina Przybysz",
+     "duration": "6:06"
+    },
+    {
+     "position": "A4",
+     "title": "Door Of The Cosmos",
+     "artist": "Paulina Przybysz",
+     "duration": "5:46"
+    },
+    {
+     "position": "B1",
+     "title": "Salt Peanuts",
+     "artist": "Paulina Przybysz",
+     "duration": "4:12"
+    },
+    {
+     "position": "B2",
+     "title": "Good Bless The Child",
+     "artist": "Paulina Przybysz",
+     "duration": "3:20"
+    },
+    {
+     "position": "B3",
+     "title": "Retrograde",
+     "artist": "Paulina Przybysz",
+     "duration": "3:22"
+    },
+    {
+     "position": "B4",
+     "title": "Old Devil Moon",
+     "artist": "Paulina Przybysz",
+     "duration": "3:45"
+    },
+    {
+     "position": "B5",
+     "title": "(Sittin' On) The Dock Of The Bay",
+     "artist": "Paulina Przybysz",
+     "duration": "3:37"
+    },
+    {
+     "position": "B6",
+     "title": "Sometimes I Feel Like A Motherless Child",
+     "artist": "Paulina Przybysz",
+     "duration": "4:21"
+    }
+   ]
+  },
+  {
+   "id": "d20532748",
+   "discogsId": 20532748,
+   "title": "Flight 17",
+   "artist": "The Pan-Afrikan Peoples Arkestra & Horace Tapscott",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "UGMAA",
+   "country": "UK",
+   "styles": [
+    "Modal",
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/qNWQHZ2hLhXT1mEJE1PGaw8J1AnKgCH47rT4dYMdEbk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTMy/NzQ4LTE2MzM4MDc3/NDUtNDI4My5qcGVn.jpeg",
+   "ratingAvg": 4.29,
+   "ratingCount": 7,
+   "score": 0.5571,
+   "vibe": 52,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Recorded Los Angeles 1978\nRunouts are etched, except \"-58292-\" is stamped.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Flight 17",
+     "artist": "The Pan-Afrikan Peoples Arkestra & Horace Tapscott",
+     "duration": "15:53"
+    },
+    {
+     "position": "A2",
+     "title": "Breeze",
+     "artist": "The Pan-Afrikan Peoples Arkestra & Horace Tapscott",
+     "duration": "3:09"
+    },
+    {
+     "position": "B1",
+     "title": "Horacio",
+     "artist": "The Pan-Afrikan Peoples Arkestra & Horace Tapscott",
+     "duration": "6:01"
+    },
+    {
+     "position": "B2",
+     "title": "Clarisse",
+     "artist": "The Pan-Afrikan Peoples Arkestra & Horace Tapscott",
+     "duration": "6:27"
+    },
+    {
+     "position": "B3",
+     "title": "Maui",
+     "artist": "The Pan-Afrikan Peoples Arkestra & Horace Tapscott",
+     "duration": "7:21"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
