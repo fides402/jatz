@@ -1,6 +1,6 @@
 {
  "date": "2026-W41",
- "generatedAt": "2026-10-09T19:18:56Z",
+ "generatedAt": "2026-10-10T18:16:09Z",
  "profile": "rap",
  "albums": [
   {
@@ -343,10 +343,97 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4323350262",
+   "discogsId": 0,
+   "title": "FOR SIXXX IN THE MORNIN",
+   "artist": "Jessie Reyez",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/753e5cfe62a4bc82ccbd8d4518b5f65c/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "FOR SIXXX IN THE MORNIN",
+     "artist": "Jessie Reyez",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4329766682",
+   "discogsId": 0,
+   "title": "MR. WALK EM DOWN",
+   "artist": "Doe Boy",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e675f27f4ff4aaaec5963ccf26e035aa/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "MR. WALK EM DOWN",
+     "artist": "Doe Boy",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6818244563",
+   "discogsId": 0,
+   "title": "BURN",
+   "artist": "BigXthaPlug & Ava Max",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/ad/95/a5ad95fd-b040-273f-498f-87187af32f71/BIGXUPDATEDclean-copy-7f85c9b4.png/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "BURN",
+     "artist": "BigXthaPlug & Ava Max",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 7
+  "modern": 10
  }
 }
