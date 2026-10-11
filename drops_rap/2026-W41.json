@@ -1,6 +1,6 @@
 {
  "date": "2026-W41",
- "generatedAt": "2026-10-10T18:16:09Z",
+ "generatedAt": "2026-10-11T18:40:32Z",
  "profile": "rap",
  "albums": [
   {
@@ -430,10 +430,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6819371356",
+   "discogsId": 0,
+   "title": "Come Outside",
+   "artist": "ScarLip",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/a9/57/70a957bd-7fe2-9433-0196-ae6cc80a2086/196874822975.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Come Outside",
+     "artist": "ScarLip",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-unresolved-9126494380320452128",
+   "discogsId": 0,
+   "title": "“1994”",
+   "artist": "LaRussell & ReeceBeats",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "“1994”",
+     "artist": "LaRussell & ReeceBeats",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 10
+  "modern": 12
  }
 }
