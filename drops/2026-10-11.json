@@ -1,0 +1,377 @@
+{
+ "date": "2026-10-11",
+ "generatedAt": "2026-10-11T10:18:29Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d27046425",
+   "discogsId": 27046425,
+   "title": "Ahmad Jamal '73",
+   "artist": "Ahmad Jamal",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "20th Century Records",
+   "country": "Japan",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/xmZAh11caMMtO3Lfy2QcCvT3RsGtysFx5cIo1JP46iY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDQ2/NDI1LTE2ODM4MjE0/NDQtMzIyMy5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "1974 Japanese promo vinyl LP",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The World Is A Ghetto",
+     "artist": "Ahmad Jamal",
+     "duration": "9:44"
+    },
+    {
+     "position": "A2",
+     "title": "Children Of The Night",
+     "artist": "Ahmad Jamal",
+     "duration": "5:04"
+    },
+    {
+     "position": "A3",
+     "title": "Superstition",
+     "artist": "Ahmad Jamal",
+     "duration": "4:03"
+    },
+    {
+     "position": "B1",
+     "title": "Trilby",
+     "artist": "Ahmad Jamal",
+     "duration": "4:34"
+    },
+    {
+     "position": "B2",
+     "title": "Sustah, Sustah",
+     "artist": "Ahmad Jamal",
+     "duration": "6:44"
+    },
+    {
+     "position": "B3",
+     "title": "Soul Girl",
+     "artist": "Ahmad Jamal",
+     "duration": "3:25"
+    },
+    {
+     "position": "B4",
+     "title": "Peace At Last",
+     "artist": "Ahmad Jamal",
+     "duration": "6:17"
+    }
+   ]
+  },
+  {
+   "id": "d17954557",
+   "discogsId": 17954557,
+   "title": "Lonliness",
+   "artist": "Musicians From The Summer Program For Youthful Musicians",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Lightin' Records",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/cTGT2gIlVcW1j0j5K-3oAxHngGWd_TEJ05P3RSvvqrA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTU0/NTU3LTE2OTM0NDk2/NzMtOTI5MS5qcGVn.jpeg",
+   "ratingAvg": 4.67,
+   "ratingCount": 3,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Natl. Endowment for the Arts",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Lonliness",
+     "artist": "Musicians From The Summer Program For Youthful Musicians",
+     "duration": "5:32"
+    },
+    {
+     "position": "B",
+     "title": "Zodiac",
+     "artist": "Musicians From The Summer Program For Youthful Musicians",
+     "duration": "3:26"
+    }
+   ]
+  },
+  {
+   "id": "d5927757",
+   "discogsId": 5927757,
+   "title": "Workshop",
+   "artist": "Jan Walravens",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Jan Walravens Musical Entertainment",
+   "country": "Belgium",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/foZkusYIqIShFoLRo9VeO6UxhPaCoLW8REoy32yVYx0/rs:fit/g:sm/q:90/h:270/w:270/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjc3/NTctMTQwNjU1MDM2/Ni0xOTI0LmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Tribute Melody",
+     "artist": "Jan Walravens",
+     "duration": "3:18"
+    },
+    {
+     "position": "A2",
+     "title": "Lonely In The Rain",
+     "artist": "Jan Walravens",
+     "duration": "3:24"
+    },
+    {
+     "position": "A3",
+     "title": "Phrase Musicale 1",
+     "artist": "Jan Walravens",
+     "duration": "1:09"
+    },
+    {
+     "position": "A4",
+     "title": "Clumsy But Powerful",
+     "artist": "Jan Walravens",
+     "duration": "4:24"
+    },
+    {
+     "position": "A5",
+     "title": "Harmony",
+     "artist": "Jan Walravens",
+     "duration": "3:32"
+    },
+    {
+     "position": "A6",
+     "title": "Phrase Musicale 2",
+     "artist": "Jan Walravens",
+     "duration": "2:13"
+    },
+    {
+     "position": "B1",
+     "title": "It Ain't Necessarily So",
+     "artist": "Jan Walravens",
+     "duration": "3:37"
+    },
+    {
+     "position": "B2",
+     "title": "Jazztime",
+     "artist": "Jan Walravens",
+     "duration": "4:46"
+    },
+    {
+     "position": "B3",
+     "title": "Suivi De Phrase Musicale 3",
+     "artist": "Jan Walravens",
+     "duration": "1:09"
+    },
+    {
+     "position": "B4",
+     "title": "Summertime",
+     "artist": "Jan Walravens",
+     "duration": "4:23"
+    },
+    {
+     "position": "B5",
+     "title": "Mr. Gravedigger Jr.",
+     "artist": "Jan Walravens",
+     "duration": "3:21"
+    }
+   ]
+  },
+  {
+   "id": "d35737012",
+   "discogsId": 35737012,
+   "title": "French Movies In New York",
+   "artist": "Laurent Epstein",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Sergent Major Company Ltd",
+   "country": "France",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/ulS8vQVfj1VtdWzqBqGQRYBSuWJOvWR3d1MTvV0Ed2w/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzM3/MDEyLTE3NjM4NTQy/MTgtODkzMi5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5983,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "www.laurentepstein.com",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Reality",
+     "artist": "Laurent Epstein",
+     "duration": "3:45"
+    },
+    {
+     "position": "2",
+     "title": "Now You Want To Be Loved",
+     "artist": "Laurent Epstein",
+     "duration": "4:49"
+    },
+    {
+     "position": "3",
+     "title": "La Complainte de La Butte",
+     "artist": "Laurent Epstein",
+     "duration": "5:27"
+    },
+    {
+     "position": "4.01",
+     "title": "Les Vacances de Monsieur Hulot",
+     "artist": "Laurent Epstein",
+     "duration": ""
+    },
+    {
+     "position": "4.02",
+     "title": "Mon Oncle",
+     "artist": "Laurent Epstein",
+     "duration": "4:26"
+    },
+    {
+     "position": "5",
+     "title": "Who Will Take My Dreams Away",
+     "artist": "Laurent Epstein",
+     "duration": "4:00"
+    },
+    {
+     "position": "6",
+     "title": "Le Tourbillon",
+     "artist": "Laurent Epstein",
+     "duration": "3:55"
+    },
+    {
+     "position": "7",
+     "title": "La Chanson d'Hélène",
+     "artist": "Laurent Epstein",
+     "duration": "3:45"
+    },
+    {
+     "position": "8",
+     "title": "La Scoumoune",
+     "artist": "Laurent Epstein",
+     "duration": "4:52"
+    },
+    {
+     "position": "9",
+     "title": "Milou En Mai",
+     "artist": "Laurent Epstein",
+     "duration": "6:02"
+    },
+    {
+     "position": "10",
+     "title": "Quand On S'Promène Au Bord De L'Eau",
+     "artist": "Laurent Epstein",
+     "duration": "4:27"
+    }
+   ]
+  },
+  {
+   "id": "d20251804",
+   "discogsId": 20251804,
+   "title": "Just Another Lonely Soul",
+   "artist": "Nina Mya",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Flame Jazz Records",
+   "country": "Finland",
+   "styles": [
+    "Contemporary Jazz",
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/3FuDtirNAYIjk0rghsHYQINErJLm2j45dEM1NkgMOF0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjUx/ODA0LTE2MzE3ODg2/MTEtNjgyNS5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.5721,
+   "vibe": 56,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Issued in 4-panel digipak",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Just Another Lonely Soul",
+     "artist": "Nina Mya",
+     "duration": "4:10"
+    },
+    {
+     "position": "2",
+     "title": "The Strength",
+     "artist": "Nina Mya",
+     "duration": "4:59"
+    },
+    {
+     "position": "3",
+     "title": "I Don't Wanna Go Home Tonight",
+     "artist": "Nina Mya",
+     "duration": "5:20"
+    },
+    {
+     "position": "4",
+     "title": "Wait For You",
+     "artist": "Nina Mya",
+     "duration": "4:53"
+    },
+    {
+     "position": "5",
+     "title": "A Better Man",
+     "artist": "Nina Mya",
+     "duration": "4:15"
+    },
+    {
+     "position": "6",
+     "title": "If You Are Gone",
+     "artist": "Nina Mya",
+     "duration": "4:14"
+    },
+    {
+     "position": "7",
+     "title": "A Man With Hazel Eyes",
+     "artist": "Nina Mya",
+     "duration": "3:51"
+    },
+    {
+     "position": "8",
+     "title": "Blind Faith",
+     "artist": "Nina Mya",
+     "duration": "5:19"
+    },
+    {
+     "position": "9",
+     "title": "Deep In The Water",
+     "artist": "Nina Mya",
+     "duration": "3:59"
+    },
+    {
+     "position": "10",
+     "title": "You're My Flame",
+     "artist": "Nina Mya",
+     "duration": "5:34"
+    },
+    {
+     "position": "11",
+     "title": "Never Can Say Goodbye",
+     "artist": "Nina Mya",
+     "duration": "4:28"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
