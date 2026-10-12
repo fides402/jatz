@@ -1,0 +1,397 @@
+{
+ "date": "2026-10-12",
+ "generatedAt": "2026-10-12T11:27:15Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d1380948",
+   "discogsId": 1380948,
+   "title": "New Direction",
+   "artist": "Gene Russell",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Black Jazz Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/O_z5RUBLL5_E37Z5ZC3q2w70pVP4pgAAvOE_1VgLSP4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA5/NDgtMTM5NTk4MzE3/NC00NTIzLmpwZWc.jpeg",
+   "ratingAvg": 4.36,
+   "ratingCount": 75,
+   "score": 0.6218,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Available on AMPEX Stereo Tapes",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Black Orchid",
+     "artist": "Gene Russell",
+     "duration": "3:13"
+    },
+    {
+     "position": "A2",
+     "title": "Hitting The Jug",
+     "artist": "Gene Russell",
+     "duration": "4:42"
+    },
+    {
+     "position": "A3",
+     "title": "Willow Weep For Me",
+     "artist": "Gene Russell",
+     "duration": "4:58"
+    },
+    {
+     "position": "A4",
+     "title": "Listen Here",
+     "artist": "Gene Russell",
+     "duration": "3:15"
+    },
+    {
+     "position": "B1",
+     "title": "On Green Dolphin Street",
+     "artist": "Gene Russell",
+     "duration": "5:02"
+    },
+    {
+     "position": "B2",
+     "title": "Silver's Serenade",
+     "artist": "Gene Russell",
+     "duration": "4:54"
+    },
+    {
+     "position": "B3",
+     "title": "My Cherie Amour",
+     "artist": "Gene Russell",
+     "duration": "3:01"
+    },
+    {
+     "position": "B4",
+     "title": "Making Bread",
+     "artist": "Gene Russell",
+     "duration": "3:21"
+    }
+   ]
+  },
+  {
+   "id": "d7443143",
+   "discogsId": 7443143,
+   "title": "I'm Old Fashioned",
+   "artist": "Sadao Watanabe & The Great Jazz Trio",
+   "year": 1978,
+   "era": "VINTAGE",
+   "label": "Inner City Records",
+   "country": "US",
+   "styles": [],
+   "coverUrl": "",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.5996,
+   "vibe": 62,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Gold \"Promotional Copy NOT FOR SALE\" stamp on front cover.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Confirmation",
+     "artist": "Sadao Watanabe & The Great Jazz Trio",
+     "duration": "4:54"
+    },
+    {
+     "position": "A2",
+     "title": "Gary",
+     "artist": "Sadao Watanabe & The Great Jazz Trio",
+     "duration": "4:30"
+    },
+    {
+     "position": "A3",
+     "title": "3:10 Blues",
+     "artist": "Sadao Watanabe & The Great Jazz Trio",
+     "duration": "5:44"
+    },
+    {
+     "position": "A4",
+     "title": "Episode",
+     "artist": "Sadao Watanabe & The Great Jazz Trio",
+     "duration": "6:33"
+    },
+    {
+     "position": "B1",
+     "title": "I Concentrate On You",
+     "artist": "Sadao Watanabe & The Great Jazz Trio",
+     "duration": "5:55"
+    },
+    {
+     "position": "B2",
+     "title": "Chelsea Bridge",
+     "artist": "Sadao Watanabe & The Great Jazz Trio",
+     "duration": "5:48"
+    },
+    {
+     "position": "B3",
+     "title": "I'm Old Fashioned",
+     "artist": "Sadao Watanabe & The Great Jazz Trio",
+     "duration": "8:06"
+    },
+    {
+     "position": "B4",
+     "title": "One For C",
+     "artist": "Sadao Watanabe & The Great Jazz Trio",
+     "duration": "2:33"
+    }
+   ]
+  },
+  {
+   "id": "d14997875",
+   "discogsId": 14997875,
+   "title": "Seasons",
+   "artist": "Bing Crosby & Pete Moore & His Orchestra",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Polydor",
+   "country": "UK",
+   "styles": [
+    "Big Band",
+    "Easy Listening"
+   ],
+   "coverUrl": "https://i.discogs.com/lvLCmwuff5-QLe1A8Q3PpxaZit5s5RDayo30b7C6idg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk3/ODc1LTE1ODUzMDg2/MDctOTY1NS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5851,
+   "vibe": 59,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Different size label headers and font design compared to [r=3155559].\n\nGatefold sleeve, printed inner paper sleeve.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Seasons",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "On The Very First Day Of The Year",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "June In January",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Spring Will Be A Little Late This Year",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "April Showers",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "June Is Bustin' Out All Over",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "In The Good Old Summertime",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Summer Wind",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Autumn In New York",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "September Song",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Sleigh Ride",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Yesterday When I Was Young",
+     "artist": "Bing Crosby & Pete Moore & His Orchestra",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d15769515",
+   "discogsId": 15769515,
+   "title": "Севиль",
+   "artist": "ВИА Севиль",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Molla Nasreddin",
+   "country": "Azerbaijan",
+   "styles": [
+    "Mugham",
+    "Modal",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/zgtWDPXhkOeM6cxwvxLLA_Yj6owo2HUBae2-cajxUnQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY5/NTE1LTE1OTc0NjYw/MTQtNDE5MC5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.5452,
+   "vibe": 49,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "100 copies - black color vinyl\n50 copies - purple color vinyl\n50 copies - white color vinyl\n50 copies - clear vinyl",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Yollar = Дороги",
+     "artist": "ВИА Севиль",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Qızıl Üzük = Золотое Колечко",
+     "artist": "ВИА Севиль",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Qara Qaşın Vəsməsi = Сурьма Для Черных Бровей",
+     "artist": "ВИА Севиль",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Qismetden Qaça Bilmeyeceksen = От Судьбы Не Уйдешь",
+     "artist": "ВИА Севиль",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Şirvanşahlar Sarayında = Во Дворце Ширваншахов",
+     "artist": "ВИА Севиль",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Sevgilim = Любимая",
+     "artist": "ВИА Севиль",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Mugam = Мугам",
+     "artist": "ВИА Севиль",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Bu Gün = Сегодняшний День",
+     "artist": "ВИА Севиль",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d32262819",
+   "discogsId": 32262819,
+   "title": "Ring Toss",
+   "artist": "Ryo Kawasaki",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Chiaroscuro Records",
+   "country": "US",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/iH2Vs8RAI89hrzb_n2xgGOLFnRAi_ehWfxRZ9FOPOnY/rs:fit/g:sm/q:90/h:425/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjYy/ODE5LTE3MzEzNTIw/MTItNzg2MC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5402,
+   "vibe": 48,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recording: September, October 1977\n\nwww.chiaroscurojazz.org\n",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Tane's Dream Part I",
+     "artist": "Ryo Kawasaki",
+     "duration": "4:25"
+    },
+    {
+     "position": "2",
+     "title": "Suite In D",
+     "artist": "Ryo Kawasaki",
+     "duration": "11:24"
+    },
+    {
+     "position": "3",
+     "title": "Sombrero",
+     "artist": "Ryo Kawasaki",
+     "duration": "7:53"
+    },
+    {
+     "position": "4",
+     "title": "In A Sentimental Mood",
+     "artist": "Ryo Kawasaki",
+     "duration": "1:59"
+    },
+    {
+     "position": "5",
+     "title": "Frostbite",
+     "artist": "Ryo Kawasaki",
+     "duration": "4:10"
+    },
+    {
+     "position": "6",
+     "title": "Tane's Dream Part II",
+     "artist": "Ryo Kawasaki",
+     "duration": "2:06"
+    },
+    {
+     "position": "7",
+     "title": "Tane's Dream Part III",
+     "artist": "Ryo Kawasaki",
+     "duration": "6:38"
+    },
+    {
+     "position": "8",
+     "title": "Sarabande (From Suite In E Minor)",
+     "artist": "Ryo Kawasaki",
+     "duration": "3:33"
+    },
+    {
+     "position": "9",
+     "title": "Bones",
+     "artist": "Ryo Kawasaki",
+     "duration": "1:58"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
