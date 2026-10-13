@@ -1,0 +1,69 @@
+{
+ "date": "2026-W42",
+ "generatedAt": "2026-10-13T20:07:24Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-deezer-4323356882",
+   "discogsId": 0,
+   "title": "200",
+   "artist": "Victor Victor Presents",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/122005fe490fb7480457f7dfa877864b/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "200",
+     "artist": "Victor Victor Presents",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6816246230",
+   "discogsId": 0,
+   "title": "What U Like",
+   "artist": "Bhad Bhabie",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/93/af/5b93affb-9de0-0827-5671-61016bf70b5a/075679553027.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "What U Like",
+     "artist": "Bhad Bhabie",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 2
+ }
+}
