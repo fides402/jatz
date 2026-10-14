@@ -1,0 +1,356 @@
+{
+ "date": "2026-10-14",
+ "generatedAt": "2026-10-14T09:01:23Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d29868685",
+   "discogsId": 29868685,
+   "title": "Ola - Wave",
+   "artist": "Antonio Carlos Jobim",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "A&M Records",
+   "country": "Mexico",
+   "styles": [
+    "Bossa Nova",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/1mJKGQDSnwPePAuBS-j-6cusmgU8X6vOv1cihxXNdZg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY4/Njg1LTE3MDg0NzQ2/MjktMzU2MS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 3,
+   "score": 0.6078,
+   "vibe": 64,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "- Comes in a Gatefold laminated cover\n- On front cover: A&M, Tizoc and CTI logos\n- Inside gatefold: original liner notes, translated to Spanish\n- Has Tizoc labels, with the Tizoc logo and \"A&M Records\" in text.\n- Also on labels:  Manufacturated and distributed by \"Discos Tizoc S.A.\" (P) 1968\n- The runouts contain the \"(MR)\" stamp and the delta sign, typical of the records pressed at the Monarch plant\n\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Ola",
+     "artist": "Antonio Carlos Jobim",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "La Blusa Roja",
+     "artist": "Antonio Carlos Jobim",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Mirando Al Cielo",
+     "artist": "Antonio Carlos Jobim",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Batidinha",
+     "artist": "Antonio Carlos Jobim",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Triste",
+     "artist": "Antonio Carlos Jobim",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Mojave",
+     "artist": "Antonio Carlos Jobim",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Diálogo",
+     "artist": "Antonio Carlos Jobim",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Lamento",
+     "artist": "Antonio Carlos Jobim",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Antigua",
+     "artist": "Antonio Carlos Jobim",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Capitán Bacardi",
+     "artist": "Antonio Carlos Jobim",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d30734467",
+   "discogsId": 30734467,
+   "title": "El Ultimo Tango En Paris / Hay Humo En Tus Ojos",
+   "artist": "Marlon",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "RCA Victor",
+   "country": "Argentina",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/UgLhl77yazPPNhxHK8JXnaC8N2jk4JwQx1wwTaPm3jg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzM0/NDY3LTE3MTYyMzAw/ODEtNjIxMi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6066,
+   "vibe": 64,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "El Ultimo Tango En Paris",
+     "artist": "Marlon",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Hay Humo En Tus Ojos",
+     "artist": "Marlon",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d1348409",
+   "discogsId": 1348409,
+   "title": "China Doll",
+   "artist": "Leon Thomas",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Flying Dutchman",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/fYnvrV8g5RDKEy8Xp9m9jSrj0BNzn3iMh1PEkh5JmXo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg0/MDktMTMxODMyOTUw/NC5qcGVn.jpeg",
+   "ratingAvg": 4.25,
+   "ratingCount": 4,
+   "score": 0.5996,
+   "vibe": 62,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "China Doll",
+     "artist": "Leon Thomas",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d30897627",
+   "discogsId": 30897627,
+   "title": "Domino",
+   "artist": "Roland Kirk",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Rev-Ola",
+   "country": null,
+   "styles": [
+    "Hard Bop",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/ezDjPWdb-Q4m5DW2L4T2nomRTchEqTYhJp53VJzTZaM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk3/NjI3LTE3MTc3NzEx/NTctMzA5NC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5865,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "℗© 2010: RevOla Records\n",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Domino",
+     "artist": "Roland Kirk",
+     "duration": "3:16"
+    },
+    {
+     "position": "2",
+     "title": "Meeting On Termini's Corner",
+     "artist": "Roland Kirk",
+     "duration": "3:41"
+    },
+    {
+     "position": "3",
+     "title": "Time",
+     "artist": "Roland Kirk",
+     "duration": "3:12"
+    },
+    {
+     "position": "4",
+     "title": "Lament",
+     "artist": "Roland Kirk",
+     "duration": "3:40"
+    },
+    {
+     "position": "5",
+     "title": "A Stritch In Time",
+     "artist": "Roland Kirk",
+     "duration": "5:06"
+    },
+    {
+     "position": "6",
+     "title": "3-In-1 Without The Oil",
+     "artist": "Roland Kirk",
+     "duration": "2:35"
+    },
+    {
+     "position": "7",
+     "title": "Get Out Of Town",
+     "artist": "Roland Kirk",
+     "duration": "4:50"
+    },
+    {
+     "position": "8",
+     "title": "Rolando",
+     "artist": "Roland Kirk",
+     "duration": "3:47"
+    },
+    {
+     "position": "9",
+     "title": "I Believe In You",
+     "artist": "Roland Kirk",
+     "duration": "4:26"
+    },
+    {
+     "position": "10",
+     "title": "E.D.",
+     "artist": "Roland Kirk",
+     "duration": "2:36"
+    },
+    {
+     "position": "11",
+     "title": "Where Monk And Mingus Live - Let's Call This",
+     "artist": "Roland Kirk",
+     "duration": "4:12"
+    },
+    {
+     "position": "12",
+     "title": "Domino, Pt. 2",
+     "artist": "Roland Kirk",
+     "duration": "4:07"
+    },
+    {
+     "position": "13",
+     "title": "I Didn't Know What Time It Was",
+     "artist": "Roland Kirk",
+     "duration": "3:15"
+    },
+    {
+     "position": "14",
+     "title": "Someone To Watch Over Me",
+     "artist": "Roland Kirk",
+     "duration": "3:38"
+    },
+    {
+     "position": "15",
+     "title": "Termini's Corner",
+     "artist": "Roland Kirk",
+     "duration": "2:45"
+    },
+    {
+     "position": "16",
+     "title": "When The Sun Comes Out",
+     "artist": "Roland Kirk",
+     "duration": "2:48"
+    },
+    {
+     "position": "17",
+     "title": "Time Races With Emit",
+     "artist": "Roland Kirk",
+     "duration": "0:22"
+    }
+   ]
+  },
+  {
+   "id": "d38650197",
+   "discogsId": 38650197,
+   "title": "On A Night Like This",
+   "artist": "Olmarin Unioni",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Alba Records",
+   "country": "Finland",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/lzmY3uxUBpnq4Kbwp8HXaeyxZK1xeSJLpKkly86YCIM/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjUw/MTk3LTE3OTE1Mzk1/MTgtMzgwNS5wbmc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5694,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "\n\n",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "On A Night Like This But Long Ago",
+     "artist": "Olmarin Unioni",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "The Saunterer",
+     "artist": "Olmarin Unioni",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Blues Sour",
+     "artist": "Olmarin Unioni",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "She Came From Belleville",
+     "artist": "Olmarin Unioni",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Bootsy Cat!",
+     "artist": "Olmarin Unioni",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "The Visit Of A Warlord",
+     "artist": "Olmarin Unioni",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "The Search",
+     "artist": "Olmarin Unioni",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Waltz For The Old Clock Company",
+     "artist": "Olmarin Unioni",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
