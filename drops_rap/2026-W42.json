@@ -1,6 +1,6 @@
 {
  "date": "2026-W42",
- "generatedAt": "2026-10-13T20:07:24Z",
+ "generatedAt": "2026-10-14T18:22:27Z",
  "profile": "rap",
  "albums": [
   {
@@ -60,10 +60,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4316296402",
+   "discogsId": 0,
+   "title": "Night Shift",
+   "artist": "Berner",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/142c0bfa769cb9b8033e297118c99803/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Night Shift",
+     "artist": "Berner",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 2
+  "modern": 3
  }
 }
