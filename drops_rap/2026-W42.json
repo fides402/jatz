@@ -1,6 +1,6 @@
 {
  "date": "2026-W42",
- "generatedAt": "2026-10-14T18:22:27Z",
+ "generatedAt": "2026-10-15T18:04:59Z",
  "profile": "rap",
  "albums": [
   {
@@ -89,10 +89,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4343284572",
+   "discogsId": 0,
+   "title": "PERRY",
+   "artist": "Cochise",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/98ce8d89369e15555985aa6804dffc4d/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "PERRY",
+     "artist": "Cochise",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-165016186",
+   "discogsId": 0,
+   "title": "How Many Ways",
+   "artist": "Blood Bought P.I.F.",
+   "year": 2006,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/cc/4b/ef/mzi.hqnlnnxt.tif/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.457,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "How Many Ways",
+     "artist": "Blood Bought P.I.F.",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 3
+  "modern": 5
  }
 }
