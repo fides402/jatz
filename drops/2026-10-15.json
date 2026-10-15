@@ -1,0 +1,350 @@
+{
+ "date": "2026-10-15",
+ "generatedAt": "2026-10-15T08:35:17Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d13312939",
+   "discogsId": 13312939,
+   "title": "Ready For Freddie",
+   "artist": "Freddie Hubbard",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Blue Note",
+   "country": "US",
+   "styles": [
+    "Hard Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/Rn9qaSEDTKsKJHxzj8-r3MvtyV_EUx4XVJ3DwJ-g1iA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEy/OTM5LTE1NTE4OTE0/MDItOTI4My5qcGVn.jpeg",
+   "ratingAvg": 4.83,
+   "ratingCount": 6,
+   "score": 0.5864,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Dark blue labels, silver print, white stylized 'b' containing a blue eighth note, used 1975-79.\n\nRVG Stereo stamped in deadwax\n\n\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Arietis",
+     "artist": "Freddie Hubbard",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Weaver Of Dreams",
+     "artist": "Freddie Hubbard",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Marie Antoinette",
+     "artist": "Freddie Hubbard",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Birdlike",
+     "artist": "Freddie Hubbard",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Crisis",
+     "artist": "Freddie Hubbard",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d17974888",
+   "discogsId": 17974888,
+   "title": "George Shearing",
+   "artist": "George Shearing Trio",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Mellomood",
+   "country": "South Africa",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/IdXKXtqZEMBviPuYwmG-ZxtS_eqg3priJ1hao1I_NEg/rs:fit/g:sm/q:90/h:320/w:319/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTc0/ODg4LTE2MTY1MTE4/MzctNTY1NS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5666,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Makin' Whoopee!",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "What Is This Thing Called Love?",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "What's New?",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Like Someone In Love",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Heart Of Winter",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Blues In 9/4",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Symphony",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "When Sunny Gets Blue",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Wonder Why",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "The Mood Is Mellow",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Gone With The Wind",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "It Could Happen To You",
+     "artist": "George Shearing Trio",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d2962066",
+   "discogsId": 2962066,
+   "title": "I Won't Cry Anymore",
+   "artist": "Lou Donaldson Quintet",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "Sunset Records",
+   "country": "US",
+   "styles": [
+    "Hard Bop",
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/SXLWo0TrefSVxJR_plFVh5lG1-VKowBkaidewmMwhC8/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIw/NjYtMTQ1ODUyMzUw/Ni0xMjczLmpwZWc.jpeg",
+   "ratingAvg": 4.22,
+   "ratingCount": 18,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Originally released on Blue Note in 1957 as BLP 1566 [r4002436]\n\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Dorothy",
+     "artist": "Lou Donaldson Quintet",
+     "duration": "5:20"
+    },
+    {
+     "position": "A2",
+     "title": "I Won't Cry Anymore",
+     "artist": "Lou Donaldson Quintet",
+     "duration": "4:15"
+    },
+    {
+     "position": "A3",
+     "title": "Herman's Mambo",
+     "artist": "Lou Donaldson Quintet",
+     "duration": "4:40"
+    },
+    {
+     "position": "A4",
+     "title": "Peck Time",
+     "artist": "Lou Donaldson Quintet",
+     "duration": "5:18"
+    },
+    {
+     "position": "B1",
+     "title": "There Will Never Be Another You",
+     "artist": "Lou Donaldson Quintet",
+     "duration": "5:03"
+    },
+    {
+     "position": "B2",
+     "title": "Groove Junction",
+     "artist": "Lou Donaldson Quintet",
+     "duration": "6:15"
+    },
+    {
+     "position": "B3",
+     "title": "Grits And Gravey",
+     "artist": "Lou Donaldson Quintet",
+     "duration": "6:15"
+    }
+   ]
+  },
+  {
+   "id": "d28803430",
+   "discogsId": 28803430,
+   "title": "The Awakening",
+   "artist": "Ahmad Jamal Trio",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Verve Records",
+   "country": "Worldwide",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/UiAQ23GWRAaF1RzyKhp8q43nXCrNkh6E7ggZmuvQa_4/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODAz/NDMwLTE2OTkxMzQy/NTctNzU3OC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6141,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Test pressing of https://www.discogs.com/release/26740556\nYellow Third Man test pressing labels.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Awakening",
+     "artist": "Ahmad Jamal Trio",
+     "duration": "6:19"
+    },
+    {
+     "position": "A2",
+     "title": "I Love Music",
+     "artist": "Ahmad Jamal Trio",
+     "duration": "7:19"
+    },
+    {
+     "position": "A3",
+     "title": "Patterns",
+     "artist": "Ahmad Jamal Trio",
+     "duration": "6:19"
+    },
+    {
+     "position": "B1",
+     "title": "Dolphin Dance",
+     "artist": "Ahmad Jamal Trio",
+     "duration": "5:05"
+    },
+    {
+     "position": "B2",
+     "title": "You're My Everything",
+     "artist": "Ahmad Jamal Trio",
+     "duration": "4:40"
+    },
+    {
+     "position": "B3",
+     "title": "Stolen Moments",
+     "artist": "Ahmad Jamal Trio",
+     "duration": "6:27"
+    },
+    {
+     "position": "B4",
+     "title": "Wave",
+     "artist": "Ahmad Jamal Trio",
+     "duration": "4:25"
+    }
+   ]
+  },
+  {
+   "id": "d27996570",
+   "discogsId": 27996570,
+   "title": "Standards, Vol. 2",
+   "artist": "Keith Jarrett & Gary Peacock & Jack DeJohnette",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "ECM Records",
+   "country": "Japan",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/Ckzbjv7mN5gt9djXcsQx0ZnxN9MjA5W8dMe7G9xN9RI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTk2/NTcwLTE2OTIyNTM0/OTUtNDc1Ni5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6028,
+   "vibe": 63,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "In heavy card replica sleeve with obi within resealable bag. A single-sided, four panel, folded replica of the original Japanese CD insert, and a double-sided single sheet insert with tracklisting and 2019 liner notes are included. \n\nRecorded January 1983 at Power Station, New York City.\n\nAn ECM Production\nⓅ 1985 ECM Records GmbH",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "So Tender",
+     "artist": "Keith Jarrett & Gary Peacock & Jack DeJohnette",
+     "duration": "7:15"
+    },
+    {
+     "position": "2",
+     "title": "Moon And Sand",
+     "artist": "Keith Jarrett & Gary Peacock & Jack DeJohnette",
+     "duration": "8:54"
+    },
+    {
+     "position": "3",
+     "title": "In Love In Vain",
+     "artist": "Keith Jarrett & Gary Peacock & Jack DeJohnette",
+     "duration": "7:06"
+    },
+    {
+     "position": "4",
+     "title": "Never Let Me Go",
+     "artist": "Keith Jarrett & Gary Peacock & Jack DeJohnette",
+     "duration": "7:49"
+    },
+    {
+     "position": "5",
+     "title": "If I Should Lose You",
+     "artist": "Keith Jarrett & Gary Peacock & Jack DeJohnette",
+     "duration": "8:28"
+    },
+    {
+     "position": "6",
+     "title": "I Fall In Love Too Easily",
+     "artist": "Keith Jarrett & Gary Peacock & Jack DeJohnette",
+     "duration": "5:12"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
