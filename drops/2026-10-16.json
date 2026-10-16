@@ -1,0 +1,361 @@
+{
+ "date": "2026-10-16",
+ "generatedAt": "2026-10-16T08:28:35Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d8609449",
+   "discogsId": 8609449,
+   "title": "My Main Man",
+   "artist": "Sonny Stitt & Bennie Green",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Cadet",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/AcuB35JoNYZ7SpexBurKDdJkR3wPwHSgycoUK3W5RRg/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDk0/NDktMTQ2NTA2MTAy/MC01ODc2LmpwZWc.jpeg",
+   "ratingAvg": 4.67,
+   "ratingCount": 9,
+   "score": 0.5794,
+   "vibe": 57,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Black and White Cover, Cadet Labels",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Flame And Frost",
+     "artist": "Sonny Stitt & Bennie Green",
+     "duration": "4:30"
+    },
+    {
+     "position": "A2",
+     "title": "Let's Play Chess",
+     "artist": "Sonny Stitt & Bennie Green",
+     "duration": "4:50"
+    },
+    {
+     "position": "A3",
+     "title": "Double Dip",
+     "artist": "Sonny Stitt & Bennie Green",
+     "duration": "4:41"
+    },
+    {
+     "position": "A4",
+     "title": "Our Day Will Come",
+     "artist": "Sonny Stitt & Bennie Green",
+     "duration": "5:16"
+    },
+    {
+     "position": "B1",
+     "title": "My Main Man",
+     "artist": "Sonny Stitt & Bennie Green",
+     "duration": "5:56"
+    },
+    {
+     "position": "B2",
+     "title": "The Night Has A Thousand Eyes",
+     "artist": "Sonny Stitt & Bennie Green",
+     "duration": "4:58"
+    },
+    {
+     "position": "B3",
+     "title": "Broilin'",
+     "artist": "Sonny Stitt & Bennie Green",
+     "duration": "5:54"
+    }
+   ]
+  },
+  {
+   "id": "d11574253",
+   "discogsId": 11574253,
+   "title": "'Round Midnight",
+   "artist": "The Claude Williamson Trio",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Bethlehem Records",
+   "country": "Japan",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/0cd_YNdj3AKm0AmfddDzVel0CpLIW9cr5WCPZmozL4E/rs:fit/g:sm/q:90/h:550/w:543/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc0/MjUzLTE2ODU2MTYx/NjEtNjE5NS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5788,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Manufactured by CBS/SONY INC,Japan.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Stella By Starlight",
+     "artist": "The Claude Williamson Trio",
+     "duration": "3:59"
+    },
+    {
+     "position": "A2",
+     "title": "Somebody Loves Me",
+     "artist": "The Claude Williamson Trio",
+     "duration": "3:04"
+    },
+    {
+     "position": "A3",
+     "title": "I`ll Know",
+     "artist": "The Claude Williamson Trio",
+     "duration": "3:18"
+    },
+    {
+     "position": "A4",
+     "title": "The Surrey With The Fringe On Top",
+     "artist": "The Claude Williamson Trio",
+     "duration": "2:50"
+    },
+    {
+     "position": "A5",
+     "title": "Polka Dots And Monnbeams",
+     "artist": "The Claude Williamson Trio",
+     "duration": "3:03"
+    },
+    {
+     "position": "A6",
+     "title": "Hippy",
+     "artist": "The Claude Williamson Trio",
+     "duration": "3:02"
+    },
+    {
+     "position": "B1",
+     "title": "Tea For Two",
+     "artist": "The Claude Williamson Trio",
+     "duration": "3:17"
+    },
+    {
+     "position": "B2",
+     "title": "Stompin`At The Savoy",
+     "artist": "The Claude Williamson Trio",
+     "duration": "3:26"
+    },
+    {
+     "position": "B3",
+     "title": "`Round Midnight",
+     "artist": "The Claude Williamson Trio",
+     "duration": "3:52"
+    },
+    {
+     "position": "B4",
+     "title": "Just One Of Those Things",
+     "artist": "The Claude Williamson Trio",
+     "duration": "2:57"
+    },
+    {
+     "position": "B5",
+     "title": "Love Is Here To Stay",
+     "artist": "The Claude Williamson Trio",
+     "duration": "2:57"
+    },
+    {
+     "position": "B6",
+     "title": "The Song Is You",
+     "artist": "The Claude Williamson Trio",
+     "duration": "2:09"
+    }
+   ]
+  },
+  {
+   "id": "d19155076",
+   "discogsId": 19155076,
+   "title": "Jackpot",
+   "artist": "Dave Brubeck",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Columbia",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Ui6V7tWOwTIW4jHE2PWetCRMbKiVuRNp7JP9-U_WJWw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTU1/MDc2LTE2MjM3OTY5/MjQtODQyOC5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 2,
+   "score": 0.5762,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Ace In The Hole",
+     "artist": "Dave Brubeck",
+     "duration": "6:44"
+    },
+    {
+     "position": "A2",
+     "title": "Out Of Nowhere",
+     "artist": "Dave Brubeck",
+     "duration": "6:49"
+    },
+    {
+     "position": "A3",
+     "title": "You Go To My Head",
+     "artist": "Dave Brubeck",
+     "duration": "10:21"
+    },
+    {
+     "position": "A4",
+     "title": "Who's Afraid",
+     "artist": "Dave Brubeck",
+     "duration": "3:07"
+    },
+    {
+     "position": "B1",
+     "title": "Chicago (That Toddling Town)",
+     "artist": "Dave Brubeck",
+     "duration": "4:03"
+    },
+    {
+     "position": "B2",
+     "title": "Rude Old Man",
+     "artist": "Dave Brubeck",
+     "duration": "2:55"
+    },
+    {
+     "position": "B3",
+     "title": "Jackpot",
+     "artist": "Dave Brubeck",
+     "duration": "10:59"
+    },
+    {
+     "position": "B4",
+     "title": "Win A Few, Lose A Few",
+     "artist": "Dave Brubeck",
+     "duration": "4:51"
+    }
+   ]
+  },
+  {
+   "id": "d36946929",
+   "discogsId": 36946929,
+   "title": "Komeda's Songs Without Words",
+   "artist": "Piotr Schmidt",
+   "year": 2026,
+   "era": "MODERN",
+   "label": "SJ Records (2)",
+   "country": "Poland",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Zakd12rjFrH-xFiln9e2NoIyIZKs-XRYmTEwmcfkQGg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTQ2/OTI5LTE3NzcyMDM2/NDktNTMyMy5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 3,
+   "score": 0.6061,
+   "vibe": 64,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Clear vinyl edition, limited to 200, numbered copies, sold exclusively by voiceshop.pl \n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Z Ręką Na Gardle",
+     "artist": "Piotr Schmidt",
+     "duration": "5:25"
+    },
+    {
+     "position": "A2",
+     "title": "Filiżanka Kawy",
+     "artist": "Piotr Schmidt",
+     "duration": "10:10"
+    },
+    {
+     "position": "B1",
+     "title": "Szara Kolęda",
+     "artist": "Piotr Schmidt",
+     "duration": "7:54"
+    },
+    {
+     "position": "B2",
+     "title": "Naughty Bill",
+     "artist": "Piotr Schmidt",
+     "duration": "11:50"
+    },
+    {
+     "position": "C1",
+     "title": "One Hundred Years",
+     "artist": "Piotr Schmidt",
+     "duration": "10:46"
+    },
+    {
+     "position": "C2",
+     "title": "Ja Nie Chcę Spać",
+     "artist": "Piotr Schmidt",
+     "duration": "8:34"
+    },
+    {
+     "position": "D1",
+     "title": "Le Départ",
+     "artist": "Piotr Schmidt",
+     "duration": "8:21"
+    },
+    {
+     "position": "D2",
+     "title": "Nim Wstanie Dzień",
+     "artist": "Piotr Schmidt",
+     "duration": "11:58"
+    }
+   ]
+  },
+  {
+   "id": "d14693785",
+   "discogsId": 14693785,
+   "title": "Power Of Soul",
+   "artist": "Idris Muhammad",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Music On Vinyl",
+   "country": "Europe",
+   "styles": [
+    "Jazz-Funk",
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/z3-ZJOZA5v22y-O8K5Eh6X0HHvbwsXie9yc4TnT1Ni0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njkz/Nzg1LTE1ODA1ODE3/NDktMjg0OC5qcGVn.jpeg",
+   "ratingAvg": 4.69,
+   "ratingCount": 58,
+   "score": 0.5941,
+   "vibe": 61,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "180 gr., sticker",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Power Of The Soul",
+     "artist": "Idris Muhammad",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Piece Of Mind",
+     "artist": "Idris Muhammad",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "The Saddest Thing",
+     "artist": "Idris Muhammad",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Loran's Dance",
+     "artist": "Idris Muhammad",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
