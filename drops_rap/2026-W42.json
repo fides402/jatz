@@ -1,6 +1,6 @@
 {
  "date": "2026-W42",
- "generatedAt": "2026-10-15T18:04:59Z",
+ "generatedAt": "2026-10-17T16:53:56Z",
  "profile": "rap",
  "albums": [
   {
@@ -147,10 +147,97 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-3390625985281045195",
+   "discogsId": 0,
+   "title": "7 Sins",
+   "artist": "Kid Rock & Lil Wayne",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "7 Sins",
+     "artist": "Kid Rock & Lil Wayne",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4342278952",
+   "discogsId": 0,
+   "title": "Block Is Hot",
+   "artist": "Mike Dimes",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ef3e7d73f55a2625154c195b4cff5f1c/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Block Is Hot",
+     "artist": "Mike Dimes",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4320949132",
+   "discogsId": 0,
+   "title": "Someone",
+   "artist": "SOB x RBE",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/79a1debdcdfea445fec8775e4e72680e/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Someone",
+     "artist": "SOB x RBE",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 5
+  "modern": 8
  }
 }
