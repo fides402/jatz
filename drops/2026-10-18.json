@@ -1,0 +1,420 @@
+{
+ "date": "2026-10-18",
+ "generatedAt": "2026-10-18T08:19:12Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d8957909",
+   "discogsId": 8957909,
+   "title": "Bossa Nova",
+   "artist": "Helen Merrill",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Zafiro",
+   "country": "Spain",
+   "styles": [
+    "Bossa Nova",
+    "Vocal"
+   ],
+   "coverUrl": "https://i.discogs.com/zrbjW2iQCdSWTr2kFrF_fk-gNZtq0ZZmTcr7TPZKqZU/rs:fit/g:sm/q:90/h:291/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTc5/MDktMTQ3MjIzNTY5/Mi0xNjAxLmpwZWc.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 2,
+   "score": 0.7199,
+   "vibe": 92,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Same Tracks As Bossa Nova In Tokyo",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Fly Me To The Moon",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "La Chica De Ipanema",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "La Sombra De Tu Sonrisa",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "So Danco Samba",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "La Cancion De Orfeo",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Yume Wa Yoru Hiraku",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Un Hombre Y Una Mujer",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Insensatez",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Johnny Guitar",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Agua Di Beber",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Yesterday",
+     "artist": "Helen Merrill",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Shinjite Itai",
+     "artist": "Helen Merrill",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d4014415",
+   "discogsId": 4014415,
+   "title": "The Little Giant",
+   "artist": "Luis Gasca",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Atlantic",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/E5-q3jebqh4ZLfUys3pAOe0kZGSsYLeabimpH1ErQM8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTQ0/MTUtMTM1MjQ5NzQw/MC04MTEwLmpwZWc.jpeg",
+   "ratingAvg": 4.83,
+   "ratingCount": 6,
+   "score": 0.607,
+   "vibe": 64,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Just A Little Bit",
+     "artist": "Luis Gasca",
+     "duration": "3:45"
+    },
+    {
+     "position": "A2",
+     "title": "Motherless Child",
+     "artist": "Luis Gasca",
+     "duration": "6:49"
+    },
+    {
+     "position": "A3",
+     "title": "Nancy",
+     "artist": "Luis Gasca",
+     "duration": "4:13"
+    },
+    {
+     "position": "A4",
+     "title": "Cosia No. 2",
+     "artist": "Luis Gasca",
+     "duration": "7:52"
+    },
+    {
+     "position": "B1",
+     "title": "Afro-Blue",
+     "artist": "Luis Gasca",
+     "duration": "8:32"
+    },
+    {
+     "position": "B2",
+     "title": "Joy Ride",
+     "artist": "Luis Gasca",
+     "duration": "7:03"
+    },
+    {
+     "position": "B3",
+     "title": "Sweet Pea",
+     "artist": "Luis Gasca",
+     "duration": "2:45"
+    }
+   ]
+  },
+  {
+   "id": "d4349485",
+   "discogsId": 4349485,
+   "title": "More Hits Of The '50's And '60's",
+   "artist": "Count Basie",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "Verve Records",
+   "country": "Japan",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/FBk-hGAC-Lm8kDsrQYFDZd2XzeWouqBsevOsqBnYJz0/rs:fit/g:sm/q:90/h:256/w:256/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk0/ODUtMTM2MjQ4NjA0/OS05NDc4LmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5779,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Second Time Around",
+     "artist": "Count Basie",
+     "duration": "4:31"
+    },
+    {
+     "position": "A2",
+     "title": "Hey, Jealous Lover",
+     "artist": "Count Basie",
+     "duration": "2:46"
+    },
+    {
+     "position": "A3",
+     "title": "I'll Never Smile Again",
+     "artist": "Count Basie",
+     "duration": "3:30"
+    },
+    {
+     "position": "A4",
+     "title": "Saturday Night (Is The Loneliest Night In The Week)",
+     "artist": "Count Basie",
+     "duration": "4:06"
+    },
+    {
+     "position": "A5",
+     "title": "This Love Of Mine",
+     "artist": "Count Basie",
+     "duration": "3:05"
+    },
+    {
+     "position": "A6",
+     "title": "I Thought About You",
+     "artist": "Count Basie",
+     "duration": "2:54"
+    },
+    {
+     "position": "B1",
+     "title": "In The Wee Small Hours Of The Morning",
+     "artist": "Count Basie",
+     "duration": "3:13"
+    },
+    {
+     "position": "B2",
+     "title": "Come Fly With Me",
+     "artist": "Count Basie",
+     "duration": "2:42"
+    },
+    {
+     "position": "B3",
+     "title": "On The Road To Mandalay",
+     "artist": "Count Basie",
+     "duration": "2:54"
+    },
+    {
+     "position": "B4",
+     "title": "Only The Lonely",
+     "artist": "Count Basie",
+     "duration": "3:14"
+    },
+    {
+     "position": "B5",
+     "title": "South Of The Border (Down Mexico Way)",
+     "artist": "Count Basie",
+     "duration": "3:52"
+    },
+    {
+     "position": "B6",
+     "title": "All Of Me",
+     "artist": "Count Basie",
+     "duration": "2:26"
+    }
+   ]
+  },
+  {
+   "id": "d35583163",
+   "discogsId": 35583163,
+   "title": "Flying In Music",
+   "artist": "Balázs Elemér Group",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Kulturbarlang",
+   "country": "Hungary",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/KZ09zjT6YyHT0klKTFqUWRnoYkYwPh71G42JjJVB9j4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTgz/MTYzLTE3NjI0MTMy/MTgtMzk3Ny5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6561,
+   "vibe": 77,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Flying In Music",
+     "artist": "Balázs Elemér Group",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Another One",
+     "artist": "Balázs Elemér Group",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "I Can't",
+     "artist": "Balázs Elemér Group",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Please Don't Tell Me Love",
+     "artist": "Balázs Elemér Group",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "More",
+     "artist": "Balázs Elemér Group",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Shadow Game",
+     "artist": "Balázs Elemér Group",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Quem Eu Sou",
+     "artist": "Balázs Elemér Group",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "To Eternity",
+     "artist": "Balázs Elemér Group",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Rózsa, Rózsa, Labdarózsa Levele",
+     "artist": "Balázs Elemér Group",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "The Game",
+     "artist": "Balázs Elemér Group",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d22602512",
+   "discogsId": 22602512,
+   "title": "Notes Of A Native Son",
+   "artist": "Calvin Johnson",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "CD Baby",
+   "country": "US",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/A00he5qpGz8Een0HH2EAfyjYNp6fHuWDxmjXdJvbbIU/rs:fit/g:sm/q:90/h:425/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjAy/NTEyLTE2NDc5NTQw/MzUtODM0Mi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5745,
+   "vibe": 56,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "I'm Walking",
+     "artist": "Calvin Johnson",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Summertime",
+     "artist": "Calvin Johnson",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Jewel's Lullaby",
+     "artist": "Calvin Johnson",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Anova",
+     "artist": "Calvin Johnson",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Resistance In Noble, But Defeat Is Imminent",
+     "artist": "Calvin Johnson",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Treme",
+     "artist": "Calvin Johnson",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Streetcar Love",
+     "artist": "Calvin Johnson",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Lift Every Voice And Sing",
+     "artist": "Calvin Johnson",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
