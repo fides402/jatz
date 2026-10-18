@@ -1,6 +1,6 @@
 {
  "date": "2026-W42",
- "generatedAt": "2026-10-17T16:53:56Z",
+ "generatedAt": "2026-10-18T17:08:04Z",
  "profile": "rap",
  "albums": [
   {
@@ -234,10 +234,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-337345943464019374",
+   "discogsId": 0,
+   "title": "Drain",
+   "artist": "Bay Swag featuring Fatt Smaxk & Young KB",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Drain",
+     "artist": "Bay Swag featuring Fatt Smaxk & Young KB",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 8
+  "modern": 9
  }
 }
