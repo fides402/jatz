@@ -1,0 +1,340 @@
+{
+ "date": "2026-10-19",
+ "generatedAt": "2026-10-19T09:17:32Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d8410125",
+   "discogsId": 8410125,
+   "title": "Terra De Mel",
+   "artist": "Eugénia Melo E Castro",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "Polydor",
+   "country": "Brazil",
+   "styles": [
+    "Bossa Nova",
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/RfU1Z8O5b1FXCIccSOyRbBlgsh4sIG2MC_S6V9sGqA4/rs:fit/g:sm/q:90/h:359/w:484/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTAx/MjUtMTQ2ODU5ODI3/NC01MzczLmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6603,
+   "vibe": 78,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Beco Do Tiso",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Diferença Horária",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Em Milímetros",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Vira Virou",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Cais",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "É Assim",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Começo De Mar",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Terra De Mel",
+     "artist": "Eugénia Melo E Castro",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d9718581",
+   "discogsId": 9718581,
+   "title": "Brubeck In Amsterdam",
+   "artist": "The Dave Brubeck Quartet",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Columbia",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/bZpv9gFyq4dbhrSVL-CTh540rr1fWe_ftPPIP3Dqs-I/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTg1/ODEtMTQ4NTk3ODYz/My01NTYwLmpwZWc.jpeg",
+   "ratingAvg": 3.82,
+   "ratingCount": 11,
+   "score": 0.609,
+   "vibe": 65,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded live at the Concertgebouw, Amsterdam, Holland, Dec 3, 1962.\n\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Since Love Had Its Way",
+     "artist": "The Dave Brubeck Quartet",
+     "duration": "5:57"
+    },
+    {
+     "position": "A2",
+     "title": "King For A Day",
+     "artist": "The Dave Brubeck Quartet",
+     "duration": "3:00"
+    },
+    {
+     "position": "A3",
+     "title": "The Real Ambassador",
+     "artist": "The Dave Brubeck Quartet",
+     "duration": "6:31"
+    },
+    {
+     "position": "A4",
+     "title": "They Say I Look Like God",
+     "artist": "The Dave Brubeck Quartet",
+     "duration": "4:14"
+    },
+    {
+     "position": "A5",
+     "title": "Dizzy Ditty",
+     "artist": "The Dave Brubeck Quartet",
+     "duration": "2:50"
+    },
+    {
+     "position": "B1",
+     "title": "Cultural Exchange",
+     "artist": "The Dave Brubeck Quartet",
+     "duration": "5:57"
+    },
+    {
+     "position": "B2",
+     "title": "Good Reviews",
+     "artist": "The Dave Brubeck Quartet",
+     "duration": "3:55"
+    },
+    {
+     "position": "B3",
+     "title": "Brandenburg Gate",
+     "artist": "The Dave Brubeck Quartet",
+     "duration": "11:55"
+    }
+   ]
+  },
+  {
+   "id": "d2331410",
+   "discogsId": 2331410,
+   "title": "Brazil Tropical",
+   "artist": "Jorge Ben",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Metronome",
+   "country": "Germany",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/IpfgVbb7Qx2yK_XAlZvjIA1n7RPP0uF2Rew8kER2YNs/rs:fit/g:sm/q:90/h:311/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzE0/MTAtMTI3NzQ2NTA2/MS5qcGVn.jpeg",
+   "ratingAvg": 3.83,
+   "ratingCount": 23,
+   "score": 0.5795,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Track B4 is spelled \"Vinhetta\" on the cover and \"Vinheta\" on the label.\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Por Causa De Vocë, Menina / Chove Chuva / Mas Que Nada",
+     "artist": "Jorge Ben",
+     "duration": "4:12"
+    },
+    {
+     "position": "A2",
+     "title": "Agora, Ninguém Chora Mais / Charles, Anjo 45 / Caramba!... Galileu Da Galileia",
+     "artist": "Jorge Ben",
+     "duration": "5:23"
+    },
+    {
+     "position": "A3",
+     "title": "A Minha Menina / Que Maravilha / Zazueira",
+     "artist": "Jorge Ben",
+     "duration": "6:00"
+    },
+    {
+     "position": "A4",
+     "title": "Bebete Vãobora / Crioula / Cadê Tereza",
+     "artist": "Jorge Ben",
+     "duration": "4:44"
+    },
+    {
+     "position": "B1",
+     "title": "País Tropical / Fio Maravilha / Taj Majal",
+     "artist": "Jorge Ben",
+     "duration": "5:53"
+    },
+    {
+     "position": "B2",
+     "title": "Vendedor De Bananas / Cosa Nostra / Bicho Do Mato",
+     "artist": "Jorge Ben",
+     "duration": "6:30"
+    },
+    {
+     "position": "B3",
+     "title": "Que Nega É Essa / Que Pena / Domingas",
+     "artist": "Jorge Ben",
+     "duration": "7:30"
+    },
+    {
+     "position": "B4",
+     "title": "Vinheta",
+     "artist": "Jorge Ben",
+     "duration": "0:26"
+    }
+   ]
+  },
+  {
+   "id": "d16090881",
+   "discogsId": 16090881,
+   "title": "Stonebone",
+   "artist": "J.J. Johnson & Kai Winding",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "A&M Records",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk",
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/2-lKFWwIzT9dpOEwJVe24DM3bklDbm_xrKhCaO4Aii0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDkw/ODgxLTE3MzczMzc5/ODEtNzgyNi5qcGVn.jpeg",
+   "ratingAvg": 4.58,
+   "ratingCount": 151,
+   "score": 0.5866,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Although the hype sticker says that the vinyl colour is red, it is actually more of a \"plum red\" (see photos).\n\nQuantity: 4000\n\nHype Sticker: \"The rarest of all CTI albums!  First time available since its 1970 Japan-only release.  Produced by Creed Taylor.  Recorded by Rudy Van Gelder.  On red vinyl.  Record Store Day April 18, 2020.  B0031687-01\"\n\nRecorded at Van Gelder Studio, Englewood Cliffs, New Jersey on September 23, 24, 25, 1969\nFirst issue : \"[r13670695]\"\n\nSTONEBONE was scheduled for American release as A&M SP-3027, but it was never issued in the United States using that number. Above",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Dontcha Hear Me Callin' To Ya?",
+     "artist": "J.J. Johnson & Kai Winding",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Musings",
+     "artist": "J.J. Johnson & Kai Winding",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Mojo",
+     "artist": "J.J. Johnson & Kai Winding",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Recollections",
+     "artist": "J.J. Johnson & Kai Winding",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d36974307",
+   "discogsId": 36974307,
+   "title": "Reflections",
+   "artist": "Gil Scott-Heron",
+   "year": 2026,
+   "era": "MODERN",
+   "label": "Culture Factory",
+   "country": "Worldwide",
+   "styles": [
+    "Soul-Jazz",
+    "Jazz-Funk",
+    "Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/TIpc2sMZw9sdarlidJFyzr9t5Hlu0v5veouMTTByliw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTc0/MzA3LTE3NzUzMjM3/NTItNTI0Ni5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 10,
+   "score": 0.5697,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "\"RSD Limited Run / Regional Focus\" release. The US RSD page for this title stated that it was released in a quantity of 700 copies.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Storm Music",
+     "artist": "Gil Scott-Heron",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Grandma's Hands",
+     "artist": "Gil Scott-Heron",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Is That Jazz?",
+     "artist": "Gil Scott-Heron",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Morning Thoughts",
+     "artist": "Gil Scott-Heron",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Inner City Blues (Poem: The Siege Of New Orleans)",
+     "artist": "Gil Scott-Heron",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Gun",
+     "artist": "Gil Scott-Heron",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "\"B\" Movie (Intro, Poem, Song)",
+     "artist": "Gil Scott-Heron",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
