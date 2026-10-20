@@ -1,0 +1,69 @@
+{
+ "date": "2026-W43",
+ "generatedAt": "2026-10-20T18:23:02Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-unresolved-4235629139033848846",
+   "discogsId": 0,
+   "title": "WYFL (WNBA Finals 2026 Anthem)",
+   "artist": "Wale",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "WYFL (WNBA Finals 2026 Anthem)",
+     "artist": "Wale",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4351032812",
+   "discogsId": 0,
+   "title": "Trip",
+   "artist": "BunnaB",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ffa497b3f6857b9755d49b5165b016eb/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Trip",
+     "artist": "BunnaB",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 2
+ }
+}
