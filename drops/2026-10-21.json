@@ -1,0 +1,374 @@
+{
+ "date": "2026-10-21",
+ "generatedAt": "2026-10-21T08:53:04Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d34861865",
+   "discogsId": 34861865,
+   "title": "João Gilberto Prado Pereira De Oliveira",
+   "artist": "João Gilberto",
+   "year": 1980,
+   "era": "VINTAGE",
+   "label": "Warner Bros. Records",
+   "country": "Brazil",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/PkJz3wf_QPStyi8blZxATBTUL807AooAxikAdudU19w/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODYx/ODY1LTE3NTU2MTc3/MTYtNzM1Mi5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.6693,
+   "vibe": 80,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Menino Do Rio",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Curare",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Retrato Em Branco E Preto",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Chega De Saudade",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Desafinado",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "O Pato",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Eu E A Brisa",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Jou Jou Balangandas",
+     "artist": "João Gilberto",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Canta Brasil",
+     "artist": "João Gilberto",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d27791331",
+   "discogsId": 27791331,
+   "title": "The Face I Love",
+   "artist": "Chris Montez",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "A&M Records",
+   "country": "UK",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/ChoLcuHoN_Ibl3dnUL-vyqsJma69Hbb-JF5O1eFFj5A/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkx/MzMxLTE2OTA0MDY5/MTMtNjU3OS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6343,
+   "vibe": 71,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "The Face I Love",
+     "artist": "Chris Montez",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Once In A While",
+     "artist": "Chris Montez",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d27134514",
+   "discogsId": 27134514,
+   "title": "Charlie Byrd Plays The Greatest Hits Of The 60's",
+   "artist": "Charlie Byrd",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "CBS",
+   "country": "South Africa",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/CR8jg-dwRxNQDXvmclHbDgm9ha_5LPxUUFH16inuJtk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTM0/NTE0LTE2ODQ1NzEw/MjItNjMyMC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6253,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Up, Up And Away",
+     "artist": "Charlie Byrd",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Somewhere My Love",
+     "artist": "Charlie Byrd",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "The Shadow Of Your Smile",
+     "artist": "Charlie Byrd",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Try To Remember",
+     "artist": "Charlie Byrd",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Michelle",
+     "artist": "Charlie Byrd",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Love Is Blue (L'Amour Est Blue)",
+     "artist": "Charlie Byrd",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Scarborough Fair / Canticle",
+     "artist": "Charlie Byrd",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "The Girl From Ipanema",
+     "artist": "Charlie Byrd",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Sunrise, Sunset",
+     "artist": "Charlie Byrd",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "A Taste Of Honey",
+     "artist": "Charlie Byrd",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d19490737",
+   "discogsId": 19490737,
+   "title": "Waltz for Debby",
+   "artist": "The Bill Evans Trio & Scott LaFaro & Paul Motian",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "DOL",
+   "country": "Europe",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/3u__co8gcGuIcxKphL2fLDwdYwrxlS82qIbm4BHpNYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDkw/NzM3LTE2MjYyNzY5/MDctOTY5MC5qcGVn.jpeg",
+   "ratingAvg": 4.61,
+   "ratingCount": 64,
+   "score": 0.5768,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded 'live' at The Village Vanguard; New York; June 25, 1961.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "My Foolish Heart",
+     "artist": "The Bill Evans Trio & Scott LaFaro & Paul Motian",
+     "duration": "4:57"
+    },
+    {
+     "position": "A2",
+     "title": "Some Other Time",
+     "artist": "The Bill Evans Trio & Scott LaFaro & Paul Motian",
+     "duration": "5:05"
+    },
+    {
+     "position": "A3",
+     "title": "Milestones",
+     "artist": "The Bill Evans Trio & Scott LaFaro & Paul Motian",
+     "duration": "6:32"
+    },
+    {
+     "position": "A4",
+     "title": "Porgy (I Love You Porgy) - Bonus Track",
+     "artist": "The Bill Evans Trio & Scott LaFaro & Paul Motian",
+     "duration": "5:58"
+    },
+    {
+     "position": "B1",
+     "title": "Waltz for Debby",
+     "artist": "The Bill Evans Trio & Scott LaFaro & Paul Motian",
+     "duration": "6:57"
+    },
+    {
+     "position": "B2",
+     "title": "Detour Ahead",
+     "artist": "The Bill Evans Trio & Scott LaFaro & Paul Motian",
+     "duration": "7:36"
+    },
+    {
+     "position": "B3",
+     "title": "My Romance",
+     "artist": "The Bill Evans Trio & Scott LaFaro & Paul Motian",
+     "duration": "7:11"
+    }
+   ]
+  },
+  {
+   "id": "d19080529",
+   "discogsId": 19080529,
+   "title": "Translucent Red",
+   "artist": "Walter Lang Trio",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Atelier Sawano",
+   "country": "Japan",
+   "styles": [
+    "Modal",
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/TcXuiuG7th6SRkhZR_LKZISDz4KTg3OQ7oxN-zJaKro/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDgw/NTI5LTE2MjMyNjUz/NjUtNTg1MC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5715,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded on July 9, 2018",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Nancy (with The Laughing Face)",
+     "artist": "Walter Lang Trio",
+     "duration": "4:41"
+    },
+    {
+     "position": "2",
+     "title": "Afterglow",
+     "artist": "Walter Lang Trio",
+     "duration": "8:40"
+    },
+    {
+     "position": "3",
+     "title": "I Wonder",
+     "artist": "Walter Lang Trio",
+     "duration": "5:11"
+    },
+    {
+     "position": "4",
+     "title": "Translucent Red",
+     "artist": "Walter Lang Trio",
+     "duration": "4:43"
+    },
+    {
+     "position": "5",
+     "title": "La Musa",
+     "artist": "Walter Lang Trio",
+     "duration": "6:05"
+    },
+    {
+     "position": "6",
+     "title": "Precious Love",
+     "artist": "Walter Lang Trio",
+     "duration": "5:26"
+    },
+    {
+     "position": "7",
+     "title": "Soon",
+     "artist": "Walter Lang Trio",
+     "duration": "4:37"
+    },
+    {
+     "position": "8",
+     "title": "I Love You, Porgy",
+     "artist": "Walter Lang Trio",
+     "duration": "3:52"
+    },
+    {
+     "position": "9",
+     "title": "Still Gone",
+     "artist": "Walter Lang Trio",
+     "duration": "4:43"
+    },
+    {
+     "position": "10",
+     "title": "They Didn't Believe Me",
+     "artist": "Walter Lang Trio",
+     "duration": "4:33"
+    },
+    {
+     "position": "11",
+     "title": "Any Old Days",
+     "artist": "Walter Lang Trio",
+     "duration": "4:24"
+    },
+    {
+     "position": "12",
+     "title": "Sevilla",
+     "artist": "Walter Lang Trio",
+     "duration": "3:38"
+    },
+    {
+     "position": "13",
+     "title": "Dawn Song",
+     "artist": "Walter Lang Trio",
+     "duration": "4:13"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
