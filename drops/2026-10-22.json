@@ -1,0 +1,309 @@
+{
+ "date": "2026-10-22",
+ "generatedAt": "2026-10-22T08:59:18Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d13597577",
+   "discogsId": 13597577,
+   "title": "Say You Love Me / In My Life",
+   "artist": "Patti Austin",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "CTI Records",
+   "country": "Australia",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/8DaIRccmeRy_UKOWfh30F7reICVLBa3Z8f7jzEEXGg0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk3/NTc3LTE3MzEyNzc1/MTYtMzA0MS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.7254,
+   "vibe": 94,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Say You Love Me",
+     "artist": "Patti Austin",
+     "duration": "3:07"
+    },
+    {
+     "position": "B",
+     "title": "In My Life",
+     "artist": "Patti Austin",
+     "duration": "4:18"
+    }
+   ]
+  },
+  {
+   "id": "d3109411",
+   "discogsId": 3109411,
+   "title": "Cry Me A River",
+   "artist": "Mari Wilson",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "London Records",
+   "country": "France",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/i1Wlo__WWGT9TSo3ElpOGaTRBBXjm19qfYc2JGUEJ8I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDk0/MTEtMTUyNDA2NDg1/OC0yNjEyLmpwZWc.jpeg",
+   "ratingAvg": 4.83,
+   "ratingCount": 6,
+   "score": 0.6067,
+   "vibe": 64,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Track A is listed as \"Cry Me A River (Smooch Mix)\" on cover\r\nTrack B2 recorded on the occasion of Rex and Evelynne Luxore's engagement at the Livingston Studio Complex.\r\n℗1983 Decca\r\n",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Cry Me A River",
+     "artist": "Mari Wilson",
+     "duration": "3:25"
+    },
+    {
+     "position": "B1",
+     "title": "Tu No Me Llores",
+     "artist": "Mari Wilson",
+     "duration": "3:25"
+    },
+    {
+     "position": "B2",
+     "title": "Rave (Live)",
+     "artist": "Mari Wilson",
+     "duration": "5:25"
+    }
+   ]
+  },
+  {
+   "id": "d3397589",
+   "discogsId": 3397589,
+   "title": "Here's Ray Bryant",
+   "artist": "Ray Bryant",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Pablo Records",
+   "country": "UK",
+   "styles": [
+    "Contemporary Jazz",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/3c9HmZ5Dg3oz9SSb2KeTTh0OBvShRRrC-YSpRoqDNJg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTc1/ODktMTYxMDU2NDc3/MS0xNDM1LmpwZWc.jpeg",
+   "ratingAvg": 4.43,
+   "ratingCount": 7,
+   "score": 0.5943,
+   "vibe": 61,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded January 10 & 12, 1976. RCA Studios, New York, New York.\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Girl Talk",
+     "artist": "Ray Bryant",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Good Morning Heartache",
+     "artist": "Ray Bryant",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Manteca",
+     "artist": "Ray Bryant",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "When Sunny Gets Blue",
+     "artist": "Ray Bryant",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Hold Back Mon",
+     "artist": "Ray Bryant",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Li'l Darlin'",
+     "artist": "Ray Bryant",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Cold Turkey",
+     "artist": "Ray Bryant",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Prayer Song",
+     "artist": "Ray Bryant",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d27973047",
+   "discogsId": 27973047,
+   "title": "With Best Intentions",
+   "artist": "Jochen Rückert",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Colonel Beats Records",
+   "country": null,
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/knzRW6YuRBxRfIKJ6YS2lJ_zeItimTGW9bt20dFFBE4/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTcz/MDQ3LTE2OTY1MTAw/MTktMjU3OC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "total playing time 47:09\nRecorded May 1st and 2nd 2022\nManufactured in Germany with 100% post-consumer recycled card stock",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "The Dress",
+     "artist": "Jochen Rückert",
+     "duration": "4:33"
+    },
+    {
+     "position": "2",
+     "title": "Rainbow Road",
+     "artist": "Jochen Rückert",
+     "duration": "4:45"
+    },
+    {
+     "position": "3",
+     "title": "Catholic Mahogany",
+     "artist": "Jochen Rückert",
+     "duration": "4:56"
+    },
+    {
+     "position": "4",
+     "title": "Unmitigated",
+     "artist": "Jochen Rückert",
+     "duration": "6:10"
+    },
+    {
+     "position": "5",
+     "title": "Muetze Glatze",
+     "artist": "Jochen Rückert",
+     "duration": "4:32"
+    },
+    {
+     "position": "6",
+     "title": "With Best Intentions",
+     "artist": "Jochen Rückert",
+     "duration": "5:54"
+    },
+    {
+     "position": "7",
+     "title": "Pherothstorium",
+     "artist": "Jochen Rückert",
+     "duration": "4:48"
+    },
+    {
+     "position": "8",
+     "title": "Double Sensotron",
+     "artist": "Jochen Rückert",
+     "duration": "5:32"
+    },
+    {
+     "position": "9",
+     "title": "Mark Of The Beast",
+     "artist": "Jochen Rückert",
+     "duration": "5:55"
+    }
+   ]
+  },
+  {
+   "id": "d35420188",
+   "discogsId": 35420188,
+   "title": "Mean Reds",
+   "artist": "Laura Ann Singh Fracas Quintet",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Out Of Your Head Records",
+   "country": "US",
+   "styles": [
+    "Avant-garde Jazz",
+    "Free Jazz",
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/uCmUfwOBnqc_AAuK_MIpAcl9jGY_8FTqC3p4oh3FjpQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDIw/MTg4LTE3NjIzODMx/MzQtODIwMC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 3,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "River",
+     "artist": "Laura Ann Singh Fracas Quintet",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Highway Monster",
+     "artist": "Laura Ann Singh Fracas Quintet",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Do Not Remain",
+     "artist": "Laura Ann Singh Fracas Quintet",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Counting",
+     "artist": "Laura Ann Singh Fracas Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Mean Reds",
+     "artist": "Laura Ann Singh Fracas Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "As Strange As It Is",
+     "artist": "Laura Ann Singh Fracas Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "She Said",
+     "artist": "Laura Ann Singh Fracas Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Before You're Gone",
+     "artist": "Laura Ann Singh Fracas Quintet",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
