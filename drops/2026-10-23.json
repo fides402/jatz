@@ -1,0 +1,380 @@
+{
+ "date": "2026-10-23",
+ "generatedAt": "2026-10-23T08:50:12Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d14953759",
+   "discogsId": 14953759,
+   "title": "Quire",
+   "artist": "Quire",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "RCA Victor",
+   "country": "Turkey",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6544,
+   "vibe": 76,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Blue Rondo A La Turk",
+     "artist": "Quire",
+     "duration": "5:17"
+    },
+    {
+     "position": "A2",
+     "title": "Misty",
+     "artist": "Quire",
+     "duration": "2:56"
+    },
+    {
+     "position": "A3",
+     "title": "Ain't Misbehavin'",
+     "artist": "Quire",
+     "duration": "3:00"
+    },
+    {
+     "position": "A4",
+     "title": "Django",
+     "artist": "Quire",
+     "duration": "4:30"
+    },
+    {
+     "position": "A5",
+     "title": "Take The \"A\" Train",
+     "artist": "Quire",
+     "duration": "3:35"
+    },
+    {
+     "position": "B1",
+     "title": "Honky Tonk Train Blues",
+     "artist": "Quire",
+     "duration": "2:56"
+    },
+    {
+     "position": "B2",
+     "title": "Lullaby Of Birdland",
+     "artist": "Quire",
+     "duration": "2:20"
+    },
+    {
+     "position": "B3",
+     "title": "Waltz For Debby",
+     "artist": "Quire",
+     "duration": "1:15"
+    },
+    {
+     "position": "B4",
+     "title": "Teach Me Tonight",
+     "artist": "Quire",
+     "duration": "3:41"
+    },
+    {
+     "position": "B5",
+     "title": "Dancers In Love",
+     "artist": "Quire",
+     "duration": "1:52"
+    },
+    {
+     "position": "B6",
+     "title": "Body And Soul",
+     "artist": "Quire",
+     "duration": "4:05"
+    }
+   ]
+  },
+  {
+   "id": "d8488409",
+   "discogsId": 8488409,
+   "title": "Cry A Little While / Doc",
+   "artist": "Earl Klugh",
+   "year": 1980,
+   "era": "VINTAGE",
+   "label": "United Artists Records",
+   "country": "Canada",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/YfXSFtKJGNgomU-bdykwIbhTl1pg0Ok2dKxaE1BHpK8/rs:fit/g:sm/q:90/h:600/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODg0/MDktMTUyNjUxMzQ1/NC0xMjIyLmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.644,
+   "vibe": 74,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Cry A Little While",
+     "artist": "Earl Klugh",
+     "duration": "3:21"
+    },
+    {
+     "position": "B",
+     "title": "Doc",
+     "artist": "Earl Klugh",
+     "duration": "3:01"
+    }
+   ]
+  },
+  {
+   "id": "d13320167",
+   "discogsId": 13320167,
+   "title": "Black Vibrations",
+   "artist": "Sonny Stitt",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Prestige",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/B-9sh9FQ8LeYwfNLeSOVB8KDV6vv26FpduYF2j46Qb0/rs:fit/g:sm/q:90/h:600/w:491/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIw/MTY3LTE1NTIwMjE4/MjYtNjI0Mi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6138,
+   "vibe": 66,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Comes on a black colored cartridge.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Calling Card",
+     "artist": "Sonny Stitt",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Goin' To D.C. (Beg)",
+     "artist": "Sonny Stitt",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Goin' To D.C. (Concl)",
+     "artist": "Sonny Stitt",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Them Funky Changes (Beg)",
+     "artist": "Sonny Stitt",
+     "duration": ""
+    },
+    {
+     "position": "C1",
+     "title": "Them Funky Changes (Concl)",
+     "artist": "Sonny Stitt",
+     "duration": ""
+    },
+    {
+     "position": "C2",
+     "title": "Aires",
+     "artist": "Sonny Stitt",
+     "duration": ""
+    },
+    {
+     "position": "D1",
+     "title": "Black Vibrations",
+     "artist": "Sonny Stitt",
+     "duration": ""
+    },
+    {
+     "position": "D2",
+     "title": "Where Is Love?",
+     "artist": "Sonny Stitt",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d24379508",
+   "discogsId": 24379508,
+   "title": "Come Away With Me",
+   "artist": "Norah Jones",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Blue Note",
+   "country": "Europe",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Wr2qYiN0HiU2vp2Cx2wMFHOSmASvN5IjDJwB02bxhVc/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc5/NTA4LTE2NjIwMzY3/NzEtNjE3Mi5qcGVn.jpeg",
+   "ratingAvg": 4.88,
+   "ratingCount": 16,
+   "score": 0.7199,
+   "vibe": 92,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "A Blue Note records release ©2002 ©2022 Capitol Records LLC.\nMade in the EU",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Don't Know Why",
+     "artist": "Norah Jones",
+     "duration": "3:05"
+    },
+    {
+     "position": "2",
+     "title": "Seven Years",
+     "artist": "Norah Jones",
+     "duration": "2:24"
+    },
+    {
+     "position": "3",
+     "title": "Cold Cold Heart",
+     "artist": "Norah Jones",
+     "duration": "3:38"
+    },
+    {
+     "position": "4",
+     "title": "Feelin' The Same Way",
+     "artist": "Norah Jones",
+     "duration": "2:55"
+    },
+    {
+     "position": "5",
+     "title": "Come Away With Me",
+     "artist": "Norah Jones",
+     "duration": "3:18"
+    },
+    {
+     "position": "6",
+     "title": "Shoot The Moon",
+     "artist": "Norah Jones",
+     "duration": "3:57"
+    },
+    {
+     "position": "7",
+     "title": "Turn Me On",
+     "artist": "Norah Jones",
+     "duration": "2:33"
+    },
+    {
+     "position": "8",
+     "title": "Lonestar",
+     "artist": "Norah Jones",
+     "duration": "3:05"
+    },
+    {
+     "position": "9",
+     "title": "I've Got To See You Again",
+     "artist": "Norah Jones",
+     "duration": "4:13"
+    },
+    {
+     "position": "10",
+     "title": "Painter Song",
+     "artist": "Norah Jones",
+     "duration": "2:41"
+    },
+    {
+     "position": "11",
+     "title": "One Flight Down",
+     "artist": "Norah Jones",
+     "duration": "3:03"
+    },
+    {
+     "position": "12",
+     "title": "Nightingale",
+     "artist": "Norah Jones",
+     "duration": "4:11"
+    },
+    {
+     "position": "13",
+     "title": "The Long Day Is Over",
+     "artist": "Norah Jones",
+     "duration": "2:44"
+    },
+    {
+     "position": "14",
+     "title": "The Nearness Of You",
+     "artist": "Norah Jones",
+     "duration": "3:09"
+    }
+   ]
+  },
+  {
+   "id": "d31706786",
+   "discogsId": 31706786,
+   "title": "I've Been Waiting For You",
+   "artist": "Giuseppe Venezia",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Gleam Records (2)",
+   "country": "Italy",
+   "styles": [
+    "Bop",
+    "Hard Bop",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/ycMvHxpskVbsq9eVZASvQniEliZC09bxwCMx9VHRs7E/rs:fit/g:sm/q:90/h:600/w:532/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzA2/Nzg2LTE3NjI0MTU4/MDktNTA1MC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5778,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Prelude To A Message",
+     "artist": "Giuseppe Venezia",
+     "duration": "1:14"
+    },
+    {
+     "position": "A2",
+     "title": "Messaggeri",
+     "artist": "Giuseppe Venezia",
+     "duration": "6:33"
+    },
+    {
+     "position": "A3",
+     "title": "I've Been Waiting For You",
+     "artist": "Giuseppe Venezia",
+     "duration": "5:34"
+    },
+    {
+     "position": "A4",
+     "title": "Song For Gerald",
+     "artist": "Giuseppe Venezia",
+     "duration": "8:03"
+    },
+    {
+     "position": "B5",
+     "title": "Just A Line From The Past",
+     "artist": "Giuseppe Venezia",
+     "duration": "8:34"
+    },
+    {
+     "position": "B6",
+     "title": "Blue Bird",
+     "artist": "Giuseppe Venezia",
+     "duration": "4:09"
+    },
+    {
+     "position": "B7",
+     "title": "The Shortest Story",
+     "artist": "Giuseppe Venezia",
+     "duration": "7:10"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
