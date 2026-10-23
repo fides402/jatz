@@ -1,6 +1,6 @@
 {
  "date": "2026-W43",
- "generatedAt": "2026-10-22T18:23:11Z",
+ "generatedAt": "2026-10-23T18:09:29Z",
  "profile": "rap",
  "albums": [
   {
@@ -351,10 +351,134 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-3290440789280218980",
+   "discogsId": 0,
+   "title": "YERR",
+   "artist": "Erick The Architect featuring Ghostface Killah & Fergie Baby",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "YERR",
+     "artist": "Erick The Architect featuring Ghostface Killah & Fergie Baby",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1116411902",
+   "discogsId": 0,
+   "title": "It Takes A Village",
+   "artist": "Che Noir",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cc8c4143299bdec87d1c936541048cd8/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Unity Of Thought",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "This Morning",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Grandma's Cookies",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Urban Essence",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "A Caged Mockingbird",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Fame & Fiction",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Conductor’s Interlude",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Blood Bath",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "My Village",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "Olive Branches",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "Wasted Time",
+     "artist": "Che Noir",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "Magic",
+     "artist": "Che Noir",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 5
+  "modern": 7
  }
 }
