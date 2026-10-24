@@ -1,0 +1,404 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-24T08:24:05Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d14703753",
+   "discogsId": 14703753,
+   "title": "Stan Getz With Guest Artist Laurindo Almeida",
+   "artist": "Stan Getz & Laurindo Almeida",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "MGM Records",
+   "country": "US",
+   "styles": [
+    "Latin Jazz",
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/4guUqYAta9vOApJfSbu2Xxu0AvEjXXD0eKjhqsZL85A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAz/NzUzLTE1Nzk5Nzc0/MzQtNzQ2OC5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.6232,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded at Webster Hall, March, 1963.\nPart of MGM Records \"Latino Series\".",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Minica Moca (Young Lady)",
+     "artist": "Stan Getz & Laurindo Almeida",
+     "duration": "5:45"
+    },
+    {
+     "position": "A2",
+     "title": "Once Again (Otra Vez)",
+     "artist": "Stan Getz & Laurindo Almeida",
+     "duration": "6:45"
+    },
+    {
+     "position": "A3",
+     "title": "Winter Moon",
+     "artist": "Stan Getz & Laurindo Almeida",
+     "duration": "5:15"
+    },
+    {
+     "position": "B1",
+     "title": "Do What You Do, Do",
+     "artist": "Stan Getz & Laurindo Almeida",
+     "duration": "4:31"
+    },
+    {
+     "position": "B2",
+     "title": "Samba Da Sahra",
+     "artist": "Stan Getz & Laurindo Almeida",
+     "duration": "4:50"
+    },
+    {
+     "position": "B3",
+     "title": "Maracatu-Too",
+     "artist": "Stan Getz & Laurindo Almeida",
+     "duration": "4:57"
+    }
+   ]
+  },
+  {
+   "id": "d2814862",
+   "discogsId": 2814862,
+   "title": "New And Old Gospel",
+   "artist": "Jackie McLean",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "Blue Note",
+   "country": "Japan",
+   "styles": [
+    "Contemporary Jazz",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/dRwmC1kjHpk6_1UyRetP-Cf-CbqS1AMDsR-ro1-Ox48/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTQ4/NjItMTMwMjI2NDc0/NC5qcGVn.jpeg",
+   "ratingAvg": 4.67,
+   "ratingCount": 6,
+   "score": 0.5522,
+   "vibe": 51,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded on March 24, 1967.\r\n\r\nBlue Note Records Inc.\r\n℗ 1979\r\nManufactured by King Record Co., Ltd., Japan\r\nMade in Japan\r\n¥2,300\r\n\r\nIncludes Japanese liner notes.",
+   "tracks": [
+    {
+     "position": "B1",
+     "title": "Old Gospel",
+     "artist": "Jackie McLean",
+     "duration": "10:42"
+    },
+    {
+     "position": "B2",
+     "title": "Strange As It Seems",
+     "artist": "Jackie McLean",
+     "duration": "9:10"
+    }
+   ]
+  },
+  {
+   "id": "d10323819",
+   "discogsId": 10323819,
+   "title": "Surprises",
+   "artist": "Herbie Mann & Cissy Houston",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Atlantic",
+   "country": "Spain",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/SaqrOHjyzV-QrzN7AM3JJ309xLBo4aOmEdetjLLN3vM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIz/ODE5LTE3NDY5OTYz/MTctNTY2MC5wbmc.jpeg",
+   "ratingAvg": 4.33,
+   "ratingCount": 3,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "A1 recorded at Dynamic Studios, Jamaica\nA1, A4, B1, B4 recorded at Media Sound Studios N.Y.\nA2, A3, B1, B3, B5 recorded at Atlantic Recording Studios, N.Y.\nB2, B4, B5 recorded at Mori Studios, Tokyo, Japan\nB2 Re-Mixed at Atlantic Recording Studios, N.Y.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Draw Your Breaks",
+     "artist": "Herbie Mann & Cissy Houston",
+     "duration": "4:50"
+    },
+    {
+     "position": "A2",
+     "title": "Cajun Moon",
+     "artist": "Herbie Mann & Cissy Houston",
+     "duration": "6:17"
+    },
+    {
+     "position": "A3",
+     "title": "Creepin'",
+     "artist": "Herbie Mann & Cissy Houston",
+     "duration": "5:00"
+    },
+    {
+     "position": "A4",
+     "title": "Easter Rising",
+     "artist": "Herbie Mann & Cissy Houston",
+     "duration": "4:40"
+    },
+    {
+     "position": "B1",
+     "title": "Asa Branca",
+     "artist": "Herbie Mann & Cissy Houston",
+     "duration": "3:55"
+    },
+    {
+     "position": "B2",
+     "title": "The Sound Of Windwood",
+     "artist": "Herbie Mann & Cissy Houston",
+     "duration": "2:34"
+    },
+    {
+     "position": "B3",
+     "title": "Cricket Dance",
+     "artist": "Herbie Mann & Cissy Houston",
+     "duration": "4:17"
+    },
+    {
+     "position": "B4",
+     "title": "The Butterfly In A Stone Garden",
+     "artist": "Herbie Mann & Cissy Houston",
+     "duration": "5:19"
+    },
+    {
+     "position": "B5",
+     "title": "Anata (I Wish You Were Here With Me)",
+     "artist": "Herbie Mann & Cissy Houston",
+     "duration": "3:07"
+    }
+   ]
+  },
+  {
+   "id": "d25852039",
+   "discogsId": 25852039,
+   "title": "Nora",
+   "artist": "Franco Ambrosetti",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Enja Records",
+   "country": "Germany",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/tfiSaAheZbWwggyHnNM0JncpYhBJhu4EnLSMPowzg5w/rs:fit/g:sm/q:90/h:424/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODUy/MDM5LTE2NzQ0MDk1/MTgtNzgxOC5qcGVn.jpeg",
+   "ratingAvg": 4.83,
+   "ratingCount": 6,
+   "score": 0.6407,
+   "vibe": 73,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Nora's Theme",
+     "artist": "Franco Ambrosetti",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Morning Song Of A Spring Flower",
+     "artist": "Franco Ambrosetti",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "All Blues",
+     "artist": "Franco Ambrosetti",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Autumn Leaves",
+     "artist": "Franco Ambrosetti",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Sweet Journey",
+     "artist": "Franco Ambrosetti",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "After The Rain",
+     "artist": "Franco Ambrosetti",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d14809680",
+   "discogsId": 14809680,
+   "title": "Heavenly Bodies (An Expanded Collection)",
+   "artist": "Bill Bruford's Earthworks",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Solid Records (6)",
+   "country": "Japan",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/fvCxWI-lFtP-xHb7O-5aJ-hsvg51MI0eH4DX1TOKkF0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA5/NjgwLTE1ODIwMzUy/NjYtNDQwOS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6259,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Heavenly Bodies Expanded is a chronological Carrer-Spanning two-CD compilation of Bill Bruford’s band EARTHWORKS.\n\nThe booklet includes newly written liner notes and the second disc also features rare tracks which can’t be found elsewhere. The original compilation has been out of print for some time and this expanded re-release is on Bruford’s own Summerfold Records and was overseen personally by Bill Bruford.",
+   "tracks": [
+    {
+     "position": "1-1",
+     "title": "Stromboli Kicks",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "5:32"
+    },
+    {
+     "position": "1-2",
+     "title": "Making A Song And Dance",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "5:51"
+    },
+    {
+     "position": "1-3",
+     "title": "Up North",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "5:24"
+    },
+    {
+     "position": "1-4",
+     "title": "Candles Still Flicker In Romania's Dark",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "4:34"
+    },
+    {
+     "position": "1-5",
+     "title": "Pigalle",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "7:20"
+    },
+    {
+     "position": "1-6",
+     "title": "My Heart Declares A Holiday",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "4:37"
+    },
+    {
+     "position": "1-7",
+     "title": "Temple Of The Winds",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "5:01"
+    },
+    {
+     "position": "1-8",
+     "title": "Nerve",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "5:50"
+    },
+    {
+     "position": "1-9",
+     "title": "Gentle Persuasion",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "4:21"
+    },
+    {
+     "position": "1-10",
+     "title": "It Needn't End In Tears",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "5:08"
+    },
+    {
+     "position": "1-11",
+     "title": "Libreville",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "6:13"
+    },
+    {
+     "position": "1-12",
+     "title": "Dancing On Frith Street",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "4:18"
+    },
+    {
+     "position": "1-13",
+     "title": "Bridge Of Inhibition",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "4:15"
+    },
+    {
+     "position": "2-1",
+     "title": "No Truce With The Furies",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "4:50"
+    },
+    {
+     "position": "2-2",
+     "title": "Dewey-Eyed, Then Dancing",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "5:33"
+    },
+    {
+     "position": "2-3",
+     "title": "A Part, And Yet Apart",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "5:30"
+    },
+    {
+     "position": "2-4",
+     "title": "Revel Without A Pause",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "7:33"
+    },
+    {
+     "position": "2-5",
+     "title": "The Sound Of Surprise",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "3:27"
+    },
+    {
+     "position": "2-6",
+     "title": "White Knuckle Wedding",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "7:52"
+    },
+    {
+     "position": "2-7",
+     "title": "Youth",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "7:01"
+    },
+    {
+     "position": "2-8",
+     "title": "Rosa Ballerina",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "5:11"
+    },
+    {
+     "position": "2-9",
+     "title": "Thud",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "5:36"
+    },
+    {
+     "position": "2-10",
+     "title": "Blues For Little Joe",
+     "artist": "Bill Bruford's Earthworks",
+     "duration": "8:16"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
