@@ -1,0 +1,374 @@
+{
+ "date": "2026-10-25",
+ "generatedAt": "2026-10-25T08:42:49Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d2630214",
+   "discogsId": 2630214,
+   "title": "In Stockholm",
+   "artist": "Stan Getz",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Verve Records",
+   "country": "Japan",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/fTHaE-1WAewpvNNVT9CtkIUo4t9EC2xT2TaLrbS85uw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzAy/MTQtMTQ3NzcyMjI0/OC02NzczLmpwZWc.jpeg",
+   "ratingAvg": 4.35,
+   "ratingCount": 31,
+   "score": 0.5895,
+   "vibe": 60,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded in Stockholm around December, 1955\n\n℗&© 1981 Polygram Records, Inc.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Indiana",
+     "artist": "Stan Getz",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Without A Song",
+     "artist": "Stan Getz",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "I Don't Stand A Ghost Of A Chance With You",
+     "artist": "Stan Getz",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "I Can't Believe That You're In Love With Me",
+     "artist": "Stan Getz",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Everything Happens To Me",
+     "artist": "Stan Getz",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Over The Rainbow",
+     "artist": "Stan Getz",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Get Happy",
+     "artist": "Stan Getz",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Jeepers Creepers",
+     "artist": "Stan Getz",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d11193897",
+   "discogsId": 11193897,
+   "title": "Nice Day With Buddy Collette",
+   "artist": "Buddy Collette",
+   "year": 1980,
+   "era": "VINTAGE",
+   "label": "Contemporary Records",
+   "country": "Japan",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/aa2DC3dXPmONWf-FVick-MprkJqQYEJYaZnNWGbsZ0w/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkz/ODk3LTE1ODc4Mzgy/ODktNzQ3NC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 3,
+   "score": 0.5782,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Black label with silver print.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "A Nice Day",
+     "artist": "Buddy Collette",
+     "duration": "4:14"
+    },
+    {
+     "position": "A2",
+     "title": "There Will Never Be Another You",
+     "artist": "Buddy Collette",
+     "duration": "4:23"
+    },
+    {
+     "position": "A3",
+     "title": "Minor Deviation",
+     "artist": "Buddy Collette",
+     "duration": "4:38"
+    },
+    {
+     "position": "A4",
+     "title": "Over The Rainbow",
+     "artist": "Buddy Collette",
+     "duration": "5:12"
+    },
+    {
+     "position": "A5",
+     "title": "Change It",
+     "artist": "Buddy Collette",
+     "duration": "3:15"
+    },
+    {
+     "position": "B1",
+     "title": "Moten Swing",
+     "artist": "Buddy Collette",
+     "duration": "3:22"
+    },
+    {
+     "position": "B2",
+     "title": "I'll Remember April",
+     "artist": "Buddy Collette",
+     "duration": "3:05"
+    },
+    {
+     "position": "B3",
+     "title": "Blues For Howard",
+     "artist": "Buddy Collette",
+     "duration": "3:59"
+    },
+    {
+     "position": "B4",
+     "title": "Fall Winds",
+     "artist": "Buddy Collette",
+     "duration": "6:25"
+    },
+    {
+     "position": "B5",
+     "title": "Buddy Boo",
+     "artist": "Buddy Collette",
+     "duration": "4:34"
+    }
+   ]
+  },
+  {
+   "id": "d11232978",
+   "discogsId": 11232978,
+   "title": "There Is A Mountain",
+   "artist": "Rene Bloch & The Afro Blues Quintet",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Mira Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Pg4p9ZWMSVmUuxaXIMOOFjXXAcXB3YMZu5ZQvnhDLIU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMy/OTc4LTE1MTIzOTA4/MjItODYyMC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5662,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Written by D. Leitch (A-Side)\nWritten by Mark Levine - Kip Dubbs (B-Side)",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "There Is A Mountain",
+     "artist": "Rene Bloch & The Afro Blues Quintet",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Little Tangi",
+     "artist": "Rene Bloch & The Afro Blues Quintet",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d26677406",
+   "discogsId": 26677406,
+   "title": "Chapter Two",
+   "artist": "Krakatau Reunion",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "DSS Records (3)",
+   "country": "Indonesia",
+   "styles": [
+    "Fusion",
+    "Jazz-Funk",
+    "Jazz-Rock"
+   ],
+   "coverUrl": "https://i.discogs.com/9ID9qgGoXC96MYWNYFS9ZvLHKz2wgnebFddTTs5_Ixs/rs:fit/g:sm/q:90/h:356/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njc3/NDA2LTE2ODA4NjI0/NjgtODA3Mi5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6113,
+   "vibe": 65,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Ini Saatnya",
+     "artist": "Krakatau Reunion",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Senyawa",
+     "artist": "Krakatau Reunion",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Terumbu Menangis",
+     "artist": "Krakatau Reunion",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Rain",
+     "artist": "Krakatau Reunion",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Save The Whale",
+     "artist": "Krakatau Reunion",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Prthvi Mata",
+     "artist": "Krakatau Reunion",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Suasana",
+     "artist": "Krakatau Reunion",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Sayap Sayap Beku",
+     "artist": "Krakatau Reunion",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d36135382",
+   "discogsId": 36135382,
+   "title": "Daybreak",
+   "artist": "Sven Wunder",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Piano Piano",
+   "country": "Europe",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/4fE-37yTkuda98JXyAzGZFZtLJBleVgjDDeRfGl2YAI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTM1/MzgyLTE3Njc4NzY0/MjItOTk3MC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 7,
+   "score": 0.5756,
+   "vibe": 56,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Reissue with slightly smaller text on the front cover. Black vinyl with Tip-on sleeve.\n\nBarcode sticker on shrink.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Setting Off",
+     "artist": "Sven Wunder",
+     "duration": "3:18"
+    },
+    {
+     "position": "A2",
+     "title": "Misty Shore",
+     "artist": "Sven Wunder",
+     "duration": "2:54"
+    },
+    {
+     "position": "A3",
+     "title": "Take A Seat",
+     "artist": "Sven Wunder",
+     "duration": "3:45"
+    },
+    {
+     "position": "A4",
+     "title": "Daybreak",
+     "artist": "Sven Wunder",
+     "duration": "2:18"
+    },
+    {
+     "position": "A5",
+     "title": "Still Moorings",
+     "artist": "Sven Wunder",
+     "duration": "3:31"
+    },
+    {
+     "position": "A6",
+     "title": "Scenic Byway",
+     "artist": "Sven Wunder",
+     "duration": "2:52"
+    },
+    {
+     "position": "B1",
+     "title": "Leeward",
+     "artist": "Sven Wunder",
+     "duration": "2:52"
+    },
+    {
+     "position": "B2",
+     "title": "Windward",
+     "artist": "Sven Wunder",
+     "duration": "1:35"
+    },
+    {
+     "position": "B3",
+     "title": "Resting Place",
+     "artist": "Sven Wunder",
+     "duration": "2:02"
+    },
+    {
+     "position": "B4",
+     "title": "Warmer Air",
+     "artist": "Sven Wunder",
+     "duration": "2:53"
+    },
+    {
+     "position": "B5",
+     "title": "Deep Sea",
+     "artist": "Sven Wunder",
+     "duration": "3:13"
+    },
+    {
+     "position": "B6",
+     "title": "Turning Tides",
+     "artist": "Sven Wunder",
+     "duration": "2:53"
+    },
+    {
+     "position": "B7",
+     "title": "Liquid Mountains",
+     "artist": "Sven Wunder",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
