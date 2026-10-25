@@ -1,6 +1,6 @@
 {
  "date": "2026-W43",
- "generatedAt": "2026-10-23T18:09:29Z",
+ "generatedAt": "2026-10-25T17:27:55Z",
  "profile": "rap",
  "albums": [
   {
@@ -475,10 +475,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6821700538",
+   "discogsId": 0,
+   "title": "Tripping His Cousin",
+   "artist": "Smiley & Casper TNG",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/3c/ef/233cefce-e1cf-82c2-006a-9edc3431d5ce/808391409408.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Tripping His Cousin",
+     "artist": "Smiley & Casper TNG",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6820785329",
+   "discogsId": 0,
+   "title": "Sin City",
+   "artist": "Vory",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/41/7b/4c417b4a-9a03-7cf9-6cfe-1072de6593a8/199316817263_cover.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Sin City",
+     "artist": "Vory",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 7
+  "modern": 9
  }
 }
