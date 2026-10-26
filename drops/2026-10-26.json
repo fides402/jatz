@@ -1,0 +1,358 @@
+{
+ "date": "2026-10-26",
+ "generatedAt": "2026-10-26T09:19:18Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d5378940",
+   "discogsId": 5378940,
+   "title": "Ye-Me-Le",
+   "artist": "Sérgio Mendes & Brasil '66",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "A&M Records",
+   "country": "US",
+   "styles": [
+    "Bossa Nova",
+    "Easy Listening"
+   ],
+   "coverUrl": "https://i.discogs.com/1SzlHWzQEFsdne9j3Rte9rNL-r4U2F9l_23xUVGfOxg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzg5/NDAtMTU2MjI5ODc2/MC05NjcwLmpwZWc.jpeg",
+   "ratingAvg": 3.89,
+   "ratingCount": 19,
+   "score": 0.6099,
+   "vibe": 65,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "\"This recording employs the HAECO-CSG System and may be played monaurally or stereophonically.\" is noted on back cover.\n\nLabel variation: all track titles on labels appear below A&M logo; artist name is split to two lines on labels. (see image)",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Wichita Lineman",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "2:48"
+    },
+    {
+     "position": "A2",
+     "title": "Norwegian Wood",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:53"
+    },
+    {
+     "position": "A3",
+     "title": "Some Time Ago",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "2:24"
+    },
+    {
+     "position": "A4",
+     "title": "Moanin'",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:05"
+    },
+    {
+     "position": "A5",
+     "title": "Look Who's Mine",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:35"
+    },
+    {
+     "position": "B1",
+     "title": "Ye-Me-Le",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "2:27"
+    },
+    {
+     "position": "B2",
+     "title": "Easy To Be Hard",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "2:45"
+    },
+    {
+     "position": "B3",
+     "title": "Where Are You Coming From?",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "4:05"
+    },
+    {
+     "position": "B4",
+     "title": "Masquerade",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "3:37"
+    },
+    {
+     "position": "B5",
+     "title": "What The World Needs Now",
+     "artist": "Sérgio Mendes & Brasil '66",
+     "duration": "2:14"
+    }
+   ]
+  },
+  {
+   "id": "d9587785",
+   "discogsId": 9587785,
+   "title": "Magnolia",
+   "artist": "Ray Collins",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Montclair Records, Inc.",
+   "country": "US",
+   "styles": [
+    "Modal",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/i9ARPapBoKwj8ZF2T8rP329Ph0iHOfb_x5QLE4y0-d4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODc3/ODUtMTQ5NjE1NTMw/OS02MzU5LmpwZWc.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 8,
+   "score": 0.5639,
+   "vibe": 53,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "The correct Ray Collins (5) associated with this release is the same one who released \"Of Blues, Myself & I.”\nMontclair Records, Inc., 5043 Harbord Dr., Oakland, CA 94618",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Magnolia",
+     "artist": "Ray Collins",
+     "duration": "5:18"
+    },
+    {
+     "position": "A2",
+     "title": "Chokmah And Binah",
+     "artist": "Ray Collins",
+     "duration": "5:22"
+    },
+    {
+     "position": "A3",
+     "title": "Nefertitti",
+     "artist": "Ray Collins",
+     "duration": "4:52"
+    },
+    {
+     "position": "B1",
+     "title": "Just Squeeze Me",
+     "artist": "Ray Collins",
+     "duration": "11:45"
+    },
+    {
+     "position": "B2",
+     "title": "Croquet Ballet",
+     "artist": "Ray Collins",
+     "duration": "7:25"
+    }
+   ]
+  },
+  {
+   "id": "d13872386",
+   "discogsId": 13872386,
+   "title": "Billy Cobham",
+   "artist": "Billy Cobham",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "Supraphon",
+   "country": "Czechoslovakia",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/ivQrSjfmZuL0-aqVrfdYRrdY2jkaQRA1ePMucb-0EPw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODcy/Mzg2LTE1NjMwMjEy/OTktNDk5NS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.5447,
+   "vibe": 49,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Released in a laminated sleeve (front only) with generic clear plastic inlay.\n\nRunout markings are stamped.\n\nProducer Ken Scott is not mentioned on the release.",
+   "tracks": [
+    {
+     "position": "B1",
+     "title": "Pěkný Bažant = The Pleasant Pheasant",
+     "artist": "Billy Cobham",
+     "duration": "5:10"
+    },
+    {
+     "position": "B2",
+     "title": "Vřes = Heather",
+     "artist": "Billy Cobham",
+     "duration": "8:25"
+    },
+    {
+     "position": "B3",
+     "title": "Boční Vítr = Crosswind",
+     "artist": "Billy Cobham",
+     "duration": "3:40"
+    }
+   ]
+  },
+  {
+   "id": "d11644150",
+   "discogsId": 11644150,
+   "title": "Ella And Louis",
+   "artist": "Ella Fitzgerald & Louis Armstrong",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Wax Love",
+   "country": "Europe",
+   "styles": [
+    "Easy Listening",
+    "Swing"
+   ],
+   "coverUrl": "https://i.discogs.com/FyI9DmSNLQTdsWrBf2E_I99gPttP5MZUMgcRDzZdGfI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ0/MTUwLTE1MTk5MzY4/NDEtNDI2MC5qcGVn.jpeg",
+   "ratingAvg": 4.75,
+   "ratingCount": 4,
+   "score": 0.6784,
+   "vibe": 82,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Manufactured in the EU. Limited to 500 copies.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Can't We Be Friends",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "3:44"
+    },
+    {
+     "position": "A2",
+     "title": "Isn't This A Lovely Day",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "6:14"
+    },
+    {
+     "position": "A3",
+     "title": "Moonlight In Vermont",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "3:42"
+    },
+    {
+     "position": "A4",
+     "title": "They Can't Take That Away From Me",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "4:38"
+    },
+    {
+     "position": "A5",
+     "title": "Under A Blanket Of Blue",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "4:18"
+    },
+    {
+     "position": "A6",
+     "title": "Tenderly",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "5:10"
+    },
+    {
+     "position": "B1",
+     "title": "A Foggy Day",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "4:30"
+    },
+    {
+     "position": "B2",
+     "title": "Stars Fell On Alabama",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "3:30"
+    },
+    {
+     "position": "B3",
+     "title": "Cheek To Cheek",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "5:47"
+    },
+    {
+     "position": "B4",
+     "title": "The Nearness Of You",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "6:33"
+    },
+    {
+     "position": "B5",
+     "title": "April In Paris",
+     "artist": "Ella Fitzgerald & Louis Armstrong",
+     "duration": "6:30"
+    }
+   ]
+  },
+  {
+   "id": "d24441044",
+   "discogsId": 24441044,
+   "title": "When Is Ancient?",
+   "artist": "Andrés Vial",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Chromatic Audio",
+   "country": "Canada",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/ClcSZPhXI7cSLZ2Y41S7J0SjQ1nCX8GneQAOr26MJwA/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDQx/MDQ0LTE2NjI1NTUx/NDEtNDA5NC5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.617,
+   "vibe": 67,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Track 2 & 5 recorded June 11, 2020.\nTracks 1, 3, 4 & 6 to 9 recorded June 12, 2020.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "La Nuit Est Un Soleil Voilé",
+     "artist": "Andrés Vial",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Senderos",
+     "artist": "Andrés Vial",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Jabok",
+     "artist": "Andrés Vial",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Spring 2020",
+     "artist": "Andrés Vial",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Dencausse",
+     "artist": "Andrés Vial",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Mister Mystery",
+     "artist": "Andrés Vial",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Orundellico",
+     "artist": "Andrés Vial",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "The Map Is Not The Territory",
+     "artist": "Andrés Vial",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "When Is Ancient?",
+     "artist": "Andrés Vial",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
