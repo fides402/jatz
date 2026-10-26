@@ -1,0 +1,40 @@
+{
+ "date": "2026-W44",
+ "generatedAt": "2026-10-26T19:46:33Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-deezer-4348098362",
+   "discogsId": 0,
+   "title": "Mo Anxiety",
+   "artist": "FourFive",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f95b12f5f24b6b327d87e4967db5361e/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Mo Anxiety",
+     "artist": "FourFive",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 1
+ }
+}
