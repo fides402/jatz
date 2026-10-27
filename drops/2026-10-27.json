@@ -1,0 +1,448 @@
+{
+ "date": "2026-10-27",
+ "generatedAt": "2026-10-27T09:19:36Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d9505665",
+   "discogsId": 9505665,
+   "title": "The Very Best Of Astrud Gilberto",
+   "artist": "Astrud Gilberto",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Verve Records",
+   "country": "Germany",
+   "styles": [
+    "Bossa Nova",
+    "Easy Listening"
+   ],
+   "coverUrl": "https://i.discogs.com/p-qUYxNvZfOuymDXij4jJc4KN_XtqNApGmigpd0zeLc/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDU2/NjUtMTQ4MTc0ODE0/Mi02NjY3LmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.626,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Please note the different years stated in runout groove of A and B side, respectively, and the missing bracket in track B1.\nIt is labeled \"Unverkäufliche Musterplatte *sample copy - not for sale*\"\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Girl From Ipanema",
+     "artist": "Astrud Gilberto",
+     "duration": "5:15"
+    },
+    {
+     "position": "A2",
+     "title": "Once I Loved",
+     "artist": "Astrud Gilberto",
+     "duration": "2:10"
+    },
+    {
+     "position": "A3",
+     "title": "Agua De Beber",
+     "artist": "Astrud Gilberto",
+     "duration": "2:16"
+    },
+    {
+     "position": "A4",
+     "title": "O Morro",
+     "artist": "Astrud Gilberto",
+     "duration": "2:55"
+    },
+    {
+     "position": "A5",
+     "title": "Manha De Carnaval",
+     "artist": "Astrud Gilberto",
+     "duration": "1:55"
+    },
+    {
+     "position": "A6",
+     "title": "Frevo",
+     "artist": "Astrud Gilberto",
+     "duration": "2:20"
+    },
+    {
+     "position": "B1",
+     "title": "Take Me To) Aruanda",
+     "artist": "Astrud Gilberto",
+     "duration": "2:25"
+    },
+    {
+     "position": "B2",
+     "title": "O Ganso",
+     "artist": "Astrud Gilberto",
+     "duration": "2:04"
+    },
+    {
+     "position": "B3",
+     "title": "Goodbye Sadness (Tristeza)",
+     "artist": "Astrud Gilberto",
+     "duration": "3:30"
+    },
+    {
+     "position": "B4",
+     "title": "It's A Lovely Day Today",
+     "artist": "Astrud Gilberto",
+     "duration": "2:35"
+    },
+    {
+     "position": "B5",
+     "title": "Oba, Oba",
+     "artist": "Astrud Gilberto",
+     "duration": "1:55"
+    },
+    {
+     "position": "B6",
+     "title": "Beach Samba",
+     "artist": "Astrud Gilberto",
+     "duration": "2:47"
+    }
+   ]
+  },
+  {
+   "id": "d15905344",
+   "discogsId": 15905344,
+   "title": "Vengo De Un Sueño De Amor / Noches De Samba",
+   "artist": "Jeanette",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "Ariola",
+   "country": "Peru",
+   "styles": [
+    "Bossa Nova",
+    "Ballad"
+   ],
+   "coverUrl": "https://i.discogs.com/wm3SIqhBXV9MtnklE36-mzF5QEP4NVIb04fw-O-zqc8/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA1/MzQ0LTE1OTk5Mzcz/MzctMTY1OC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.608,
+   "vibe": 65,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Made in Peru",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Vengo De Un Sueño De Amor",
+     "artist": "Jeanette",
+     "duration": "3:32"
+    },
+    {
+     "position": "B",
+     "title": "Noches De Samba",
+     "artist": "Jeanette",
+     "duration": "3:12"
+    }
+   ]
+  },
+  {
+   "id": "d14091390",
+   "discogsId": 14091390,
+   "title": "Tom Scott And The L.A. Express",
+   "artist": "Tom Scott & The L.A. Express",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Ode Records (2)",
+   "country": "New Zealand",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/PCQrTEnwTvcdaoL6BPRRcQKweOh6JLuCXsyV5npOphw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkx/MzkwLTE1NjgwODk2/NTktODcxMC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5578,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Ridged perimeter label\n\nNote that the catalogue number is different to this release [r8810183]\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Bless My Soul",
+     "artist": "Tom Scott & The L.A. Express",
+     "duration": "4:13"
+    },
+    {
+     "position": "A2",
+     "title": "Sneakin' In The Back",
+     "artist": "Tom Scott & The L.A. Express",
+     "duration": "4:31"
+    },
+    {
+     "position": "A3",
+     "title": "King Cobra",
+     "artist": "Tom Scott & The L.A. Express",
+     "duration": "4:21"
+    },
+    {
+     "position": "A4",
+     "title": "Dahomey Dance",
+     "artist": "Tom Scott & The L.A. Express",
+     "duration": "3:40"
+    },
+    {
+     "position": "A5",
+     "title": "Nunya",
+     "artist": "Tom Scott & The L.A. Express",
+     "duration": "3:38"
+    },
+    {
+     "position": "B1",
+     "title": "Easy Life",
+     "artist": "Tom Scott & The L.A. Express",
+     "duration": "3:00"
+    },
+    {
+     "position": "B2",
+     "title": "Spindrift",
+     "artist": "Tom Scott & The L.A. Express",
+     "duration": "5:41"
+    },
+    {
+     "position": "B3",
+     "title": "Strut Your Stuff",
+     "artist": "Tom Scott & The L.A. Express",
+     "duration": "3:35"
+    },
+    {
+     "position": "B4",
+     "title": "L.A. Expression",
+     "artist": "Tom Scott & The L.A. Express",
+     "duration": "6:20"
+    },
+    {
+     "position": "B5",
+     "title": "Vertigo",
+     "artist": "Tom Scott & The L.A. Express",
+     "duration": "2:30"
+    }
+   ]
+  },
+  {
+   "id": "d26298854",
+   "discogsId": 26298854,
+   "title": "The Rubaiyat Of Dorothy Ashby",
+   "artist": "Dorothy Ashby",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Cadet (4)",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/DZE7b4BrHy6NMGozU45OPFqVrbgqkDEi-fhrLMWYGBk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjk4/ODU0LTE2Nzc5MjM4/NDEtODk2NS5qcGVn.jpeg",
+   "ratingAvg": 4.48,
+   "ratingCount": 23,
+   "score": 0.6268,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Myself When Young",
+     "artist": "Dorothy Ashby",
+     "duration": "5:16"
+    },
+    {
+     "position": "A2",
+     "title": "For Some We Loved",
+     "artist": "Dorothy Ashby",
+     "duration": "4:02"
+    },
+    {
+     "position": "A3",
+     "title": "Wax And Wine",
+     "artist": "Dorothy Ashby",
+     "duration": "4:25"
+    },
+    {
+     "position": "A4",
+     "title": "Drink",
+     "artist": "Dorothy Ashby",
+     "duration": "2:30"
+    },
+    {
+     "position": "A5",
+     "title": "Wine",
+     "artist": "Dorothy Ashby",
+     "duration": "3:56"
+    },
+    {
+     "position": "B1",
+     "title": "Dust",
+     "artist": "Dorothy Ashby",
+     "duration": "2:51"
+    },
+    {
+     "position": "B2",
+     "title": "Joyful Grass And Grape",
+     "artist": "Dorothy Ashby",
+     "duration": "3:38"
+    },
+    {
+     "position": "B3",
+     "title": "Shadow Shapes",
+     "artist": "Dorothy Ashby",
+     "duration": "3:32"
+    },
+    {
+     "position": "B4",
+     "title": "Heaven And Hell",
+     "artist": "Dorothy Ashby",
+     "duration": "3:10"
+    },
+    {
+     "position": "B5",
+     "title": "The Moving Finger",
+     "artist": "Dorothy Ashby",
+     "duration": "5:39"
+    }
+   ]
+  },
+  {
+   "id": "d36414616",
+   "discogsId": 36414616,
+   "title": "Jazz On The Corner",
+   "artist": "Martin Freeman & Eddie Piller",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Acid Jazz",
+   "country": "UK",
+   "styles": [
+    "Jazz-Funk",
+    "Soul-Jazz",
+    "Afro-Cuban Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/9YjjatAXRbdBQw7DkF1l7m2dYYUOvV69-jOv2ECP3_Y/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDE0/NjE2LTE3NzAzMTQ5/NzUtMTQyNi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5852,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "If You’re Going To The City",
+     "artist": "Mose Allison",
+     "duration": "3:47"
+    },
+    {
+     "position": "A2",
+     "title": "Sad Little Girl",
+     "artist": "Les McCann",
+     "duration": "2:52"
+    },
+    {
+     "position": "A3",
+     "title": "Psychedelic",
+     "artist": "Lee Morgan",
+     "duration": "6:32"
+    },
+    {
+     "position": "A4",
+     "title": "Listen Here",
+     "artist": "Eddie Harris",
+     "duration": "7:37"
+    },
+    {
+     "position": "A5",
+     "title": "The Hipster",
+     "artist": "Harold McNair",
+     "duration": "4:37"
+    },
+    {
+     "position": "B1",
+     "title": "Kozo’s Waltz",
+     "artist": "Art Blakey & The Jazz Messengers",
+     "duration": "6:49"
+    },
+    {
+     "position": "B2",
+     "title": "Terra Firma Irma",
+     "artist": "Joe Gordon",
+     "duration": "7:42"
+    },
+    {
+     "position": "B3",
+     "title": "Now At Last",
+     "artist": "Blossom Dearie",
+     "duration": "3:20"
+    },
+    {
+     "position": "B4",
+     "title": "Mi Hermano",
+     "artist": "Blue Mitchell",
+     "duration": "5:24"
+    },
+    {
+     "position": "C1",
+     "title": "A Walk On The Wild Side",
+     "artist": "Jimmy Smith",
+     "duration": "5:57"
+    },
+    {
+     "position": "C2",
+     "title": "Get Up Off Your Knees",
+     "artist": "David Axelrod",
+     "duration": "3:38"
+    },
+    {
+     "position": "C3",
+     "title": "Sphynx",
+     "artist": "The Brand New Heavies",
+     "duration": "6:13"
+    },
+    {
+     "position": "C4",
+     "title": "Look At Me, Look At You",
+     "artist": "Marlena Shaw",
+     "duration": "4:01"
+    },
+    {
+     "position": "C5",
+     "title": "Trees And Grass And Things",
+     "artist": "Charles Williams",
+     "duration": "4:33"
+    },
+    {
+     "position": "D1",
+     "title": "Bend Your Head Down Low",
+     "artist": "Geoffrey Stoner",
+     "duration": "3:58"
+    },
+    {
+     "position": "D2",
+     "title": "Chains",
+     "artist": "Black & Blues",
+     "duration": "3:26"
+    },
+    {
+     "position": "D3",
+     "title": "Just In Time To See The Sun",
+     "artist": "Leon Thomas",
+     "duration": "2:59"
+    },
+    {
+     "position": "D4",
+     "title": "Mother Of The Future",
+     "artist": "Norman Connors",
+     "duration": "6:50"
+    },
+    {
+     "position": "D5",
+     "title": "The Rhythm Changes",
+     "artist": "Kamasi Washington",
+     "duration": "7:44"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
