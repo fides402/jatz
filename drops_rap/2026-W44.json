@@ -1,6 +1,6 @@
 {
  "date": "2026-W44",
- "generatedAt": "2026-10-26T19:46:33Z",
+ "generatedAt": "2026-10-27T19:15:50Z",
  "profile": "rap",
  "albums": [
   {
@@ -31,10 +31,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6827414082",
+   "discogsId": 0,
+   "title": "Gloves Off (Radio)",
+   "artist": "Sheek Louch",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/d4/16/fdd41646-b70f-596f-0a27-eff682f05049/859749479673_cover.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.862,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Gloves Off (Radio)",
+     "artist": "Sheek Louch",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 1
+  "modern": 2
  }
 }
