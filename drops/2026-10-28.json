@@ -1,0 +1,373 @@
+{
+ "date": "2026-10-28",
+ "generatedAt": "2026-10-28T09:59:51Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d13858601",
+   "discogsId": 13858601,
+   "title": "Orfeo Novo",
+   "artist": "Egberto Gismonti",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "MPS Records",
+   "country": "France",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/u9fi4elbBc_dZDHUksbnqs40cM5w-emr7UpL7a-NZPo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU4/NjAxLTE1NjI3MTEz/NTctODM2Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.7423,
+   "vibe": 98,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Salvador",
+     "artist": "Egberto Gismonti",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Parque Laje (dèbut)",
+     "artist": "Egberto Gismonti",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Parque Laje (fin)",
+     "artist": "Egberto Gismonti",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Lendas",
+     "artist": "Egberto Gismonti",
+     "duration": ""
+    },
+    {
+     "position": "C1",
+     "title": "Retratos I",
+     "artist": "Egberto Gismonti",
+     "duration": ""
+    },
+    {
+     "position": "C2",
+     "title": "Retratos II",
+     "artist": "Egberto Gismonti",
+     "duration": ""
+    },
+    {
+     "position": "C3",
+     "title": "Retratos III",
+     "artist": "Egberto Gismonti",
+     "duration": ""
+    },
+    {
+     "position": "C4",
+     "title": "O Sonho (dèbut)",
+     "artist": "Egberto Gismonti",
+     "duration": ""
+    },
+    {
+     "position": "D1",
+     "title": "O Sonho (fin)",
+     "artist": "Egberto Gismonti",
+     "duration": ""
+    },
+    {
+     "position": "D2",
+     "title": "Consolacao, Berimbau",
+     "artist": "Egberto Gismonti",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d2815385",
+   "discogsId": 2815385,
+   "title": "The Shirley Bassey Singles Album",
+   "artist": "Shirley Bassey",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "United Artists Records",
+   "country": "Germany",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Lldw-HjKpx-jqBExi7yLlAg_kzbY6IRRYLkyntcVr-I/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTUz/ODUtMTQ2MzMzOTMy/My04NDYyLmpwZWc.jpeg",
+   "ratingAvg": 4.13,
+   "ratingCount": 24,
+   "score": 0.6772,
+   "vibe": 82,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "United Artists Records GmbH\n8 München 22\n\n(P) 1975\nMade in W. Germany\n\nRunouts are stamped.\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Something",
+     "artist": "Shirley Bassey",
+     "duration": "3:32"
+    },
+    {
+     "position": "A2",
+     "title": "(Where Do I Begin) Love Story",
+     "artist": "Shirley Bassey",
+     "duration": "3:12"
+    },
+    {
+     "position": "A3",
+     "title": "Diamonds Are Forever",
+     "artist": "Shirley Bassey",
+     "duration": "2:40"
+    },
+    {
+     "position": "A4",
+     "title": "The Fool On The Hill",
+     "artist": "Shirley Bassey",
+     "duration": "3:19"
+    },
+    {
+     "position": "A5",
+     "title": "Make The World A Little Younger",
+     "artist": "Shirley Bassey",
+     "duration": "3:34"
+    },
+    {
+     "position": "A6",
+     "title": "Big Spender",
+     "artist": "Shirley Bassey",
+     "duration": "1:48"
+    },
+    {
+     "position": "B1",
+     "title": "Never, Never, Never (Grande, Grande, Grande)",
+     "artist": "Shirley Bassey",
+     "duration": "3:35"
+    },
+    {
+     "position": "B2",
+     "title": "When You Smile",
+     "artist": "Shirley Bassey",
+     "duration": "3:31"
+    },
+    {
+     "position": "B3",
+     "title": "If You Go Away (Ne Me Quitte Pas)",
+     "artist": "Shirley Bassey",
+     "duration": "4:39"
+    },
+    {
+     "position": "B4",
+     "title": "And I Love You So",
+     "artist": "Shirley Bassey",
+     "duration": "4:30"
+    },
+    {
+     "position": "B5",
+     "title": "Does Anybody Miss Me",
+     "artist": "Shirley Bassey",
+     "duration": "2:25"
+    },
+    {
+     "position": "B6",
+     "title": "For All We Know",
+     "artist": "Shirley Bassey",
+     "duration": "2:43"
+    }
+   ]
+  },
+  {
+   "id": "d11343662",
+   "discogsId": 11343662,
+   "title": "Crescent",
+   "artist": "The John Coltrane Quartet",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Impulse!",
+   "country": "US",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/QZaN5agD8D4eJ9FWaqbV0bovXLASNZhmjBCBfwxhEBo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQz/NjYyLTE1MTQ2MTEx/MjctNTk5Ny5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 14,
+   "score": 0.6319,
+   "vibe": 70,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded 27 April and 1 June, 1964\nImpulse!-abc black with red ring label \n1971 Pressing\nVAN GELDER STEREO stamped in runout. The rest is etched.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Crescent",
+     "artist": "The John Coltrane Quartet",
+     "duration": "8:40"
+    },
+    {
+     "position": "A2",
+     "title": "Wise One",
+     "artist": "The John Coltrane Quartet",
+     "duration": "9:01"
+    },
+    {
+     "position": "A3",
+     "title": "Bessie's Blues",
+     "artist": "The John Coltrane Quartet",
+     "duration": "3:30"
+    },
+    {
+     "position": "B1",
+     "title": "Lonnie's Lament",
+     "artist": "The John Coltrane Quartet",
+     "duration": "11:42"
+    },
+    {
+     "position": "B2",
+     "title": "The Drum Thing",
+     "artist": "The John Coltrane Quartet",
+     "duration": "7:20"
+    }
+   ]
+  },
+  {
+   "id": "d25480831",
+   "discogsId": 25480831,
+   "title": "This Is For You, John",
+   "artist": "Benny Golson",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Music On Vinyl",
+   "country": "Europe",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/vLXcvdatdgXhqNXI9cdxJNDY47twOoXsxbEQzU9vGuI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDgw/ODMxLTE3MzI4NzA4/NTktNzI0My5qcGVn.jpeg",
+   "ratingAvg": 4.44,
+   "ratingCount": 27,
+   "score": 0.6186,
+   "vibe": 67,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Comes in a clear resealable plastic outer which has a hype sticker on the front, and includes a plain white poly-lined inner sleeve with window.\n\n[MOV release page]\nThe album features tunes associated with, or inspired by the famous American Jazz saxophonist [a97545]\nSleeve printed on heavy cardboard with linen laminate finish\n\n[Back cover]\nRecorded December 20-21, 1983 at Vanguard Studio, New York City\n\n[Back cover and labels]\n℗ 1984 & © 2022 Timeless Records\nManufactured & distributed by Music On Vinyl B.V. for Timeless Records.\nMade in the Netherlands\n\n[Hype sticker]\nLimited edition of 1000",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Jam The Avenue",
+     "artist": "Benny Golson",
+     "duration": "4:57"
+    },
+    {
+     "position": "A2",
+     "title": "Greensleeves",
+     "artist": "Benny Golson",
+     "duration": "6:25"
+    },
+    {
+     "position": "A3",
+     "title": "Origin",
+     "artist": "Benny Golson",
+     "duration": "4:21"
+    },
+    {
+     "position": "A4",
+     "title": "A Chance Of Heart",
+     "artist": "Benny Golson",
+     "duration": "7:25"
+    },
+    {
+     "position": "B1",
+     "title": "Times Past (This Is For You, John)",
+     "artist": "Benny Golson",
+     "duration": "7:52"
+    },
+    {
+     "position": "B2",
+     "title": "Page 12",
+     "artist": "Benny Golson",
+     "duration": "5:26"
+    },
+    {
+     "position": "B3",
+     "title": "Vilia",
+     "artist": "Benny Golson",
+     "duration": "6:20"
+    }
+   ]
+  },
+  {
+   "id": "d35016647",
+   "discogsId": 35016647,
+   "title": "Back And Forth",
+   "artist": "Anders Thorén & Tim Thornton & Domenico Sanna",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "AMP Music & Records",
+   "country": "Norway",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/xptJXB7fUFasiBneHCp1e-3DfMBM3j0K2bSggzv7TUc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE2/NjQ3LTE3NTcwODEw/ODMtNzMxMS5wbmc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5665,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "http://www.ampmusicrecords.com/releases-1/q5zqz54w5fd15zb6bsiv10r3uqgzzl",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Anaphora",
+     "artist": "Anders Thorén & Tim Thornton & Domenico Sanna",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Frisk Flash",
+     "artist": "Anders Thorén & Tim Thornton & Domenico Sanna",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Cyclic Episode",
+     "artist": "Anders Thorén & Tim Thornton & Domenico Sanna",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Late Air",
+     "artist": "Anders Thorén & Tim Thornton & Domenico Sanna",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Along came Betty",
+     "artist": "Anders Thorén & Tim Thornton & Domenico Sanna",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Fade",
+     "artist": "Anders Thorén & Tim Thornton & Domenico Sanna",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Naima",
+     "artist": "Anders Thorén & Tim Thornton & Domenico Sanna",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
