@@ -1,0 +1,337 @@
+{
+ "date": "2026-10-29",
+ "generatedAt": "2026-10-29T10:22:51Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d4398101",
+   "discogsId": 4398101,
+   "title": "The Golden Sound Of Fred Stuger",
+   "artist": "Fred Stuger",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Park (2)",
+   "country": "Netherlands",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/xxeDiDVFd51Ds82_lcNnJZe834DOA3KI0JKSrN_0VrI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTgx/MDEtMTYwNzc2Njg3/OC03MjkxLmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 4,
+   "score": 0.6539,
+   "vibe": 76,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "℗ 1973 Basart Records International\n© Basart Records International B.V.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Swinging On The Swing",
+     "artist": "Fred Stuger",
+     "duration": "2:20"
+    },
+    {
+     "position": "A2",
+     "title": "Ella",
+     "artist": "Fred Stuger",
+     "duration": "2:40"
+    },
+    {
+     "position": "A3",
+     "title": "Song Of Love",
+     "artist": "Fred Stuger",
+     "duration": "3:45"
+    },
+    {
+     "position": "A4",
+     "title": "Rosemarie",
+     "artist": "Fred Stuger",
+     "duration": "3:15"
+    },
+    {
+     "position": "A5",
+     "title": "I Need You",
+     "artist": "Fred Stuger",
+     "duration": "2:22"
+    },
+    {
+     "position": "A6",
+     "title": "Now And Then",
+     "artist": "Fred Stuger",
+     "duration": "2:55"
+    },
+    {
+     "position": "A7",
+     "title": "Rabbit's Dance",
+     "artist": "Fred Stuger",
+     "duration": "2:43"
+    },
+    {
+     "position": "B1",
+     "title": "Bird Song",
+     "artist": "Fred Stuger",
+     "duration": "3:09"
+    },
+    {
+     "position": "B2",
+     "title": "Cradle Song",
+     "artist": "Fred Stuger",
+     "duration": "2:50"
+    },
+    {
+     "position": "B3",
+     "title": "Dream Afternoon",
+     "artist": "Fred Stuger",
+     "duration": "3:01"
+    },
+    {
+     "position": "B4",
+     "title": "The Night Is Blue",
+     "artist": "Fred Stuger",
+     "duration": "3:30"
+    },
+    {
+     "position": "B5",
+     "title": "Mr. White",
+     "artist": "Fred Stuger",
+     "duration": "3:40"
+    },
+    {
+     "position": "B6",
+     "title": "Raving Beauty",
+     "artist": "Fred Stuger",
+     "duration": "3:55"
+    },
+    {
+     "position": "B7",
+     "title": "Fancy Road",
+     "artist": "Fred Stuger",
+     "duration": "3:05"
+    }
+   ]
+  },
+  {
+   "id": "d8022416",
+   "discogsId": 8022416,
+   "title": "Gilberto With Turrentine",
+   "artist": "Astrud Gilberto & Stanley Turrentine",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "CTI Records",
+   "country": "Germany",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/Vzx8YIaEYn6xb7q5Ix9myqeU4Vx1emxgOq1HhzIX98s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjI0/MTYtMTQ1MzY1MDMz/NS01NzUxLmpwZWc.jpeg",
+   "ratingAvg": 4.42,
+   "ratingCount": 12,
+   "score": 0.65,
+   "vibe": 75,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Gatefold. German 1st Pressing 1971. Green CTi Label",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Wanting Things",
+     "artist": "Astrud Gilberto & Stanley Turrentine",
+     "duration": "2:35"
+    },
+    {
+     "position": "A2",
+     "title": "Brazilian Tapestry",
+     "artist": "Astrud Gilberto & Stanley Turrentine",
+     "duration": "5:10"
+    },
+    {
+     "position": "A3",
+     "title": "To A Flame",
+     "artist": "Astrud Gilberto & Stanley Turrentine",
+     "duration": "3:17"
+    },
+    {
+     "position": "A4",
+     "title": "Solo El Fin (For All We Know)",
+     "artist": "Astrud Gilberto & Stanley Turrentine",
+     "duration": "3:10"
+    },
+    {
+     "position": "A5",
+     "title": "Zazueira",
+     "artist": "Astrud Gilberto & Stanley Turrentine",
+     "duration": "3:40"
+    },
+    {
+     "position": "B1",
+     "title": "Ponteio",
+     "artist": "Astrud Gilberto & Stanley Turrentine",
+     "duration": "3:35"
+    },
+    {
+     "position": "B2",
+     "title": "Traveling Light",
+     "artist": "Astrud Gilberto & Stanley Turrentine",
+     "duration": "3:25"
+    },
+    {
+     "position": "B3",
+     "title": "Vera Cruz",
+     "artist": "Astrud Gilberto & Stanley Turrentine",
+     "duration": "5:05"
+    },
+    {
+     "position": "B4",
+     "title": "Historia De Amor (Love Story)",
+     "artist": "Astrud Gilberto & Stanley Turrentine",
+     "duration": "3:29"
+    },
+    {
+     "position": "B5",
+     "title": "Where There's A Heartache",
+     "artist": "Astrud Gilberto & Stanley Turrentine",
+     "duration": "3:10"
+    }
+   ]
+  },
+  {
+   "id": "d24280262",
+   "discogsId": 24280262,
+   "title": "Verde E Rosa / O Moço Velho",
+   "artist": "Silvio Cesar",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Odeon",
+   "country": "Brazil",
+   "styles": [
+    "Bossa Nova",
+    "Samba"
+   ],
+   "coverUrl": "https://i.discogs.com/8VV9b5zgK1HU2Qld0wwC52saSMF4NBP6oBcImutf2A8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgw/MjYyLTE2NjExODIx/MzMtMjQxNS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 3,
+   "score": 0.6231,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Verde E Rosa",
+     "artist": "Silvio Cesar",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "O Moço Velho",
+     "artist": "Silvio Cesar",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d32199804",
+   "discogsId": 32199804,
+   "title": "When The World Was One",
+   "artist": "Matthew Halsall & The Gondwana Orchestra",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Gondwana Records",
+   "country": "UK",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/U3IjRk2o5SF1yX6sgdt1TjZf0eav51W7k7Ncq-xq4Js/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTk5/ODA0LTE3MzA3Njgz/NDktNDgwNy5qcGVn.jpeg",
+   "ratingAvg": 4.83,
+   "ratingCount": 23,
+   "score": 0.6538,
+   "vibe": 76,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "When The World Was One",
+     "artist": "Matthew Halsall & The Gondwana Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "A Far Away Place",
+     "artist": "Matthew Halsall & The Gondwana Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Patterns",
+     "artist": "Matthew Halsall & The Gondwana Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Falling Water",
+     "artist": "Matthew Halsall & The Gondwana Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "C1",
+     "title": "Sagano Bamboo Forest",
+     "artist": "Matthew Halsall & The Gondwana Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "C2",
+     "title": "Kiyomiza-Dera",
+     "artist": "Matthew Halsall & The Gondwana Orchestra",
+     "duration": ""
+    },
+    {
+     "position": "D",
+     "title": "Tribute To Alice Coltrane",
+     "artist": "Matthew Halsall & The Gondwana Orchestra",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d37283532",
+   "discogsId": 37283532,
+   "title": "Again / 白い翼",
+   "artist": "Free Sound Orchestra",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Freedom Hill Records",
+   "country": "Japan",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/ieYemsKK9Lr81Ne9rmdl0-wvuJT3e2jfzGfjLnwOjVI/rs:fit/g:sm/q:90/h:516/w:516/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjgz/NTMyLTE3NzgyNDEx/NTYtNTY5Mi5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.578,
+   "vibe": 57,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Again",
+     "artist": "Free Sound Orchestra",
+     "duration": "3:30"
+    },
+    {
+     "position": "B",
+     "title": "白い翼",
+     "artist": "Free Sound Orchestra",
+     "duration": "3:30"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
