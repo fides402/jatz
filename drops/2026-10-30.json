@@ -1,0 +1,376 @@
+{
+ "date": "2026-10-30",
+ "generatedAt": "2026-10-30T10:24:11Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d12443556",
+   "discogsId": 12443556,
+   "title": "Bossa Antigua",
+   "artist": "Paul Desmond & Jim Hall",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "RCA",
+   "country": "Japan",
+   "styles": [
+    "Bossa Nova",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/4_vaRFfeQETNQo5sOMLy2SdZMJR0jUWrg0iQ5QZ1Osk/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQz/NTU2LTE1MzUzODk1/MzYtMzM2MS5qcGVn.jpeg",
+   "ratingAvg": 4.71,
+   "ratingCount": 7,
+   "score": 0.6108,
+   "vibe": 65,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Manufactured by Victor Musical Industries, Inc., Tokyo, Japan from Master Recordings of RCA Records\n\n¥ 2,200",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Bossa Antigua",
+     "artist": "Paul Desmond & Jim Hall",
+     "duration": "4:30"
+    },
+    {
+     "position": "A2",
+     "title": "The Night Has A Thousand Eyes",
+     "artist": "Paul Desmond & Jim Hall",
+     "duration": "4:41"
+    },
+    {
+     "position": "A3",
+     "title": "O Gato",
+     "artist": "Paul Desmond & Jim Hall",
+     "duration": "4:23"
+    },
+    {
+     "position": "A4",
+     "title": "Samba Cantina",
+     "artist": "Paul Desmond & Jim Hall",
+     "duration": "5:29"
+    },
+    {
+     "position": "B1",
+     "title": "Curação Doloroso",
+     "artist": "Paul Desmond & Jim Hall",
+     "duration": "4:26"
+    },
+    {
+     "position": "B2",
+     "title": "A Ship Without A Sail",
+     "artist": "Paul Desmond & Jim Hall",
+     "duration": "6:08"
+    },
+    {
+     "position": "B3",
+     "title": "Aliança",
+     "artist": "Paul Desmond & Jim Hall",
+     "duration": "4:26"
+    },
+    {
+     "position": "B4",
+     "title": "The Girl From East 9th Street",
+     "artist": "Paul Desmond & Jim Hall",
+     "duration": "5:53"
+    }
+   ]
+  },
+  {
+   "id": "d27565329",
+   "discogsId": 27565329,
+   "title": "Adio (Easy Listening Music)",
+   "artist": "Dusko Goykovich",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "PGP RTB",
+   "country": "Yugoslavia",
+   "styles": [
+    "Bossa Nova",
+    "Easy Listening"
+   ],
+   "coverUrl": "https://i.discogs.com/b_7pbqOQOETlGCOk6d6_KeuP1mb5Ox05vugMlP6OTBk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTY1/MzI5LTE2OTA1NTg1/MjItMTk0Mi5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.5991,
+   "vibe": 62,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "This version without note \"℗ 1983\" on label A",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Adio",
+     "artist": "Dusko Goykovich",
+     "duration": "2:49"
+    },
+    {
+     "position": "A2",
+     "title": "Jesenja Elegija",
+     "artist": "Dusko Goykovich",
+     "duration": "3:43"
+    },
+    {
+     "position": "A3",
+     "title": "Brazilijana",
+     "artist": "Dusko Goykovich",
+     "duration": "2:25"
+    },
+    {
+     "position": "A4",
+     "title": "Volim Te",
+     "artist": "Dusko Goykovich",
+     "duration": "3:20"
+    },
+    {
+     "position": "A5",
+     "title": "U Znaku Vage",
+     "artist": "Dusko Goykovich",
+     "duration": "3:42"
+    },
+    {
+     "position": "A6",
+     "title": "Devojko Mala",
+     "artist": "Dusko Goykovich",
+     "duration": "2:37"
+    },
+    {
+     "position": "B1",
+     "title": "Mala Priča",
+     "artist": "Dusko Goykovich",
+     "duration": "3:05"
+    },
+    {
+     "position": "B2",
+     "title": "Vals Za Andreu",
+     "artist": "Dusko Goykovich",
+     "duration": "2:05"
+    },
+    {
+     "position": "B3",
+     "title": "Oprosti, Volim Te",
+     "artist": "Dusko Goykovich",
+     "duration": "3:31"
+    },
+    {
+     "position": "B4",
+     "title": "Nemir U Snu",
+     "artist": "Dusko Goykovich",
+     "duration": "2:50"
+    },
+    {
+     "position": "B5",
+     "title": "April U Beogradu",
+     "artist": "Dusko Goykovich",
+     "duration": "3:48"
+    },
+    {
+     "position": "B6",
+     "title": "Pod Sjajem Zvezda",
+     "artist": "Dusko Goykovich",
+     "duration": "2:50"
+    }
+   ]
+  },
+  {
+   "id": "d20836213",
+   "discogsId": 20836213,
+   "title": "Empyrean Isles",
+   "artist": "Herbie Hancock",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Blue Note",
+   "country": "US",
+   "styles": [
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/swUPBpmSvvycZRQWc1PQFKTV_N1UFU1kzpfUM59n87s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM2/MjEzLTE2MzU5NDQ3/MTctMzAyNS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5856,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Similar to [r6798808] except for Side 2 center label.\nSide 1: Blue/white \"Blue Note Records - A Division Of Liberty Records, Inc.\"\nSide 2: Blue/white \"Blue Note Records - A Division Of United Artists Records, Inc.\"\nTitle/Artist in same font size on center label.\nBack cover upper left: Blue Note logo with text A PRODUCT OF LIBERTY RECORDS \nUpper right: BLP-4175/BST-84175\nNo address",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "One Finger Snap",
+     "artist": "Herbie Hancock",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Oliloqui",
+     "artist": "Herbie Hancock",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Cantaloupe Island",
+     "artist": "Herbie Hancock",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "The Egg",
+     "artist": "Herbie Hancock",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d30271751",
+   "discogsId": 30271751,
+   "title": "Power To The People",
+   "artist": "Joe Henderson",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Craft Recordings",
+   "country": "Worldwide",
+   "styles": [
+    "Hard Bop",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/yp_E7wGsDeIJ7QPxJ_YZ-s6VXVy4FJjgeHob_0ikfWw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjcx/NzUxLTE3MTE5ODY1/MDAtNTI3MC5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 5,
+   "score": 0.578,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded on May 23 (#2, 5) and May 29 (others) 1969.\n\nHi-Res release.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Black Narcissus",
+     "artist": "Joe Henderson",
+     "duration": "4:51"
+    },
+    {
+     "position": "2",
+     "title": "Afro-Centric",
+     "artist": "Joe Henderson",
+     "duration": "7:03"
+    },
+    {
+     "position": "3",
+     "title": "Opus One-Point-Five",
+     "artist": "Joe Henderson",
+     "duration": "4:55"
+    },
+    {
+     "position": "4",
+     "title": "Isotope",
+     "artist": "Joe Henderson",
+     "duration": "4:55"
+    },
+    {
+     "position": "5",
+     "title": "Power To The People",
+     "artist": "Joe Henderson",
+     "duration": "8:43"
+    },
+    {
+     "position": "6",
+     "title": "Lazy Afternoon",
+     "artist": "Joe Henderson",
+     "duration": "4:35"
+    },
+    {
+     "position": "7",
+     "title": "Foresight And Afterthought (An Impromptu Suite)",
+     "artist": "Joe Henderson",
+     "duration": "7:31"
+    }
+   ]
+  },
+  {
+   "id": "d15803432",
+   "discogsId": 15803432,
+   "title": "Live In Paris - The ORTF Recordings 1966/67",
+   "artist": "Nathan Davis & Georges Arvanitas Trio",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Sam Records (8)",
+   "country": "France",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/Ln1Y-6QU_W_XNmrvKgQ8sIHoL9J0tUA5pseA4qMtsqE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAz/NDMyLTE1OTgwOTQ1/MjMtNzI2Ny5qcGVn.jpeg",
+   "ratingAvg": 4.89,
+   "ratingCount": 18,
+   "score": 0.5595,
+   "vibe": 52,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Promo version. \"Promo Copy\" is ink-stamped on the Removable Orange strip (\"Promo Copy  /1500\") and on the Labels (\"Promo Copy\") on Sides A, C, & E (see Images).\nThis record is dedicated to the memory of Nathan Davis.\nVinyl only release - no digital and CD version of this title is scheduled.\n\nA never-before released Nathan Davis 1966/67 live recording. \nFirst official release with the full permission and cooperation of the Nathan Davis Estate & INA (Institut National de l'Audiovisuel).\n\nSide A & B : recorded November 19, 1966 at Studio 105 Charles Trenet, Maison de la Radio, Paris.\nSide C, D & ",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Hip Walk",
+     "artist": "Nathan Davis & Georges Arvanitas Trio",
+     "duration": "9:21"
+    },
+    {
+     "position": "A2",
+     "title": "Yesterdays (Flute version)",
+     "artist": "Nathan Davis & Georges Arvanitas Trio",
+     "duration": "8:40"
+    },
+    {
+     "position": "B1",
+     "title": "A5",
+     "artist": "Nathan Davis & Georges Arvanitas Trio",
+     "duration": "10:39"
+    },
+    {
+     "position": "B2",
+     "title": "Nathalie's Bounce",
+     "artist": "Nathan Davis & Georges Arvanitas Trio",
+     "duration": "10:17"
+    },
+    {
+     "position": "C1",
+     "title": "Love Ye The Neighbor",
+     "artist": "Nathan Davis & Georges Arvanitas Trio",
+     "duration": "12:43"
+    },
+    {
+     "position": "C2",
+     "title": "Mid Evil Dance",
+     "artist": "Nathan Davis & Georges Arvanitas Trio",
+     "duration": "9:53"
+    },
+    {
+     "position": "D1",
+     "title": "The Rules Of Freedom",
+     "artist": "Nathan Davis & Georges Arvanitas Trio",
+     "duration": "12:15"
+    },
+    {
+     "position": "D2",
+     "title": "The Thing",
+     "artist": "Nathan Davis & Georges Arvanitas Trio",
+     "duration": "13:19"
+    },
+    {
+     "position": "E1",
+     "title": "Yesterdays (Sax version)",
+     "artist": "Nathan Davis & Georges Arvanitas Trio",
+     "duration": "14:05"
+    },
+    {
+     "position": "E2",
+     "title": "Blues For Southeast Asia",
+     "artist": "Nathan Davis & Georges Arvanitas Trio",
+     "duration": "10:15"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
