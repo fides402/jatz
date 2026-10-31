@@ -1,0 +1,393 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T09:58:44Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d7393022",
+   "discogsId": 7393022,
+   "title": "Francis Albert Sinatra & Antonio Carlos Jobim",
+   "artist": "Frank Sinatra & Antonio Carlos Jobim",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Reprise Records",
+   "country": "Brazil",
+   "styles": [
+    "Swing",
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/an5Pl4jODkQgL9Lr1l2_C6DJP2MYDa6dpLNdhgBty50/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTMw/MjItMTQ0MDUyODgw/MC02OTU0LmpwZWc.jpeg",
+   "ratingAvg": 4.57,
+   "ratingCount": 7,
+   "score": 0.7893,
+   "vibe": 100,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded: January 30 - February 1, 1967, Hollywood, Los Angeles. ",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Girl From Ipanema",
+     "artist": "Frank Sinatra & Antonio Carlos Jobim",
+     "duration": "3:00"
+    },
+    {
+     "position": "A2",
+     "title": "Dindi",
+     "artist": "Frank Sinatra & Antonio Carlos Jobim",
+     "duration": "3:25"
+    },
+    {
+     "position": "A3",
+     "title": "Change Partners",
+     "artist": "Frank Sinatra & Antonio Carlos Jobim",
+     "duration": "2:40"
+    },
+    {
+     "position": "A4",
+     "title": "Quiet Nights Of Quiet Stars",
+     "artist": "Frank Sinatra & Antonio Carlos Jobim",
+     "duration": "2:45"
+    },
+    {
+     "position": "A5",
+     "title": "Meditation",
+     "artist": "Frank Sinatra & Antonio Carlos Jobim",
+     "duration": "2:51"
+    },
+    {
+     "position": "B1",
+     "title": "If You Never Come To Me",
+     "artist": "Frank Sinatra & Antonio Carlos Jobim",
+     "duration": "2:10"
+    },
+    {
+     "position": "B2",
+     "title": "How Insensitive",
+     "artist": "Frank Sinatra & Antonio Carlos Jobim",
+     "duration": "3:15"
+    },
+    {
+     "position": "B3",
+     "title": "I Concentrate On You",
+     "artist": "Frank Sinatra & Antonio Carlos Jobim",
+     "duration": "2:32"
+    },
+    {
+     "position": "B4",
+     "title": "Baubles, Bangles And Beads",
+     "artist": "Frank Sinatra & Antonio Carlos Jobim",
+     "duration": "2:32"
+    },
+    {
+     "position": "B5",
+     "title": "Once I Loved",
+     "artist": "Frank Sinatra & Antonio Carlos Jobim",
+     "duration": "2:37"
+    }
+   ]
+  },
+  {
+   "id": "d2284047",
+   "discogsId": 2284047,
+   "title": "Unsung Heroes",
+   "artist": "The Crusaders",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Blue Thumb Records",
+   "country": "France",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/EDnC5BK8WAHWtM4Bp-GGMRBbcI3c-BK9j-d3lKaCeCE/rs:fit/g:sm/q:90/h:492/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/NDctMTI5MTc2MDc2/MS5qcGVn.jpeg",
+   "ratingAvg": 4.1,
+   "ratingCount": 10,
+   "score": 0.6506,
+   "vibe": 75,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "A Crusaders Production\r\nRecorded at Wally Heider Recording Studio 3, Los Angeles, California, August 1973.\r\nMastered at The Mastering Lab.\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Unsung Heroes",
+     "artist": "The Crusaders",
+     "duration": "3:13"
+    },
+    {
+     "position": "A2",
+     "title": "Lay It On The Line",
+     "artist": "The Crusaders",
+     "duration": "3:32"
+    },
+    {
+     "position": "A3",
+     "title": "Crossfire",
+     "artist": "The Crusaders",
+     "duration": "7:23"
+    },
+    {
+     "position": "A4",
+     "title": "Hard Times",
+     "artist": "The Crusaders",
+     "duration": "4:37"
+    },
+    {
+     "position": "A5",
+     "title": "Let's Boogie",
+     "artist": "The Crusaders",
+     "duration": "4:30"
+    },
+    {
+     "position": "A6",
+     "title": "Freedom Sound",
+     "artist": "The Crusaders",
+     "duration": "1:40"
+    },
+    {
+     "position": "B1",
+     "title": "In The Middle Of The River",
+     "artist": "The Crusaders",
+     "duration": "5:15"
+    },
+    {
+     "position": "B2",
+     "title": "Heavy Up (Don't Get Light With Me)",
+     "artist": "The Crusaders",
+     "duration": "3:13"
+    },
+    {
+     "position": "B3",
+     "title": "Night Theme",
+     "artist": "The Crusaders",
+     "duration": "7:17"
+    },
+    {
+     "position": "B4",
+     "title": "Now I Lay Me Down To Sleep",
+     "artist": "The Crusaders",
+     "duration": "4:30"
+    }
+   ]
+  },
+  {
+   "id": "d2863420",
+   "discogsId": 2863420,
+   "title": "Happy Together",
+   "artist": "Pete & Sheila Escovedo",
+   "year": 1978,
+   "era": "VINTAGE",
+   "label": "Fantasy",
+   "country": "US",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/hYt08kKFu4-MOy7qK5ehbqLbHmfAhVEy4Z_lsH-S-Ys/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjM0/MjAtMTUyOTk1MTgx/MC03Njk2LmpwZWc.jpeg",
+   "ratingAvg": 4.27,
+   "ratingCount": 15,
+   "score": 0.5976,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Ain't That The Truth",
+     "artist": "Pete & Sheila Escovedo",
+     "duration": "4:41"
+    },
+    {
+     "position": "A2",
+     "title": "Harockamolé",
+     "artist": "Pete & Sheila Escovedo",
+     "duration": "6:12"
+    },
+    {
+     "position": "A3",
+     "title": "Bolinas",
+     "artist": "Pete & Sheila Escovedo",
+     "duration": "4:13"
+    },
+    {
+     "position": "A4",
+     "title": "Bridges (Travessia)",
+     "artist": "Pete & Sheila Escovedo",
+     "duration": "4:09"
+    },
+    {
+     "position": "B1",
+     "title": "Burrito Bandito",
+     "artist": "Pete & Sheila Escovedo",
+     "duration": "5:02"
+    },
+    {
+     "position": "B2",
+     "title": "Hello Like Before",
+     "artist": "Pete & Sheila Escovedo",
+     "duration": "4:31"
+    },
+    {
+     "position": "B3",
+     "title": "Happy Together",
+     "artist": "Pete & Sheila Escovedo",
+     "duration": "4:36"
+    },
+    {
+     "position": "B4",
+     "title": "Cueros",
+     "artist": "Pete & Sheila Escovedo",
+     "duration": "3:00"
+    }
+   ]
+  },
+  {
+   "id": "d30078271",
+   "discogsId": 30078271,
+   "title": "Smuk",
+   "artist": "Micha Jesske",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Not On Label",
+   "country": "Germany",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/yWuMyx-qgSkPpR3EKBtyiBXZcQTB9wCqjLERzpwU51s/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDc4/MjcxLTE3NTk2OTQ3/OTQtMjA5MS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5698,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded and mixed 2021",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Procrastinator",
+     "artist": "Micha Jesske",
+     "duration": "8:10"
+    },
+    {
+     "position": "2",
+     "title": "Hätte",
+     "artist": "Micha Jesske",
+     "duration": "6:58"
+    },
+    {
+     "position": "3",
+     "title": "Arete I",
+     "artist": "Micha Jesske",
+     "duration": "3:49"
+    },
+    {
+     "position": "4",
+     "title": "Arete II",
+     "artist": "Micha Jesske",
+     "duration": "3:58"
+    },
+    {
+     "position": "5",
+     "title": "Teide",
+     "artist": "Micha Jesske",
+     "duration": "1:41"
+    },
+    {
+     "position": "6",
+     "title": "Holz I",
+     "artist": "Micha Jesske",
+     "duration": "8:22"
+    },
+    {
+     "position": "7",
+     "title": "Holz II",
+     "artist": "Micha Jesske",
+     "duration": "3:02"
+    },
+    {
+     "position": "8",
+     "title": "Hillary Step",
+     "artist": "Micha Jesske",
+     "duration": "5:54"
+    },
+    {
+     "position": "9",
+     "title": "Wild",
+     "artist": "Micha Jesske",
+     "duration": "6:04"
+    }
+   ]
+  },
+  {
+   "id": "d26339876",
+   "discogsId": 26339876,
+   "title": "Simulated Cities",
+   "artist": "Dan Banks Quintet",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Not On Label (Dan Banks Quintet Self-released)",
+   "country": "UK",
+   "styles": [
+    "Post Bop",
+    "Contemporary Jazz",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/g6M5zSiCvpNXO4eOL89vI6vQ_1r8NI5YQ2ISgi3Mgtc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzM5/ODc2LTE2NzgyMjQ5/NTctNDU4Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Secondline Sidestep",
+     "artist": "Dan Banks Quintet",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Changing States",
+     "artist": "Dan Banks Quintet",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "ETR500",
+     "artist": "Dan Banks Quintet",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Vistas Of Shangri-La",
+     "artist": "Dan Banks Quintet",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Simulated Cities",
+     "artist": "Dan Banks Quintet",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Prince Of Sorcery",
+     "artist": "Dan Banks Quintet",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Samba Da Primavera",
+     "artist": "Dan Banks Quintet",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
