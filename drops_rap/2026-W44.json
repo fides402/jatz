@@ -1,6 +1,6 @@
 {
  "date": "2026-W44",
- "generatedAt": "2026-10-30T19:01:31Z",
+ "generatedAt": "2026-10-31T18:18:18Z",
  "profile": "rap",
  "albums": [
   {
@@ -147,10 +147,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4350654632",
+   "discogsId": 0,
+   "title": "Candy",
+   "artist": "Soulja Boy Tell'em",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/fdee2909d6530e0a43ce23c71c9d01fc/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Candy",
+     "artist": "Soulja Boy Tell'em",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4372351681",
+   "discogsId": 0,
+   "title": "Dirty Dan",
+   "artist": "Sleepy Hallow",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/91b11cdce3a2267ebbc3de666e3da3f8/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Dirty Dan",
+     "artist": "Sleepy Hallow",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 5
+  "modern": 7
  }
 }
