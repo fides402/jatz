@@ -1,0 +1,526 @@
+{
+ "date": "2026-11-01",
+ "generatedAt": "2026-11-01T10:47:58Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d6573416",
+   "discogsId": 6573416,
+   "title": "Quiet Evenings",
+   "artist": "Toots Thielemans",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Epic",
+   "country": "Japan",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Q2oxb6hQcutVDMQG-bkCj5RfES3RrbsvTRiNYHzFfXM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzM0/MTYtMTQ1MzU2MDYx/Ni01NTY3LmpwZWc.jpeg",
+   "ratingAvg": 4.2,
+   "ratingCount": 10,
+   "score": 0.5864,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Killer Joe",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "The Shadow Of Your Smile",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Jane's Theme",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Here's That Rainy Day",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "That Misty Red Beast",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Nobody Does It Better",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "I Won't Last A Day Without You",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Bluesette",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "The Sensualist",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Days Of Wine And Roses",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Quiet Evenings",
+     "artist": "Toots Thielemans",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d4645647",
+   "discogsId": 4645647,
+   "title": "With Famous American Guests",
+   "artist": "The Dutch Swing College Band",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "DSC Production",
+   "country": "Netherlands",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/MJMXkJGNTt8syg2dkYVF-VfmEfrb-jmSlkVgYfFVpNo/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDU2/NDctMTM3MDkzNzYy/MS04NDM2LmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.5801,
+   "vibe": 58,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Alternate sleeve art. \r\n\r\nTitled 'With Famous American Guests' on the label, 'Featuring Famous American Jazz Giants' on the front cover and 'Featuring Famous Soloists' on the spine.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Mandy Make Up Your Mind",
+     "artist": "The Dutch Swing College Band",
+     "duration": "5:08"
+    },
+    {
+     "position": "A2",
+     "title": "I Got A Right To Sing The Blues",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:35"
+    },
+    {
+     "position": "A3",
+     "title": "I Wanna Be Happy",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:18"
+    },
+    {
+     "position": "A4",
+     "title": "Keepin' Out Of The Mischief Now",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:15"
+    },
+    {
+     "position": "A5",
+     "title": "I Got Rhythm",
+     "artist": "The Dutch Swing College Band",
+     "duration": "2:03"
+    },
+    {
+     "position": "A6",
+     "title": "Lotus Blossom",
+     "artist": "The Dutch Swing College Band",
+     "duration": "2:50"
+    },
+    {
+     "position": "B1",
+     "title": "Swing That Music",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:37"
+    },
+    {
+     "position": "B2",
+     "title": "Poor Butterfly",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:40"
+    },
+    {
+     "position": "B3",
+     "title": "As Long As I Live",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:54"
+    },
+    {
+     "position": "B4",
+     "title": "Nobody Knows You When You're Down And Out",
+     "artist": "The Dutch Swing College Band",
+     "duration": "2:45"
+    },
+    {
+     "position": "B5",
+     "title": "Shimme-Sha-Wabble",
+     "artist": "The Dutch Swing College Band",
+     "duration": "4:10"
+    },
+    {
+     "position": "B6",
+     "title": "Wild Dog",
+     "artist": "The Dutch Swing College Band",
+     "duration": "2:50"
+    },
+    {
+     "position": "C1",
+     "title": "Sweet Georgia Brown",
+     "artist": "The Dutch Swing College Band",
+     "duration": "2:45"
+    },
+    {
+     "position": "C2",
+     "title": "Body And Soul",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:58"
+    },
+    {
+     "position": "C3",
+     "title": "St. Louis Blues",
+     "artist": "The Dutch Swing College Band",
+     "duration": "2:25"
+    },
+    {
+     "position": "C4",
+     "title": "Ole Man River",
+     "artist": "The Dutch Swing College Band",
+     "duration": "2:50"
+    },
+    {
+     "position": "C5",
+     "title": "Exactly Like You",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:52"
+    },
+    {
+     "position": "C6",
+     "title": "Dear Old Southland",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:36"
+    },
+    {
+     "position": "D1",
+     "title": "Three Little Words",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:18"
+    },
+    {
+     "position": "D2",
+     "title": "I Guess I'll Have To Change My Plan",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:17"
+    },
+    {
+     "position": "D3",
+     "title": "Raggin' The Scale",
+     "artist": "The Dutch Swing College Band",
+     "duration": "2:29"
+    },
+    {
+     "position": "D4",
+     "title": "West-End Blues",
+     "artist": "The Dutch Swing College Band",
+     "duration": "5:02"
+    },
+    {
+     "position": "D5",
+     "title": "On The Sunny Side Of The Street",
+     "artist": "The Dutch Swing College Band",
+     "duration": "3:23"
+    },
+    {
+     "position": "D6",
+     "title": "Roll 'Em Pete",
+     "artist": "The Dutch Swing College Band",
+     "duration": "2:05"
+    }
+   ]
+  },
+  {
+   "id": "d5491587",
+   "discogsId": 5491587,
+   "title": "Either Way",
+   "artist": "Zoot Sims & Al Cohn & Cecil Collier",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Overseas Records",
+   "country": "Japan",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/2U9yDz7NmnNqzVCTkA0IcWEyO8QaaqummXNhmWswiBw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTE1/ODctMTQyOTUzMzk0/Ni01NDg4LmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 9,
+   "score": 0.578,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "P-Town",
+     "artist": "Zoot Sims & Al Cohn & Cecil Collier",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "I Like It That Way",
+     "artist": "Zoot Sims & Al Cohn & Cecil Collier",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Sweet Lorraine",
+     "artist": "Zoot Sims & Al Cohn & Cecil Collier",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Autumn Leaves",
+     "artist": "Zoot Sims & Al Cohn & Cecil Collier",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "The Thing",
+     "artist": "Zoot Sims & Al Cohn & Cecil Collier",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "I'm Tellin' Ya",
+     "artist": "Zoot Sims & Al Cohn & Cecil Collier",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Nagasaki",
+     "artist": "Zoot Sims & Al Cohn & Cecil Collier",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Morning Fun",
+     "artist": "Zoot Sims & Al Cohn & Cecil Collier",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d33619575",
+   "discogsId": 33619575,
+   "title": "Harmonia",
+   "artist": "Jon Henriksson",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "TengTones",
+   "country": "Sweden",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/aRFQU8-5a4Xnkg_nskVz5M7hYmlO_5dXSAvNaNC7Wok/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjE5/NTc1LTE3NDM5NTA4/MTMtOTUzMi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6486,
+   "vibe": 75,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "'Recorded at Ekestubbe Studios in Stockholm June 2022.'\n\nDigipak, with clear tray.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Life Express",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Memory Lane",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Flat Earth Society",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Simply",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Harmonia I",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Harmonia II",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Harmonia III",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Drift",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Doug The Cat",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "In Return",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "Wallingatan",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "Somewhere Then And Now",
+     "artist": "Jon Henriksson",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d15879980",
+   "discogsId": 15879980,
+   "title": "Brothers & Friends",
+   "artist": "Phil Keaggy & Tom Shinness",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Not On Label",
+   "country": null,
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/-Yb4m5Z6vgJaFOW2YHyPbmrSTbo30BTd-gZImp7TzZQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODc5/OTgwLTE1OTk0ODc2/MjQtMzIxMC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Keaggy's Garage release on Bandcamp\n\nTracks 4, 7, 8 and 9 originally appeared on Phantasmagorical: Master & Musician 2\nTrack 11 originally appeared on Music to Paint By: Still Life",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "The Ark",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Beautiful Collapse (feat. Jasmine Shinness)",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Rest",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Caffeinated Dessert",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Mando & Guitar Improv",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "BCC Soundcheck (Live)",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Waltz",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Far East Of Cleveland",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Cascading",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "Guitar & Bass Improv",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "11",
+     "title": "Old Friends",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    },
+    {
+     "position": "12",
+     "title": "Thank You For Today",
+     "artist": "Phil Keaggy & Tom Shinness",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
