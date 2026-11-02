@@ -1,0 +1,320 @@
+{
+ "date": "2026-11-02",
+ "generatedAt": "2026-11-02T11:37:11Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d34318540",
+   "discogsId": 34318540,
+   "title": "Maria, Maria",
+   "artist": "Milton Nascimento",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "EMI",
+   "country": "Argentina",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/-mM5W7tKf9tbERR1m41IxM_JztHCSQ-W66YitilY4gc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzE4/NTQwLTE3Njc3NDU4/MTYtOTI1Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6314,
+   "vibe": 70,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Maria, Maria",
+     "artist": "Milton Nascimento",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Volver A Los 17",
+     "artist": "Milton Nascimento",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d4740483",
+   "discogsId": 4740483,
+   "title": "Viu / Deixa Pra Lá",
+   "artist": "Adriana",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Equipe",
+   "country": "Brazil",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/0N6bHU1WmTqmSXTv9fXXAUMeJ3bRhsnCavNClpEWAMw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDA0/ODMtMTUwMTU1NDE2/MS00NzI4LmpwZWc.jpeg",
+   "ratingAvg": 3.0,
+   "ratingCount": 1,
+   "score": 0.6153,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Viu",
+     "artist": "Adriana",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Deixa Prá Lá",
+     "artist": "Adriana",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d7607804",
+   "discogsId": 7607804,
+   "title": "The Goddess Of Jazz",
+   "artist": "Nina Simone",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Fontana",
+   "country": "Brazil",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Q96y008l841LtW1Ezxi8GZJ8_HbgO-yziAwrc7H_CH0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDc4/MDQtMTQ0NTA0MTA2/MC02ODcxLmpwZWc.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 4,
+   "score": 0.5995,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Chilly Winds Don't Blow",
+     "artist": "Nina Simone",
+     "duration": "4:57"
+    },
+    {
+     "position": "A2",
+     "title": "Lilac Wine",
+     "artist": "Nina Simone",
+     "duration": "4:12"
+    },
+    {
+     "position": "A3",
+     "title": "Feeling Good",
+     "artist": "Nina Simone",
+     "duration": "2:51"
+    },
+    {
+     "position": "A4",
+     "title": "The Laziest Gal In Town",
+     "artist": "Nina Simone",
+     "duration": "2:15"
+    },
+    {
+     "position": "A5",
+     "title": "Ain't No Use",
+     "artist": "Nina Simone",
+     "duration": "2:59"
+    },
+    {
+     "position": "A6",
+     "title": "Black Is The Colour Of My True Love's Hair",
+     "artist": "Nina Simone",
+     "duration": "3:24"
+    },
+    {
+     "position": "B1",
+     "title": "I Love Your Lovin' Ways",
+     "artist": "Nina Simone",
+     "duration": "2:28"
+    },
+    {
+     "position": "B2",
+     "title": "Wild Is The Wind",
+     "artist": "Nina Simone",
+     "duration": "6:55"
+    },
+    {
+     "position": "B3",
+     "title": "Tomorrow Is My Turn",
+     "artist": "Nina Simone",
+     "duration": "2:49"
+    },
+    {
+     "position": "B4",
+     "title": "Strange Fruit",
+     "artist": "Nina Simone",
+     "duration": "3:28"
+    },
+    {
+     "position": "B5",
+     "title": "Be My Husband",
+     "artist": "Nina Simone",
+     "duration": "3:20"
+    },
+    {
+     "position": "B6",
+     "title": "Tell Me More And More And Then Some",
+     "artist": "Nina Simone",
+     "duration": "3:05"
+    }
+   ]
+  },
+  {
+   "id": "d28911367",
+   "discogsId": 28911367,
+   "title": "Dirty In Detroit",
+   "artist": "Emmet Cohen Trio & Russell Hall & Kyle Poole",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Not On Label (Emmet Cohen Self-released)",
+   "country": null,
+   "styles": [
+    "Swing",
+    "Bop",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/LYGLyhZcCM5M6r-JmcXjw7FmCNQljEROKbev41RyALo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTEx/MzY3LTE2OTk5NjM1/NDQtNzM0Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6143,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded on September 15, 2017 at the Dirty Dog Jazz Café in Srosse Pointe Farms, MI\n\n℗ & © Self-released by Emmet Cohen\nPrinted in USA\nemmetcohen.com\n\nGatefold paper sleeve.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Teo",
+     "artist": "Emmet Cohen Trio & Russell Hall & Kyle Poole",
+     "duration": "5:01"
+    },
+    {
+     "position": "2",
+     "title": "Darn That Dream",
+     "artist": "Emmet Cohen Trio & Russell Hall & Kyle Poole",
+     "duration": "7:41"
+    },
+    {
+     "position": "3",
+     "title": "Jitterbug Waltz",
+     "artist": "Emmet Cohen Trio & Russell Hall & Kyle Poole",
+     "duration": "3:22"
+    },
+    {
+     "position": "4",
+     "title": "Squeeze Me",
+     "artist": "Emmet Cohen Trio & Russell Hall & Kyle Poole",
+     "duration": "2:20"
+    },
+    {
+     "position": "5",
+     "title": "You Don't Know What Love Is",
+     "artist": "Emmet Cohen Trio & Russell Hall & Kyle Poole",
+     "duration": "7:18"
+    },
+    {
+     "position": "6",
+     "title": "Bremond's Blues",
+     "artist": "Emmet Cohen Trio & Russell Hall & Kyle Poole",
+     "duration": "5:31"
+    },
+    {
+     "position": "8",
+     "title": "Ain't Misbehavin'",
+     "artist": "Emmet Cohen Trio & Russell Hall & Kyle Poole",
+     "duration": "2:21"
+    },
+    {
+     "position": "9",
+     "title": "'Round Midnight",
+     "artist": "Emmet Cohen Trio & Russell Hall & Kyle Poole",
+     "duration": "10:10"
+    }
+   ]
+  },
+  {
+   "id": "d26788754",
+   "discogsId": 26788754,
+   "title": "Sense",
+   "artist": "Merinda Dias-Jayasinha",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Creative Victoria",
+   "country": "Australia",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5788,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Chrysalism",
+     "artist": "Merinda Dias-Jayasinha",
+     "duration": "5:32"
+    },
+    {
+     "position": "2",
+     "title": "How We See",
+     "artist": "Merinda Dias-Jayasinha",
+     "duration": "5:23"
+    },
+    {
+     "position": "3",
+     "title": "Sleep Through",
+     "artist": "Merinda Dias-Jayasinha",
+     "duration": "5:33"
+    },
+    {
+     "position": "4",
+     "title": "Ordinary Fool",
+     "artist": "Merinda Dias-Jayasinha",
+     "duration": "3:23"
+    },
+    {
+     "position": "5",
+     "title": "Spider Web",
+     "artist": "Merinda Dias-Jayasinha",
+     "duration": "4:04"
+    },
+    {
+     "position": "6",
+     "title": "Dreams Of Tokyo",
+     "artist": "Merinda Dias-Jayasinha",
+     "duration": "7:32"
+    },
+    {
+     "position": "7",
+     "title": "I've Never Been In Love Before",
+     "artist": "Merinda Dias-Jayasinha",
+     "duration": "5:13"
+    },
+    {
+     "position": "8",
+     "title": "Sense",
+     "artist": "Merinda Dias-Jayasinha",
+     "duration": "6:49"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
