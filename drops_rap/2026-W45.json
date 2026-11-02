@@ -1,0 +1,40 @@
+{
+ "date": "2026-W45",
+ "generatedAt": "2026-11-02T22:37:32Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-unresolved-8645710335106856949",
+   "discogsId": 0,
+   "title": "Duffle 2 The Dealership",
+   "artist": "Curren$y & Harry Fraud",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Duffle 2 The Dealership",
+     "artist": "Curren$y & Harry Fraud",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 1
+ }
+}
