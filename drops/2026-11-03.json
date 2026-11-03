@@ -1,0 +1,498 @@
+{
+ "date": "2026-11-03",
+ "generatedAt": "2026-11-03T11:17:23Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d2782710",
+   "discogsId": 2782710,
+   "title": "Angel Eyes",
+   "artist": "Chet Baker",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "DJM Records (2)",
+   "country": "UK",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/t4JjAXwlWpQ4dYjPjCoA4Ql6daQebxV86glFEHCZpHs/rs:fit/g:sm/q:90/h:286/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODI3/MTAtMTMwMDgxNjA0/OS5qcGVn.jpeg",
+   "ratingAvg": 3.88,
+   "ratingCount": 8,
+   "score": 0.6756,
+   "vibe": 81,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Originally released in 1959.\r\n\r\nRecorded in Milan, Italy, 28th and 29th Sept. and 5th October 1959.\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "I Should Care",
+     "artist": "Chet Baker",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Violets For Your Furs",
+     "artist": "Chet Baker",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "The Song Is You",
+     "artist": "Chet Baker",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "When I Fall In Love",
+     "artist": "Chet Baker",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Good-Bye",
+     "artist": "Chet Baker",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Autumn In New York",
+     "artist": "Chet Baker",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Angel Eyes",
+     "artist": "Chet Baker",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Street Of Dreams",
+     "artist": "Chet Baker",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Forgetful",
+     "artist": "Chet Baker",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Deep In A Dream",
+     "artist": "Chet Baker",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d1153727",
+   "discogsId": 1153727,
+   "title": "Solid Ivory: His Greatest Hits",
+   "artist": "Ramsey Lewis",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Chess",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/4RfR3lPqMO3vgx5SAnB42rtjRFJ65qJjXY_rORRgRJ8/rs:fit/g:sm/q:90/h:480/w:473/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTM3/MjctMTIzNzMzNjcx/MC5qcGVn.jpeg",
+   "ratingAvg": 3.95,
+   "ratingCount": 22,
+   "score": 0.6335,
+   "vibe": 71,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The 'In' Crowd",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Function At The Junction",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Jade East",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Since I Fell For You",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Uptight (Everything's Alright)",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Wade In The Water",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Hurt So Bad",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Felicidade (Happiness)",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Maiden Voyage",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Soul Man",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "C1",
+     "title": "Hang On Sloopy",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "C2",
+     "title": "Day Tripper",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "C3",
+     "title": "What Now My Love",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "C4",
+     "title": "Julia",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "C5",
+     "title": "Cry Baby Cry",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "D1",
+     "title": "Tennessee Waltz",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "D2",
+     "title": "Ain't That Peculiar",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "D3",
+     "title": "Les Fleur",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    },
+    {
+     "position": "D4",
+     "title": "A Hard Day's Night",
+     "artist": "Ramsey Lewis",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d11118076",
+   "discogsId": 11118076,
+   "title": "He's My Guy",
+   "artist": "Dinah Washington",
+   "year": 1980,
+   "era": "VINTAGE",
+   "label": "Koala (3)",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/DkqKn39NCqrMyHNCiODI1ARnGcs7QPvnyTeRm7McvdY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE4/MDc2LTE3Mzk1NDgx/NzEtNzg1Ni5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6231,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "1980 version.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "If I Never Get To Heaven",
+     "artist": "Dinah Washington",
+     "duration": "3:44"
+    },
+    {
+     "position": "A2",
+     "title": "No Hard Feelings",
+     "artist": "Dinah Washington",
+     "duration": "2:32"
+    },
+    {
+     "position": "A3",
+     "title": "Nobody Knows The Way I Feel This Morning",
+     "artist": "Dinah Washington",
+     "duration": "8:39"
+    },
+    {
+     "position": "B1",
+     "title": "A Stranger On Earth",
+     "artist": "Dinah Washington",
+     "duration": "3:09"
+    },
+    {
+     "position": "B2",
+     "title": "Soulville",
+     "artist": "Dinah Washington",
+     "duration": "2:16"
+    },
+    {
+     "position": "B3",
+     "title": "He's My Guy",
+     "artist": "Dinah Washington",
+     "duration": "3:27"
+    },
+    {
+     "position": "B4",
+     "title": "To Forget About You",
+     "artist": "Dinah Washington",
+     "duration": "2:25"
+    },
+    {
+     "position": "B5",
+     "title": "Don't Say Nothing At All",
+     "artist": "Dinah Washington",
+     "duration": "2:33"
+    }
+   ]
+  },
+  {
+   "id": "d15482504",
+   "discogsId": 15482504,
+   "title": "Unraveled",
+   "artist": "Aubrey Johnson",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Outside In Music",
+   "country": "US",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/M74nwSiePN2ktHBxTtE6E-1coU4GDH4OmmvUyA1bpkw/rs:fit/g:sm/q:90/h:466/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDgy/NTA0LTE1OTIyNTkw/NjItOTYwNS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.6715,
+   "vibe": 80,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "No More 'I Love You's",
+     "artist": "Aubrey Johnson",
+     "duration": "4:57"
+    },
+    {
+     "position": "2",
+     "title": "Love Again",
+     "artist": "Aubrey Johnson",
+     "duration": "5:07"
+    },
+    {
+     "position": "3",
+     "title": "Unraveled",
+     "artist": "Aubrey Johnson",
+     "duration": "5:53"
+    },
+    {
+     "position": "4",
+     "title": "Happy To Stay",
+     "artist": "Aubrey Johnson",
+     "duration": "4:33"
+    },
+    {
+     "position": "5",
+     "title": "Lie In Wait",
+     "artist": "Aubrey Johnson",
+     "duration": "6:10"
+    },
+    {
+     "position": "6",
+     "title": "Voice Is Magic",
+     "artist": "Aubrey Johnson",
+     "duration": "5:33"
+    },
+    {
+     "position": "7",
+     "title": "The Peacocks",
+     "artist": "Aubrey Johnson",
+     "duration": "6:18"
+    },
+    {
+     "position": "8",
+     "title": "Dindi",
+     "artist": "Aubrey Johnson",
+     "duration": "6:08"
+    },
+    {
+     "position": "9",
+     "title": "These Days",
+     "artist": "Aubrey Johnson",
+     "duration": "5:06"
+    },
+    {
+     "position": "10",
+     "title": "Karate",
+     "artist": "Aubrey Johnson",
+     "duration": "3:38"
+    }
+   ]
+  },
+  {
+   "id": "d35117708",
+   "discogsId": 35117708,
+   "title": "A Matter Of Time",
+   "artist": "Laufey",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Awal Recordings America, Inc.",
+   "country": "US",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/DLxbyLKdHiPnOCEq_hTUmxz04Is6fn3Yd_MuXVEkxv0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTE3/NzA4LTE3NTgzMDEy/MTMtNDc4Ni5qcGVn.jpeg",
+   "ratingAvg": 4.86,
+   "ratingCount": 105,
+   "score": 0.6149,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Tour exclusive pressing sold on the A Matter of Time Tour\n\nThe written note card shows \"Evening\" with special Evening notes.\n\nIs also Identical to  [url=https://www.discogs.com/release/34919057-Laufey-A-Matter-Of-Time]Evening Edition (Summer Edition)[/url].\n\nTracks are listed sequentially, regardless of side.\nTrack C is a bonus track.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Clockwork",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Lover Girl",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Snow White",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Castle in Hollywood",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Carousel",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Silver Lining",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "A7",
+     "title": "Too Little, Too Late",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "B8",
+     "title": "Cuckoo Ballet (Interlude)",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "B9",
+     "title": "Forget-Me-Not",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "B10",
+     "title": "Tough Luck",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "B11",
+     "title": "A Cautionary Tale",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "B12",
+     "title": "Mr. Eclectic",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "B13",
+     "title": "Clean Air",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "B14",
+     "title": "Sabotage",
+     "artist": "Laufey",
+     "duration": ""
+    },
+    {
+     "position": "C",
+     "title": "Seems Like Old Times",
+     "artist": "Laufey",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
