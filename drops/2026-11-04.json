@@ -1,0 +1,382 @@
+{
+ "date": "2026-11-04",
+ "generatedAt": "2026-11-04T11:27:45Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d8651416",
+   "discogsId": 8651416,
+   "title": "Oração de Um Jovem Triste",
+   "artist": "Antonio Marcos",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "RCA Victor",
+   "country": "Brazil",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/XZdanCrBe1GXz9aIKg0NO5xOXCW_Kg_X1xTG4fH1g-w/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTE0/MTYtMTc2NzcyMzc3/My0zMjA2LmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 4,
+   "score": 0.631,
+   "vibe": 70,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Oração de Um Jovem Triste",
+     "artist": "Antonio Marcos",
+     "duration": "4:28"
+    },
+    {
+     "position": "B",
+     "title": "Escuta",
+     "artist": "Antonio Marcos",
+     "duration": "3:50"
+    }
+   ]
+  },
+  {
+   "id": "d36643465",
+   "discogsId": 36643465,
+   "title": "Sergio Mendes Presents Lobo",
+   "artist": "Edu Lobo",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "A&M Records",
+   "country": "US",
+   "styles": [
+    "Bossa Nova",
+    "MPB"
+   ],
+   "coverUrl": "https://i.discogs.com/wbDbYjlk8RnGKfNhaMQe5P-hcZoKnqzR_8ByjrwhPnI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjQz/NDY1LTE3NzIzMTM0/MzUtMTQ4Ni5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.6201,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Label variation, for otherwise unidentified Columbia pressing.\n\nIssued in gatefold jacket.\n\nRunouts are etched.\n\nTrack publishers:\nA1, A3, B1 to B4: Rodra Music Inc. BMI\nA2: Duchess Music Corp. BMI\nA4: Berna Music Inc. ASCAP\nB4: MacLen Music Inc. BMI",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Zanzibar",
+     "artist": "Edu Lobo",
+     "duration": "4:00"
+    },
+    {
+     "position": "A2",
+     "title": "Ponteio",
+     "artist": "Edu Lobo",
+     "duration": "3:03"
+    },
+    {
+     "position": "A3",
+     "title": "Even Now",
+     "artist": "Edu Lobo",
+     "duration": "2:11"
+    },
+    {
+     "position": "A4",
+     "title": "Crystal Illusions",
+     "artist": "Edu Lobo",
+     "duration": "6:12"
+    },
+    {
+     "position": "B1",
+     "title": "Casa Forte",
+     "artist": "Edu Lobo",
+     "duration": "3:36"
+    },
+    {
+     "position": "B2",
+     "title": "Jangada",
+     "artist": "Edu Lobo",
+     "duration": "2:20"
+    },
+    {
+     "position": "B3",
+     "title": "Sharp Tongue",
+     "artist": "Edu Lobo",
+     "duration": "2:13"
+    },
+    {
+     "position": "B4",
+     "title": "To Say Goodbye",
+     "artist": "Edu Lobo",
+     "duration": "4:37"
+    },
+    {
+     "position": "B5",
+     "title": "Hey Jude",
+     "artist": "Edu Lobo",
+     "duration": "4:15"
+    }
+   ]
+  },
+  {
+   "id": "d7084963",
+   "discogsId": 7084963,
+   "title": "Márcia Vol. II",
+   "artist": "Márcia",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Philips",
+   "country": "Brazil",
+   "styles": [
+    "Bossa Nova",
+    "Samba"
+   ],
+   "coverUrl": "https://i.discogs.com/yX0dddzX459uwme5UHNcxPVvWSWNH0kxWSRCrkHNSUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODQ5/NjMtMTcxMDQ1MDA1/NS0zODc3LnBuZw.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 6,
+   "score": 0.5742,
+   "vibe": 56,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Ilusão À-Toa",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Sorriso Antigo",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Canto Pra Dizer-te Adeus",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Boêmio Do Samba",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Tarde",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Elegia",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "A7",
+     "title": "Pra Você",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Viu",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "O Tempo E O Vento",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Aperto De Mão",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Canto Triste",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Nao Tem Solução",
+     "artist": "Márcia",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Se Eu Te Disser",
+     "artist": "Márcia",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d37522122",
+   "discogsId": 37522122,
+   "title": "The Kármán Line",
+   "artist": "The Outer Worlds Jazz Ensemble & Roger Wickham",
+   "year": 2026,
+   "era": "MODERN",
+   "label": "ATA Records (3)",
+   "country": "UK",
+   "styles": [
+    "Soul-Jazz",
+    "Spiritual Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/S_om-9Q3SYU5O9ciA-Icxx6ZFP5eJSv-p4PwDhhB37E/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTIy/MTIyLTE3ODA0ODA3/NzgtMTM0MC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6302,
+   "vibe": 70,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Kármán Cantata",
+     "artist": "The Outer Worlds Jazz Ensemble & Roger Wickham",
+     "duration": "5:52"
+    },
+    {
+     "position": "2",
+     "title": "Alto Vento",
+     "artist": "The Outer Worlds Jazz Ensemble & Roger Wickham",
+     "duration": "4:36"
+    },
+    {
+     "position": "3",
+     "title": "Low Orbit",
+     "artist": "The Outer Worlds Jazz Ensemble & Roger Wickham",
+     "duration": "6:03"
+    },
+    {
+     "position": "4",
+     "title": "All Is",
+     "artist": "The Outer Worlds Jazz Ensemble & Roger Wickham",
+     "duration": "5:39"
+    },
+    {
+     "position": "5",
+     "title": "Celestial Matari",
+     "artist": "The Outer Worlds Jazz Ensemble & Roger Wickham",
+     "duration": "5:18"
+    },
+    {
+     "position": "6",
+     "title": "Earthly Elements",
+     "artist": "The Outer Worlds Jazz Ensemble & Roger Wickham",
+     "duration": "6:27"
+    },
+    {
+     "position": "7",
+     "title": "Molecules",
+     "artist": "The Outer Worlds Jazz Ensemble & Roger Wickham",
+     "duration": "6:44"
+    }
+   ]
+  },
+  {
+   "id": "d27796929",
+   "discogsId": 27796929,
+   "title": "Impressions Of Ella",
+   "artist": "Robin McKelle",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Doxie Records",
+   "country": "France",
+   "styles": [
+    "Soul-Jazz",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/dLQzK8gM2kPc3wJaSZlnpLF-F24KmVvFrWGF-zF_c4A/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk2/OTI5LTE3MTM0ODQ4/MDEtOTUxOC5qcGVn.jpeg",
+   "ratingAvg": 4.33,
+   "ratingCount": 3,
+   "score": 0.5803,
+   "vibe": 58,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Old Devil Moon",
+     "artist": "Robin McKelle",
+     "duration": "4:19"
+    },
+    {
+     "position": "2",
+     "title": "My One And Only",
+     "artist": "Robin McKelle",
+     "duration": "2:49"
+    },
+    {
+     "position": "3",
+     "title": "Lush Life",
+     "artist": "Robin McKelle",
+     "duration": "5:51"
+    },
+    {
+     "position": "4",
+     "title": "How High The Moon",
+     "artist": "Robin McKelle",
+     "duration": "2:51"
+    },
+    {
+     "position": "5",
+     "title": "I Won't Dance",
+     "artist": "Robin McKelle",
+     "duration": "4:18"
+    },
+    {
+     "position": "6",
+     "title": "Embraceable You",
+     "artist": "Robin McKelle",
+     "duration": "4:38"
+    },
+    {
+     "position": "7",
+     "title": "Do Nothing Til You Hear From Me",
+     "artist": "Robin McKelle",
+     "duration": "7:01"
+    },
+    {
+     "position": "8",
+     "title": "Robbin's Nest",
+     "artist": "Robin McKelle",
+     "duration": "4:38"
+    },
+    {
+     "position": "9",
+     "title": "Taking A Chance On Love",
+     "artist": "Robin McKelle",
+     "duration": "3:49"
+    },
+    {
+     "position": "10",
+     "title": "April In Paris",
+     "artist": "Robin McKelle",
+     "duration": "4:47"
+    },
+    {
+     "position": "11",
+     "title": "Soon",
+     "artist": "Robin McKelle",
+     "duration": "3:25"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
