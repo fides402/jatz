@@ -1,0 +1,336 @@
+{
+ "date": "2026-11-05",
+ "generatedAt": "2026-11-05T11:25:24Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d9882823",
+   "discogsId": 9882823,
+   "title": "Carryin' On",
+   "artist": "Grant Green",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "Blue Note",
+   "country": "Germany",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/-4RXUzs497Z_ucPQ5T83a4tDJ8c3VOqz7rmNV4cExN4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI4/MjMtMTQ4Nzk5NDU1/NC04Mjc5LmpwZWc.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 4,
+   "score": 0.5934,
+   "vibe": 61,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Ease Back",
+     "artist": "Grant Green",
+     "duration": "5:43"
+    },
+    {
+     "position": "A2",
+     "title": "Hurt So Bad",
+     "artist": "Grant Green",
+     "duration": "6:45"
+    },
+    {
+     "position": "A3",
+     "title": "I Don't Want Nobody To Give Me Nothing (Open Up The Door I'll Get It Myself)",
+     "artist": "Grant Green",
+     "duration": "6:07"
+    },
+    {
+     "position": "B1",
+     "title": "Upshot",
+     "artist": "Grant Green",
+     "duration": "9:58"
+    },
+    {
+     "position": "B2",
+     "title": "Cease The Bombing",
+     "artist": "Grant Green",
+     "duration": "8:50"
+    }
+   ]
+  },
+  {
+   "id": "d12380198",
+   "discogsId": 12380198,
+   "title": "Feelin' Alright / Alice In Wonderland",
+   "artist": "Artie Butler",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Verve Records",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/ActHbPN6_URxA-vz3Sni6d21Ih6YfqiRV6jTcopPUnc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgw/MTk4LTE1MzQwOTA2/NjItODc0MC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "\n\nRecorded March 1971 - jazz funk release by arranger, songwriter, and pianist Butler.\n",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Feelin' Alright",
+     "artist": "Artie Butler",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Alice In Wonderland",
+     "artist": "Artie Butler",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d3485333",
+   "discogsId": 3485333,
+   "title": "Grass - A Rock Musical",
+   "artist": "Sven Libaek",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Festival Records",
+   "country": "Australia",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/cvOlcX4RSezxh51BYKKA7awkCncZr2kpSYCbxvGHGjs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODUz/MzMtMTcyMDg1NjE3/My04NjUxLmpwZWc.jpeg",
+   "ratingAvg": 3.91,
+   "ratingCount": 11,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Gate fold sleeve, marijuana exploito!\r\nMade in Australia by Festival Records Pty. Ltd.\r\n\r\n\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Help Me Please",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Mamma Maria",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Choice",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Love Is Stillness",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Affluence",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Sex Seventies",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "A7",
+     "title": "Soul",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Judge Me",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Original Sin",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "In The Beginning",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Multiply",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Holy Is High",
+     "artist": "Sven Libaek",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Make It Illegal",
+     "artist": "Sven Libaek",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d13775395",
+   "discogsId": 13775395,
+   "title": "Stormy Monday",
+   "artist": "Lou Rawls & Les McCann Ltd.",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Bear Family Records",
+   "country": "Germany",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/TLqpdzpbWvKIW5cgCkmK2b3fP6VSm43P6_nONnhPhJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc1/Mzk1LTE1NjA4NjAx/MDgtMjcxNS5qcGVn.jpeg",
+   "ratingAvg": 4.77,
+   "ratingCount": 13,
+   "score": 0.6882,
+   "vibe": 85,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Produced by Nick Vanet; recorded at Capitol Studios, Los Angeles on February 5 & 12, 1962\nRemixed from analog 3-track to digital in August, 1989\n\nEtched runouts",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "(They Call It) Stormy Monday",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "3:46"
+    },
+    {
+     "position": "A2",
+     "title": "God Bless The Child",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "4:30"
+    },
+    {
+     "position": "A3",
+     "title": "See See Rider",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "3:12"
+    },
+    {
+     "position": "A4",
+     "title": "Willow Weep For Me",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "5:57"
+    },
+    {
+     "position": "A5",
+     "title": "I'm Gonna Move To The Outskirts Of Town",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "4:00"
+    },
+    {
+     "position": "A6",
+     "title": "In The Evening When The Sun Goes Down",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "3:29"
+    },
+    {
+     "position": "B1",
+     "title": "'Tain't Nobody's Biz-Ness If I Do",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "2:46"
+    },
+    {
+     "position": "B2",
+     "title": "Lost And Lookin'",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "3:12"
+    },
+    {
+     "position": "B3",
+     "title": "I'd Rather Drink Muddy Water",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "3:55"
+    },
+    {
+     "position": "B4",
+     "title": "Sweet Lover",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "3:08"
+    },
+    {
+     "position": "B5",
+     "title": "Blues Is A Woman",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "2:58"
+    },
+    {
+     "position": "B6",
+     "title": "A Little Les Of Lou's Blues",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "2:24"
+    },
+    {
+     "position": "B7",
+     "title": "(They Call It) Stormy Monday (Alternate Take)",
+     "artist": "Lou Rawls & Les McCann Ltd.",
+     "duration": "2:57"
+    }
+   ]
+  },
+  {
+   "id": "d28767517",
+   "discogsId": 28767517,
+   "title": "You're Everything To Me",
+   "artist": "C.R.A.C.",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Mukatsuku Records",
+   "country": "UK",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/vHyGVXKl6vn4Yb3i5qgavYmGMO9EVUa6qnFoaeA5UxY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzY3/NTE3LTE2OTg4NTI4/ODgtNjEzMS5qcGVn.jpeg",
+   "ratingAvg": 4.83,
+   "ratingCount": 6,
+   "score": 0.6013,
+   "vibe": 63,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Hand numbered. Limited to 300 copies.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "You're Everything To Me",
+     "artist": "C.R.A.C.",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Desert Wind",
+     "artist": "C.R.A.C.",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
