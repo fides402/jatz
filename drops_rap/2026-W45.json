@@ -1,6 +1,6 @@
 {
  "date": "2026-W45",
- "generatedAt": "2026-11-02T22:37:32Z",
+ "generatedAt": "2026-11-05T20:57:19Z",
  "profile": "rap",
  "albums": [
   {
@@ -31,10 +31,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-3174458740335947776",
+   "discogsId": 0,
+   "title": "F**K U",
+   "artist": "Tay-K",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "F**K U",
+     "artist": "Tay-K",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6828505941",
+   "discogsId": 0,
+   "title": "Jiggly Bow Bow",
+   "artist": "GloRilla & Sexyy Red",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/dd/f6/5dddf69c-b7be-acf4-3441-fab5f9210510/26UM1IM39057.rgb.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Jiggly Bow Bow",
+     "artist": "GloRilla & Sexyy Red",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 1
+  "modern": 3
  }
 }
