@@ -1,0 +1,410 @@
+{
+ "date": "2026-11-06",
+ "generatedAt": "2026-11-06T11:23:39Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d14961827",
+   "discogsId": 14961827,
+   "title": "Introducing",
+   "artist": "Millie Vernon",
+   "year": 1980,
+   "era": "VINTAGE",
+   "label": "Storyville (3)",
+   "country": "Japan",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/w018N1VZ6Dl9i9ds05lKWUQ71W7R1CvLwX9x8w_uXc8/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYx/ODI3LTE1ODQ3ODg5/MDMtNDc5OS5qcGVn.jpeg",
+   "ratingAvg": 4.8,
+   "ratingCount": 5,
+   "score": 0.7123,
+   "vibe": 91,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded February 1956\nJapanese reissue of STORYVILLE STLP 910\nWith 4-page insert",
+   "tracks": [
+    {
+     "position": "A 1",
+     "title": "Weep Fo The Boy",
+     "artist": "Millie Vernon",
+     "duration": "2:18"
+    },
+    {
+     "position": "A 2",
+     "title": "Moments Like This",
+     "artist": "Millie Vernon",
+     "duration": "2:08"
+    },
+    {
+     "position": "A 3",
+     "title": "Spring Is Here",
+     "artist": "Millie Vernon",
+     "duration": "2:53"
+    },
+    {
+     "position": "A 4",
+     "title": "St. James Infirmary",
+     "artist": "Millie Vernon",
+     "duration": "2:11"
+    },
+    {
+     "position": "A 5",
+     "title": "My Ship",
+     "artist": "Millie Vernon",
+     "duration": "3:12"
+    },
+    {
+     "position": "A 6",
+     "title": "This Years Kisses",
+     "artist": "Millie Vernon",
+     "duration": "3:02"
+    },
+    {
+     "position": "B 1",
+     "title": "Moon Ray",
+     "artist": "Millie Vernon",
+     "duration": "3:00"
+    },
+    {
+     "position": "B 2",
+     "title": "Everything But You",
+     "artist": "Millie Vernon",
+     "duration": "2:35"
+    },
+    {
+     "position": "B 3",
+     "title": "Every Time",
+     "artist": "Millie Vernon",
+     "duration": "3:00"
+    },
+    {
+     "position": "B 4",
+     "title": "Blue Rain",
+     "artist": "Millie Vernon",
+     "duration": "2:48"
+    },
+    {
+     "position": "B 5",
+     "title": "I Don't Know What Kind Of Blues I've Got",
+     "artist": "Millie Vernon",
+     "duration": "2:45"
+    },
+    {
+     "position": "B 6",
+     "title": "I Guess I'll Have To Hang Out My Tears To Dry",
+     "artist": "Millie Vernon",
+     "duration": "3:10"
+    }
+   ]
+  },
+  {
+   "id": "d13386242",
+   "discogsId": 13386242,
+   "title": "Watch What Happens",
+   "artist": "Harold Vick",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "RCA Victor",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/BSF1yjqrAZ98qwDmOLgZX9lqgnOB1-wdlqQD_BSBtXM/rs:fit/g:sm/q:90/h:336/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg2/MjQyLTE1NTMyMjg0/NjUtNzk3Mi5wbmc.jpeg",
+   "ratingAvg": 3.0,
+   "ratingCount": 1,
+   "score": 0.5985,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Mono Pressing.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Watch What Happens",
+     "artist": "Harold Vick",
+     "duration": "2:44"
+    },
+    {
+     "position": "A2",
+     "title": "Ode To Trane",
+     "artist": "Harold Vick",
+     "duration": "5:05"
+    },
+    {
+     "position": "A3",
+     "title": "Serenata",
+     "artist": "Harold Vick",
+     "duration": "3:03"
+    },
+    {
+     "position": "A4",
+     "title": "Where Butterflies Play",
+     "artist": "Harold Vick",
+     "duration": "2:34"
+    },
+    {
+     "position": "A5",
+     "title": "If Ever I Would Leave You",
+     "artist": "Harold Vick",
+     "duration": "6:45"
+    },
+    {
+     "position": "B1",
+     "title": "This Hotel",
+     "artist": "Harold Vick",
+     "duration": "3:10"
+    },
+    {
+     "position": "B2",
+     "title": "Eloquence",
+     "artist": "Harold Vick",
+     "duration": "3:41"
+    },
+    {
+     "position": "B3",
+     "title": "Angel Eyes",
+     "artist": "Harold Vick",
+     "duration": "5:30"
+    },
+    {
+     "position": "B4",
+     "title": "Whisper Not",
+     "artist": "Harold Vick",
+     "duration": "2:58"
+    },
+    {
+     "position": "B5",
+     "title": "Guava Jelly",
+     "artist": "Harold Vick",
+     "duration": "2:35"
+    },
+    {
+     "position": "B6",
+     "title": "Autumn Sunset",
+     "artist": "Harold Vick",
+     "duration": "3:30"
+    }
+   ]
+  },
+  {
+   "id": "d6964202",
+   "discogsId": 6964202,
+   "title": "Outback",
+   "artist": "Joe Farrell",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "CTI Records",
+   "country": "Brazil",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/Uhi3Dlru_O_VppFJ8yQwe9XqbPFNVDfgYh5QcOInbQE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjQy/MDItMTYwNTM0Nzg4/MC05MTY4LmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.5664,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "First LP release in Brazil.\r\nRecorded at Van Gelder Studios, November 1971.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Outback",
+     "artist": "Joe Farrell",
+     "duration": "8:40"
+    },
+    {
+     "position": "A2",
+     "title": "Sound Down",
+     "artist": "Joe Farrell",
+     "duration": "8:30"
+    },
+    {
+     "position": "B1",
+     "title": "Bleeding Orchid",
+     "artist": "Joe Farrell",
+     "duration": "6:45"
+    },
+    {
+     "position": "B2",
+     "title": "November 68th",
+     "artist": "Joe Farrell",
+     "duration": "9:25"
+    }
+   ]
+  },
+  {
+   "id": "d31882075",
+   "discogsId": 31882075,
+   "title": "Crooning Undercover",
+   "artist": "Mario Biondi",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Beyond (6)",
+   "country": "Italy",
+   "styles": [
+    "Jazz-Funk",
+    "Smooth Jazz",
+    "Soul-Jazz",
+    "Soul"
+   ],
+   "coverUrl": "https://i.discogs.com/93jbtq8TEKcN5Lb3bq-hXBJZRZmvGrAGvt_DwN1-P3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODgy/MDc1LTE3Mjc4MDI4/MDktNjMwMS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6137,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "7-inch mini LP and 8-page booklet ",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Fool For Your Love",
+     "artist": "Mario Biondi",
+     "duration": "5:18"
+    },
+    {
+     "position": "2",
+     "title": "Alfie",
+     "artist": "Mario Biondi",
+     "duration": "3:58"
+    },
+    {
+     "position": "3",
+     "title": "Dindi",
+     "artist": "Mario Biondi",
+     "duration": "5:01"
+    },
+    {
+     "position": "4",
+     "title": "Rebirth",
+     "artist": "Mario Biondi",
+     "duration": "3:42"
+    },
+    {
+     "position": "5",
+     "title": "Hello Like Before",
+     "artist": "Mario Biondi",
+     "duration": "5:16"
+    },
+    {
+     "position": "6",
+     "title": "I Belong To You",
+     "artist": "Mario Biondi",
+     "duration": "3:45"
+    },
+    {
+     "position": "7",
+     "title": "My Favourite Things",
+     "artist": "Mario Biondi",
+     "duration": "3:26"
+    },
+    {
+     "position": "8",
+     "title": "Moody's Mood For Love",
+     "artist": "Mario Biondi",
+     "duration": "4:13"
+    },
+    {
+     "position": "9",
+     "title": "Guardian Angel",
+     "artist": "Mario Biondi",
+     "duration": "2:31"
+    },
+    {
+     "position": "10",
+     "title": "Smoke Gets In Your Eyes",
+     "artist": "Mario Biondi",
+     "duration": "5:25"
+    },
+    {
+     "position": "11",
+     "title": "Teach Me Tonight",
+     "artist": "Mario Biondi",
+     "duration": "4:27"
+    },
+    {
+     "position": "12",
+     "title": "Not Like This (Bonus Track)",
+     "artist": "Mario Biondi",
+     "duration": "3:40"
+    }
+   ]
+  },
+  {
+   "id": "d16128776",
+   "discogsId": 16128776,
+   "title": "From Where We Came",
+   "artist": "Michael Feinberg",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "SteepleChase",
+   "country": "Denmark",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/vKBVLoZdfUldUdJQnkLSkq1_Esh9ovH_GMK3BGISuxY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI4/Nzc2LTE2MDYxNDU0/NzktMTMzNi5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 2,
+   "score": 0.5874,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded in 24bit 96kHz in October 2019.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Louisville",
+     "artist": "Michael Feinberg",
+     "duration": "7:14"
+    },
+    {
+     "position": "2",
+     "title": "Cairo",
+     "artist": "Michael Feinberg",
+     "duration": "5:26"
+    },
+    {
+     "position": "3",
+     "title": "Tryon",
+     "artist": "Michael Feinberg",
+     "duration": "3:39"
+    },
+    {
+     "position": "4",
+     "title": "Pontiac",
+     "artist": "Michael Feinberg",
+     "duration": "9:39"
+    },
+    {
+     "position": "5",
+     "title": "Hamlet",
+     "artist": "Michael Feinberg",
+     "duration": "8:33"
+    },
+    {
+     "position": "6",
+     "title": "East St. Louis",
+     "artist": "Michael Feinberg",
+     "duration": "9:00"
+    },
+    {
+     "position": "7",
+     "title": "Tokyo",
+     "artist": "Michael Feinberg",
+     "duration": "4:37"
+    },
+    {
+     "position": "8",
+     "title": "Nogales",
+     "artist": "Michael Feinberg",
+     "duration": "8:23"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
