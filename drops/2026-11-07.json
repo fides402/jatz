@@ -1,0 +1,332 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-07T10:38:35Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d16972248",
+   "discogsId": 16972248,
+   "title": "Slipping Into Darkness / Collage",
+   "artist": "The Ramsey Lewis Trio",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "CBS",
+   "country": "UK",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/Cvzs0nLQC2fkvV7b1P9K1_OpYdr3C2EnLrP5PwFPgzk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTcy/MjQ4LTE3ODc5NTIz/OTEtNzk4NS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5573,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "(P) 1972 CBS, Inc.\n\nOnly [a=Ramsey Lewis], but wrongly released as \"[a=The Ramsey Lewis Trio]\"\n",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Slipping Into Darkness",
+     "artist": "The Ramsey Lewis Trio",
+     "duration": "2:56"
+    },
+    {
+     "position": "B",
+     "title": "Collage",
+     "artist": "The Ramsey Lewis Trio",
+     "duration": "3:07"
+    }
+   ]
+  },
+  {
+   "id": "d9122692",
+   "discogsId": 9122692,
+   "title": "Icarus / Jenny",
+   "artist": "Paul Winter",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "A&M Records",
+   "country": "US",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/zKkOqRc569qvYp3VfqDHbkFNS-0hKTccwOxzeaScE3A/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjI2/OTItMTQ3NTE2NTQ4/My00OTE0LmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5511,
+   "vibe": 50,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Icarus",
+     "artist": "Paul Winter",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Icarus / Jenny",
+     "artist": "Paul Winter",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d2486141",
+   "discogsId": 2486141,
+   "title": "'Bout Time",
+   "artist": "'Bout Time",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Mark Records",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/eGO1Qa-N8nm1eH9IFOQVzJ5ZyrnVHZOXf4D4r6MAdqA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/NDEtMTI4NjY1NDY1/NS5qcGVn.jpeg",
+   "ratingAvg": 4.38,
+   "ratingCount": 8,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Mastered at the Groove Shop\nFor more information, contact:\n'Bout Time\nDepartment of Music\nCentral State University\nWilberforce, Ohio, 45384\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Fatback Blues",
+     "artist": "'Bout Time",
+     "duration": "4:05"
+    },
+    {
+     "position": "A2",
+     "title": "Ain't No Thing",
+     "artist": "'Bout Time",
+     "duration": "3:13"
+    },
+    {
+     "position": "A3",
+     "title": "Winter Mists",
+     "artist": "'Bout Time",
+     "duration": "4:34"
+    },
+    {
+     "position": "A4",
+     "title": "Those Eyes!",
+     "artist": "'Bout Time",
+     "duration": "2:56"
+    },
+    {
+     "position": "A5",
+     "title": "Hola-Hola",
+     "artist": "'Bout Time",
+     "duration": "3:25"
+    },
+    {
+     "position": "B1",
+     "title": "Lusty Lady",
+     "artist": "'Bout Time",
+     "duration": "3:25"
+    },
+    {
+     "position": "B2",
+     "title": "Tokkaido Road",
+     "artist": "'Bout Time",
+     "duration": "4:06"
+    },
+    {
+     "position": "B3",
+     "title": "Almost Home",
+     "artist": "'Bout Time",
+     "duration": "5:15"
+    },
+    {
+     "position": "B4",
+     "title": "Dues Blues",
+     "artist": "'Bout Time",
+     "duration": "4:32"
+    }
+   ]
+  },
+  {
+   "id": "d16997601",
+   "discogsId": 16997601,
+   "title": "Spiritual Jazz 13: Now! Part One / Modern Sounds For The 21st Century",
+   "artist": "Various",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Jazzman",
+   "country": "UK",
+   "styles": [
+    "Contemporary Jazz",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/Q-brQkNXltI3QElJ4IfjzuENTsiBqfpPSA_NeQ5bzp4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk3/NjAxLTE2MTEwNDIy/MzMtNjQ4OC5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 6,
+   "score": 0.5834,
+   "vibe": 58,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Comes with 24 page booklet. Total duration: 79:23. \n\nTitle differences\nDisc: Now! Spiritual Jazz 13 Part One\nSpine (2x): Spiritual Jazz Vol. 13 - Now! Part One\nFront cover: Spiritual Jazz 13 Now! Part One / Modern Sounds For The 21st Century\nBack cover: Spiritual Jazz Now ! Vol. 13 - Part One\n\nBeneath subtitle: Netherlands - UK - Spain - Finland - Belgium - USA - South Africa\n\nMisprint: Track 11 on back sleeve says the track is called \"Wisdom Of Elders\", but the track is actually \"Nguni\" (from the \"[m=1062513]\" album). \n",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Lizard Waltz",
+     "artist": "Benjamin Herman",
+     "duration": "1:56"
+    },
+    {
+     "position": "2",
+     "title": "An Angel Fell",
+     "artist": "Idris Ackamoor",
+     "duration": "8:34"
+    },
+    {
+     "position": "3",
+     "title": "The Black Ark",
+     "artist": "Nat Birchall",
+     "duration": "9:14"
+    },
+    {
+     "position": "4",
+     "title": "Shamal Wind",
+     "artist": "Roger Wickham",
+     "duration": "8:39"
+    },
+    {
+     "position": "5",
+     "title": "Suite Meets",
+     "artist": "Jimi Tenor",
+     "duration": "4:05"
+    },
+    {
+     "position": "6",
+     "title": "Winter",
+     "artist": "Black Flower",
+     "duration": "5:34"
+    },
+    {
+     "position": "7",
+     "title": "Echoes Of Ancient Sahara",
+     "artist": "Darryl Yokley's Sound Reformation",
+     "duration": "9:44"
+    },
+    {
+     "position": "8",
+     "title": "Sounds Like Now",
+     "artist": "Damon Locks Black Monument Ensemble",
+     "duration": "6:25"
+    },
+    {
+     "position": "9",
+     "title": "Nimetön",
+     "artist": "Oiro Pena",
+     "duration": "4:37"
+    },
+    {
+     "position": "10",
+     "title": "Soul",
+     "artist": "Cat Toren's Human Kind",
+     "duration": "8:31"
+    },
+    {
+     "position": "11",
+     "title": "Nguni",
+     "artist": "Shabaka And The Ancestors",
+     "duration": "9:24"
+    },
+    {
+     "position": "12",
+     "title": "Gnawa",
+     "artist": "Makaya McCraven",
+     "duration": "2:00"
+    }
+   ]
+  },
+  {
+   "id": "d38300010",
+   "discogsId": 38300010,
+   "title": "Solera",
+   "artist": "Sebastian Bergström",
+   "year": 2026,
+   "era": "MODERN",
+   "label": "Amorfon",
+   "country": "Japan",
+   "styles": [
+    "Ambient",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/8K5AlD5Ffm2oizqZFKwvFJM5ZGMT2TcHsOyP8mD99Hw/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzAw/MDEwLTE3ODgxODUz/MTQtNDcwNy5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.5766,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "'Recorded 2024-2025 at Telefonvägen Stockholm'\n'Mastered [...] at Atlantis studio, 12 December 2025, Stockholm.'\n\nGatefold card digifile sleeve, with a four-page folder.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Dala",
+     "artist": "Sebastian Bergström",
+     "duration": "3:12"
+    },
+    {
+     "position": "2",
+     "title": "Mercur",
+     "artist": "Sebastian Bergström",
+     "duration": "1:27"
+    },
+    {
+     "position": "3",
+     "title": "Saturn",
+     "artist": "Sebastian Bergström",
+     "duration": "3:32"
+    },
+    {
+     "position": "4",
+     "title": "Farfar",
+     "artist": "Sebastian Bergström",
+     "duration": "3:30"
+    },
+    {
+     "position": "5",
+     "title": "Hakone",
+     "artist": "Sebastian Bergström",
+     "duration": "10:42"
+    },
+    {
+     "position": "6",
+     "title": "Jupi",
+     "artist": "Sebastian Bergström",
+     "duration": "5:27"
+    },
+    {
+     "position": "7",
+     "title": "Funabashi",
+     "artist": "Sebastian Bergström",
+     "duration": "7:45"
+    },
+    {
+     "position": "8",
+     "title": "Neptu|Alba",
+     "artist": "Sebastian Bergström",
+     "duration": "4:06"
+    },
+    {
+     "position": "9",
+     "title": "Solera",
+     "artist": "Sebastian Bergström",
+     "duration": "4:39"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
