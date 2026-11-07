@@ -1,6 +1,6 @@
 {
  "date": "2026-W45",
- "generatedAt": "2026-11-06T20:16:07Z",
+ "generatedAt": "2026-11-07T18:30:00Z",
  "profile": "rap",
  "albums": [
   {
@@ -295,10 +295,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-1959091357451630303",
+   "discogsId": 0,
+   "title": "Can’t Trust",
+   "artist": "Nardo Wick",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Can’t Trust",
+     "artist": "Nardo Wick",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1127745321",
+   "discogsId": 0,
+   "title": "3rd Eye",
+   "artist": "Lil Skies",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/20bcffd9e5a77597676749b8eef2eed9/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "3rd Eye",
+     "artist": "Lil Skies",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 7
+  "modern": 9
  }
 }
