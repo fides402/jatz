@@ -1,6 +1,6 @@
 {
  "date": "2026-W45",
- "generatedAt": "2026-11-07T18:30:00Z",
+ "generatedAt": "2026-11-08T18:41:23Z",
  "profile": "rap",
  "albums": [
   {
@@ -353,10 +353,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-1185428353154637435",
+   "discogsId": 0,
+   "title": "say sum",
+   "artist": "2slimey",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "say sum",
+     "artist": "2slimey",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-1177794605",
+   "discogsId": 0,
+   "title": "Be Honest",
+   "artist": "Young Noah",
+   "year": 2016,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/f5/2a/cf/f52acf31-a65a-3cb1-1b6f-8d79cb78c199/859718843627_cover.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Be Honest",
+     "artist": "Young Noah",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 9
+  "modern": 11
  }
 }
