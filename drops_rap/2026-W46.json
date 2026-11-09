@@ -1,0 +1,69 @@
+{
+ "date": "2026-W46",
+ "generatedAt": "2026-11-09T23:18:09Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-6825471616",
+   "discogsId": 0,
+   "title": "I'm The Prize (feat. Ebony Riley)",
+   "artist": "Kash Doll",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/ac/4b/7bac4b5f-4c91-bb94-5403-ce1be63191b0/34162.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.763,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "I'm The Prize (feat. Ebony Riley)",
+     "artist": "Kash Doll",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4382863591",
+   "discogsId": 0,
+   "title": "EXPOSED. ft Quavo.",
+   "artist": "YFN Lucci",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/65e7de6bd07297395313c22a2482c163/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.765,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "EXPOSED. ft Quavo.",
+     "artist": "YFN Lucci",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 2
+ }
+}
