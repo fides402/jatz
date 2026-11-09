@@ -1,0 +1,333 @@
+{
+ "date": "2026-11-09",
+ "generatedAt": "2026-11-09T12:01:36Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d5015870",
+   "discogsId": 5015870,
+   "title": "Come With Me",
+   "artist": "Tania Maria",
+   "year": 1983,
+   "era": "VINTAGE",
+   "label": "Concord Jazz Picante",
+   "country": "Germany",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/G3aHqSVQEdjq3rQetJzco4P1QSuDzONf9xAHI6G8oyw/rs:fit/g:sm/q:90/h:456/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTU4/NzAtMTM4MjIwMTE5/NS00MzIyLmpwZWc.jpeg",
+   "ratingAvg": 4.71,
+   "ratingCount": 17,
+   "score": 0.6425,
+   "vibe": 73,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at Coast Recorders, San Francisco, California, August 1982.\r\nRemixed at P.E.R., San Francisco, California.\r\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Sangria",
+     "artist": "Tania Maria",
+     "duration": "3:50"
+    },
+    {
+     "position": "A2",
+     "title": "Embraceable You",
+     "artist": "Tania Maria",
+     "duration": "5:48"
+    },
+    {
+     "position": "A3",
+     "title": "Lost In Amazonia",
+     "artist": "Tania Maria",
+     "duration": "5:08"
+    },
+    {
+     "position": "A4",
+     "title": "Come With Me",
+     "artist": "Tania Maria",
+     "duration": "5:38"
+    },
+    {
+     "position": "B1",
+     "title": "Sementes, Graines & Seeds",
+     "artist": "Tania Maria",
+     "duration": "6:20"
+    },
+    {
+     "position": "B2",
+     "title": "Nega",
+     "artist": "Tania Maria",
+     "duration": "4:06"
+    },
+    {
+     "position": "B3",
+     "title": "Euzinha",
+     "artist": "Tania Maria",
+     "duration": "6:27"
+    },
+    {
+     "position": "B4",
+     "title": "It's All Over Now",
+     "artist": "Tania Maria",
+     "duration": "5:16"
+    }
+   ]
+  },
+  {
+   "id": "d2518977",
+   "discogsId": 2518977,
+   "title": "The Early Years",
+   "artist": "André Previn",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "Everest Records Archive Of Folk & Jazz Music",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/CtWti8mY0BXm-bVDHNHiGcKHSO-f_w3Kg-xRuRkbb9M/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTg5/NzctMTU5NTE1NDUw/NC02OTA2LmpwZWc.jpeg",
+   "ratingAvg": 4.27,
+   "ratingCount": 11,
+   "score": 0.632,
+   "vibe": 71,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded Radio Recorders, June 24, 1958 in Los Angeles\n\nFor musicians not credited on this release see: [r3785786]",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Ain't Misbehavin'",
+     "artist": "André Previn",
+     "duration": "4:10"
+    },
+    {
+     "position": "A2",
+     "title": "Honeysuckle Rose",
+     "artist": "André Previn",
+     "duration": "3:12"
+    },
+    {
+     "position": "A3",
+     "title": "Black And Blue",
+     "artist": "André Previn",
+     "duration": "3:41"
+    },
+    {
+     "position": "A4",
+     "title": "I've Got A Feeling I'm Falling",
+     "artist": "André Previn",
+     "duration": "3:29"
+    },
+    {
+     "position": "B1",
+     "title": "Oh, You Sweet Thing",
+     "artist": "André Previn",
+     "duration": "3:55"
+    },
+    {
+     "position": "B2",
+     "title": "That's Where The South Begins",
+     "artist": "André Previn",
+     "duration": "4:23"
+    },
+    {
+     "position": "B3",
+     "title": "Fatstuff",
+     "artist": "André Previn",
+     "duration": "4:14"
+    },
+    {
+     "position": "B4",
+     "title": "Stealin' Apples",
+     "artist": "André Previn",
+     "duration": "3:26"
+    }
+   ]
+  },
+  {
+   "id": "d11491522",
+   "discogsId": 11491522,
+   "title": "One On One",
+   "artist": "Bob James & Earl Klugh",
+   "year": 1979,
+   "era": "VINTAGE",
+   "label": "Tappan Zee Records",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/C9W5AP3XKFaT41Z0DOobuFHFIupASDI17KuIaEVuZjA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkx/NTIyLTE2NzQ3NzA4/NjQtMTUzMi5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 17,
+   "score": 0.5524,
+   "vibe": 51,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Blue and white Colombia/Tappan Zee labels on disc.\n\nRecorded at Mediasound, Sound Palace and SoundMixers, New York City.\nMastered at CBS Recording Studios, New York City.\n\nHarvey Mason appears courtesy of Arista Records, Inc.\nEarl Klugh appears courtesy of Liberty / United Records, Inc.\nEric Gale appears courtesy of Columbia Records\nRalph MacDonald appears courtesy of Marlin Records, A Div. of T.K. Productions, Inc.\nRon Carter appears courtesy of Milestone Records",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Kari",
+     "artist": "Bob James & Earl Klugh",
+     "duration": "6:26"
+    },
+    {
+     "position": "A2",
+     "title": "The Afterglow",
+     "artist": "Bob James & Earl Klugh",
+     "duration": "6:30"
+    },
+    {
+     "position": "A3",
+     "title": "Love Lips",
+     "artist": "Bob James & Earl Klugh",
+     "duration": "6:33"
+    },
+    {
+     "position": "B1",
+     "title": "Mallorca",
+     "artist": "Bob James & Earl Klugh",
+     "duration": "4:46"
+    },
+    {
+     "position": "B2",
+     "title": "I'll Never See You Smile Again",
+     "artist": "Bob James & Earl Klugh",
+     "duration": "5:25"
+    },
+    {
+     "position": "B3",
+     "title": "Winding River",
+     "artist": "Bob James & Earl Klugh",
+     "duration": "5:22"
+    }
+   ]
+  },
+  {
+   "id": "d37779762",
+   "discogsId": 37779762,
+   "title": "Blue World",
+   "artist": "John Coltrane",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Impulse!",
+   "country": "Japan",
+   "styles": [
+    "Hard Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/absEu92qIERrxq5MGA_Kqsy_PtBe8NomqjpuGmcJtlA/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/NzYyLTE3ODMwNDE1/NzEtODY5OC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.626,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Japan official Full length pre-release promo only CD. Artwork is similar to retail version\nIdentical to commercial release, except:\n- \"見本品\" promo sticker on the obi;\n- \"SAMPLE LOANED\" Factory overprinted around disc hub.\n- Manufactured in Japan\n\nRecorded and Mixed at Van Gelder Studios, Englewood Cliffs, NJ on June 24, 1964.\n\nAll tracks previously unreleased.\n\nOriginal ¼\" analog mono tapes were used for all tracks. Minor tape anomalies that may be heard are a by-product of the historical nature of this material.\n\nIn jewel case with obi. Twelve page booklet includes liner notes by Ashley Kahn i",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Naima (Take 1)",
+     "artist": "John Coltrane",
+     "duration": "4:36"
+    },
+    {
+     "position": "2",
+     "title": "Village Blues (Take 2)",
+     "artist": "John Coltrane",
+     "duration": "3:46"
+    },
+    {
+     "position": "3",
+     "title": "Blue World",
+     "artist": "John Coltrane",
+     "duration": "6:08"
+    },
+    {
+     "position": "4",
+     "title": "Village Blues (Take 1)",
+     "artist": "John Coltrane",
+     "duration": "3:48"
+    },
+    {
+     "position": "5",
+     "title": "Village Blues (Take 3)",
+     "artist": "John Coltrane",
+     "duration": "3:46"
+    },
+    {
+     "position": "6",
+     "title": "Like Sonny",
+     "artist": "John Coltrane",
+     "duration": "2:43"
+    },
+    {
+     "position": "7",
+     "title": "Traneing In",
+     "artist": "John Coltrane",
+     "duration": "7:38"
+    },
+    {
+     "position": "8",
+     "title": "Naima (Take 2)",
+     "artist": "John Coltrane",
+     "duration": "4:08"
+    }
+   ]
+  },
+  {
+   "id": "d31069901",
+   "discogsId": 31069901,
+   "title": "The Infinity Of Nothingness",
+   "artist": "JJ Whitefield & Forced Meditation",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Jazzman",
+   "country": "UK",
+   "styles": [
+    "Spiritual Jazz",
+    "Free Jazz",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/obCjdzY8WyzmgjgSj7HX2RvRvkEc_7gvqcF05s08BzY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDY5/OTAxLTE3MTk0NzAw/ODMtNjAxNy5qcGVn.jpeg",
+   "ratingAvg": 4.79,
+   "ratingCount": 33,
+   "score": 0.5658,
+   "vibe": 54,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Nothingness",
+     "artist": "JJ Whitefield & Forced Meditation",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Solar Breeze From The East",
+     "artist": "JJ Whitefield & Forced Meditation",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Spectral Realms",
+     "artist": "JJ Whitefield & Forced Meditation",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Infinity Suite",
+     "artist": "JJ Whitefield & Forced Meditation",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
