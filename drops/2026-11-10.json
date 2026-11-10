@@ -1,0 +1,355 @@
+{
+ "date": "2026-11-10",
+ "generatedAt": "2026-11-10T11:42:09Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d9547131",
+   "discogsId": 9547131,
+   "title": "Like In Love",
+   "artist": "Nancy Wilson",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Capitol Records",
+   "country": "Japan",
+   "styles": [
+    "Big Band"
+   ],
+   "coverUrl": "https://i.discogs.com/x_rf2XhyS9cs6ybeDlUyeV06DbZSC4shw3Jy-Mgg6rQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDcx/MzEtMTUyMjY3NjU3/OS00OTY1LmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.6978,
+   "vibe": 87,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "no year of release\njapan liner notes on the back\ncomes with a couple of inserts - \"invitation to coval albums\", sheet with lyrics, nancy wilson discography\n\nmisprint - on the label side 2 you can see the album title \"Today, Tomorrow, Forever\" and cat nr EPC-88044, the actual tracks on the album are from \"Like In Love\". Label side A is correct",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "On The Street Where You Live",
+     "artist": "Nancy Wilson",
+     "duration": "1:41"
+    },
+    {
+     "position": "A2",
+     "title": "Night Mist",
+     "artist": "Nancy Wilson",
+     "duration": "2:33"
+    },
+    {
+     "position": "A3",
+     "title": "You Leave Me Breathless",
+     "artist": "Nancy Wilson",
+     "duration": "2:25"
+    },
+    {
+     "position": "A4",
+     "title": "The More I See You",
+     "artist": "Nancy Wilson",
+     "duration": "2:09"
+    },
+    {
+     "position": "A5",
+     "title": "I Want To Be Loved",
+     "artist": "Nancy Wilson",
+     "duration": "2:15"
+    },
+    {
+     "position": "A6",
+     "title": "Almost Like Being In Love",
+     "artist": "Nancy Wilson",
+     "duration": "1:43"
+    },
+    {
+     "position": "B1",
+     "title": "People Will Say We're In Love",
+     "artist": "Nancy Wilson",
+     "duration": "1:58"
+    },
+    {
+     "position": "B2",
+     "title": "Passion Flower",
+     "artist": "Nancy Wilson",
+     "duration": "2:22"
+    },
+    {
+     "position": "B3",
+     "title": "Sometimes I'm Happy",
+     "artist": "Nancy Wilson",
+     "duration": "1:46"
+    },
+    {
+     "position": "B4",
+     "title": "In Other Words",
+     "artist": "Nancy Wilson",
+     "duration": "2:48"
+    },
+    {
+     "position": "B5",
+     "title": "All Of You",
+     "artist": "Nancy Wilson",
+     "duration": "1:47"
+    },
+    {
+     "position": "B6",
+     "title": "If It's The Last Thing I Do",
+     "artist": "Nancy Wilson",
+     "duration": "2:04"
+    }
+   ]
+  },
+  {
+   "id": "d20828515",
+   "discogsId": 20828515,
+   "title": "Sigue Hablando / Una Vez Más",
+   "artist": "Mário Castro Neves & Samba S.A.",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "CRC (3)",
+   "country": "Chile",
+   "styles": [
+    "Bossa Nova",
+    "Samba"
+   ],
+   "coverUrl": "https://i.discogs.com/XByZz_o6KPpqIGZNc1ulWU80UeN9YWCpzyLiZPmQnrI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI4/NTE1LTE3MTE4MDA4/MDgtNjgzNy5wbmc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6379,
+   "vibe": 72,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Sigue Hablando",
+     "artist": "Mário Castro Neves & Samba S.A.",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Una Vez Más",
+     "artist": "Mário Castro Neves & Samba S.A.",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d7242755",
+   "discogsId": 7242755,
+   "title": "Maybe I'm Amazed",
+   "artist": "Lena Horne",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Buddah Records",
+   "country": "UK",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/fU62bcvNMhhIxCe8QsCJC4y1o5qFqgeIxUCYlyHFME0/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDI3/NTUtMTQzNjk3OTIx/Mi03Nzg0LmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.571,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Side A.Northern Songs\r\nSide B.Chappell & Co.",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Maybe I'M Amazed",
+     "artist": "Lena Horne",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Feels So Good",
+     "artist": "Lena Horne",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d35309320",
+   "discogsId": 35309320,
+   "title": "Music",
+   "artist": "Wolfgang Haffner",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Skip",
+   "country": "Germany",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/we5mXyBQN67PyOf4R4kgtp7jNNxiwCIkStBgs_PhGDg/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzA5/MzIwLTE3NTk4NDAw/ODItMjAyOC5qcGVn.jpeg",
+   "ratingAvg": 4.33,
+   "ratingCount": 6,
+   "score": 0.6479,
+   "vibe": 74,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Coconut Kiss",
+     "artist": "Wolfgang Haffner",
+     "duration": "4:08"
+    },
+    {
+     "position": "2",
+     "title": "Into The Light",
+     "artist": "Wolfgang Haffner",
+     "duration": "5:15"
+    },
+    {
+     "position": "3",
+     "title": "Simple Life",
+     "artist": "Wolfgang Haffner",
+     "duration": "5:31"
+    },
+    {
+     "position": "4",
+     "title": "Warm Breeze",
+     "artist": "Wolfgang Haffner",
+     "duration": "5:08"
+    },
+    {
+     "position": "5",
+     "title": "Miami Beach",
+     "artist": "Wolfgang Haffner",
+     "duration": "3:14"
+    },
+    {
+     "position": "6",
+     "title": "Far From Home",
+     "artist": "Wolfgang Haffner",
+     "duration": "6:09"
+    },
+    {
+     "position": "7",
+     "title": "Cool Blue",
+     "artist": "Wolfgang Haffner",
+     "duration": "5:39"
+    },
+    {
+     "position": "8",
+     "title": "Night Move",
+     "artist": "Wolfgang Haffner",
+     "duration": "5:16"
+    },
+    {
+     "position": "9",
+     "title": "The Day After",
+     "artist": "Wolfgang Haffner",
+     "duration": "4:50"
+    }
+   ]
+  },
+  {
+   "id": "d33534027",
+   "discogsId": 33534027,
+   "title": "Earfood",
+   "artist": "Roy Hargrove Quintet",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "EmArcy",
+   "country": "Japan",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/rvPT45f4Uq6qeO2RlO0s-JLTa4SitotUHoY2rjOnICU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM0/MDI3LTE3NDMxMjQ3/NzgtNTI1Ny5qcGVn.jpeg",
+   "ratingAvg": 4.88,
+   "ratingCount": 25,
+   "score": 0.5936,
+   "vibe": 61,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "First time on vinyl.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "I'm Not So Sure",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "5:46"
+    },
+    {
+     "position": "A2",
+     "title": "Brown",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "4:30"
+    },
+    {
+     "position": "A3",
+     "title": "Strasbourg / St. Denis",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "4:38"
+    },
+    {
+     "position": "B1",
+     "title": "Starmaker",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "7:54"
+    },
+    {
+     "position": "B2",
+     "title": "Joy Is Sorrow Unmasked",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "4:46"
+    },
+    {
+     "position": "B3",
+     "title": "The Stinger",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "4:57"
+    },
+    {
+     "position": "C1",
+     "title": "Rouge",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "2:46"
+    },
+    {
+     "position": "C2",
+     "title": "Mr. Clean",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "5:51"
+    },
+    {
+     "position": "C3",
+     "title": "Style",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "6:35"
+    },
+    {
+     "position": "D1",
+     "title": "Divine",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "5:10"
+    },
+    {
+     "position": "D2",
+     "title": "To Wisdom The Prize",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "5:43"
+    },
+    {
+     "position": "D3",
+     "title": "Speak Low",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "5:16"
+    },
+    {
+     "position": "D4",
+     "title": "Bring It On Home To Me",
+     "artist": "Roy Hargrove Quintet",
+     "duration": "3:00"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
