@@ -1,0 +1,430 @@
+{
+ "date": "2026-11-11",
+ "generatedAt": "2026-11-11T11:23:52Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d12653176",
+   "discogsId": 12653176,
+   "title": "Alegria!",
+   "artist": "Bossa Rio",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "Odeon",
+   "country": "Venezuela",
+   "styles": [
+    "Bossa Nova",
+    "Easy Listening"
+   ],
+   "coverUrl": "https://i.discogs.com/uLVe8PJEZaqfSfeCAtrINOBNGO4gLKm1XeXSYD7a1ng/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUz/MTc2LTE1MzkzOTQ1/NzAtNDkyNi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6543,
+   "vibe": 76,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Spinning Wheel",
+     "artist": "Bossa Rio",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Zazueira",
+     "artist": "Bossa Rio",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Girl Talk",
+     "artist": "Bossa Rio",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "The Night Has A Thousand Eyes",
+     "artist": "Bossa Rio",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "What A Pity (Que Pena)",
+     "artist": "Bossa Rio",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "With Your Love Now",
+     "artist": "Bossa Rio",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Open Your Arms",
+     "artist": "Bossa Rio",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Eleanor Rigby",
+     "artist": "Bossa Rio",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Don't Go Breaking My Heart",
+     "artist": "Bossa Rio",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Blackbird",
+     "artist": "Bossa Rio",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d6733410",
+   "discogsId": 6733410,
+   "title": "Piano Reflections",
+   "artist": "Eugen Cicero",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Overseas Records",
+   "country": "Japan",
+   "styles": [
+    "Easy Listening"
+   ],
+   "coverUrl": "https://i.discogs.com/r9SrE2ZRGelX55wqVi_o4YTDbdLi5DPrPMt78HnAfH4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzM0/MTAtMTUzMzQ5NDgx/MC00NjMwLmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.5797,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Japanese liner notes at back sleeve",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Chopin : Cicero's \"Fantaisie Impromptu\"",
+     "artist": "Eugen Cicero",
+     "duration": "2:32"
+    },
+    {
+     "position": "A2",
+     "title": "Chopin : Cicero's Rainbow Prelude",
+     "artist": "Eugen Cicero",
+     "duration": "2:43"
+    },
+    {
+     "position": "A3",
+     "title": "Tschaikowsky : Barcarole Nr.6",
+     "artist": "Eugen Cicero",
+     "duration": "4:51"
+    },
+    {
+     "position": "A4",
+     "title": "Schubert : Cicero's Symphony h-moll",
+     "artist": "Eugen Cicero",
+     "duration": "3:15"
+    },
+    {
+     "position": "A5",
+     "title": "Schubert : Cicero's Ave Maria",
+     "artist": "Eugen Cicero",
+     "duration": "5:15"
+    },
+    {
+     "position": "A6",
+     "title": "M. Legrand : The Windmills Of Your Mind",
+     "artist": "Eugen Cicero",
+     "duration": "3:52"
+    },
+    {
+     "position": "A7",
+     "title": "Chopin : Cicero's Tender Notturno",
+     "artist": "Eugen Cicero",
+     "duration": "2:55"
+    },
+    {
+     "position": "B1",
+     "title": "Chopin : Cicero's Minutes-Waltz",
+     "artist": "Eugen Cicero",
+     "duration": "3:10"
+    },
+    {
+     "position": "B2",
+     "title": "Schubert : Cicero's Heidenroslein",
+     "artist": "Eugen Cicero",
+     "duration": "3:44"
+    },
+    {
+     "position": "B3",
+     "title": "Chopin : Cicero's Notturno",
+     "artist": "Eugen Cicero",
+     "duration": "2:38"
+    },
+    {
+     "position": "B4",
+     "title": "Chopin : Cicero's Blues-Impromptu",
+     "artist": "Eugen Cicero",
+     "duration": "2:51"
+    },
+    {
+     "position": "B5",
+     "title": "Mozart : Rondo D-Dur KV",
+     "artist": "Eugen Cicero",
+     "duration": "4:00"
+    },
+    {
+     "position": "B6",
+     "title": "Schubert : Cicero's Deutscher Tanz Nr.2",
+     "artist": "Eugen Cicero",
+     "duration": "4:06"
+    },
+    {
+     "position": "B7",
+     "title": "Chopin : Cicero's Slow - Waltz",
+     "artist": "Eugen Cicero",
+     "duration": "2:26"
+    },
+    {
+     "position": "B8",
+     "title": "Tschaikowsky : Valse Sentimentale op.51 Nr.6",
+     "artist": "Eugen Cicero",
+     "duration": "2:56"
+    }
+   ]
+  },
+  {
+   "id": "d23871935",
+   "discogsId": 23871935,
+   "title": "Blow It Out",
+   "artist": "Tom Scott",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Ode Records (2)",
+   "country": "US",
+   "styles": [
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/8Anp_Tef5Q0NOTw3c48KK4uAUZiVOF8fUqlDnr3YYHE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODcx/OTM1LTE2Nzg0ODQ1/MDgtODAxMS5qcGVn.jpeg",
+   "ratingAvg": 4.29,
+   "ratingCount": 7,
+   "score": 0.5721,
+   "vibe": 56,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Gotcha (Theme from Starsky and Hutch)",
+     "artist": "Tom Scott",
+     "duration": "3:30"
+    },
+    {
+     "position": "A2",
+     "title": "Smoothin' on Down",
+     "artist": "Tom Scott",
+     "duration": "4:22"
+    },
+    {
+     "position": "A3",
+     "title": "Dream Lady",
+     "artist": "Tom Scott",
+     "duration": "4:33"
+    },
+    {
+     "position": "A4",
+     "title": "I Wanna Be",
+     "artist": "Tom Scott",
+     "duration": "4:33"
+    },
+    {
+     "position": "B1",
+     "title": "Shadows",
+     "artist": "Tom Scott",
+     "duration": "7:40"
+    },
+    {
+     "position": "B2",
+     "title": "You've Got the Feel'n",
+     "artist": "Tom Scott",
+     "duration": "5:06"
+    },
+    {
+     "position": "B3",
+     "title": "Down to Your Soul",
+     "artist": "Tom Scott",
+     "duration": "5:33"
+    },
+    {
+     "position": "B4",
+     "title": "It Is So Beautiful To Be",
+     "artist": "Tom Scott",
+     "duration": "5:36"
+    }
+   ]
+  },
+  {
+   "id": "d22088032",
+   "discogsId": 22088032,
+   "title": "Bill Evans Trio With Symphony Orchestra",
+   "artist": "The Bill Evans Trio",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Verve Records",
+   "country": "Japan",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/Dn1R5PLi3vaaQg4iVV2ddaJPh_3Ua9czvR1wCtuA9Ak/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDg4/MDMyLTE2NDQ0MTAw/ODAtNzMzNy5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6385,
+   "vibe": 72,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded October and December 1965 at Van Gelder Studios, Englewood Cliffs, New Jersey.\n",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Granadas",
+     "artist": "The Bill Evans Trio",
+     "duration": "5:54"
+    },
+    {
+     "position": "2",
+     "title": "Valse",
+     "artist": "The Bill Evans Trio",
+     "duration": "5:52"
+    },
+    {
+     "position": "3",
+     "title": "Prelude",
+     "artist": "The Bill Evans Trio",
+     "duration": "3:00"
+    },
+    {
+     "position": "4",
+     "title": "Time Remembered",
+     "artist": "The Bill Evans Trio",
+     "duration": "4:13"
+    },
+    {
+     "position": "5",
+     "title": "Pavane",
+     "artist": "The Bill Evans Trio",
+     "duration": "4:00"
+    },
+    {
+     "position": "6",
+     "title": "Elegia (Elegy)",
+     "artist": "The Bill Evans Trio",
+     "duration": "5:14"
+    },
+    {
+     "position": "7",
+     "title": "My Bells",
+     "artist": "The Bill Evans Trio",
+     "duration": "3:49"
+    },
+    {
+     "position": "8",
+     "title": "Blue Interlude",
+     "artist": "The Bill Evans Trio",
+     "duration": "6:04"
+    }
+   ]
+  },
+  {
+   "id": "d20585917",
+   "discogsId": 20585917,
+   "title": "I Remember",
+   "artist": "Dianne Reeves",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Blue Note",
+   "country": "Spain",
+   "styles": [
+    "Soul-Jazz",
+    "Contemporary Jazz",
+    "Vocal"
+   ],
+   "coverUrl": "https://i.discogs.com/IAHkdFmG5C5eWiFI2hrtHlL1T3HAXEy3icfG5fJ5ezY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg1/OTE3LTE2MzQzMzM0/NzQtNzY5NC5qcGVn.jpeg",
+   "ratingAvg": 4.58,
+   "ratingCount": 19,
+   "score": 0.6304,
+   "vibe": 70,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Reissue corresponding to the collection \"\"Los Mejores Vinilos Del Sello Que Inventó El Jazz\" by Planeta de Agostini .\nIt is presented with a booklet with a brief history of Dianne Reeves.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Afro Blue",
+     "artist": "Dianne Reeves",
+     "duration": "4:49"
+    },
+    {
+     "position": "A2",
+     "title": "The Nearness Of You / Misty",
+     "artist": "Dianne Reeves",
+     "duration": "3:12"
+    },
+    {
+     "position": "A3",
+     "title": "I Remember",
+     "artist": "Dianne Reeves",
+     "duration": "4:23"
+    },
+    {
+     "position": "A4",
+     "title": "Love For Sale",
+     "artist": "Dianne Reeves",
+     "duration": "3:43"
+    },
+    {
+     "position": "A5",
+     "title": "Softly, As In The Morning Sunrise",
+     "artist": "Dianne Reeves",
+     "duration": "4:52"
+    },
+    {
+     "position": "B1",
+     "title": "Like A Lover",
+     "artist": "Dianne Reeves",
+     "duration": "5:37"
+    },
+    {
+     "position": "B2",
+     "title": "How High The Moon",
+     "artist": "Dianne Reeves",
+     "duration": "4:05"
+    },
+    {
+     "position": "B3",
+     "title": "You Taught My Heart To Sing",
+     "artist": "Dianne Reeves",
+     "duration": "6:14"
+    },
+    {
+     "position": "B4",
+     "title": "For All We Know",
+     "artist": "Dianne Reeves",
+     "duration": "8:02"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
