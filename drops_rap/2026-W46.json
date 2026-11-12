@@ -1,6 +1,6 @@
 {
  "date": "2026-W46",
- "generatedAt": "2026-11-10T20:43:37Z",
+ "generatedAt": "2026-11-12T21:20:39Z",
  "profile": "rap",
  "albums": [
   {
@@ -255,10 +255,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4390011131",
+   "discogsId": 0,
+   "title": "Pussc",
+   "artist": "Sk8star",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/bf013e7b3ea2d2ba92bb15278f034c1c/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Pussc",
+     "artist": "Sk8star",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 5
+  "modern": 6
  }
 }
