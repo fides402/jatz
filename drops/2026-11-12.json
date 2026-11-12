@@ -1,0 +1,394 @@
+{
+ "date": "2026-11-12",
+ "generatedAt": "2026-11-12T11:43:51Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d34333549",
+   "discogsId": 34333549,
+   "title": "La Complainte De Ben/ Je Sais Qu'Un Jour",
+   "artist": "Pierre Barouh & Aram",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Saravah",
+   "country": "France",
+   "styles": [
+    "Bossa Nova",
+    "Folk"
+   ],
+   "coverUrl": "https://i.discogs.com/fqRs6lRmBovdnm5P7yQyB7e6Tkwb8KphfNEliKxPPyI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzMz/NTQ5LTE3NTA1MzA3/MzEtNzkwMi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.7566,
+   "vibe": 100,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Rare Promo\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "La Complainte De Ben",
+     "artist": "Pierre Barouh & Aram",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Je Sais Qu'Un Jour",
+     "artist": "Pierre Barouh & Aram",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d8638383",
+   "discogsId": 8638383,
+   "title": "Duke Ellington's 70th Birthday Concert",
+   "artist": "Duke Ellington",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "Solid State Records (2)",
+   "country": "US",
+   "styles": [
+    "Big Band",
+    "Swing"
+   ],
+   "coverUrl": "https://i.discogs.com/M16cn2bMChqx4CzvGL0yOtPRYLKpfBDudRv5Q6ukHFY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mzgz/ODMtMTQ2NTc2ODkx/NC0yNDQzLnBuZw.jpeg",
+   "ratingAvg": 4.57,
+   "ratingCount": 7,
+   "score": 0.6594,
+   "vibe": 77,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded live at Free Trade Hall, Manchester, England.\n\nGatefold cover with company printed inner sleeves.\n\nThis is a Club Edition as defined by the [l175227] profile.  The runouts are etched.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Rockin' In Rhythm",
+     "artist": "Duke Ellington",
+     "duration": "5:15"
+    },
+    {
+     "position": "A2",
+     "title": "B.P.",
+     "artist": "Duke Ellington",
+     "duration": "4:15"
+    },
+    {
+     "position": "A3",
+     "title": "Take The \"A\" Train",
+     "artist": "Duke Ellington",
+     "duration": "5:05"
+    },
+    {
+     "position": "A4",
+     "title": "Tootie For Cootie",
+     "artist": "Duke Ellington",
+     "duration": "6:18"
+    },
+    {
+     "position": "B1",
+     "title": "4:30 Blues",
+     "artist": "Duke Ellington",
+     "duration": "3:55"
+    },
+    {
+     "position": "B2",
+     "title": "El Gato",
+     "artist": "Duke Ellington",
+     "duration": "3:40"
+    },
+    {
+     "position": "B3",
+     "title": "Black Butterfly",
+     "artist": "Duke Ellington",
+     "duration": "4:32"
+    },
+    {
+     "position": "B4",
+     "title": "Things Ain't What They Used To Be",
+     "artist": "Duke Ellington",
+     "duration": "3:00"
+    },
+    {
+     "position": "B5",
+     "title": "Laying On Mellow",
+     "artist": "Duke Ellington",
+     "duration": "4:55"
+    },
+    {
+     "position": "C1",
+     "title": "Satin Doll",
+     "artist": "Duke Ellington",
+     "duration": "4:52"
+    },
+    {
+     "position": "C2",
+     "title": "Azure Te (Paris Blues)",
+     "artist": "Duke Ellington",
+     "duration": "4:40"
+    },
+    {
+     "position": "C3",
+     "title": "In Triplicate",
+     "artist": "Duke Ellington",
+     "duration": "6:15"
+    },
+    {
+     "position": "C4",
+     "title": "Perdido",
+     "artist": "Duke Ellington",
+     "duration": "3:00"
+    },
+    {
+     "position": "C5",
+     "title": "Fife",
+     "artist": "Duke Ellington",
+     "duration": "3:12"
+    },
+    {
+     "position": "D2",
+     "title": "Black Swan",
+     "artist": "Duke Ellington",
+     "duration": "8:25"
+    },
+    {
+     "position": "D3",
+     "title": "Closing Speech - End Of Concert",
+     "artist": "Duke Ellington",
+     "duration": "1:50"
+    }
+   ]
+  },
+  {
+   "id": "d5054461",
+   "discogsId": 5054461,
+   "title": "Les McCann Plays The Hits",
+   "artist": "Les McCann",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "First Record",
+   "country": "Taiwan",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/-RBN9ahy1YTEVZGtgua_YOdknwp4V7mtAcMWkVE10YE/rs:fit/g:sm/q:90/h:545/w:535/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTQ0/NjEtMTM4MzI1MTcy/Ny01NjE0LmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6314,
+   "vibe": 70,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Sunny (Part I)",
+     "artist": "Les McCann",
+     "duration": "7:04"
+    },
+    {
+     "position": "A2",
+     "title": "Sunny (Part II)",
+     "artist": "Les McCann",
+     "duration": "2:37"
+    },
+    {
+     "position": "A3",
+     "title": "Guantanamera",
+     "artist": "Les McCann",
+     "duration": "2:50"
+    },
+    {
+     "position": "A4",
+     "title": "Summer Samba (So Nice)",
+     "artist": "Les McCann",
+     "duration": "2:18"
+    },
+    {
+     "position": "A5",
+     "title": "Sad Little Girl",
+     "artist": "Les McCann",
+     "duration": "2:52"
+    },
+    {
+     "position": "A6",
+     "title": "River Deep, Mountain High",
+     "artist": "Les McCann",
+     "duration": "3:14"
+    },
+    {
+     "position": "B1",
+     "title": "Les Skate",
+     "artist": "Les McCann",
+     "duration": "3:15"
+    },
+    {
+     "position": "B2",
+     "title": "Sunshine Superman",
+     "artist": "Les McCann",
+     "duration": "3:02"
+    },
+    {
+     "position": "B3",
+     "title": "Message To Michael",
+     "artist": "Les McCann",
+     "duration": "2:40"
+    },
+    {
+     "position": "B4",
+     "title": "Flamingo",
+     "artist": "Les McCann",
+     "duration": "2:31"
+    },
+    {
+     "position": "B5",
+     "title": "Compared To What",
+     "artist": "Les McCann",
+     "duration": "2:30"
+    },
+    {
+     "position": "B6",
+     "title": "Pretty Flamingo",
+     "artist": "Les McCann",
+     "duration": "3:16"
+    }
+   ]
+  },
+  {
+   "id": "d16188104",
+   "discogsId": 16188104,
+   "title": "Ed Kelly & Friend",
+   "artist": "Ed Kelly & Friend",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Theresa Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz",
+    "Jazz-Funk"
+   ],
+   "coverUrl": "https://i.discogs.com/KaS3vWbJZ0QPB1AEHUwQraU-1KEjz6zxQrcKRW6uCmg/rs:fit/g:sm/q:90/h:600/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg4/MTA0LTE2OTUyMTcx/MjUtMzg5Mi5qcGVn.jpeg",
+   "ratingAvg": 1.0,
+   "ratingCount": 1,
+   "score": 0.6023,
+   "vibe": 63,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Pippin",
+     "artist": "Ed Kelly & Friend",
+     "duration": "4:23"
+    },
+    {
+     "position": "A2",
+     "title": "Answer Me My Love",
+     "artist": "Ed Kelly & Friend",
+     "duration": "4:40"
+    },
+    {
+     "position": "A3",
+     "title": "You've Got To Have Freedom",
+     "artist": "Ed Kelly & Friend",
+     "duration": "7:30"
+    },
+    {
+     "position": "A4",
+     "title": "Sweet Georgia Brown",
+     "artist": "Ed Kelly & Friend",
+     "duration": "2:35"
+    },
+    {
+     "position": "B1",
+     "title": "Rainbow Song",
+     "artist": "Ed Kelly & Friend",
+     "duration": "4:16"
+    },
+    {
+     "position": "B2",
+     "title": "Newborn",
+     "artist": "Ed Kelly & Friend",
+     "duration": "4:23"
+    },
+    {
+     "position": "B3",
+     "title": "You Send Me",
+     "artist": "Ed Kelly & Friend",
+     "duration": "8:52"
+    }
+   ]
+  },
+  {
+   "id": "d28109269",
+   "discogsId": 28109269,
+   "title": "Mellow Dream +1",
+   "artist": "Ryo Fukui",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Ultra-Vybe",
+   "country": "Japan",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/62dw8OwYtm4AzBoHSNAXIQ20eRMh4UhToqoNdskxqcE/rs:fit/g:sm/q:90/h:493/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTA5/MjY5LTE2OTMyOTkz/NTktNzc5MS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5875,
+   "vibe": 59,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded August 17 & 18, 1977 at Yamaha Hall/Sapporo\nMixed September 12, 1977 at AOI Studios/Tokyo.\n\nComes in jewel case with OBI & Japanese insert",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Mellow Dream",
+     "artist": "Ryo Fukui",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "My Foolish Heart",
+     "artist": "Ryo Fukui",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Baron Patato Blues",
+     "artist": "Ryo Fukui",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "What's New",
+     "artist": "Ryo Fukui",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Horizon",
+     "artist": "Ryo Fukui",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "My Funny Valentine",
+     "artist": "Ryo Fukui",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Early Summer 2006 At Slow Boat",
+     "artist": "Ryo Fukui",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
