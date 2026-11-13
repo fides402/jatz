@@ -1,0 +1,320 @@
+{
+ "date": "2026-11-13",
+ "generatedAt": "2026-11-13T11:27:58Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d13173248",
+   "discogsId": 13173248,
+   "title": "O Rancho / Cabocla",
+   "artist": "Geraldo Cunha & Alaide Costa",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Continental (3)",
+   "country": "Brazil",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/y8NC1jXs3SAw6NEpfuFdrd3qxo8n9AJTSAQZILTZXso/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MjQ4LTE1NDkzMTgw/OTEtNzExNy5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6626,
+   "vibe": 78,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Even though the single's cover has Alaíde's name, she only sings on the track \"Cabocla\".",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Cabocla",
+     "artist": "Geraldo Cunha",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "O Rancho",
+     "artist": "Geraldo Cunha",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d12754280",
+   "discogsId": 12754280,
+   "title": "Light As A Feather",
+   "artist": "Chick Corea & Return To Forever",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Polydor",
+   "country": "US",
+   "styles": [
+    "Fusion",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/SbZOFO4oV0r-z6HjoqW34dpQ1El33y7udxXfJWeocbo/rs:fit/g:sm/q:90/h:600/w:549/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU0/MjgwLTE1Njk0NDM0/NDYtODUxNS5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 3,
+   "score": 0.5589,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "You're Everything",
+     "artist": "Chick Corea & Return To Forever",
+     "duration": "5:10"
+    },
+    {
+     "position": "A2",
+     "title": "Light As A Feather",
+     "artist": "Chick Corea & Return To Forever",
+     "duration": "11:00"
+    },
+    {
+     "position": "A3",
+     "title": "Captain Marvel",
+     "artist": "Chick Corea & Return To Forever",
+     "duration": "4:55"
+    },
+    {
+     "position": "B1",
+     "title": "500 Miles High",
+     "artist": "Chick Corea & Return To Forever",
+     "duration": "9:06"
+    },
+    {
+     "position": "B2",
+     "title": "Children's Song",
+     "artist": "Chick Corea & Return To Forever",
+     "duration": "2:48"
+    },
+    {
+     "position": "B3",
+     "title": "Spain",
+     "artist": "Chick Corea & Return To Forever",
+     "duration": "9:55"
+    }
+   ]
+  },
+  {
+   "id": "d14973153",
+   "discogsId": 14973153,
+   "title": "Everybody Loves A Winner",
+   "artist": "Harold Johnson Sextet",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Revue",
+   "country": "Canada",
+   "styles": [
+    "Soul-Jazz",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/q-yg6JgcneJWkyjqymEwlD8vDSE27pJOMNGSiH7cTIs/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTcz/MTUzLTE1ODQ5MzMz/NzItODM5MC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Manufactured and distributed in Canada by The Compo Company\n\nFront cover printed in U.S.A.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Kealiians",
+     "artist": "Harold Johnson Sextet",
+     "duration": "4:52"
+    },
+    {
+     "position": "A2",
+     "title": "We're A Winner",
+     "artist": "Harold Johnson Sextet",
+     "duration": "2:55"
+    },
+    {
+     "position": "A3",
+     "title": "Be Quiet Man",
+     "artist": "Harold Johnson Sextet",
+     "duration": "4:25"
+    },
+    {
+     "position": "A4",
+     "title": "Afro Freak",
+     "artist": "Harold Johnson Sextet",
+     "duration": "3:07"
+    },
+    {
+     "position": "A5",
+     "title": "Lime Water",
+     "artist": "Harold Johnson Sextet",
+     "duration": "2:00"
+    },
+    {
+     "position": "B1",
+     "title": "Baila Cinderella",
+     "artist": "Harold Johnson Sextet",
+     "duration": "4:11"
+    },
+    {
+     "position": "B2",
+     "title": "Natural Napy",
+     "artist": "Harold Johnson Sextet",
+     "duration": "2:36"
+    },
+    {
+     "position": "B3",
+     "title": "Cruising",
+     "artist": "Harold Johnson Sextet",
+     "duration": "4:00"
+    },
+    {
+     "position": "B4",
+     "title": "Nature Boy",
+     "artist": "Harold Johnson Sextet",
+     "duration": "4:00"
+    },
+    {
+     "position": "B5",
+     "title": "Erewhon",
+     "artist": "Harold Johnson Sextet",
+     "duration": "2:01"
+    }
+   ]
+  },
+  {
+   "id": "d38089293",
+   "discogsId": 38089293,
+   "title": "Live At Scholes Street Studio",
+   "artist": "Stephen Gauci & Marc Edwards",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "GauciMusic",
+   "country": "US",
+   "styles": [
+    "Free Improvisation"
+   ],
+   "coverUrl": "https://i.discogs.com/ldTI0kVMDHzsvMI1ETtTTwMk1gRQVL7EhJvLOQ9R8UE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDg5/MjkzLTE3ODYxNTg1/MDgtOTM5OS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5282,
+   "vibe": 45,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Recorded February 18, 2024 at Scholes Street Studio",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "I",
+     "artist": "Stephen Gauci & Marc Edwards",
+     "duration": "9:42"
+    },
+    {
+     "position": "2",
+     "title": "II",
+     "artist": "Stephen Gauci & Marc Edwards",
+     "duration": "13:10"
+    },
+    {
+     "position": "3",
+     "title": "III",
+     "artist": "Stephen Gauci & Marc Edwards",
+     "duration": "7:32"
+    },
+    {
+     "position": "4",
+     "title": "IV",
+     "artist": "Stephen Gauci & Marc Edwards",
+     "duration": "8:09"
+    },
+    {
+     "position": "5",
+     "title": "V",
+     "artist": "Stephen Gauci & Marc Edwards",
+     "duration": "7:13"
+    }
+   ]
+  },
+  {
+   "id": "d15812914",
+   "discogsId": 15812914,
+   "title": "Dykyi Lys",
+   "artist": "Ganna",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Double Moon Records",
+   "country": "Europe",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/wrNw1wFVKRmOXgs0W6PyYRqV7rXqVabjT4CVhxsVAwI/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODEy/OTE0LTE1OTgyNjg1/MDgtMjM2MS5qcGVn.jpeg",
+   "ratingAvg": 4.4,
+   "ratingCount": 5,
+   "score": 0.5276,
+   "vibe": 44,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at RecPublica Studios in Lubrza, Poland.\nMixed and mastered at Control Room Berlin.\n\nP&C 2020 Challenge Records International\nManufactured in Austria",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Na Volyu",
+     "artist": "Ganna",
+     "duration": "5:45"
+    },
+    {
+     "position": "2",
+     "title": "Rika",
+     "artist": "Ganna",
+     "duration": "8:18"
+    },
+    {
+     "position": "3",
+     "title": "Daydreams",
+     "artist": "Ganna",
+     "duration": "5:13"
+    },
+    {
+     "position": "4",
+     "title": "Sometimes",
+     "artist": "Ganna",
+     "duration": "5:28"
+    },
+    {
+     "position": "5",
+     "title": "Changes",
+     "artist": "Ganna",
+     "duration": "7:24"
+    },
+    {
+     "position": "6",
+     "title": "Lebidonka",
+     "artist": "Ganna",
+     "duration": "4:37"
+    },
+    {
+     "position": "7",
+     "title": "Witer",
+     "artist": "Ganna",
+     "duration": "6:40"
+    },
+    {
+     "position": "8",
+     "title": "Song For Mons",
+     "artist": "Ganna",
+     "duration": "5:09"
+    },
+    {
+     "position": "9",
+     "title": "Waiting",
+     "artist": "Ganna",
+     "duration": "3:02"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
