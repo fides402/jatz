@@ -1,0 +1,398 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T10:50:24Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d4523210",
+   "discogsId": 4523210,
+   "title": "After Hours",
+   "artist": "Sarah Vaughan",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "CBS",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz",
+    "Modal"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.7064,
+   "vibe": 89,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "After Hours",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Street Of Dreams",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "You Taught Me To Love Again",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "You're Mine, You",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "My Reverie",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Summertime",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Black Coffee",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Thinking Of You",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "I Cried For You",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Perdido",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Deep Purple",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Just Friends",
+     "artist": "Sarah Vaughan",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d15684106",
+   "discogsId": 15684106,
+   "title": "My Fair Lady",
+   "artist": "André Previn Quartet",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "CBS/Sony",
+   "country": "Japan",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/L0YQepJdhysEM28WzysOGSf7YmvW7YAlkN7Ef-W7tlI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg0/MTA2LTE1OTU4NjQ2/MTgtNzY5NC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.6117,
+   "vibe": 65,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Obi and insert\n℗1977",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "You Did It",
+     "artist": "André Previn Quartet",
+     "duration": "3:12"
+    },
+    {
+     "position": "A2",
+     "title": "The Rain In Spain",
+     "artist": "André Previn Quartet",
+     "duration": "3:11"
+    },
+    {
+     "position": "A3",
+     "title": "Without You",
+     "artist": "André Previn Quartet",
+     "duration": "4:37"
+    },
+    {
+     "position": "A4",
+     "title": "I Could Have Danced All Night",
+     "artist": "André Previn Quartet",
+     "duration": "3:31"
+    },
+    {
+     "position": "A5",
+     "title": "On The Street Where You Live",
+     "artist": "André Previn Quartet",
+     "duration": "3:58"
+    },
+    {
+     "position": "B1",
+     "title": "With A Little Bit Of Luck",
+     "artist": "André Previn Quartet",
+     "duration": "3:06"
+    },
+    {
+     "position": "B2",
+     "title": "I've Grown Accustomed To Her Face",
+     "artist": "André Previn Quartet",
+     "duration": "3:04"
+    },
+    {
+     "position": "B3",
+     "title": "I'm An Ordinary Man",
+     "artist": "André Previn Quartet",
+     "duration": "3:16"
+    },
+    {
+     "position": "B4",
+     "title": "Wouldn't It Be Loverly",
+     "artist": "André Previn Quartet",
+     "duration": "4:06"
+    },
+    {
+     "position": "B5",
+     "title": "Get Me To The Church On Time",
+     "artist": "André Previn Quartet",
+     "duration": "6:06"
+    }
+   ]
+  },
+  {
+   "id": "d11608964",
+   "discogsId": 11608964,
+   "title": "It Pours",
+   "artist": "Woody Herman And His Orchestra",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "First Heard Records",
+   "country": "UK",
+   "styles": [
+    "Big Band",
+    "Swing"
+   ],
+   "coverUrl": "https://i.discogs.com/1LVxJCD3Dck_FC6bFf2PaLH8TeatMTzD01d_B-Ad7_Y/rs:fit/g:sm/q:90/h:226/w:223/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA4/OTY0LTE1MjgzNjMx/MjItMjA2NS5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 2,
+   "score": 0.5999,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Woody Herman - It Pours / Compilation releases by First Heard Records / Catalogue number: FH 43\nTracks A1 to B3 recorded at the Palladium Ballroom, Hollywood, May 17 & 18, 1951.\nTrack B4 recorded at an un-traced location circa September 1954.\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Theme/Sonny Speaks",
+     "artist": "Woody Herman And His Orchestra",
+     "duration": "3:58"
+    },
+    {
+     "position": "A2",
+     "title": "I Won't Cry Anymore",
+     "artist": "Woody Herman And His Orchestra",
+     "duration": "4:03"
+    },
+    {
+     "position": "A3",
+     "title": "Bop Look And Listen",
+     "artist": "Woody Herman And His Orchestra",
+     "duration": "2:50"
+    },
+    {
+     "position": "A4",
+     "title": "Ninety-Nine Guys",
+     "artist": "Woody Herman And His Orchestra",
+     "duration": "3:12"
+    },
+    {
+     "position": "A5",
+     "title": "You're My Thrill",
+     "artist": "Woody Herman And His Orchestra",
+     "duration": "2:59"
+    },
+    {
+     "position": "A6",
+     "title": "Don't Take Your Love From Me",
+     "artist": "Woody Herman And His Orchestra",
+     "duration": "2:47"
+    },
+    {
+     "position": "B1",
+     "title": "When It Rains, It Pours",
+     "artist": "Woody Herman And His Orchestra",
+     "duration": "3:57"
+    },
+    {
+     "position": "B2",
+     "title": "Sometimes I'm Happy",
+     "artist": "Woody Herman And His Orchestra",
+     "duration": "5:03"
+    },
+    {
+     "position": "B3",
+     "title": "Four Brothers",
+     "artist": "Woody Herman And His Orchestra",
+     "duration": "3:30"
+    },
+    {
+     "position": "B4",
+     "title": "The Woodchoppers Ball/Theme",
+     "artist": "Woody Herman And His Orchestra",
+     "duration": "6:59"
+    }
+   ]
+  },
+  {
+   "id": "d21846364",
+   "discogsId": 21846364,
+   "title": "Moonflower",
+   "artist": "Fumio Karashima & Elvin Jones",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Trio Records",
+   "country": "Japan",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/ikJ-0_Y1WVjjEPiHplKczzgLVJnFnA9S2kHmep21pDE/rs:fit/g:sm/q:90/h:560/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ2/MzY0LTE2NDI4NzQx/MTMtMzUwNC5wbmc.jpeg",
+   "ratingAvg": 3.5,
+   "ratingCount": 2,
+   "score": 0.5921,
+   "vibe": 61,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded and mixed at Onkyo Haus, April 21 & 22, 1978.\n\nComes in mini LP replica with obi & Japanese insert.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Moonflower",
+     "artist": "Fumio Karashima & Elvin Jones",
+     "duration": "9:41"
+    },
+    {
+     "position": "2",
+     "title": "My Funny Valentine",
+     "artist": "Fumio Karashima & Elvin Jones",
+     "duration": "11:33"
+    },
+    {
+     "position": "3",
+     "title": "Friday Night",
+     "artist": "Fumio Karashima & Elvin Jones",
+     "duration": "6:50"
+    },
+    {
+     "position": "4",
+     "title": "Bitter Waltz",
+     "artist": "Fumio Karashima & Elvin Jones",
+     "duration": "8:15"
+    },
+    {
+     "position": "5",
+     "title": "Bessie's Blues",
+     "artist": "Fumio Karashima & Elvin Jones",
+     "duration": "5:55"
+    }
+   ]
+  },
+  {
+   "id": "d28037973",
+   "discogsId": 28037973,
+   "title": "Footprints Live!",
+   "artist": "Wayne Shorter",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Verve Records",
+   "country": "US",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/5Mdw2I530yv5NSzW8pAXypFI-BJP41qC_R48aNJiwqc/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDM3/OTczLTE2OTI2NDQ2/NjctNTIyNi5qcGVn.jpeg",
+   "ratingAvg": 4.28,
+   "ratingCount": 43,
+   "score": 0.5781,
+   "vibe": 57,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Tracks A1, A2, C2 recorded July 20, 2001 at Festival De Jazz De Vitoria-Gasteiz, Spain.\nTracks B1, B2, C1, D1 recorded July 24, 2001 at Jardins du Palais Longchamp, Marseilles, France.\nTrack D2 recorded July 14, 2001 at The Umbria Jazz Festival, Perugia, Italy.\n\nReissue remastered by Kevin Reeves at East Iris Studios",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Sanctuary",
+     "artist": "Wayne Shorter",
+     "duration": "5:32"
+    },
+    {
+     "position": "A2",
+     "title": "Masquelero",
+     "artist": "Wayne Shorter",
+     "duration": "8:26"
+    },
+    {
+     "position": "B1",
+     "title": "Valse Triste",
+     "artist": "Wayne Shorter",
+     "duration": "8:00"
+    },
+    {
+     "position": "B2",
+     "title": "Go",
+     "artist": "Wayne Shorter",
+     "duration": "5:00"
+    },
+    {
+     "position": "C1",
+     "title": "Aung San Suu Kyi",
+     "artist": "Wayne Shorter",
+     "duration": "9:29"
+    },
+    {
+     "position": "C2",
+     "title": "Footprints",
+     "artist": "Wayne Shorter",
+     "duration": "7:54"
+    },
+    {
+     "position": "D1",
+     "title": "Atlantis",
+     "artist": "Wayne Shorter",
+     "duration": "8:26"
+    },
+    {
+     "position": "D2",
+     "title": "Juju",
+     "artist": "Wayne Shorter",
+     "duration": "10:36"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
