@@ -1,6 +1,6 @@
 {
  "date": "2026-W46",
- "generatedAt": "2026-11-13T20:47:22Z",
+ "generatedAt": "2026-11-14T18:58:06Z",
  "profile": "rap",
  "albums": [
   {
@@ -730,10 +730,97 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4397304691",
+   "discogsId": 0,
+   "title": "Balcony",
+   "artist": "Tyga",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0e8661fd958e51535b6e106521af788b/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Balcony",
+     "artist": "Tyga",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6832698198",
+   "discogsId": 0,
+   "title": "Trophy",
+   "artist": "Leon Thomas",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d7/9f/5dd79f00-1cb0-49b1-da3d-10a115bd6cd9/26UM1IM42395.rgb.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Trophy",
+     "artist": "Leon Thomas",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4372958271",
+   "discogsId": 0,
+   "title": "work",
+   "artist": "sosocamo",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6fc64c18200b79c5db665ea4e9fca1b3/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "work",
+     "artist": "sosocamo",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 10
+  "modern": 13
  }
 }
