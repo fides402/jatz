@@ -1,6 +1,6 @@
 {
  "date": "2026-W46",
- "generatedAt": "2026-11-14T18:58:06Z",
+ "generatedAt": "2026-11-15T19:36:58Z",
  "profile": "rap",
  "albums": [
   {
@@ -817,10 +817,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4387391041",
+   "discogsId": 0,
+   "title": "Hair 4 Love (feat. Veeze)",
+   "artist": "Judah Weston",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0f2849a2fce531e656bcb9a58432ffb8/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.8,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Hair 4 Love (feat. Veeze)",
+     "artist": "Judah Weston",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4403500981",
+   "discogsId": 0,
+   "title": "backseat",
+   "artist": "Lil Peep",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f8e9be5acdf26450c33825b9583f4372/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "backseat",
+     "artist": "Lil Peep",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 13
+  "modern": 15
  }
 }
