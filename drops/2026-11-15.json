@@ -1,0 +1,344 @@
+{
+ "date": "2026-11-15",
+ "generatedAt": "2026-11-15T11:26:36Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d10686616",
+   "discogsId": 10686616,
+   "title": "Blasé",
+   "artist": "Archie Shepp",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "Affinity",
+   "country": "Portugal",
+   "styles": [
+    "Free Jazz",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/SiuKgfc_TkIR1QhlIny-88-u8E6qzw4pJ99wtZF9W9I/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg2/NjE2LTE1MDIzOTE4/NjItMzA5Mi5qcGVn.jpeg",
+   "ratingAvg": 4.67,
+   "ratingCount": 6,
+   "score": 0.609,
+   "vibe": 65,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Fabricado em Portugal por Valentim de Carvalho, C.I. SARL",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "My Angel",
+     "artist": "Archie Shepp",
+     "duration": "10:00"
+    },
+    {
+     "position": "A2",
+     "title": "Blase",
+     "artist": "Archie Shepp",
+     "duration": "10:15"
+    },
+    {
+     "position": "B1",
+     "title": "There Is A Balm In Gilead",
+     "artist": "Archie Shepp",
+     "duration": "6:00"
+    },
+    {
+     "position": "B2",
+     "title": "Sophisticated Lady",
+     "artist": "Archie Shepp",
+     "duration": "5:15"
+    },
+    {
+     "position": "B3",
+     "title": "Touareg",
+     "artist": "Archie Shepp",
+     "duration": "9:15"
+    }
+   ]
+  },
+  {
+   "id": "d5789027",
+   "discogsId": 5789027,
+   "title": "Samba '68",
+   "artist": "Marcos Valle",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Verve Records",
+   "country": "US",
+   "styles": [
+    "Bossa Nova",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/7-S8c6YT8TfYrzne_PWWpMR5Y4K_4bDt8ZvisaxCgek/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODkw/MjctMTQwMjcwMzgy/NS01NDA3LmpwZWc.jpeg",
+   "ratingAvg": 4.43,
+   "ratingCount": 7,
+   "score": 0.5935,
+   "vibe": 61,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Promotional release with yellow and black \"Disc Jockey Record - NOT FOR SALE\" label.  ",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Answer",
+     "artist": "Marcos Valle",
+     "duration": "2:39"
+    },
+    {
+     "position": "A2",
+     "title": "Crickets Sing For Anamaria",
+     "artist": "Marcos Valle",
+     "duration": "2:08"
+    },
+    {
+     "position": "A3",
+     "title": "So Nice (Summer Samba)",
+     "artist": "Marcos Valle",
+     "duration": "2:26"
+    },
+    {
+     "position": "A4",
+     "title": "Chup Chup, I Got Away",
+     "artist": "Marcos Valle",
+     "duration": "2:14"
+    },
+    {
+     "position": "A5",
+     "title": "If You Went Away",
+     "artist": "Marcos Valle",
+     "duration": "2:51"
+    },
+    {
+     "position": "A6",
+     "title": "Pepino Beach",
+     "artist": "Marcos Valle",
+     "duration": "1:50"
+    },
+    {
+     "position": "B1",
+     "title": "She Told Me, She Told Me",
+     "artist": "Marcos Valle",
+     "duration": "2:41"
+    },
+    {
+     "position": "B2",
+     "title": "It's Time To Sing",
+     "artist": "Marcos Valle",
+     "duration": "2:50"
+    },
+    {
+     "position": "B3",
+     "title": "Batucada",
+     "artist": "Marcos Valle",
+     "duration": "1:58"
+    },
+    {
+     "position": "B4",
+     "title": "The Face I Love",
+     "artist": "Marcos Valle",
+     "duration": "1:56"
+    },
+    {
+     "position": "B5",
+     "title": "Safely In Your Arms",
+     "artist": "Marcos Valle",
+     "duration": "3:06"
+    }
+   ]
+  },
+  {
+   "id": "d14824245",
+   "discogsId": 14824245,
+   "title": "The Soul Is Willing",
+   "artist": "Shirley Scott Trio & Stanley Turrentine",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Prestige",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/bk0f9p_bWSl5dN0eJwnL8ASFBkml0Dn_2JfLhZB8NtM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI0/MjQ1LTE1ODQ5NzQy/NDMtODQ0Mi5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 1,
+   "score": 0.5416,
+   "vibe": 48,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Label variation\nPublishers:\n- A1, B1: Groove Music - BMI\n- A2: Embassy Music - BMI\n- A3: Strethen Publ. Co. - BMI\n- B2: Remick Music - ASCAP\n- B3: Irving Berlin Music Corp. - ASCAP",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Soul Is Willing",
+     "artist": "Shirley Scott Trio & Stanley Turrentine",
+     "duration": "6:25"
+    },
+    {
+     "position": "A2",
+     "title": "Yes Indeed",
+     "artist": "Shirley Scott Trio & Stanley Turrentine",
+     "duration": "6:00"
+    },
+    {
+     "position": "A3",
+     "title": "Stolen Sweets",
+     "artist": "Shirley Scott Trio & Stanley Turrentine",
+     "duration": "6:20"
+    },
+    {
+     "position": "B1",
+     "title": "I Feel Alright",
+     "artist": "Shirley Scott Trio & Stanley Turrentine",
+     "duration": "6:15"
+    },
+    {
+     "position": "B2",
+     "title": "Secret Love",
+     "artist": "Shirley Scott Trio & Stanley Turrentine",
+     "duration": "8:15"
+    },
+    {
+     "position": "B3",
+     "title": "Remember",
+     "artist": "Shirley Scott Trio & Stanley Turrentine",
+     "duration": "4:00"
+    }
+   ]
+  },
+  {
+   "id": "d34182601",
+   "discogsId": 34182601,
+   "title": "EPOCH",
+   "artist": "JABFUNG",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Not On Label",
+   "country": "Canada",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/VVORltiwue-QLUr6KIMeC6lXjPz9yAfe0QmXpSdVbfQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTgy/NjAxLTE3NDkxMzAz/NTktOTgxNy5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6234,
+   "vibe": 68,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "EPOCH",
+     "artist": "JABFUNG",
+     "duration": "6:11"
+    },
+    {
+     "position": "2",
+     "title": "Incandesce",
+     "artist": "JABFUNG",
+     "duration": "8:51"
+    },
+    {
+     "position": "3",
+     "title": "Papyrus",
+     "artist": "JABFUNG",
+     "duration": "6:04"
+    },
+    {
+     "position": "4",
+     "title": "Northern",
+     "artist": "JABFUNG",
+     "duration": "6:48"
+    },
+    {
+     "position": "5",
+     "title": "The City",
+     "artist": "JABFUNG",
+     "duration": "4:09"
+    },
+    {
+     "position": "6",
+     "title": "Still",
+     "artist": "JABFUNG",
+     "duration": "6:19"
+    },
+    {
+     "position": "7",
+     "title": "Road Life",
+     "artist": "JABFUNG",
+     "duration": "5:20"
+    },
+    {
+     "position": "8",
+     "title": "Ask Me Now",
+     "artist": "JABFUNG",
+     "duration": "3:41"
+    }
+   ]
+  },
+  {
+   "id": "d20784634",
+   "discogsId": 20784634,
+   "title": "Gentle Ballads III",
+   "artist": "Eric Alexander Quartet",
+   "year": 2021,
+   "era": "MODERN",
+   "label": "Venus Records (5)",
+   "country": "Japan",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/hZWCzy6zxAn7-Bl-yabp7a5MRM_SjtW23f0cgyK6NC8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzg0/NjM0LTE3MjkzNjQ0/NzYtODc4Ni5qcGVn.jpeg",
+   "ratingAvg": 4.93,
+   "ratingCount": 14,
+   "score": 0.5545,
+   "vibe": 51,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at The Studio in New York on November 22, 2007.\nMixed and mastered by Tetsuo Hara using \"Venus Hyper Magnum Sound Direct Mix\" technology.\nIncludes one-page insert with liner notes and credits in Japanese.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "All The Way",
+     "artist": "Eric Alexander Quartet",
+     "duration": "7:58"
+    },
+    {
+     "position": "A2",
+     "title": "Don't Explain",
+     "artist": "Eric Alexander Quartet",
+     "duration": "7:04"
+    },
+    {
+     "position": "A3",
+     "title": "Smoke Gets In Your Eyes",
+     "artist": "Eric Alexander Quartet",
+     "duration": "7:08"
+    },
+    {
+     "position": "B1",
+     "title": "Little Girl Blue",
+     "artist": "Eric Alexander Quartet",
+     "duration": "7:47"
+    },
+    {
+     "position": "B2",
+     "title": "Summertime",
+     "artist": "Eric Alexander Quartet",
+     "duration": "7:20"
+    },
+    {
+     "position": "B3",
+     "title": "You'll Be Mine Tonight",
+     "artist": "Eric Alexander Quartet",
+     "duration": "7:04"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
