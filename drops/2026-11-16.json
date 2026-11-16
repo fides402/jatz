@@ -1,0 +1,491 @@
+{
+ "date": "2026-11-16",
+ "generatedAt": "2026-11-16T11:57:24Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d15919194",
+   "discogsId": 15919194,
+   "title": "20 Classic Tracks",
+   "artist": "Frank Sinatra",
+   "year": 1981,
+   "era": "VINTAGE",
+   "label": "Music For Pleasure",
+   "country": "UK",
+   "styles": [
+    "Swing",
+    "Vocal"
+   ],
+   "coverUrl": "https://i.discogs.com/LQHD7J7UDSikACaJPLnp9Cowx5JHLsr-ppfUtTWME9E/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE5/MTk0LTE2MDA0MzY3/MjctMTM2NC5tcG8.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6399,
+   "vibe": 72,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Similar to [url=https://www.discogs.com/Frank-Sinatra-20-Classic-Tracks/release/13397707]this version[/url], but lacks the  ® alongside 'Dolby System' on the labels. \n\n℗ 1958 original sound recordings made by Capitol Records Inc. \n℗ 1958 Capitol Records Inc. tracks A1 to A10.\n℗ 1959 Capitol Records Inc. tracks B1 to B10.\n℗ 1981 Music For Pleasure.\n\nAll titles taken from  the albums \"Come Fly With Me\"(SLCT 6154) and \"Come Dance With Me\" (SLCT 6179) previously released on the Capitol Label.\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Come Fly With Me",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Around The World",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "French Foreign Legion",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Moonlight In Vermont",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Autumn In New York",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Let's Get Away From It All",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "A7",
+     "title": "April In Paris",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "A8",
+     "title": "Brazil",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "A9",
+     "title": "London By Night",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "A10",
+     "title": "It's Nice To Go Trav'ling",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Come Dance With Me",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Something's Gotta Give",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Just In Time",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Dancing In The Dark",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Too Close For Comfort",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "I Could Have Danced All Night",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "B7",
+     "title": "Saturday Night (Is The Loneliest Night Of The Week)",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "B8",
+     "title": "Cheek To Cheek",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "B9",
+     "title": "Baubles, Bangles And Beads",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    },
+    {
+     "position": "B10",
+     "title": "Day In, Day Out",
+     "artist": "Frank Sinatra",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d7465820",
+   "discogsId": 7465820,
+   "title": "Grand Concert Gravé En 1945",
+   "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Locomotive",
+   "country": "France",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/5OXAmOt879ZO4otQVaIpGeyDZ2eqiqB_TdEYdOpTB4o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjU4/MjAtMTQ0MjA0NDAx/Ni0xMjQyLmpwZWc.jpeg",
+   "ratingAvg": 3.0,
+   "ratingCount": 1,
+   "score": 0.6343,
+   "vibe": 71,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Basie Strides Again",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Gee, Baby Ain't I Good To You",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Circus In Rhythm",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Beaver Junction",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Kansas City Stride",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Taps Miller",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Old Manuscript",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Playhouse No. 2 Stomp",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "On The Upbeat",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Jimmy's Blues",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Take Me Back Baby",
+     "artist": "Count Basie & Lester Young & Buddy Tate & Ted Donnelly",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d3869791",
+   "discogsId": 3869791,
+   "title": "Warm",
+   "artist": "Herb Alpert & The Tijuana Brass",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "A&M Records",
+   "country": "New Zealand",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/bTnbXS5vHdjmHtV6b11RIRVIJ67zHwFJMu56CifCZpU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njk3/OTEtMTM0NzUzMzI4/OS04MzkyLmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6318,
+   "vibe": 70,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded at A&M Recording Studios.\n\nFully laminated flip back sleeve.\n\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Sea Is My Soil",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "4:30"
+    },
+    {
+     "position": "A2",
+     "title": "Without Her",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "3:22"
+    },
+    {
+     "position": "A3",
+     "title": "Marjorine",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "3:04"
+    },
+    {
+     "position": "A4",
+     "title": "Girl Talk",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "2:49"
+    },
+    {
+     "position": "A5",
+     "title": "Ob-La-Di, Ob-La-Da",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "1:50"
+    },
+    {
+     "position": "B1",
+     "title": "Zazueira",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "3:13"
+    },
+    {
+     "position": "B2",
+     "title": "The Continental",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "2:06"
+    },
+    {
+     "position": "B3",
+     "title": "Pretty World",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "3:45"
+    },
+    {
+     "position": "B4",
+     "title": "Warm",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "2:31"
+    },
+    {
+     "position": "B5",
+     "title": "To Wait For Love",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "2:55"
+    },
+    {
+     "position": "B6",
+     "title": "Sandbox",
+     "artist": "Herb Alpert & The Tijuana Brass",
+     "duration": "3:12"
+    }
+   ]
+  },
+  {
+   "id": "d30296831",
+   "discogsId": 30296831,
+   "title": "Yeah!",
+   "artist": "Charlie Rouse",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Epic",
+   "country": "Japan",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/H38K9sRVrbj-Qhx4aPAibxCbFVnYlmg9-YNj3C4k4xk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjk2/ODMxLTE3NDg3MTYy/ODktMTIwNC5qcGVn.jpeg",
+   "ratingAvg": 4.89,
+   "ratingCount": 19,
+   "score": 0.5947,
+   "vibe": 61,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded in New York City, A2 A3 - Dec 20 1960 & A1 B1 B2 B3 - Dec 21 1960.\nWith single sided Japanese language insert, with catalogue number SIJP 1096 at bottom right-hand side\n\nThe runout on each side includes two small circular symbols with four radiating notches (\"🝊🝊\"), likely pressing indicators from Sony Music Solutions Japan.\n\nDomestic cutting ☉ Sony Music Studios\nDomestic press @ Sony Music Solutions Oigawa Production Center",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "You Don't Know What Love Is",
+     "artist": "Charlie Rouse",
+     "duration": "6:26"
+    },
+    {
+     "position": "A2",
+     "title": "Lil Rousin",
+     "artist": "Charlie Rouse",
+     "duration": "5:00"
+    },
+    {
+     "position": "A3",
+     "title": "Stella By Starlight",
+     "artist": "Charlie Rouse",
+     "duration": "6:15"
+    },
+    {
+     "position": "B1",
+     "title": "Billy's Blues",
+     "artist": "Charlie Rouse",
+     "duration": "8:44"
+    },
+    {
+     "position": "B2",
+     "title": "Rouse's Point",
+     "artist": "Charlie Rouse",
+     "duration": "4:44"
+    },
+    {
+     "position": "B3",
+     "title": "No Greater Love",
+     "artist": "Charlie Rouse",
+     "duration": "6:20"
+    }
+   ]
+  },
+  {
+   "id": "d13658847",
+   "discogsId": 13658847,
+   "title": "Jerry & The Pelican System",
+   "artist": "Jerzy Mączyński",
+   "year": 2019,
+   "era": "MODERN",
+   "label": "Polskie Nagrania Muza",
+   "country": "Poland",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/TUaoT9bzxQGGwHUxNxgbC5ZPrg9LxpRFge2wy5E0IdI/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU4/ODQ3LTE3MTg3MTkz/MTYtNDg0MS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Recorded at Monochrom studio, Gniewoszów, 2019\n\n℗ © 2019\n\nPrinted in the EU.\nIssued in a digipak.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Big Kraśka",
+     "artist": "Jerzy Mączyński",
+     "duration": "6:54"
+    },
+    {
+     "position": "2",
+     "title": "GoodnessGoofy",
+     "artist": "Jerzy Mączyński",
+     "duration": "4:38"
+    },
+    {
+     "position": "3",
+     "title": "Chaos I",
+     "artist": "Jerzy Mączyński",
+     "duration": "7:32"
+    },
+    {
+     "position": "4",
+     "title": "Chaos II",
+     "artist": "Jerzy Mączyński",
+     "duration": "2:40"
+    },
+    {
+     "position": "5",
+     "title": "Chaos III",
+     "artist": "Jerzy Mączyński",
+     "duration": "3:23"
+    },
+    {
+     "position": "6",
+     "title": "Cosmic Violet (Asian Kiss)",
+     "artist": "Jerzy Mączyński",
+     "duration": "5:34"
+    },
+    {
+     "position": "7",
+     "title": "PeeaceOff I",
+     "artist": "Jerzy Mączyński",
+     "duration": "4:43"
+    },
+    {
+     "position": "8",
+     "title": "PeeaceOff II",
+     "artist": "Jerzy Mączyński",
+     "duration": "3:55"
+    },
+    {
+     "position": "9",
+     "title": "PeeaceOff III",
+     "artist": "Jerzy Mączyński",
+     "duration": "3:15"
+    },
+    {
+     "position": "10",
+     "title": "Prince",
+     "artist": "Jerzy Mączyński",
+     "duration": "6:51"
+    },
+    {
+     "position": "11",
+     "title": "Zoża Hej",
+     "artist": "Jerzy Mączyński",
+     "duration": "6:40"
+    },
+    {
+     "position": "12",
+     "title": "Zoża Cześć",
+     "artist": "Jerzy Mączyński",
+     "duration": "4:42"
+    },
+    {
+     "position": "13",
+     "title": "Naya Rang",
+     "artist": "Jerzy Mączyński",
+     "duration": "10:31"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
