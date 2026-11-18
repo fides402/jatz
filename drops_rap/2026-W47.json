@@ -1,0 +1,40 @@
+{
+ "date": "2026-W47",
+ "generatedAt": "2026-11-18T21:43:32Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-unresolved-1401224509457683569",
+   "discogsId": 0,
+   "title": "AHH YEA",
+   "artist": "Playboi Carti for GTA VI",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "AHH YEA",
+     "artist": "Playboi Carti for GTA VI",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 1
+ }
+}
