@@ -1,0 +1,339 @@
+{
+ "date": "2026-11-18",
+ "generatedAt": "2026-11-18T12:07:52Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d14896936",
+   "discogsId": 14896936,
+   "title": "A Song Of Joy / El Rio",
+   "artist": "Miguel Ríos",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "A&M Records",
+   "country": "US",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/ZnITPed9AmwJ4zXS9smVc_2QHG5hFrjIDvkhCw-gJy0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk2/OTM2LTE2NzM4OTYw/MTEtNjYxOS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 4,
+   "score": 0.6704,
+   "vibe": 80,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "A Song Of Joy (Himno A La Alegria)",
+     "artist": "Miguel Ríos",
+     "duration": "4:45"
+    },
+    {
+     "position": "B",
+     "title": "El Rio",
+     "artist": "Miguel Ríos",
+     "duration": "2:40"
+    }
+   ]
+  },
+  {
+   "id": "d28208314",
+   "discogsId": 28208314,
+   "title": "Heavy Weather",
+   "artist": "Weather Report",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Columbia",
+   "country": "Canada",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/qGHAZMFuw_MXNEYmzOBBi7cwJPxkdv080KsmcQlbZ0Q/rs:fit/g:sm/q:90/h:379/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA4/MzE0LTE2OTQyMDUy/MjYtMTMxMy5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5589,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Exclusive Management: Cavallo-Ruffalo Management, Beverly Hills, California.\nRecorded at Devonshire Sound Studios, North Hollywood, California.\nSpecial thanks to Tom Oberheim and his Polyphonic Synthesizer.\n\nLabel: One side of this program is of longer duration than the other to preserve the album continuity.\nJ- Card: See label for sequence\n\n℗ © 1977 CBS, Inc.\n\nPrinting on only one side of J-Card with minimal credits included.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Birdland",
+     "artist": "Weather Report",
+     "duration": "5:59"
+    },
+    {
+     "position": "A2",
+     "title": "A Remark You Made",
+     "artist": "Weather Report",
+     "duration": "6:52"
+    },
+    {
+     "position": "A3",
+     "title": "Teen Town",
+     "artist": "Weather Report",
+     "duration": "2:53"
+    },
+    {
+     "position": "A4",
+     "title": "Harlequin",
+     "artist": "Weather Report",
+     "duration": "4:00"
+    },
+    {
+     "position": "B1",
+     "title": "Rumba Mamá",
+     "artist": "Weather Report",
+     "duration": "2:12"
+    },
+    {
+     "position": "B2",
+     "title": "Palladíum",
+     "artist": "Weather Report",
+     "duration": "4:45"
+    },
+    {
+     "position": "B3",
+     "title": "The Juggler",
+     "artist": "Weather Report",
+     "duration": "5:05"
+    },
+    {
+     "position": "B4",
+     "title": "Havona",
+     "artist": "Weather Report",
+     "duration": "6:03"
+    }
+   ]
+  },
+  {
+   "id": "d2945545",
+   "discogsId": 2945545,
+   "title": "The Leprechaun",
+   "artist": "Chick Corea",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Polydor",
+   "country": "France",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/utsJZnD9yrbIrJ3tgx-0-ksuHYdWX85_fPshiV0RSBI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU1/NDUtMTMwODU3Mzg2/Ny5qcGVn.jpeg",
+   "ratingAvg": 3.82,
+   "ratingCount": 22,
+   "score": 0.5528,
+   "vibe": 51,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Made and Printed in France\nInsert",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Imp's Welcome",
+     "artist": "Chick Corea",
+     "duration": "2:55"
+    },
+    {
+     "position": "A2",
+     "title": "Lenore",
+     "artist": "Chick Corea",
+     "duration": "3:25"
+    },
+    {
+     "position": "A3",
+     "title": "Reverie",
+     "artist": "Chick Corea",
+     "duration": "1:58"
+    },
+    {
+     "position": "A4",
+     "title": "Looking At The World",
+     "artist": "Chick Corea",
+     "duration": "5:29"
+    },
+    {
+     "position": "A5",
+     "title": "Nite Sprite",
+     "artist": "Chick Corea",
+     "duration": "4:31"
+    },
+    {
+     "position": "B1",
+     "title": "Soft And Gentle",
+     "artist": "Chick Corea",
+     "duration": "5:08"
+    },
+    {
+     "position": "B2",
+     "title": "Pixiland Rag",
+     "artist": "Chick Corea",
+     "duration": "1:10"
+    },
+    {
+     "position": "B3",
+     "title": "Leprechaun's Dream",
+     "artist": "Chick Corea",
+     "duration": "13:03"
+    }
+   ]
+  },
+  {
+   "id": "d32430642",
+   "discogsId": 32430642,
+   "title": "Floating",
+   "artist": "Monika Linges",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "PANORAMA (38)",
+   "country": "Europe",
+   "styles": [
+    "Bossa Nova",
+    "Fusion",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/zsNEutIRkMr0x5c393TLXD7_ebz5nWwaTrk_k-mAaFw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDMw/NjQyLTE3MzMxNTgx/MDgtOTQ4NC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 11,
+   "score": 0.6378,
+   "vibe": 72,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Too Fond Of Samba",
+     "artist": "Monika Linges",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Till We Get There",
+     "artist": "Monika Linges",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Floating",
+     "artist": "Monika Linges",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Blues Triste",
+     "artist": "Monika Linges",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Running",
+     "artist": "Monika Linges",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "La Danse Du Coeur",
+     "artist": "Monika Linges",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Prayer For The Newborn",
+     "artist": "Monika Linges",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "The World Was Young",
+     "artist": "Monika Linges",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d13289788",
+   "discogsId": 13289788,
+   "title": "Naïma",
+   "artist": "Naima",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Indies Happy Trails",
+   "country": "Czech Republic",
+   "styles": [
+    "Contemporary Jazz",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/_XoQaxVhAHrdCLHIP5QXW-9W7ucRCjz-QMwhQmTMf58/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg5/Nzg4LTE1ODI5MTY1/NzctNTI3MS5qcGVn.jpeg",
+   "ratingAvg": 3.5,
+   "ratingCount": 4,
+   "score": 0.5885,
+   "vibe": 60,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Nahráno ve studiu Lucerna, Praha, 30. listopadu – 1. prosince 1985 [1–6]\nNahráno ve studiu Smetanova divadla, Praha, únor 1986 [7–9]\nRemastering: […] (loukash.com), prosinec 2018\nPůvodní obal: […] 1988\nFoto: […] a archiv Zdeňka Zdeňka\n℗ 1986, 1988 Panton\n© 2018 Indies Happy Trails Records\nVydáno v licenci firmy Supraphon a.s.\nVydáno s finanční podporou Ministerstva kultury ČR\n",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Eva",
+     "artist": "Naima",
+     "duration": "5:02"
+    },
+    {
+     "position": "2",
+     "title": "Sbohem Buď, Lásko Má",
+     "artist": "Naima",
+     "duration": "9:29"
+    },
+    {
+     "position": "3",
+     "title": "Monika III",
+     "artist": "Naima",
+     "duration": "7:54"
+    },
+    {
+     "position": "4",
+     "title": "Iris",
+     "artist": "Naima",
+     "duration": "8:54"
+    },
+    {
+     "position": "5",
+     "title": "Waltz",
+     "artist": "Naima",
+     "duration": "7:46"
+    },
+    {
+     "position": "6",
+     "title": "Pátek V Chebu",
+     "artist": "Naima",
+     "duration": "7:03"
+    },
+    {
+     "position": "7",
+     "title": "Co Si O Tom Myslíš?",
+     "artist": "Naima",
+     "duration": "5:34"
+    },
+    {
+     "position": "8",
+     "title": "Blesková Salsa",
+     "artist": "Naima",
+     "duration": "5:22"
+    },
+    {
+     "position": "9",
+     "title": "Volání",
+     "artist": "Naima",
+     "duration": "5:06"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
