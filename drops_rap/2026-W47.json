@@ -1,6 +1,6 @@
 {
  "date": "2026-W47",
- "generatedAt": "2026-11-18T21:43:32Z",
+ "generatedAt": "2026-11-19T21:59:18Z",
  "profile": "rap",
  "albums": [
   {
@@ -31,10 +31,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-unresolved-7674894341958149104",
+   "discogsId": 0,
+   "title": "Dr. Dreidel",
+   "artist": "Your Old Droog featuring BLP Kosher",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.0,
+   "vibe": 0,
+   "confidence": "editorial-unresolved",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Dr. Dreidel",
+     "artist": "Your Old Droog featuring BLP Kosher",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 1
+  "modern": 2
  }
 }
