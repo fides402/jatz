@@ -1,0 +1,350 @@
+{
+ "date": "2026-11-19",
+ "generatedAt": "2026-11-19T12:02:19Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d9835980",
+   "discogsId": 9835980,
+   "title": "Getz / Gilberto Deluxe",
+   "artist": "Stan Getz & João Gilberto & Antonio Carlos Jobim",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Verve Records",
+   "country": "Japan",
+   "styles": [
+    "Bossa Nova",
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/psdXMnB1mngu5zPK5u4e90KL72pHypHui5zkRyG6oWA/rs:fit/g:sm/q:90/h:544/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzU5/ODAtMTU1MDM5Njcy/OS0xNTc1LmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 3,
+   "score": 0.7277,
+   "vibe": 94,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "PROMO Version with white Verve labels and promo text on labels\nRecorded March 18 & 19, 1963 in New York City.\n\n4-page insert in Japanese\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Girl From Ipanema",
+     "artist": "Stan Getz & João Gilberto & Antonio Carlos Jobim",
+     "duration": "5:15"
+    },
+    {
+     "position": "A2",
+     "title": "Doralice",
+     "artist": "Stan Getz & João Gilberto & Antonio Carlos Jobim",
+     "duration": "2:45"
+    },
+    {
+     "position": "A3",
+     "title": "Para Machuchar Meu Coração (To Hurt My Heart)",
+     "artist": "Stan Getz & João Gilberto & Antonio Carlos Jobim",
+     "duration": "5:07"
+    },
+    {
+     "position": "A4",
+     "title": "Desafinado",
+     "artist": "Stan Getz & João Gilberto & Antonio Carlos Jobim",
+     "duration": "4:05"
+    },
+    {
+     "position": "B1",
+     "title": "Corcovado",
+     "artist": "Stan Getz & João Gilberto & Antonio Carlos Jobim",
+     "duration": "4:15"
+    },
+    {
+     "position": "B2",
+     "title": "Só Danço Samba (Jazz Samba)",
+     "artist": "Stan Getz & João Gilberto & Antonio Carlos Jobim",
+     "duration": "3:30"
+    },
+    {
+     "position": "B3",
+     "title": "O Grande Amor",
+     "artist": "Stan Getz & João Gilberto & Antonio Carlos Jobim",
+     "duration": "5:25"
+    },
+    {
+     "position": "B4",
+     "title": "Vivo Sonhando",
+     "artist": "Stan Getz & João Gilberto & Antonio Carlos Jobim",
+     "duration": "2:52"
+    }
+   ]
+  },
+  {
+   "id": "d11310935",
+   "discogsId": 11310935,
+   "title": "Plays Great Songs",
+   "artist": "Luiz Bonfá",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "RGE",
+   "country": "Brazil",
+   "styles": [
+    "Instrumental",
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/WvYLjoovXDUeOsmTPD1EsON5Pt7KOUw_js88036Nk9E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzEw/OTM1LTE1OTM1NDQz/OTUtNzYzMy5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 2,
+   "score": 0.6428,
+   "vibe": 73,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Born Free",
+     "artist": "Luiz Bonfá",
+     "duration": "3:02"
+    },
+    {
+     "position": "A2",
+     "title": "Moon River",
+     "artist": "Luiz Bonfá",
+     "duration": "3:15"
+    },
+    {
+     "position": "A3",
+     "title": "Spanish Eyes",
+     "artist": "Luiz Bonfá",
+     "duration": "2:24"
+    },
+    {
+     "position": "A4",
+     "title": "Strangers In The Night",
+     "artist": "Luiz Bonfá",
+     "duration": "3:01"
+    },
+    {
+     "position": "A5",
+     "title": "Bubala",
+     "artist": "Luiz Bonfá",
+     "duration": "1:59"
+    },
+    {
+     "position": "A6",
+     "title": "The Exodus Song",
+     "artist": "Luiz Bonfá",
+     "duration": "3:10"
+    },
+    {
+     "position": "B1",
+     "title": "More",
+     "artist": "Luiz Bonfá",
+     "duration": "2:48"
+    },
+    {
+     "position": "B2",
+     "title": "Somewhere My Love",
+     "artist": "Luiz Bonfá",
+     "duration": "3:06"
+    },
+    {
+     "position": "B3",
+     "title": "Yellow Bird",
+     "artist": "Luiz Bonfá",
+     "duration": "2:30"
+    },
+    {
+     "position": "B4",
+     "title": "A Day In The Life Of A Fool = Manhã De Carnaval",
+     "artist": "Luiz Bonfá",
+     "duration": "3:09"
+    },
+    {
+     "position": "B5",
+     "title": "Seville",
+     "artist": "Luiz Bonfá",
+     "duration": "2:12"
+    },
+    {
+     "position": "B6",
+     "title": "A Man And A Woman",
+     "artist": "Luiz Bonfá",
+     "duration": "3:00"
+    }
+   ]
+  },
+  {
+   "id": "d7033536",
+   "discogsId": 7033536,
+   "title": "Where Is The Love",
+   "artist": "Sérgio Mendes & Brasil '77",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Bell Records",
+   "country": "US",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/yYD1OROyYD8Jfd6mkaMa_eo-FsD61802elS7u7XAI3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzM1/MzYtMTQ4NTYxNzcy/NS02Njg2LmpwZWc.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.618,
+   "vibe": 67,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Bell mono/stereo dj promo company sleeve",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Where Is The Love - (Mono)",
+     "artist": "Sérgio Mendes & Brasil '77",
+     "duration": "3:09"
+    },
+    {
+     "position": "B",
+     "title": "Where Is The Love - (Stereo)",
+     "artist": "Sérgio Mendes & Brasil '77",
+     "duration": "3:09"
+    }
+   ]
+  },
+  {
+   "id": "d15872911",
+   "discogsId": 15872911,
+   "title": "Maiden Voyage",
+   "artist": "Kellee Patterson",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Black Jazz Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/zC_Nf38hfpQHU-Il4jVWHy3u5BmvWWuYoJM3BohsUes/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcy/OTExLTE1OTk3Nzcw/NDUtNTk1NS5qcGVn.jpeg",
+   "ratingAvg": 4.25,
+   "ratingCount": 36,
+   "score": 0.7117,
+   "vibe": 90,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded in Hollywood Spectrum Studios, Los Angeles, California\n\nHype sticker on shrink wrap reads: A SUBLIME 1973 JAZZ VOCAL SESSION FROM THE HIGHLY COLLECTIBLE BLACK JAZZ LABEL! Includes Additional Liner Notes",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Magic Wand Of Love",
+     "artist": "Kellee Patterson",
+     "duration": "3:32"
+    },
+    {
+     "position": "A2",
+     "title": "Look At The Child",
+     "artist": "Kellee Patterson",
+     "duration": "3:37"
+    },
+    {
+     "position": "A3",
+     "title": "Soul Daddy (Lady)",
+     "artist": "Kellee Patterson",
+     "duration": "2:40"
+    },
+    {
+     "position": "A4",
+     "title": "Maiden Voyage",
+     "artist": "Kellee Patterson",
+     "duration": "5:18"
+    },
+    {
+     "position": "B1",
+     "title": "Don't Misunderstand",
+     "artist": "Kellee Patterson",
+     "duration": "4:19"
+    },
+    {
+     "position": "B2",
+     "title": "See You Later",
+     "artist": "Kellee Patterson",
+     "duration": "3:59"
+    },
+    {
+     "position": "B3",
+     "title": "You",
+     "artist": "Kellee Patterson",
+     "duration": "2:59"
+    },
+    {
+     "position": "B4",
+     "title": "Be All Your Own",
+     "artist": "Kellee Patterson",
+     "duration": "1:48"
+    }
+   ]
+  },
+  {
+   "id": "d17213578",
+   "discogsId": 17213578,
+   "title": "What's New",
+   "artist": "Bill Evans & Jeremy Steig",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Verve Records",
+   "country": "Japan",
+   "styles": [
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/HLA2WpbZXKuB-Jt1khDfJ5NaXxSDNMBXcJQ8GbClPYY/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjEz/NTc4LTE2MTIyMDUz/NDQtNzg2NS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.59,
+   "vibe": 60,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "◆ MQA-CD x UHQCD = High-quality sound disc that allows you to listen to high resolution. This is the final evolution of the CD!\n★ 2008 DSD master based on US original analog tape converted to 352.8kHz / 24bit and recorded (high resolution undelivered sound quality)\n* High resolution CD masterpiece series can be played on all CD players (44.1kHz / 16bit) high-quality CD (UHQCD).\n* If you use an MQA compatible device, you can play back with the high resolution quality of the original master.\n* Please refer to hires-cd.jp for details.\n* Clear file band is not included in this work.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Straight No Chaser",
+     "artist": "Bill Evans & Jeremy Steig",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Lover Man",
+     "artist": "Bill Evans & Jeremy Steig",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "What's New",
+     "artist": "Bill Evans & Jeremy Steig",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Autumn Leaves",
+     "artist": "Bill Evans & Jeremy Steig",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Time Out For Chris",
+     "artist": "Bill Evans & Jeremy Steig",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Spartacus Love Theme",
+     "artist": "Bill Evans & Jeremy Steig",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "So What",
+     "artist": "Bill Evans & Jeremy Steig",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
