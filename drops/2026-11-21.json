@@ -1,0 +1,367 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T11:38:59Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d33322662",
+   "discogsId": 33322662,
+   "title": "The World Of Ray Charles",
+   "artist": "Ray Charles",
+   "year": 1974,
+   "era": "VINTAGE",
+   "label": "Peerless",
+   "country": "Mexico",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/gr_pTGJD2kIJv4-TLvUqyosoOv8nyCTjOIlrHJ5XYPs/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzIy/NjYyLTE3NDEyMDQw/NzQtNDUwOS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.7241,
+   "vibe": 94,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Can't Stop Loving You",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Feudin And Fighting",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Im Gonna Move To The Outskirts Of Town",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Worried Mind",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Two Ton Tessie",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Smack Dab In The Middle",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Georgia On My Mind",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Ma",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Born To Lose",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Where Can I Go",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "That Lucky Old Sun",
+     "artist": "Ray Charles",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Hit The Road Jack",
+     "artist": "Ray Charles",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d35911831",
+   "discogsId": 35911831,
+   "title": "In Person",
+   "artist": "The Cannonball Adderley Quintet",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Capitol Records",
+   "country": "Japan",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/GBRgmE8Ik7omf0iUKNboLd6sJrggqr_lHC26aMOiTIc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTEx/ODMxLTE3NjU1ODQ5/NjMtODQwNC5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.5986,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Japanese Reel to Reel released with OBI and Insert",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Rumpelstiltskin",
+     "artist": "The Cannonball Adderley Quintet",
+     "duration": "11:46"
+    },
+    {
+     "position": "A2",
+     "title": "I'd Rather Drink Muddy Water",
+     "artist": "The Cannonball Adderley Quintet",
+     "duration": "5:02"
+    },
+    {
+     "position": "A3",
+     "title": "Save Your Love For Me",
+     "artist": "The Cannonball Adderley Quintet",
+     "duration": "4:45"
+    },
+    {
+     "position": "A4",
+     "title": "The Scene",
+     "artist": "The Cannonball Adderley Quintet",
+     "duration": "2:20"
+    },
+    {
+     "position": "B1",
+     "title": "Somewhere",
+     "artist": "The Cannonball Adderley Quintet",
+     "duration": "5:35"
+    },
+    {
+     "position": "B2",
+     "title": "The Scavenger",
+     "artist": "The Cannonball Adderley Quintet",
+     "duration": "10:03"
+    },
+    {
+     "position": "B3",
+     "title": "Sweet Emma",
+     "artist": "The Cannonball Adderley Quintet",
+     "duration": "5:16"
+    },
+    {
+     "position": "B4",
+     "title": "Zorba [From The Broadway Musical \"Zorba\"]",
+     "artist": "The Cannonball Adderley Quintet",
+     "duration": "3:32"
+    }
+   ]
+  },
+  {
+   "id": "d24756500",
+   "discogsId": 24756500,
+   "title": "Spanish Blue",
+   "artist": "Ron Carter",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "CTI Records",
+   "country": "US",
+   "styles": [
+    "Fusion"
+   ],
+   "coverUrl": "https://i.discogs.com/TwZtX8lt22bhUb31zhNQ3jjLkr3t_DOeXJh-CdqfhJw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzU2/NTAwLTE2NjUyMjA2/MjctNDc3OS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 6,
+   "score": 0.5944,
+   "vibe": 61,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Label variant with Large Side 1 & 2 and Motown distribution but no CTI address.\n\nRecorded at Van Gelder Studios in November 1974.\nBilly Cobham courtesy of Atlantic Records.\n\nPublishing:\nA1 Ronald Carter Music Co. / BMI\nA2 Musical Frontiers / BMI\nB1, B2 Ronald Carter Music Co. / Char-Liz Music, Inc. / BMI\n\nRunouts are etched, except for VAN GELDER and individual letters at the end of variant 3 (which are stamped.)\n\nLacquer cutting company derived from runouts. ",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "El Noche Sol",
+     "artist": "Ron Carter",
+     "duration": "5:56"
+    },
+    {
+     "position": "A2",
+     "title": "So What",
+     "artist": "Ron Carter",
+     "duration": "11:24"
+    },
+    {
+     "position": "B1",
+     "title": "Sabado Sombrero",
+     "artist": "Ron Carter",
+     "duration": "6:14"
+    },
+    {
+     "position": "B2",
+     "title": "Arkansas",
+     "artist": "Ron Carter",
+     "duration": "10:33"
+    }
+   ]
+  },
+  {
+   "id": "d37470510",
+   "discogsId": 37470510,
+   "title": "The Seeker (Live at Umbria Jazz Festival)",
+   "artist": "McCoy Tyner",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "Red Record",
+   "country": "Italy",
+   "styles": [
+    "Modal",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/N0jnBZkFFReGlwQCCP15vNam8PCiMzOEJjwLTzVjWUM/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDcw/NTEwLTE3Nzk5OTk1/NzktMzU2My5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 2,
+   "score": 0.656,
+   "vibe": 76,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Recorded live at Umbria Jazz Festival, Teatro Morlacchi on July 17, 1993.\n\nCD comes in all-clear jewel case with 8-page booklet.\n\nRed Records RR 123357-2 © ℗ made in Italy 2025",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "I Wanna Stand Over There",
+     "artist": "McCoy Tyner",
+     "duration": "11:41"
+    },
+    {
+     "position": "2",
+     "title": "I Should Care",
+     "artist": "McCoy Tyner",
+     "duration": "2:37"
+    },
+    {
+     "position": "3",
+     "title": "Reflections",
+     "artist": "McCoy Tyner",
+     "duration": "4:27"
+    },
+    {
+     "position": "4",
+     "title": "Home",
+     "artist": "McCoy Tyner",
+     "duration": "15:48"
+    },
+    {
+     "position": "5",
+     "title": "The Seeker",
+     "artist": "McCoy Tyner",
+     "duration": "9:28"
+    },
+    {
+     "position": "6",
+     "title": "Peresina",
+     "artist": "McCoy Tyner",
+     "duration": "12:05"
+    },
+    {
+     "position": "7",
+     "title": "How Deep Is The Ocean",
+     "artist": "McCoy Tyner",
+     "duration": "9:45"
+    },
+    {
+     "position": "8",
+     "title": "Blues Stride",
+     "artist": "McCoy Tyner",
+     "duration": "5:47"
+    }
+   ]
+  },
+  {
+   "id": "d36641203",
+   "discogsId": 36641203,
+   "title": "Shifty Paradigms",
+   "artist": "Dave Slonaker Big Band",
+   "year": 2026,
+   "era": "MODERN",
+   "label": "Origin Records",
+   "country": "US",
+   "styles": [
+    "Big Band"
+   ],
+   "coverUrl": "https://i.discogs.com/uCRY9wiGeCX8i-RMBGoSH74fboa_t33O-3Wgr-ri7Es/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjQx/MjAzLTE3NzIyOTgw/NjAtMTYwNC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6407,
+   "vibe": 73,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded June 10-11, 2025.",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Dash Cam",
+     "artist": "Dave Slonaker Big Band",
+     "duration": "6:49"
+    },
+    {
+     "position": "2",
+     "title": "Bye Bye Blues",
+     "artist": "Dave Slonaker Big Band",
+     "duration": "6:54"
+    },
+    {
+     "position": "3",
+     "title": "Comin' Home",
+     "artist": "Dave Slonaker Big Band",
+     "duration": "9:07"
+    },
+    {
+     "position": "4",
+     "title": "Blue Windows",
+     "artist": "Dave Slonaker Big Band",
+     "duration": "6:56"
+    },
+    {
+     "position": "5",
+     "title": "Shify Paradigms",
+     "artist": "Dave Slonaker Big Band",
+     "duration": "7:59"
+    },
+    {
+     "position": "6",
+     "title": "3rd And Four",
+     "artist": "Dave Slonaker Big Band",
+     "duration": "9:46"
+    },
+    {
+     "position": "7",
+     "title": "Cathedrals",
+     "artist": "Dave Slonaker Big Band",
+     "duration": "7:51"
+    },
+    {
+     "position": "8",
+     "title": "Roundabout",
+     "artist": "Dave Slonaker Big Band",
+     "duration": "6:57"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
