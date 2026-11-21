@@ -1,6 +1,6 @@
 {
  "date": "2026-W47",
- "generatedAt": "2026-11-20T21:42:17Z",
+ "generatedAt": "2026-11-21T20:23:35Z",
  "profile": "rap",
  "albums": [
   {
@@ -453,10 +453,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6835598598",
+   "discogsId": 0,
+   "title": "Wadup Wadup",
+   "artist": "Real Boston Richey",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/31/c1/ba31c115-c795-10d7-ee0c-8e770802cb1a/196874844991.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Wadup Wadup",
+     "artist": "Real Boston Richey",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-4413624971",
+   "discogsId": 0,
+   "title": "BAD NEWS",
+   "artist": "Boohavinn",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/81a2a732097b82b889814c49da7cb6ff/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "BAD NEWS",
+     "artist": "Boohavinn",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 5
+  "modern": 7
  }
 }
