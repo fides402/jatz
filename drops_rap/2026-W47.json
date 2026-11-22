@@ -1,6 +1,6 @@
 {
  "date": "2026-W47",
- "generatedAt": "2026-11-21T20:23:35Z",
+ "generatedAt": "2026-11-22T20:36:41Z",
  "profile": "rap",
  "albums": [
   {
@@ -511,10 +511,68 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-4418565361",
+   "discogsId": 0,
+   "title": "Button Over Fully",
+   "artist": "Raq baby",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f4528a29bc443ce53fd78b93118fa077/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Button Over Fully",
+     "artist": "Raq baby",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-6836035819",
+   "discogsId": 0,
+   "title": "Fast Asleep",
+   "artist": "GIVĒON",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/8f/86/6c8f8649-4dff-c648-4ecc-6a531e799615/196874949146.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Fast Asleep",
+     "artist": "GIVĒON",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 7
+  "modern": 9
  }
 }
