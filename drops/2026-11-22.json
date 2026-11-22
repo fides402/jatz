@@ -1,0 +1,421 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-22T11:56:00Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d4308337",
+   "discogsId": 4308337,
+   "title": "The Junior Mance Touch",
+   "artist": "Junior Mance",
+   "year": 1973,
+   "era": "VINTAGE",
+   "label": "Polydor",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/NAz8N8Jyw6eVDU0rpIKsdb-MDtE4Ue7yAXCnFhk6mvg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDgz/MzctMTM2Mjc1OTEy/NC00NTY4LmpwZWc.jpeg",
+   "ratingAvg": 4.35,
+   "ratingCount": 17,
+   "score": 0.627,
+   "vibe": 69,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Zabuda",
+     "artist": "Junior Mance",
+     "duration": "5:08"
+    },
+    {
+     "position": "A2",
+     "title": "Let's Stay Together",
+     "artist": "Junior Mance",
+     "duration": "5:38"
+    },
+    {
+     "position": "A3",
+     "title": "Tin Tin Deo",
+     "artist": "Junior Mance",
+     "duration": "7:07"
+    },
+    {
+     "position": "A4",
+     "title": "Midnight Special",
+     "artist": "Junior Mance",
+     "duration": "5:22"
+    },
+    {
+     "position": "B1",
+     "title": "I Can See Clearly Now",
+     "artist": "Junior Mance",
+     "duration": "7:06"
+    },
+    {
+     "position": "B2",
+     "title": "Where I Come From",
+     "artist": "Junior Mance",
+     "duration": "7:33"
+    },
+    {
+     "position": "B3",
+     "title": "Something",
+     "artist": "Junior Mance",
+     "duration": "6:12"
+    }
+   ]
+  },
+  {
+   "id": "d1914290",
+   "discogsId": 1914290,
+   "title": "Soul Invader",
+   "artist": "The Roy Meriwether Trio",
+   "year": 1968,
+   "era": "VINTAGE",
+   "label": "Columbia",
+   "country": "US",
+   "styles": [
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/YWFV2u-YkzErqt1HqQQbiWOU99250RFVlugkFPdmsRk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTQy/OTAtMTU3NDc4MTI4/Mi05Mjg1LmpwZWc.jpeg",
+   "ratingAvg": 3.89,
+   "ratingCount": 9,
+   "score": 0.6149,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Some sweet and soulful live tracks from a live jazz set, very much reminiscent of The Ramsey Lewis Trio.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "It's A Mean World To Live In",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Soul Invader",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Lonely Man",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "On Green Dolphin Street",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "My Funny Valentine",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Little Lousy Jane",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Comin' Home Baby",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Lullaby Of Birdland",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Sweet Sixteen Bars",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Cottonfields",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "After Hours",
+     "artist": "The Roy Meriwether Trio",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d34779215",
+   "discogsId": 34779215,
+   "title": "New Direction",
+   "artist": "Gene Russell",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Black Jazz Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/kmXfyIi7Y83HDL42CZb0328BUuI-GyGWxkjFXEXTItk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzc5/MjE1LTE3NTQ3NzU3/ODAtODk2Ni5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 2,
+   "score": 0.6128,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "This is a 1971 first pressing variant that is a miss print. Side one has two \"Side 1\" texts - one right under the other and just slightly shifted to the right. On side two there is a \"Side 1\" printed just above \"Side 2\" with the \"Side 2\" text being shifted slightly to the right as well. ",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "BLACK ORCHID",
+     "artist": "Gene Russell",
+     "duration": "3:13"
+    },
+    {
+     "position": "2",
+     "title": "HITTING THE JUG",
+     "artist": "Gene Russell",
+     "duration": "4:42"
+    },
+    {
+     "position": "3",
+     "title": "WILLOW WEEP FOR ME",
+     "artist": "Gene Russell",
+     "duration": "4:58"
+    },
+    {
+     "position": "4",
+     "title": "LISTEN HERE",
+     "artist": "Gene Russell",
+     "duration": "3:15"
+    },
+    {
+     "position": "1",
+     "title": "ON GREEN DOLPHIN STREET",
+     "artist": "Gene Russell",
+     "duration": "5:02"
+    },
+    {
+     "position": "2",
+     "title": "SILVER SERENADE",
+     "artist": "Gene Russell",
+     "duration": "4:54"
+    },
+    {
+     "position": "3",
+     "title": "MY CHERIE AMOUR",
+     "artist": "Gene Russell",
+     "duration": "3:21"
+    },
+    {
+     "position": "4",
+     "title": "MAKING BREAD",
+     "artist": "Gene Russell",
+     "duration": "3:21"
+    }
+   ]
+  },
+  {
+   "id": "d25267066",
+   "discogsId": 25267066,
+   "title": "Yes, Please!",
+   "artist": "Fourplay",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "Evosound",
+   "country": "Hong Kong",
+   "styles": [
+    "Soul-Jazz",
+    "Smooth Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/jex0Cl9OOWQ17RViuaBzpGTn7MZDD3FN9zKNDfj5qpY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY3/MDY2LTE2NjkyOTcx/NjItMjE0Mi5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6141,
+   "vibe": 66,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Free Range",
+     "artist": "Fourplay",
+     "duration": "6:24"
+    },
+    {
+     "position": "2",
+     "title": "Double Trouble",
+     "artist": "Fourplay",
+     "duration": "5:48"
+    },
+    {
+     "position": "3",
+     "title": "Once Upon A Love",
+     "artist": "Fourplay",
+     "duration": "4:33"
+    },
+    {
+     "position": "4",
+     "title": "Robo Bop",
+     "artist": "Fourplay",
+     "duration": "6:28"
+    },
+    {
+     "position": "5",
+     "title": "Blues Force",
+     "artist": "Fourplay",
+     "duration": "6:59"
+    },
+    {
+     "position": "6",
+     "title": "Save Some Love For Me",
+     "artist": "Fourplay",
+     "duration": "5:33"
+    },
+    {
+     "position": "7",
+     "title": "Fortress",
+     "artist": "Fourplay",
+     "duration": "8:10"
+    },
+    {
+     "position": "8",
+     "title": "Go With Your Heart",
+     "artist": "Fourplay",
+     "duration": "4:05"
+    },
+    {
+     "position": "9",
+     "title": "Poco A Poco",
+     "artist": "Fourplay",
+     "duration": "5:15"
+    },
+    {
+     "position": "10",
+     "title": "A Little Fourplay",
+     "artist": "Fourplay",
+     "duration": "4:20"
+    },
+    {
+     "position": "11",
+     "title": "Lucky",
+     "artist": "Fourplay",
+     "duration": "5:32"
+    }
+   ]
+  },
+  {
+   "id": "d37757850",
+   "discogsId": 37757850,
+   "title": "Perak",
+   "artist": "Thee Marloes",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Big Crown Records",
+   "country": "Australia",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/drgi5dZ1H2nSPrWlxi96pS66RktzGfyJEiupQEplGOM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU3/ODUwLTE3ODI4MTc3/MDAtMjgyNy5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.5585,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Bandcamp Flac Download",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "I Know",
+     "artist": "Thee Marloes",
+     "duration": "2:52"
+    },
+    {
+     "position": "2",
+     "title": "Logika",
+     "artist": "Thee Marloes",
+     "duration": "3:28"
+    },
+    {
+     "position": "3",
+     "title": "Summer",
+     "artist": "Thee Marloes",
+     "duration": "2:54"
+    },
+    {
+     "position": "4",
+     "title": "Midnight Hotline",
+     "artist": "Thee Marloes",
+     "duration": "3:39"
+    },
+    {
+     "position": "5",
+     "title": "Beri Cinta Waktu",
+     "artist": "Thee Marloes",
+     "duration": "4:22"
+    },
+    {
+     "position": "6",
+     "title": "True Love",
+     "artist": "Thee Marloes",
+     "duration": "2:52"
+    },
+    {
+     "position": "7",
+     "title": "Mungkin Saja",
+     "artist": "Thee Marloes",
+     "duration": "2:15"
+    },
+    {
+     "position": "8",
+     "title": "Not Today",
+     "artist": "Thee Marloes",
+     "duration": "3:06"
+    },
+    {
+     "position": "9",
+     "title": "Over",
+     "artist": "Thee Marloes",
+     "duration": "3:39"
+    },
+    {
+     "position": "10",
+     "title": "No One Else",
+     "artist": "Thee Marloes",
+     "duration": "1:56"
+    },
+    {
+     "position": "11",
+     "title": "Nona",
+     "artist": "Thee Marloes",
+     "duration": "4:10"
+    },
+    {
+     "position": "12",
+     "title": "Thank You",
+     "artist": "Thee Marloes",
+     "duration": "2:24"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
