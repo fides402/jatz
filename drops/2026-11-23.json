@@ -1,0 +1,465 @@
+{
+ "date": "2026-11-23",
+ "generatedAt": "2026-11-23T13:33:12Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d5373863",
+   "discogsId": 5373863,
+   "title": "Desafinado: Bossa Nova & Jazz Samba",
+   "artist": "Coleman Hawkins",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Impulse!",
+   "country": "US",
+   "styles": [
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/MXIdt6MgX86e5eFxX0VmrxB8855zO9Qlv1ekPHSgfZs/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzM4/NjMtMTM5MTc5NjU4/NC0zODMxLmpwZWc.jpeg",
+   "ratingAvg": 4.4,
+   "ratingCount": 10,
+   "score": 0.605,
+   "vibe": 64,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Recorded September 12 and 17, 1962.\nBlack/red ring label. \n℗ 1972, ABC RECORDS, INC. at foot. \nVan Gelder Mastering.\n1st catalog # on gatefold; 2nd on labels",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Desafinado",
+     "artist": "Coleman Hawkins",
+     "duration": "5:46"
+    },
+    {
+     "position": "A2",
+     "title": "I'm Looking Over A Four Leaf Clover (Jazz Samba)",
+     "artist": "Coleman Hawkins",
+     "duration": "2:50"
+    },
+    {
+     "position": "A3",
+     "title": "Samba Para Bean",
+     "artist": "Coleman Hawkins",
+     "duration": "5:25"
+    },
+    {
+     "position": "A4",
+     "title": "I Remember You",
+     "artist": "Coleman Hawkins",
+     "duration": "4:05"
+    },
+    {
+     "position": "B1",
+     "title": "One Note Samba = Samba De Uma Nota So",
+     "artist": "Coleman Hawkins",
+     "duration": "6:02"
+    },
+    {
+     "position": "B2",
+     "title": "O Pato = The Duck",
+     "artist": "Coleman Hawkins",
+     "duration": "4:08"
+    },
+    {
+     "position": "B3",
+     "title": "Um Abraco No Bonfa = An Embrace To Bonfa",
+     "artist": "Coleman Hawkins",
+     "duration": "4:49"
+    },
+    {
+     "position": "B4",
+     "title": "Stumpy Bossa Nova",
+     "artist": "Coleman Hawkins",
+     "duration": "2:32"
+    }
+   ]
+  },
+  {
+   "id": "d11775296",
+   "discogsId": 11775296,
+   "title": "Um Piano...Um Bar...Planos...",
+   "artist": "João Maria De Abreu",
+   "year": 1977,
+   "era": "VINTAGE",
+   "label": "Play Again",
+   "country": "Brazil",
+   "styles": [
+    "MPB",
+    "Bossa Nova"
+   ],
+   "coverUrl": "https://i.discogs.com/-KY1ml5orQewz97mIxPle-G46SIn7cRwRSAFnAmnxKA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc1/Mjk2LTE1MjIxNjgz/MjItMTk0MC5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 2,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "My Way",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Free Again",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Solidão (Seresta)",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "You're A Lady",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "The Windmilles Of Your Mind",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "I Wait For You",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Fascination",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Viagem",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Minha",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Boa Noite Amor",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Só Você",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "Don't Cry For Me Argentina",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "C1",
+     "title": "Misty",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "C2",
+     "title": "Unforgetable",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "C3",
+     "title": "What Are You Doing The Rest Of Your Life",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "C4",
+     "title": "I've Got You Under My Skin",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "D1",
+     "title": "Um Teminha",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "D2",
+     "title": "Faz Tanto Tempo",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "D3",
+     "title": "I Get A Kick Out Of You",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "D4",
+     "title": "Meu Canto",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "D5",
+     "title": "Rossana",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    },
+    {
+     "position": "D6",
+     "title": "O Sol...Omar...E Eu...",
+     "artist": "João Maria De Abreu",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d3684447",
+   "discogsId": 3684447,
+   "title": "The Complete Milt Jackson",
+   "artist": "Milt Jackson & Horace Silver",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "Bellaphon",
+   "country": "Germany",
+   "styles": [
+    "Soul-Jazz",
+    "Cool Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/RV90ydDzMQ_QZD6GmnpvjExTYVY3o0ulp9QsJscGQjk/rs:fit/g:sm/q:90/h:507/w:513/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODQ0/NDctMTQzOTgyNDQ5/NC04NTY5LmpwZWc.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 8,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Stereo rechannelled\nMade in Germany",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Stonewall",
+     "artist": "Milt Jackson & Horace Silver",
+     "duration": "7:51"
+    },
+    {
+     "position": "A2",
+     "title": "I've Lost Your Love",
+     "artist": "Milt Jackson & Horace Silver",
+     "duration": "5:01"
+    },
+    {
+     "position": "A3",
+     "title": "The Nearness Of You",
+     "artist": "Milt Jackson & Horace Silver",
+     "duration": "4:03"
+    },
+    {
+     "position": "A4",
+     "title": "Opus De Funk",
+     "artist": "Milt Jackson & Horace Silver",
+     "duration": "4:07"
+    },
+    {
+     "position": "A5",
+     "title": "I Should Care",
+     "artist": "Milt Jackson & Horace Silver",
+     "duration": "4:23"
+    },
+    {
+     "position": "B1",
+     "title": "Moonray",
+     "artist": "Milt Jackson & Horace Silver",
+     "duration": "5:07"
+    },
+    {
+     "position": "B2",
+     "title": "Buhania",
+     "artist": "Milt Jackson & Horace Silver",
+     "duration": "4:35"
+    },
+    {
+     "position": "B3",
+     "title": "Wonder Why",
+     "artist": "Milt Jackson & Horace Silver",
+     "duration": "5:30"
+    },
+    {
+     "position": "B4",
+     "title": "Soma",
+     "artist": "Milt Jackson & Horace Silver",
+     "duration": "5:31"
+    },
+    {
+     "position": "B5",
+     "title": "My Funny Valentine",
+     "artist": "Milt Jackson & Horace Silver",
+     "duration": "4:43"
+    }
+   ]
+  },
+  {
+   "id": "d31936048",
+   "discogsId": 31936048,
+   "title": "Mood Swings",
+   "artist": "Laura Fedele",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "m&p jazz",
+   "country": "Italy",
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/OWgrL6pq433ie3x_fwpyyXS0FBpe0MQHLt-vcUabhSk/rs:fit/g:sm/q:90/h:192/w:204/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTM2/MDQ4LTE3MjgzMTkz/NjktMzExNS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6448,
+   "vibe": 74,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "The Wrong Side Of Me",
+     "artist": "Laura Fedele",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "People Are Strange",
+     "artist": "Laura Fedele",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "Moonlight Girl",
+     "artist": "Laura Fedele",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Nightwalker",
+     "artist": "Laura Fedele",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Bad Spell",
+     "artist": "Laura Fedele",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Lightness",
+     "artist": "Laura Fedele",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "A Night In Mexico",
+     "artist": "Laura Fedele",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Not Even A Tear",
+     "artist": "Laura Fedele",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Mother Earth",
+     "artist": "Laura Fedele",
+     "duration": ""
+    },
+    {
+     "position": "10",
+     "title": "Global Warming",
+     "artist": "Laura Fedele",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d28522177",
+   "discogsId": 28522177,
+   "title": "Amsterdam After Dark",
+   "artist": "George Coleman",
+   "year": 2023,
+   "era": "MODERN",
+   "label": "Tidal Waves Music",
+   "country": "US",
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/kbZ6COGDO3Pdy1fGMRxySqt9_d1m73YXu8_JWrjAvCU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTIy/MTc3LTE2OTc1OTg1/NDItNDI3My5qcGVn.jpeg",
+   "ratingAvg": 4.29,
+   "ratingCount": 7,
+   "score": 0.5586,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded December, 29, 1978 in the Sound Ideas Studio, New York City.\n\nLimited to 500 copies\n180g edition black vinyl\nComes with obi strip",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Amsterdam After Dark",
+     "artist": "George Coleman",
+     "duration": "8:29"
+    },
+    {
+     "position": "A2",
+     "title": "New Arrival",
+     "artist": "George Coleman",
+     "duration": "7:21"
+    },
+    {
+     "position": "A3",
+     "title": "Lo-Joe",
+     "artist": "George Coleman",
+     "duration": "5:00"
+    },
+    {
+     "position": "B1",
+     "title": "Autumn In New York",
+     "artist": "George Coleman",
+     "duration": "10:16"
+    },
+    {
+     "position": "B2",
+     "title": "Apache Dance",
+     "artist": "George Coleman",
+     "duration": "7:49"
+    },
+    {
+     "position": "B3",
+     "title": "Blondies Waltz",
+     "artist": "George Coleman",
+     "duration": "5:50"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
