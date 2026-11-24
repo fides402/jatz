@@ -1,0 +1,40 @@
+{
+ "date": "2026-W48",
+ "generatedAt": "2026-11-24T01:30:16Z",
+ "profile": "rap",
+ "albums": [
+  {
+   "id": "rap-deezer-4374438991",
+   "discogsId": 0,
+   "title": "Optimistic",
+   "artist": "Cam'Ron",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3118d540a509ac0a88b86fbce5cc6f89/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Optimistic",
+     "artist": "Cam'Ron",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  }
+ ],
+ "counts": {
+  "vintage": 0,
+  "modern": 1
+ }
+}
