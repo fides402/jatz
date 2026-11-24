@@ -1,0 +1,342 @@
+{
+ "date": "2026-11-24",
+ "generatedAt": "2026-11-24T14:10:29Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d7325178",
+   "discogsId": 7325178,
+   "title": "Blue Burton",
+   "artist": "Ann Burton & Louis Van Dyke Trio",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Epic",
+   "country": "Japan",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/z5chaSxKJqvHKz-B2je2X9RfhvSSkR3IV78bXJ9sLlY/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjUx/NzgtMTQzODkzOTE3/MS02Njg3LmpwZWc.jpeg",
+   "ratingAvg": 4.43,
+   "ratingCount": 7,
+   "score": 0.7274,
+   "vibe": 94,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "EPIC/SONY (ECPL-31) 1972 gatefold cover",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "I Can't Give You Anything But Love",
+     "artist": "Ann Burton & Louis Van Dyke Trio",
+     "duration": "4:50"
+    },
+    {
+     "position": "A2",
+     "title": "Go Away Little Boy",
+     "artist": "Ann Burton & Louis Van Dyke Trio",
+     "duration": "6:50"
+    },
+    {
+     "position": "A3",
+     "title": "He Was Too Good To Me",
+     "artist": "Ann Burton & Louis Van Dyke Trio",
+     "duration": "3:40"
+    },
+    {
+     "position": "A4",
+     "title": "But Not For Me",
+     "artist": "Ann Burton & Louis Van Dyke Trio",
+     "duration": "3:40"
+    },
+    {
+     "position": "B1",
+     "title": "It's Easy To Remember",
+     "artist": "Ann Burton & Louis Van Dyke Trio",
+     "duration": "4:25"
+    },
+    {
+     "position": "B2",
+     "title": "You've Changed",
+     "artist": "Ann Burton & Louis Van Dyke Trio",
+     "duration": "6:20"
+    },
+    {
+     "position": "B3",
+     "title": "The Good Life",
+     "artist": "Ann Burton & Louis Van Dyke Trio",
+     "duration": "2:30"
+    },
+    {
+     "position": "B4",
+     "title": "In The Wee Small Hours Of The Morning",
+     "artist": "Ann Burton & Louis Van Dyke Trio",
+     "duration": "3:50"
+    },
+    {
+     "position": "B5",
+     "title": "Sunny",
+     "artist": "Ann Burton & Louis Van Dyke Trio",
+     "duration": "3:50"
+    }
+   ]
+  },
+  {
+   "id": "d9237653",
+   "discogsId": 9237653,
+   "title": "Live At Montreux 72",
+   "artist": "Phil Woods And His European Rhythm Machine",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Les Disques Pierre Cardin",
+   "country": "France",
+   "styles": [
+    "Avant-garde Jazz",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/R0y9c5YXibFeBnhFDGIr1UnMOjRC0_w2-UszchRrsFQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzc2/NTMtMTQ3NzE0NzAz/Ny02MDQzLmpwZWc.jpeg",
+   "ratingAvg": 4.36,
+   "ratingCount": 11,
+   "score": 0.5702,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "Original French pressing with round corners.\n\nRecorded June 19, 1972 at the Montreux Jazz Festival.",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "The Executive Suite",
+     "artist": "Phil Woods And His European Rhythm Machine",
+     "duration": "25:00"
+    },
+    {
+     "position": "B1",
+     "title": "Falling",
+     "artist": "Phil Woods And His European Rhythm Machine",
+     "duration": "8:40"
+    },
+    {
+     "position": "B2",
+     "title": "It Does Not Really Matter Who You Are",
+     "artist": "Phil Woods And His European Rhythm Machine",
+     "duration": "14:29"
+    }
+   ]
+  },
+  {
+   "id": "d2858616",
+   "discogsId": 2858616,
+   "title": "Signifyin'",
+   "artist": "Lou Donaldson",
+   "year": 1971,
+   "era": "VINTAGE",
+   "label": "Cadet",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/-vROyxUq_UWBaHrEosmpB8hlB6o5moskTXfFqcY1FrY/rs:fit/g:sm/q:90/h:456/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg2/MTYtMTMwNDI4Njg4/NC5qcGVn.jpeg",
+   "ratingAvg": 4.25,
+   "ratingCount": 12,
+   "score": 0.5628,
+   "vibe": 53,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded July 17, 1963 at A & R Recording Studio, New York, New York",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Signifyin'",
+     "artist": "Lou Donaldson",
+     "duration": "6:55"
+    },
+    {
+     "position": "A2",
+     "title": "Time After Time",
+     "artist": "Lou Donaldson",
+     "duration": "2:30"
+    },
+    {
+     "position": "A3",
+     "title": "Si Si Safronia",
+     "artist": "Lou Donaldson",
+     "duration": "5:30"
+    },
+    {
+     "position": "B1",
+     "title": "Don't Get Around Much Anymore",
+     "artist": "Lou Donaldson",
+     "duration": "3:46"
+    },
+    {
+     "position": "B2",
+     "title": "I Feel It In My Bones",
+     "artist": "Lou Donaldson",
+     "duration": "8:00"
+    },
+    {
+     "position": "B3",
+     "title": "Coppin' A Plea",
+     "artist": "Lou Donaldson",
+     "duration": "4:10"
+    }
+   ]
+  },
+  {
+   "id": "d12521821",
+   "discogsId": 12521821,
+   "title": "The Modern Sound Of Betty Carter",
+   "artist": "Betty Carter",
+   "year": 2018,
+   "era": "MODERN",
+   "label": "ABC-Paramount",
+   "country": "UK",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/1Zs8h6QBidmghR6FJDRks1OY07UyTGgcZBgWyIcTnsU/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIx/ODIxLTE1MzcxMDky/NzctNjIzNS5qcGVn.jpeg",
+   "ratingAvg": 4.0,
+   "ratingCount": 6,
+   "score": 0.7191,
+   "vibe": 92,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": ".",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "What A Little Moonlight Can Do",
+     "artist": "Betty Carter",
+     "duration": "2:04"
+    },
+    {
+     "position": "A2",
+     "title": "There's Not You",
+     "artist": "Betty Carter",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "I Don't Want To Set The World On Fire",
+     "artist": "Betty Carter",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Remember",
+     "artist": "Betty Carter",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Mean To Me",
+     "artist": "Betty Carter",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Don't Weep For The Lady",
+     "artist": "Betty Carter",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Jazz (Ain't Nothin' But Soul)",
+     "artist": "Betty Carter",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "For You",
+     "artist": "Betty Carter",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Stormy Weather",
+     "artist": "Betty Carter",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "At Sundown",
+     "artist": "Betty Carter",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "On The Alamo",
+     "artist": "Betty Carter",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d25600105",
+   "discogsId": 25600105,
+   "title": "Happy Reunion",
+   "artist": "Sebastian Loiacono",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "RivoRecords",
+   "country": "Argentina",
+   "styles": [
+    "Contemporary Jazz",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/v7M6ZBhTs0ZpHXnFqqFfWHZElSxpKYu1J2ErR6z_YE0/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjAw/MTA1LTE2NzIzMDI4/OTYtNzk0NC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Recorded live at Espacio Aguaribay, Buenos Aires, November 19, 2019\n\nhttps://rivorecords.bandcamp.com/album/happy-reunion-2",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Love Letters",
+     "artist": "Sebastian Loiacono",
+     "duration": "7:20"
+    },
+    {
+     "position": "2",
+     "title": "Happy Reunion",
+     "artist": "Sebastian Loiacono",
+     "duration": "6:31"
+    },
+    {
+     "position": "3",
+     "title": "Up Jumped Spring",
+     "artist": "Sebastian Loiacono",
+     "duration": "6:23"
+    },
+    {
+     "position": "4",
+     "title": "Smog Eyes",
+     "artist": "Sebastian Loiacono",
+     "duration": "8:04"
+    },
+    {
+     "position": "5",
+     "title": "The Nobodies",
+     "artist": "Sebastian Loiacono",
+     "duration": "7:01"
+    },
+    {
+     "position": "6",
+     "title": "Tidal Breeze",
+     "artist": "Sebastian Loiacono",
+     "duration": "5:43"
+    },
+    {
+     "position": "7",
+     "title": "Melancholia",
+     "artist": "Sebastian Loiacono",
+     "duration": "2:36"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
