@@ -1,6 +1,6 @@
 {
  "date": "2026-W48",
- "generatedAt": "2026-11-24T01:30:16Z",
+ "generatedAt": "2026-11-25T22:58:14Z",
  "profile": "rap",
  "albums": [
   {
@@ -31,10 +31,39 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-6837526166",
+   "discogsId": 0,
+   "title": "The Misunderstood Truth",
+   "artist": "Foogiano",
+   "year": 2026,
+   "label": "",
+   "country": "",
+   "styles": [
+    "ep"
+   ],
+   "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/f8/81/6bf88151-cabd-af77-2dad-78fb1890b966/075679542694.jpg/600x600bb.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "The Misunderstood Truth",
+     "artist": "Foogiano",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 1
+  "modern": 2
  }
 }
