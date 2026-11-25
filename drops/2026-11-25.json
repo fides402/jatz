@@ -1,0 +1,373 @@
+{
+ "date": "2026-11-25",
+ "generatedAt": "2026-11-25T13:23:29Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d26609180",
+   "discogsId": 26609180,
+   "title": "Moods",
+   "artist": "The Three Sounds",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "Blue Note",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/m1dq9UghptO-N0iaatP5sxk4VHOwY7P2zGyCRsMOQpg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA5/MTgwLTE2ODAyOTkw/MjEtMjM3MS5qcGVn.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 1,
+   "score": 0.6488,
+   "vibe": 75,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Mid 70's stereo reissue.\nBlue labels with black \"b\" logo.\n\"114\" etched in runouts denotes a pressing variant by All Disc Records, Inc.\n\nLabel variation: Different typesetting layout, and font size.\n\nCatalog number on front cover: 84044\nCatalog number on back cover: BLP-4044/84044\nCatalog number on labels: BST-84044\n\nGroup name on front cover and spine: The 3 Sounds\nGroup name on back cover and labels: The Three Sounds",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Love For Sale",
+     "artist": "The Three Sounds",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Things Ain't What They Used To Be",
+     "artist": "The Three Sounds",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "On Green Dolphin Street",
+     "artist": "The Three Sounds",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Loose Walk",
+     "artist": "The Three Sounds",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Lil Darlin'",
+     "artist": "The Three Sounds",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "I'm Beginning To See The Light",
+     "artist": "The Three Sounds",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Tammy's Breeze",
+     "artist": "The Three Sounds",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Sandu",
+     "artist": "The Three Sounds",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d14582157",
+   "discogsId": 14582157,
+   "title": "Heat Wave",
+   "artist": "Cal Tjader & Carmen McRae",
+   "year": 1982,
+   "era": "VINTAGE",
+   "label": "Concord Jazz",
+   "country": "US",
+   "styles": [
+    "Latin Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/5EGlYPxpTuUHHxp6lHP2U248tSF_s2xgLK-KQx8oZJI/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTgy/MTU3LTE1Nzc1NzIw/OTAtMzY4Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6347,
+   "vibe": 71,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "℗ 1982 Concord Jazz, Inc.\nPrinted in U.S.A.\n",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Heat Wave",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "All In Love Is Fair",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Besame Mucho",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Evil Ways",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Do Nothing Till You Hear From Me",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Love",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Upside Down (Flor De Lis)",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "The Visit (A Visita)",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Speak Low",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Don't You Worry 'Bout A Thing",
+     "artist": "Cal Tjader & Carmen McRae",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d11960213",
+   "discogsId": 11960213,
+   "title": "Grethe Ingmann",
+   "artist": "Grethe Ingmann",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Metronome",
+   "country": "Denmark",
+   "styles": [
+    "Bossa Nova",
+    "Swing"
+   ],
+   "coverUrl": "https://i.discogs.com/7tdFif4bCSmCHt_0totlUHypmsMmJb3Sq-nAx9G7tsU/rs:fit/g:sm/q:90/h:215/w:213/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYw/MjEzLTE1MjU1NDYz/MTYtNjc0Mi5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.572,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "SUPER - STEREO - SOUND",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Sol, Sol, Kom Igen",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Søde Mama",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Du Har En Ven",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Det Sa' Præsten Ingenting Om",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Alting Har Forandret Sig",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Der Blæser En Vind",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Et Eneste Liv",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Den Er Din, Denne Jord",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "Det Er Længe Siden",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Aldrig Bli' Forelsket Mer'",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Hvor Er Tiden?",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "En Mand I Skuffen",
+     "artist": "Grethe Ingmann",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d33480452",
+   "discogsId": 33480452,
+   "title": "Day Off",
+   "artist": "Raphael Meleteas",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Not On Label",
+   "country": "Greece",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/3ALHMSDw8Sj60bSQ2Pzo__mwJhTxyp1YeLFHwKpG2MU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDgw/NDUyLTE3NDI2NzYy/NTAtMjg5Ny5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6927,
+   "vibe": 86,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "\" Day Off \" was originally a test track on recording Strings for the first time at home , which I decided to make on my day off after a busy week. \n\n*Released December 7, 2024\n*Instrument Performing, Recording and Mixing by Raphael Meleteas at his home , December 2024.\n",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Day Off",
+     "artist": "Raphael Meleteas",
+     "duration": "3:25"
+    }
+   ]
+  },
+  {
+   "id": "d17821732",
+   "discogsId": 17821732,
+   "title": "Gabrielle Cavassa",
+   "artist": "Gabrielle Cavassa",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Jazz Fest Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/Hx-tx-FLCCXBhdMKERsWhtg5HTU5kwTRHYTJ7fXRnSs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODIx/NzMyLTE2NjI3ODUy/NzEtNDQyMC5qcGVn.jpeg",
+   "ratingAvg": 4.5,
+   "ratingCount": 8,
+   "score": 0.6181,
+   "vibe": 67,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "New Orleans Vinyl Club edition",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "It Was Supposed To Be A Love Song",
+     "artist": "Gabrielle Cavassa",
+     "duration": "2:15"
+    },
+    {
+     "position": "A2",
+     "title": "Podcasts",
+     "artist": "Gabrielle Cavassa",
+     "duration": "4:12"
+    },
+    {
+     "position": "A3",
+     "title": "Jim",
+     "artist": "Gabrielle Cavassa",
+     "duration": "4:58"
+    },
+    {
+     "position": "A4",
+     "title": "Oakland",
+     "artist": "Gabrielle Cavassa",
+     "duration": "1:34"
+    },
+    {
+     "position": "A5",
+     "title": "To You My Love",
+     "artist": "Gabrielle Cavassa",
+     "duration": "3:24"
+    },
+    {
+     "position": "B1",
+     "title": "Inside My Arms",
+     "artist": "Gabrielle Cavassa",
+     "duration": "4:27"
+    },
+    {
+     "position": "B2",
+     "title": "Vanity",
+     "artist": "Gabrielle Cavassa",
+     "duration": "2:03"
+    },
+    {
+     "position": "B3",
+     "title": "Voice Memo At 19th & Judah",
+     "artist": "Gabrielle Cavassa",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "19th & Judah",
+     "artist": "Gabrielle Cavassa",
+     "duration": "3:54"
+    },
+    {
+     "position": "B5",
+     "title": "I Want To Talk About You",
+     "artist": "Gabrielle Cavassa",
+     "duration": "6:05"
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
