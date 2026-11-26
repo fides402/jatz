@@ -1,6 +1,6 @@
 {
  "date": "2026-W48",
- "generatedAt": "2026-11-25T22:58:14Z",
+ "generatedAt": "2026-11-26T22:51:09Z",
  "profile": "rap",
  "albums": [
   {
@@ -60,10 +60,116 @@
     }
    ],
    "era": "US"
+  },
+  {
+   "id": "rap-deezer-3921113911",
+   "discogsId": 0,
+   "title": "Out of My Mind",
+   "artist": "Joshwa",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "single"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ebb642b7ee312f959c4ff25ba6018c0c/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Out of My Mind",
+     "artist": "Joshwa",
+     "duration": ""
+    }
+   ],
+   "era": "US"
+  },
+  {
+   "id": "rap-deezer-1154950071",
+   "discogsId": 0,
+   "title": "AR1 vs The World 2.0",
+   "artist": "ApolloRed1",
+   "year": 0,
+   "label": "",
+   "country": "",
+   "styles": [
+    "album"
+   ],
+   "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f35df1ee2478f584444099b5da5251f3/500x500-000000-80-0-0.jpg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 1.0,
+   "vibe": 0,
+   "confidence": "editorial",
+   "scoredTracks": 0,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "A.M.",
+     "artist": "ApolloRed1",
+     "duration": ""
+    },
+    {
+     "position": "2",
+     "title": "Birthday Song",
+     "artist": "ApolloRed1",
+     "duration": ""
+    },
+    {
+     "position": "3",
+     "title": "goodnight#",
+     "artist": "ApolloRed1",
+     "duration": ""
+    },
+    {
+     "position": "4",
+     "title": "Money Longer",
+     "artist": "ApolloRed1",
+     "duration": ""
+    },
+    {
+     "position": "5",
+     "title": "Room Hot",
+     "artist": "ApolloRed1",
+     "duration": ""
+    },
+    {
+     "position": "6",
+     "title": "Instar#",
+     "artist": "ApolloRed1",
+     "duration": ""
+    },
+    {
+     "position": "7",
+     "title": "Roll",
+     "artist": "ApolloRed1",
+     "duration": ""
+    },
+    {
+     "position": "8",
+     "title": "Inhale",
+     "artist": "ApolloRed1",
+     "duration": ""
+    },
+    {
+     "position": "9",
+     "title": "Odyssey",
+     "artist": "ApolloRed1",
+     "duration": ""
+    }
+   ],
+   "era": "US"
   }
  ],
  "counts": {
   "vintage": 0,
-  "modern": 2
+  "modern": 4
  }
 }
