@@ -1,0 +1,365 @@
+{
+ "date": "2026-11-27",
+ "generatedAt": "2026-11-27T13:00:22Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d8492415",
+   "discogsId": 8492415,
+   "title": "Kind Of Blue",
+   "artist": "Miles Davis",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "CBS/Sony",
+   "country": "Japan",
+   "styles": [
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/WZ3kvZSviwk06n8hPmtZvTtEG63pjOAbyoEIc1KNJQE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTI0/MTUtMTc4NDQ5NDIw/Mi0xNjQ1LmpwZWc.jpeg",
+   "ratingAvg": 5.0,
+   "ratingCount": 5,
+   "score": 0.5717,
+   "vibe": 55,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Recorded 02/03/1959 and 22/04/1959. \n\nThis issue is Japan only, from the early 70ies. Images by momo18kk.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "So What",
+     "artist": "Miles Davis",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "Freddie Freeloader",
+     "artist": "Miles Davis",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Blue In Green",
+     "artist": "Miles Davis",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "All Blues",
+     "artist": "Miles Davis",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Flamenco Sketches",
+     "artist": "Miles Davis",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d3068264",
+   "discogsId": 3068264,
+   "title": "Love Is Surrender",
+   "artist": "Clare Fischer",
+   "year": 1970,
+   "era": "VINTAGE",
+   "label": "Light Records",
+   "country": "US",
+   "styles": [
+    "Easy Listening"
+   ],
+   "coverUrl": "https://i.discogs.com/96ZBNzpCrnKsZrmwQ8FEKpiSsSsLMJ_oKFcdSleEh6w/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjgy/NjQtMTUyMzExMTA5/NS02MTQ1LmpwZWc.jpeg",
+   "ratingAvg": 4.83,
+   "ratingCount": 6,
+   "score": 0.5569,
+   "vibe": 52,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "There Is More To Life",
+     "artist": "Clare Fischer",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "For By Grace",
+     "artist": "Clare Fischer",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Land Without Tears",
+     "artist": "Clare Fischer",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Miracle Of Grace",
+     "artist": "Clare Fischer",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Beyond All Time",
+     "artist": "Clare Fischer",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "The Restless Ones",
+     "artist": "Clare Fischer",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "A Quiet Place",
+     "artist": "Clare Fischer",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "God Love You",
+     "artist": "Clare Fischer",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Medley: Abide With Me & Now The Day Is Over",
+     "artist": "Clare Fischer",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Love Is Surrender",
+     "artist": "Clare Fischer",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d1754551",
+   "discogsId": 1754551,
+   "title": "The Kid!",
+   "artist": "Harold Ousley",
+   "year": 1972,
+   "era": "VINTAGE",
+   "label": "Cobblestone",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/OvumDpBiM3097aTunWKv3nCOhDWz6xTTXQZpTvZmnJM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/NTEtMTUxNDUwMjY1/Ny01NjkxLmpwZWc.jpeg",
+   "ratingAvg": 4.52,
+   "ratingCount": 21,
+   "score": 0.5241,
+   "vibe": 44,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "Recorded March 28, 1972\n\nB1 as Return Of The Prodigal Son on label",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Kid",
+     "artist": "Harold Ousley",
+     "duration": "5:45"
+    },
+    {
+     "position": "A2",
+     "title": "Forget It, I've Got It",
+     "artist": "Harold Ousley",
+     "duration": "5:11"
+    },
+    {
+     "position": "A3",
+     "title": "Me And Bobby McGee",
+     "artist": "Harold Ousley",
+     "duration": "9:02"
+    },
+    {
+     "position": "B1",
+     "title": "The Prodigal Son",
+     "artist": "Harold Ousley",
+     "duration": "5:47"
+    },
+    {
+     "position": "B2",
+     "title": "Come Sunday",
+     "artist": "Harold Ousley",
+     "duration": "5:42"
+    },
+    {
+     "position": "B3",
+     "title": "One For The Masses",
+     "artist": "Harold Ousley",
+     "duration": "8:14"
+    }
+   ]
+  },
+  {
+   "id": "d16079356",
+   "discogsId": 16079356,
+   "title": "Where or When",
+   "artist": "Jennifer Scott Quartet",
+   "year": 2020,
+   "era": "MODERN",
+   "label": "Jazz Project",
+   "country": "USA & Canada",
+   "styles": [],
+   "coverUrl": "https://i.discogs.com/N-ryDui7i5HomJOqFYUJFZcNpT9EmEXJQupkCz0cGjM/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc5/MzU2LTE2MDMwNTMw/MzYtNzkzOC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6867,
+   "vibe": 84,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "Live at Samson Estates Winery, Everson, WA\nRecorded June 9, 2019 by Mark Ashworth, Bellingham, WA as part of the Jazz Project's Summer Jazz Series\nPhotography by Jane Runge",
+   "tracks": [
+    {
+     "position": "1",
+     "title": "Better Than Anything",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "6:07"
+    },
+    {
+     "position": "2",
+     "title": "I Will",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "6:47"
+    },
+    {
+     "position": "3",
+     "title": "When Bert's Not Here",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "7:45"
+    },
+    {
+     "position": "4",
+     "title": "Played Twice",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "5:09"
+    },
+    {
+     "position": "5",
+     "title": "Sohno Meu (My Dream)",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "6:12"
+    },
+    {
+     "position": "6",
+     "title": "It's You I Like",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "5:13"
+    },
+    {
+     "position": "7",
+     "title": "Trouble In Mind",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "4:40"
+    },
+    {
+     "position": "8",
+     "title": "Where or When",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "7:29"
+    },
+    {
+     "position": "9",
+     "title": "Grandma's Hands",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "5:36"
+    },
+    {
+     "position": "10",
+     "title": "Cold Cold Heart",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "6:15"
+    },
+    {
+     "position": "11",
+     "title": "Chico and the Man",
+     "artist": "Jennifer Scott Quartet",
+     "duration": "8:13"
+    }
+   ]
+  },
+  {
+   "id": "d31654232",
+   "discogsId": 31654232,
+   "title": "George And Sleepy",
+   "artist": "George Kawaguchi's The Big 4",
+   "year": 2024,
+   "era": "MODERN",
+   "label": "Victor",
+   "country": "Japan",
+   "styles": [
+    "Hard Bop",
+    "Modal"
+   ],
+   "coverUrl": "https://i.discogs.com/oag3UduEe_eDQgUu33Fl0e6kpY96i39tum9khLVvKQs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjU0/MjMyLTE3MzI1NjU2/MzktNDMxMy5qcGVn.jpeg",
+   "ratingAvg": 4.79,
+   "ratingCount": 14,
+   "score": 0.5395,
+   "vibe": 47,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "2024 Japan reissue.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "The Breeze And I",
+     "artist": "George Kawaguchi's The Big 4",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "On Green Dolphin Street",
+     "artist": "George Kawaguchi's The Big 4",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Tuesday Samba",
+     "artist": "George Kawaguchi's The Big 4",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "Sweet And Lovely",
+     "artist": "George Kawaguchi's The Big 4",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Vietnam",
+     "artist": "George Kawaguchi's The Big 4",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Lover",
+     "artist": "George Kawaguchi's The Big 4",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "G.S. Blues",
+     "artist": "George Kawaguchi's The Big 4",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "Charade",
+     "artist": "George Kawaguchi's The Big 4",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
