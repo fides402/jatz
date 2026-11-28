@@ -1,0 +1,290 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T12:12:59Z",
+ "profile": "jazz",
+ "albums": [
+  {
+   "id": "d4515839",
+   "discogsId": 4515839,
+   "title": "Too Late To Worry, Too Blue To Cry / I'm In The Mood For Love",
+   "artist": "Esther Phillips",
+   "year": 1969,
+   "era": "VINTAGE",
+   "label": "Roulette",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/XjhDw4xWVtFkVzGg4hUUBjmfnPwmDR5uDy7lLomrhgQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTU4/MzktMTM4NTgxMjMw/MS04NDU1LmpwZWc.jpeg",
+   "ratingAvg": 4.33,
+   "ratingCount": 6,
+   "score": 0.7425,
+   "vibe": 98,
+   "confidence": "high",
+   "scoredTracks": 2,
+   "notes": " ",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Too Late To Worry, Too Blue To Cry",
+     "artist": "Esther Phillips",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "I'm In The Mood For Love",
+     "artist": "Esther Phillips",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d32969205",
+   "discogsId": 32969205,
+   "title": "The Shirley Bassey Singles Album",
+   "artist": "Shirley Bassey",
+   "year": 1975,
+   "era": "VINTAGE",
+   "label": "United Artists Records",
+   "country": "US",
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "coverUrl": "https://i.discogs.com/_Y3LyulOZZkl__roBpnJcWZXDW1Tk_8t0MNhHbwZhVA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTY5/MjA1LTE3Mzc5OTky/NTItODAxNS5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.6897,
+   "vibe": 85,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Something",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "A2",
+     "title": "(Where Do I Begin) Love Story",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "A3",
+     "title": "Diamonds Are Forever",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "A4",
+     "title": "The Fool On The Hill",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "A5",
+     "title": "Make The World A Little Younger",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "A6",
+     "title": "Big Spender",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Never, Never, Never (Grande, Grande, Grande)",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "When You Smile",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B3",
+     "title": "If You Go Away (Ne Me Quitte Pas)",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B4",
+     "title": "And I Love You So",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B5",
+     "title": "Does Anybody Miss Me",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    },
+    {
+     "position": "B6",
+     "title": "For All We Know",
+     "artist": "Shirley Bassey",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d3253828",
+   "discogsId": 3253828,
+   "title": "Populaarseid Estraadilaule III",
+   "artist": "Marju Kuut & Uno Loop",
+   "year": 1976,
+   "era": "VINTAGE",
+   "label": "Мелодия",
+   "country": "USSR",
+   "styles": [
+    "Bossa Nova",
+    "Easy Listening"
+   ],
+   "coverUrl": "https://i.discogs.com/PvbG63Vt602yYku7nIE9mmC3j3xMhiKtDEVQVnUckaU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/MjgtMTc1MjUwNDY3/OC0zNzM5LmpwZWc.jpeg",
+   "ratingAvg": 4.4,
+   "ratingCount": 5,
+   "score": 0.6473,
+   "vibe": 74,
+   "confidence": "low",
+   "scoredTracks": 1,
+   "notes": "In generic 'Melodia' sleeve.\n",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Suvi Talves",
+     "artist": "Marju Kuut",
+     "duration": ""
+    },
+    {
+     "position": "B1",
+     "title": "Kord Juhtus Nii",
+     "artist": "Uno Loop",
+     "duration": ""
+    },
+    {
+     "position": "B2",
+     "title": "Kui Tahad Olla Hea",
+     "artist": "Marju Kuut",
+     "duration": ""
+    }
+   ]
+  },
+  {
+   "id": "d23866613",
+   "discogsId": 23866613,
+   "title": "Ballads",
+   "artist": "The John Coltrane Quartet",
+   "year": 2022,
+   "era": "MODERN",
+   "label": "Impulse!",
+   "country": "Worldwide",
+   "styles": [
+    "Hard Bop",
+    "Post Bop"
+   ],
+   "coverUrl": "https://i.discogs.com/DLdKMJK8viviWCefrAcP0FE-MDUdqThvUGLHVKIU4Rg/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODY2/NjEzLTE2NTc2NjEy/NjgtNzY3My5qcGVn.jpeg",
+   "ratingAvg": 4.7,
+   "ratingCount": 80,
+   "score": 0.5984,
+   "vibe": 62,
+   "confidence": "high",
+   "scoredTracks": 3,
+   "notes": "2022 reissue. Comes In a Gatefold sleeve.",
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Say It (Over And Over Again)",
+     "artist": "The John Coltrane Quartet",
+     "duration": "4:20"
+    },
+    {
+     "position": "A2",
+     "title": "You Don't Know What Love Is",
+     "artist": "The John Coltrane Quartet",
+     "duration": "5:16"
+    },
+    {
+     "position": "A3",
+     "title": "Too Young To Go Steady",
+     "artist": "The John Coltrane Quartet",
+     "duration": "4:56"
+    },
+    {
+     "position": "A4",
+     "title": "All Or Nothing At All",
+     "artist": "The John Coltrane Quartet",
+     "duration": "3:48"
+    },
+    {
+     "position": "B1",
+     "title": "I Wish I Knew",
+     "artist": "The John Coltrane Quartet",
+     "duration": "3:41"
+    },
+    {
+     "position": "B2",
+     "title": "What´s New",
+     "artist": "The John Coltrane Quartet",
+     "duration": "3:14"
+    },
+    {
+     "position": "B3",
+     "title": "It's Easy To Remember",
+     "artist": "The John Coltrane Quartet",
+     "duration": "2:50"
+    },
+    {
+     "position": "B4",
+     "title": "Nancy (With The Laughing Face)",
+     "artist": "The John Coltrane Quartet",
+     "duration": "4:24"
+    }
+   ]
+  },
+  {
+   "id": "d35991487",
+   "discogsId": 35991487,
+   "title": "Improvisation Study: One",
+   "artist": "Portland Free Music Concern",
+   "year": 2025,
+   "era": "MODERN",
+   "label": "V2K Publishing",
+   "country": "US",
+   "styles": [
+    "Free Improvisation"
+   ],
+   "coverUrl": "https://i.discogs.com/ILs7zlZWHG09iMFJVcfSQ8j-Da1pDAgxb04ffJMk2AQ/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTkx/NDg3LTE3NjY1MDU5/NDEtMTk2NC5qcGVn.jpeg",
+   "ratingAvg": 0.0,
+   "ratingCount": 0,
+   "score": 0.55,
+   "vibe": 50,
+   "confidence": "text_only",
+   "scoredTracks": 0,
+   "notes": "Undisclosed limitation. Recycled cassette with sticker labels on both sides. Housed in a recycled noreclo with a single-sided, 4-panel J-Card.",
+   "tracks": [
+    {
+     "position": "A",
+     "title": "Untitled",
+     "artist": "Portland Free Music Concern",
+     "duration": ""
+    },
+    {
+     "position": "B",
+     "title": "Untitled",
+     "artist": "Portland Free Music Concern",
+     "duration": ""
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "vintage": 3,
+  "modern": 2
+ }
+}
